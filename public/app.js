@@ -1,3 +1,4 @@
+import {configureReferenceSlides} from './reference-slides.js?v=20261028-yasser';
 import {resolveLecture,lectureModelPaths,lectureTargets,validateLecture,createLifetime} from './lecture-runtime.js?v=20261003-simple1';
 import {createMuscleMotionViewer} from './muscle-motion-viewer.js?v=20261005-edl1';
 import {createMuscleActions} from './muscle-actions.js?v=20261004-upper1';
@@ -5,8 +6,8 @@ import {validateMuscleActions} from './muscle-action-data.js?v=20261005-edl1';
 import {prepareAnatomyModel,loadAnatomyModel,disposeObjectTree} from './mesh-resources.js?v=20261003-audit4';
 import {createAnnotationManager} from './annotation-manager.js?v=20261003-audit4';
 import {createVertebraTeaching} from './vertebra-teaching.js?v=20261003';
-import {createVertebraLab} from './vertebra-lab.js?v=20261003';
-import {createLowerNerveLab} from './lower-nerve-lab.js?v=20261003';
+import {createVertebraLab} from './vertebra-lab.js?v=20261028-yasser';
+import {createLowerNerveLab} from './lower-nerve-lab.js?v=20261028-yasser';
 import {createVesselLab} from './vessel-lab.js?v=20260929b';
 import {mergeVertices} from './vendor/BufferGeometryUtils.js';
 import {createLowerLimbTeaching} from './lower-limb-teaching.js';
@@ -44,18 +45,21 @@ lifetime.own(()=>{
 window.addEventListener('pagehide',()=>lifetime.dispose(),{once:true});
 function el(tag,text,cls){const e=document.createElement(tag);if(text)e.textContent=text;if(cls)e.className=cls;return e;}
 let explorerStep=null;
+let referenceRegistry=null;
 function current(){return explorerStep||steps[state.step];}
 function referenceSlides(step){
+ const related=referenceRegistry?.steps[lectureId]?.[step.title];
+ if(related)return [{...related,label:'Related reference · '+related.label}];
  if(step.sourceReferences)return step.sourceReferences;
  if(lectureData.referenceSlides)return (step.referencePages||[]).map(id=>lectureData.referenceSlides[id]).filter(Boolean);
  return step.pages.map(p=>({src:`${lectureBase}/slides/${p}.jpg`,label:`Lecture page ${p}`}));
 }
 function showReferenceDiagram(step){
  if(!step.diagram)return;
- const ref=lectureData.referenceSlides?referenceSlides(step)[0]:{src:`${lectureBase}/slides/${step.diagram.page}.jpg`,label:'Original lecture diagram'};
+ const ref=referenceSlides(step)[0];
  if(!ref){$('tourDiagram').hidden=true;return;}
  $('diagramImage').src=ref.src;$('diagramImage').alt=ref.label;
- $('diagramBadge').textContent=lectureData.referenceSlides?'Related reference · '+ref.label:step.diagram.note||ref.label;
+ $('diagramBadge').textContent=referenceRegistry?.lectures[lectureId]?ref.label:lectureData.referenceSlides?'Related reference · '+ref.label:step.diagram.note||ref.label;
 }
 function worldCache(m){
  if(m.userData.points)return m.userData.points;
@@ -167,9 +171,25 @@ function selectStep(index){
 }
 function next(){if(!steps.length)return;if((small()||pinPaging)&&state.labels&&state.pin<pins.length-1){state.pin++;return;}if(explorerStep){selectStep((isVertebra&&['inspection','comparison'].includes(explorerStep.topic))||explorerStep.topic==='muscle-action-inspection'?state.step:0);return;}if(state.step===steps.length-1){openExplorer();return;}selectStep(state.step+1);}
 function previous(){if(explorerStep){selectStep((isVertebra&&['inspection','comparison'].includes(explorerStep.topic))||explorerStep.topic==='muscle-action-inspection'?state.step:steps.length-1);return;}if((small()||pinPaging)&&state.pin>0){state.pin--;return;}if(state.step>0)selectStep(state.step-1);}
-function showSlide(){const step=current();if(!step)return;$('slideTitle').textContent=step.title+' · Reference slides';$('slideContent').replaceChildren(...referenceSlides(step).map(ref=>{const figure=el('figure');figure.style.margin='0 0 24px';const img=el('img');img.src=ref.src;img.alt=ref.label;img.loading='lazy';figure.append(el('figcaption',ref.label),img);return figure;}));$('slideDialog').showModal();}
+function showSlide(){
+ const step=current();if(!step)return;
+ $('slideTitle').textContent=step.title+' · Reference slides';
+ const book=referenceRegistry?.lectures[lectureId];
+ if(book){
+  const refs=referenceSlides(step),initial=Math.max(0,book.pages.findIndex(p=>p.src===refs[0]?.src));
+  const controls=el('div'),prev=el('button','←'),next=el('button','→'),select=el('select'),figure=el('figure'),img=el('img'),caption=el('figcaption');
+  select.setAttribute('aria-label','Reference slide page');prev.setAttribute('aria-label','Previous reference slide');next.setAttribute('aria-label','Next reference slide');
+  book.pages.forEach((p,i)=>{const o=el('option',p.label);o.value=i;select.append(o);});
+  const render=i=>{const page=book.pages[i];select.value=i;img.src=page.src;img.alt=page.label;caption.textContent=page.label;prev.disabled=i===0;next.disabled=i===book.pages.length-1;};
+  prev.onclick=()=>render(Number(select.value)-1);next.onclick=()=>render(Number(select.value)+1);select.onchange=()=>render(Number(select.value));
+  controls.style.cssText='display:flex;gap:12px;align-items:center;padding:12px;position:sticky;top:0;background:#101f34;z-index:2';controls.append(prev,select,next);
+  figure.append(caption,img);$('slideContent').replaceChildren(el('p',book.file+' · page navigation is independent of Next'),controls,figure);render(initial);
+ }else $('slideContent').replaceChildren(...referenceSlides(step).map(ref=>{const figure=el('figure');figure.style.margin='0 0 24px';const img=el('img');const mapped=referenceRegistry?.aliases[ref.src]||ref;img.src=mapped.src;img.alt=mapped.label;img.loading='lazy';figure.append(el('figcaption',mapped.label),img);return figure;}));
+ $('slideDialog').showModal();
+}
 function resize(){if(!renderer||lifetime.disposed)return;renderDirty=true;const width=host.clientWidth,height=host.clientHeight;if(!width||!height)return;renderer.setPixelRatio(Math.min(devicePixelRatio,2));renderer.setSize(width,height,false);camera.aspect=width/height;camera.updateProjectionMatrix();annotations?.invalidate();}
 async function initialize(){
+ const refs=await fetch('/reference-slides/manifest.json',{signal:lifetime.signal,cache:'no-cache'});if(!refs.ok)throw Error('Reference slides unavailable');referenceRegistry=await refs.json();configureReferenceSlides(referenceRegistry);if(referenceRegistry.lectures[lectureId])$('lectureSource').prepend('Displayed slides: Dr Yasser Al Harbi — '+referenceRegistry.lectures[lectureId].file+'. The teaching tour is unchanged. ');
  const data=await fetch(lectureBase+'/tour.json',{signal:lifetime.signal,cache:'no-cache'}).then(r=>{if(!r.ok)throw Error('Tour unavailable');return r.json();});lifetime.signal.throwIfAborted();if(data.muscleActionCatalog){const response=await fetch(data.muscleActionCatalog.path,{signal:lifetime.signal,cache:'no-cache'});if(!response.ok)throw Error('Muscle action catalog unavailable');muscleActionCatalog=await response.json();lifetime.signal.throwIfAborted();validateMuscleActions(data,null,muscleActionCatalog);}validateLecture(data);lectureScope=lectureTargets(data);lectureData=data;topics=data.topics;steps=data.steps;if(data.referenceSourceNote)$('lectureSource').textContent+=' '+data.referenceSourceNote;
  $('topics').replaceChildren(...topics.map((t,i)=>{const b=el('button',null,'topic');b.dataset.topic=t.id;b.append(el('span',String(i+1).padStart(2,'0'),'num'),el('span',t.title));b.onclick=()=>selectStep(steps.findIndex(s=>s.topic===t.id));return b;}));
  setupExplorer();

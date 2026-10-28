@@ -9,7 +9,7 @@ if(path.dirname(output)!==process.cwd())throw Error('Unsafe output directory');
 await rm(output,{recursive:true,force:true});
 await mkdir(output,{recursive:true});
 await cp('public',output,{recursive:true});
-const rootAsset=/(["'`])\/(?!\/)(?=(?:lectures|models|slides|vendor|branding)\/|[\w.-]+\.(?:js|css)(?:[?"'`])|\?lecture=)/g;
+const rootAsset=/(["'`])\/(?!\/)(?=(?:reference-slides|lectures|models|slides|vendor|branding)\/|[\w.-]+\.(?:js|css)(?:[?"'`])|\?lecture=)/g;
 let files=0;
 async function visit(folder){
  for(const entry of await readdir(folder,{withFileTypes:true})){
@@ -42,5 +42,11 @@ for(const id of LECTURE_IDS){
  for(const step of data.steps)for(const page of step.pages)await stat(local(prefix+`slides/${page}.jpg`));
 }
 const html=await readFile(path.join(output,'index.html'),'utf8');
+const references=JSON.parse(await readFile(path.join(output,'reference-slides/manifest.json'),'utf8'));
+for(const book of Object.values(references.lectures))for(const page of book.pages)await stat(local(page.src));
+for(const [alias,replacement]of Object.entries(references.aliases)){
+ const old=await readFile(local(alias)),approved=await readFile(local(replacement.src));
+ if(!old.equals(approved))throw Error('Unapproved legacy reference image: '+alias);
+}
 if(html.includes('analytics-client.js')||!html.includes(base+'app.js'))throw Error('Invalid Pages entrypoint');
 console.log(`GitHub Pages ready: ${LECTURE_IDS.length} lectures, ${files} rewritten text assets, base ${base}`);

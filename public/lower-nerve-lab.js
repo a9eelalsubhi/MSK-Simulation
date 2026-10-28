@@ -1,3 +1,4 @@
+import {referenceFigure} from './reference-slides.js?v=20261028-yasser';
 // Source-led lower-limb nerve maps. No synthetic nerve paths or skin boundaries.
 export const PSOAS_EXITS={
  Anterior:[['Genitofemoral','psoas-anterior']],
@@ -20,7 +21,7 @@ export function createLowerNerveLab({data,select,isQuiz}){
  const profile=()=>data.nerveProfiles[Number(choice.value)||0];
  function jump(id){if(isQuiz()||!byId.has(id))return;if(dialog.open)dialog.close();select(byId.get(id));}
  function button(title,id,cls){const b=el('button',title,cls);on(b,'click',()=>jump(id));return b;}
- function source(page,caption,crop){const fig=el('figure',null,'ln-source'),img=el('img');img.src=`/lectures/l10/${crop?'figures/'+crop+'.jpg':'slides/'+page+'.jpg'}`;img.alt=caption;img.loading='lazy';fig.append(img,el('figcaption',caption+' · original lecture, printed p. '+(55+page)));return fig;}
+ function source(page,caption,crop){const fig=el('figure',null,'ln-source'),img=el('img');const ref=referenceFigure({src:`/lectures/l10/${crop?'figures/'+crop+'.jpg':'slides/'+page+'.jpg'}`,caption});img.src=ref.src;img.alt=ref.caption;img.loading='lazy';fig.append(img,el('figcaption',ref.caption));return fig;}
  const note=t=>body.append(el('p',t,'ln-note'));
  function cards(items){const grid=el('div',null,'ln-cards');for(const [name,text,color,id]of items){const c=el('section',null,'ln-card');c.style.setProperty('--nerve',color);c.append(el('h3',name),el('p',text));if(id)c.append(button('Show on model',id));grid.append(c);}body.append(grid);}
  function renderPlexus(){

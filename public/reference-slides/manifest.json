@@ -1,0 +1,3376 @@
+{
+  "lectures": {
+    "7": {
+      "file": "L7 PDF-Lower Limb Bones and Joints.pdf",
+      "author": "Dr Yasser Al Harbi",
+      "pages": [
+        {
+          "src": "/reference-slides/7/page-001.jpg",
+          "label": "Dr Yasser · L7 · slide 1"
+        },
+        {
+          "src": "/reference-slides/7/page-002.jpg",
+          "label": "Dr Yasser · L7 · slide 2"
+        },
+        {
+          "src": "/reference-slides/7/page-003.jpg",
+          "label": "Dr Yasser · L7 · slide 3"
+        },
+        {
+          "src": "/reference-slides/7/page-004.jpg",
+          "label": "Dr Yasser · L7 · slide 4"
+        },
+        {
+          "src": "/reference-slides/7/page-005.jpg",
+          "label": "Dr Yasser · L7 · slide 5"
+        },
+        {
+          "src": "/reference-slides/7/page-006.jpg",
+          "label": "Dr Yasser · L7 · slide 6"
+        },
+        {
+          "src": "/reference-slides/7/page-007.jpg",
+          "label": "Dr Yasser · L7 · slide 7"
+        },
+        {
+          "src": "/reference-slides/7/page-008.jpg",
+          "label": "Dr Yasser · L7 · slide 8"
+        },
+        {
+          "src": "/reference-slides/7/page-009.jpg",
+          "label": "Dr Yasser · L7 · slide 9"
+        },
+        {
+          "src": "/reference-slides/7/page-010.jpg",
+          "label": "Dr Yasser · L7 · slide 10"
+        },
+        {
+          "src": "/reference-slides/7/page-011.jpg",
+          "label": "Dr Yasser · L7 · slide 11"
+        },
+        {
+          "src": "/reference-slides/7/page-012.jpg",
+          "label": "Dr Yasser · L7 · slide 12"
+        },
+        {
+          "src": "/reference-slides/7/page-013.jpg",
+          "label": "Dr Yasser · L7 · slide 13"
+        },
+        {
+          "src": "/reference-slides/7/page-014.jpg",
+          "label": "Dr Yasser · L7 · slide 14"
+        },
+        {
+          "src": "/reference-slides/7/page-015.jpg",
+          "label": "Dr Yasser · L7 · slide 15"
+        },
+        {
+          "src": "/reference-slides/7/page-016.jpg",
+          "label": "Dr Yasser · L7 · slide 16"
+        },
+        {
+          "src": "/reference-slides/7/page-017.jpg",
+          "label": "Dr Yasser · L7 · slide 17"
+        },
+        {
+          "src": "/reference-slides/7/page-018.jpg",
+          "label": "Dr Yasser · L7 · slide 18"
+        },
+        {
+          "src": "/reference-slides/7/page-019.jpg",
+          "label": "Dr Yasser · L7 · slide 19"
+        },
+        {
+          "src": "/reference-slides/7/page-020.jpg",
+          "label": "Dr Yasser · L7 · slide 20"
+        },
+        {
+          "src": "/reference-slides/7/page-021.jpg",
+          "label": "Dr Yasser · L7 · slide 21"
+        },
+        {
+          "src": "/reference-slides/7/page-022.jpg",
+          "label": "Dr Yasser · L7 · slide 22"
+        },
+        {
+          "src": "/reference-slides/7/page-023.jpg",
+          "label": "Dr Yasser · L7 · slide 23"
+        },
+        {
+          "src": "/reference-slides/7/page-024.jpg",
+          "label": "Dr Yasser · L7 · slide 24"
+        },
+        {
+          "src": "/reference-slides/7/page-025.jpg",
+          "label": "Dr Yasser · L7 · slide 25"
+        },
+        {
+          "src": "/reference-slides/7/page-026.jpg",
+          "label": "Dr Yasser · L7 · slide 26"
+        },
+        {
+          "src": "/reference-slides/7/page-027.jpg",
+          "label": "Dr Yasser · L7 · slide 27"
+        },
+        {
+          "src": "/reference-slides/7/page-028.jpg",
+          "label": "Dr Yasser · L7 · slide 28"
+        },
+        {
+          "src": "/reference-slides/7/page-029.jpg",
+          "label": "Dr Yasser · L7 · slide 29"
+        },
+        {
+          "src": "/reference-slides/7/page-030.jpg",
+          "label": "Dr Yasser · L7 · slide 30"
+        },
+        {
+          "src": "/reference-slides/7/page-031.jpg",
+          "label": "Dr Yasser · L7 · slide 31"
+        },
+        {
+          "src": "/reference-slides/7/page-032.jpg",
+          "label": "Dr Yasser · L7 · slide 32"
+        },
+        {
+          "src": "/reference-slides/7/page-033.jpg",
+          "label": "Dr Yasser · L7 · slide 33"
+        },
+        {
+          "src": "/reference-slides/7/page-034.jpg",
+          "label": "Dr Yasser · L7 · slide 34"
+        },
+        {
+          "src": "/reference-slides/7/page-035.jpg",
+          "label": "Dr Yasser · L7 · slide 35"
+        },
+        {
+          "src": "/reference-slides/7/page-036.jpg",
+          "label": "Dr Yasser · L7 · slide 36"
+        },
+        {
+          "src": "/reference-slides/7/page-037.jpg",
+          "label": "Dr Yasser · L7 · slide 37"
+        },
+        {
+          "src": "/reference-slides/7/page-038.jpg",
+          "label": "Dr Yasser · L7 · slide 38"
+        },
+        {
+          "src": "/reference-slides/7/page-039.jpg",
+          "label": "Dr Yasser · L7 · slide 39"
+        },
+        {
+          "src": "/reference-slides/7/page-040.jpg",
+          "label": "Dr Yasser · L7 · slide 40"
+        }
+      ]
+    },
+    "8": {
+      "file": "L8 PDF-Lower Limb Muscles .pdf",
+      "author": "Dr Yasser Al Harbi",
+      "pages": [
+        {
+          "src": "/reference-slides/8/page-001.jpg",
+          "label": "Dr Yasser · L8 · slide 1"
+        },
+        {
+          "src": "/reference-slides/8/page-002.jpg",
+          "label": "Dr Yasser · L8 · slide 2"
+        },
+        {
+          "src": "/reference-slides/8/page-003.jpg",
+          "label": "Dr Yasser · L8 · slide 3"
+        },
+        {
+          "src": "/reference-slides/8/page-004.jpg",
+          "label": "Dr Yasser · L8 · slide 4"
+        },
+        {
+          "src": "/reference-slides/8/page-005.jpg",
+          "label": "Dr Yasser · L8 · slide 5"
+        },
+        {
+          "src": "/reference-slides/8/page-006.jpg",
+          "label": "Dr Yasser · L8 · slide 6"
+        },
+        {
+          "src": "/reference-slides/8/page-007.jpg",
+          "label": "Dr Yasser · L8 · slide 7"
+        },
+        {
+          "src": "/reference-slides/8/page-008.jpg",
+          "label": "Dr Yasser · L8 · slide 8"
+        },
+        {
+          "src": "/reference-slides/8/page-009.jpg",
+          "label": "Dr Yasser · L8 · slide 9"
+        },
+        {
+          "src": "/reference-slides/8/page-010.jpg",
+          "label": "Dr Yasser · L8 · slide 10"
+        },
+        {
+          "src": "/reference-slides/8/page-011.jpg",
+          "label": "Dr Yasser · L8 · slide 11"
+        },
+        {
+          "src": "/reference-slides/8/page-012.jpg",
+          "label": "Dr Yasser · L8 · slide 12"
+        },
+        {
+          "src": "/reference-slides/8/page-013.jpg",
+          "label": "Dr Yasser · L8 · slide 13"
+        },
+        {
+          "src": "/reference-slides/8/page-014.jpg",
+          "label": "Dr Yasser · L8 · slide 14"
+        },
+        {
+          "src": "/reference-slides/8/page-015.jpg",
+          "label": "Dr Yasser · L8 · slide 15"
+        },
+        {
+          "src": "/reference-slides/8/page-016.jpg",
+          "label": "Dr Yasser · L8 · slide 16"
+        },
+        {
+          "src": "/reference-slides/8/page-017.jpg",
+          "label": "Dr Yasser · L8 · slide 17"
+        },
+        {
+          "src": "/reference-slides/8/page-018.jpg",
+          "label": "Dr Yasser · L8 · slide 18"
+        },
+        {
+          "src": "/reference-slides/8/page-019.jpg",
+          "label": "Dr Yasser · L8 · slide 19"
+        },
+        {
+          "src": "/reference-slides/8/page-020.jpg",
+          "label": "Dr Yasser · L8 · slide 20"
+        },
+        {
+          "src": "/reference-slides/8/page-021.jpg",
+          "label": "Dr Yasser · L8 · slide 21"
+        },
+        {
+          "src": "/reference-slides/8/page-022.jpg",
+          "label": "Dr Yasser · L8 · slide 22"
+        },
+        {
+          "src": "/reference-slides/8/page-023.jpg",
+          "label": "Dr Yasser · L8 · slide 23"
+        },
+        {
+          "src": "/reference-slides/8/page-024.jpg",
+          "label": "Dr Yasser · L8 · slide 24"
+        },
+        {
+          "src": "/reference-slides/8/page-025.jpg",
+          "label": "Dr Yasser · L8 · slide 25"
+        },
+        {
+          "src": "/reference-slides/8/page-026.jpg",
+          "label": "Dr Yasser · L8 · slide 26"
+        },
+        {
+          "src": "/reference-slides/8/page-027.jpg",
+          "label": "Dr Yasser · L8 · slide 27"
+        },
+        {
+          "src": "/reference-slides/8/page-028.jpg",
+          "label": "Dr Yasser · L8 · slide 28"
+        },
+        {
+          "src": "/reference-slides/8/page-029.jpg",
+          "label": "Dr Yasser · L8 · slide 29"
+        },
+        {
+          "src": "/reference-slides/8/page-030.jpg",
+          "label": "Dr Yasser · L8 · slide 30"
+        },
+        {
+          "src": "/reference-slides/8/page-031.jpg",
+          "label": "Dr Yasser · L8 · slide 31"
+        },
+        {
+          "src": "/reference-slides/8/page-032.jpg",
+          "label": "Dr Yasser · L8 · slide 32"
+        },
+        {
+          "src": "/reference-slides/8/page-033.jpg",
+          "label": "Dr Yasser · L8 · slide 33"
+        }
+      ]
+    },
+    "9": {
+      "file": "L9-Lower Limb Vesseles.pdf",
+      "author": "Dr Yasser Al Harbi",
+      "pages": [
+        {
+          "src": "/reference-slides/9/page-001.jpg",
+          "label": "Dr Yasser · L9 · slide 1"
+        },
+        {
+          "src": "/reference-slides/9/page-002.jpg",
+          "label": "Dr Yasser · L9 · slide 2"
+        },
+        {
+          "src": "/reference-slides/9/page-003.jpg",
+          "label": "Dr Yasser · L9 · slide 3"
+        },
+        {
+          "src": "/reference-slides/9/page-004.jpg",
+          "label": "Dr Yasser · L9 · slide 4"
+        },
+        {
+          "src": "/reference-slides/9/page-005.jpg",
+          "label": "Dr Yasser · L9 · slide 5"
+        },
+        {
+          "src": "/reference-slides/9/page-006.jpg",
+          "label": "Dr Yasser · L9 · slide 6"
+        },
+        {
+          "src": "/reference-slides/9/page-007.jpg",
+          "label": "Dr Yasser · L9 · slide 7"
+        },
+        {
+          "src": "/reference-slides/9/page-008.jpg",
+          "label": "Dr Yasser · L9 · slide 8"
+        },
+        {
+          "src": "/reference-slides/9/page-009.jpg",
+          "label": "Dr Yasser · L9 · slide 9"
+        },
+        {
+          "src": "/reference-slides/9/page-010.jpg",
+          "label": "Dr Yasser · L9 · slide 10"
+        },
+        {
+          "src": "/reference-slides/9/page-011.jpg",
+          "label": "Dr Yasser · L9 · slide 11"
+        },
+        {
+          "src": "/reference-slides/9/page-012.jpg",
+          "label": "Dr Yasser · L9 · slide 12"
+        },
+        {
+          "src": "/reference-slides/9/page-013.jpg",
+          "label": "Dr Yasser · L9 · slide 13"
+        },
+        {
+          "src": "/reference-slides/9/page-014.jpg",
+          "label": "Dr Yasser · L9 · slide 14"
+        },
+        {
+          "src": "/reference-slides/9/page-015.jpg",
+          "label": "Dr Yasser · L9 · slide 15"
+        },
+        {
+          "src": "/reference-slides/9/page-016.jpg",
+          "label": "Dr Yasser · L9 · slide 16"
+        },
+        {
+          "src": "/reference-slides/9/page-017.jpg",
+          "label": "Dr Yasser · L9 · slide 17"
+        },
+        {
+          "src": "/reference-slides/9/page-018.jpg",
+          "label": "Dr Yasser · L9 · slide 18"
+        },
+        {
+          "src": "/reference-slides/9/page-019.jpg",
+          "label": "Dr Yasser · L9 · slide 19"
+        },
+        {
+          "src": "/reference-slides/9/page-020.jpg",
+          "label": "Dr Yasser · L9 · slide 20"
+        },
+        {
+          "src": "/reference-slides/9/page-021.jpg",
+          "label": "Dr Yasser · L9 · slide 21"
+        },
+        {
+          "src": "/reference-slides/9/page-022.jpg",
+          "label": "Dr Yasser · L9 · slide 22"
+        },
+        {
+          "src": "/reference-slides/9/page-023.jpg",
+          "label": "Dr Yasser · L9 · slide 23"
+        },
+        {
+          "src": "/reference-slides/9/page-024.jpg",
+          "label": "Dr Yasser · L9 · slide 24"
+        }
+      ]
+    },
+    "10": {
+      "file": "L10 PDF-Lower Limb Nerves.pdf",
+      "author": "Dr Yasser Al Harbi",
+      "pages": [
+        {
+          "src": "/reference-slides/10/page-001.jpg",
+          "label": "Dr Yasser · L10 · slide 1"
+        },
+        {
+          "src": "/reference-slides/10/page-002.jpg",
+          "label": "Dr Yasser · L10 · slide 2"
+        },
+        {
+          "src": "/reference-slides/10/page-003.jpg",
+          "label": "Dr Yasser · L10 · slide 3"
+        },
+        {
+          "src": "/reference-slides/10/page-004.jpg",
+          "label": "Dr Yasser · L10 · slide 4"
+        },
+        {
+          "src": "/reference-slides/10/page-005.jpg",
+          "label": "Dr Yasser · L10 · slide 5"
+        },
+        {
+          "src": "/reference-slides/10/page-006.jpg",
+          "label": "Dr Yasser · L10 · slide 6"
+        },
+        {
+          "src": "/reference-slides/10/page-007.jpg",
+          "label": "Dr Yasser · L10 · slide 7"
+        },
+        {
+          "src": "/reference-slides/10/page-008.jpg",
+          "label": "Dr Yasser · L10 · slide 8"
+        },
+        {
+          "src": "/reference-slides/10/page-009.jpg",
+          "label": "Dr Yasser · L10 · slide 9"
+        },
+        {
+          "src": "/reference-slides/10/page-010.jpg",
+          "label": "Dr Yasser · L10 · slide 10"
+        },
+        {
+          "src": "/reference-slides/10/page-011.jpg",
+          "label": "Dr Yasser · L10 · slide 11"
+        },
+        {
+          "src": "/reference-slides/10/page-012.jpg",
+          "label": "Dr Yasser · L10 · slide 12"
+        },
+        {
+          "src": "/reference-slides/10/page-013.jpg",
+          "label": "Dr Yasser · L10 · slide 13"
+        },
+        {
+          "src": "/reference-slides/10/page-014.jpg",
+          "label": "Dr Yasser · L10 · slide 14"
+        },
+        {
+          "src": "/reference-slides/10/page-015.jpg",
+          "label": "Dr Yasser · L10 · slide 15"
+        },
+        {
+          "src": "/reference-slides/10/page-016.jpg",
+          "label": "Dr Yasser · L10 · slide 16"
+        },
+        {
+          "src": "/reference-slides/10/page-017.jpg",
+          "label": "Dr Yasser · L10 · slide 17"
+        },
+        {
+          "src": "/reference-slides/10/page-018.jpg",
+          "label": "Dr Yasser · L10 · slide 18"
+        },
+        {
+          "src": "/reference-slides/10/page-019.jpg",
+          "label": "Dr Yasser · L10 · slide 19"
+        },
+        {
+          "src": "/reference-slides/10/page-020.jpg",
+          "label": "Dr Yasser · L10 · slide 20"
+        },
+        {
+          "src": "/reference-slides/10/page-021.jpg",
+          "label": "Dr Yasser · L10 · slide 21"
+        },
+        {
+          "src": "/reference-slides/10/page-022.jpg",
+          "label": "Dr Yasser · L10 · slide 22"
+        },
+        {
+          "src": "/reference-slides/10/page-023.jpg",
+          "label": "Dr Yasser · L10 · slide 23"
+        },
+        {
+          "src": "/reference-slides/10/page-024.jpg",
+          "label": "Dr Yasser · L10 · slide 24"
+        },
+        {
+          "src": "/reference-slides/10/page-025.jpg",
+          "label": "Dr Yasser · L10 · slide 25"
+        },
+        {
+          "src": "/reference-slides/10/page-026.jpg",
+          "label": "Dr Yasser · L10 · slide 26"
+        },
+        {
+          "src": "/reference-slides/10/page-027.jpg",
+          "label": "Dr Yasser · L10 · slide 27"
+        }
+      ]
+    },
+    "12": {
+      "file": "L12 PDF-Introduction to the Vertebral Column.pdf",
+      "author": "Dr Yasser Al Harbi",
+      "pages": [
+        {
+          "src": "/reference-slides/12/page-001.jpg",
+          "label": "Dr Yasser · L12 · slide 1"
+        },
+        {
+          "src": "/reference-slides/12/page-002.jpg",
+          "label": "Dr Yasser · L12 · slide 2"
+        },
+        {
+          "src": "/reference-slides/12/page-003.jpg",
+          "label": "Dr Yasser · L12 · slide 3"
+        },
+        {
+          "src": "/reference-slides/12/page-004.jpg",
+          "label": "Dr Yasser · L12 · slide 4"
+        },
+        {
+          "src": "/reference-slides/12/page-005.jpg",
+          "label": "Dr Yasser · L12 · slide 5"
+        },
+        {
+          "src": "/reference-slides/12/page-006.jpg",
+          "label": "Dr Yasser · L12 · slide 6"
+        },
+        {
+          "src": "/reference-slides/12/page-007.jpg",
+          "label": "Dr Yasser · L12 · slide 7"
+        },
+        {
+          "src": "/reference-slides/12/page-008.jpg",
+          "label": "Dr Yasser · L12 · slide 8"
+        },
+        {
+          "src": "/reference-slides/12/page-009.jpg",
+          "label": "Dr Yasser · L12 · slide 9"
+        },
+        {
+          "src": "/reference-slides/12/page-010.jpg",
+          "label": "Dr Yasser · L12 · slide 10"
+        },
+        {
+          "src": "/reference-slides/12/page-011.jpg",
+          "label": "Dr Yasser · L12 · slide 11"
+        },
+        {
+          "src": "/reference-slides/12/page-012.jpg",
+          "label": "Dr Yasser · L12 · slide 12"
+        },
+        {
+          "src": "/reference-slides/12/page-013.jpg",
+          "label": "Dr Yasser · L12 · slide 13"
+        },
+        {
+          "src": "/reference-slides/12/page-014.jpg",
+          "label": "Dr Yasser · L12 · slide 14"
+        },
+        {
+          "src": "/reference-slides/12/page-015.jpg",
+          "label": "Dr Yasser · L12 · slide 15"
+        },
+        {
+          "src": "/reference-slides/12/page-016.jpg",
+          "label": "Dr Yasser · L12 · slide 16"
+        },
+        {
+          "src": "/reference-slides/12/page-017.jpg",
+          "label": "Dr Yasser · L12 · slide 17"
+        },
+        {
+          "src": "/reference-slides/12/page-018.jpg",
+          "label": "Dr Yasser · L12 · slide 18"
+        },
+        {
+          "src": "/reference-slides/12/page-019.jpg",
+          "label": "Dr Yasser · L12 · slide 19"
+        },
+        {
+          "src": "/reference-slides/12/page-020.jpg",
+          "label": "Dr Yasser · L12 · slide 20"
+        },
+        {
+          "src": "/reference-slides/12/page-021.jpg",
+          "label": "Dr Yasser · L12 · slide 21"
+        },
+        {
+          "src": "/reference-slides/12/page-022.jpg",
+          "label": "Dr Yasser · L12 · slide 22"
+        },
+        {
+          "src": "/reference-slides/12/page-023.jpg",
+          "label": "Dr Yasser · L12 · slide 23"
+        },
+        {
+          "src": "/reference-slides/12/page-024.jpg",
+          "label": "Dr Yasser · L12 · slide 24"
+        },
+        {
+          "src": "/reference-slides/12/page-025.jpg",
+          "label": "Dr Yasser · L12 · slide 25"
+        },
+        {
+          "src": "/reference-slides/12/page-026.jpg",
+          "label": "Dr Yasser · L12 · slide 26"
+        },
+        {
+          "src": "/reference-slides/12/page-027.jpg",
+          "label": "Dr Yasser · L12 · slide 27"
+        },
+        {
+          "src": "/reference-slides/12/page-028.jpg",
+          "label": "Dr Yasser · L12 · slide 28"
+        },
+        {
+          "src": "/reference-slides/12/page-029.jpg",
+          "label": "Dr Yasser · L12 · slide 29"
+        },
+        {
+          "src": "/reference-slides/12/page-030.jpg",
+          "label": "Dr Yasser · L12 · slide 30"
+        },
+        {
+          "src": "/reference-slides/12/page-031.jpg",
+          "label": "Dr Yasser · L12 · slide 31"
+        },
+        {
+          "src": "/reference-slides/12/page-032.jpg",
+          "label": "Dr Yasser · L12 · slide 32"
+        },
+        {
+          "src": "/reference-slides/12/page-033.jpg",
+          "label": "Dr Yasser · L12 · slide 33"
+        },
+        {
+          "src": "/reference-slides/12/page-034.jpg",
+          "label": "Dr Yasser · L12 · slide 34"
+        },
+        {
+          "src": "/reference-slides/12/page-035.jpg",
+          "label": "Dr Yasser · L12 · slide 35"
+        },
+        {
+          "src": "/reference-slides/12/page-036.jpg",
+          "label": "Dr Yasser · L12 · slide 36"
+        },
+        {
+          "src": "/reference-slides/12/page-037.jpg",
+          "label": "Dr Yasser · L12 · slide 37"
+        },
+        {
+          "src": "/reference-slides/12/page-038.jpg",
+          "label": "Dr Yasser · L12 · slide 38"
+        }
+      ]
+    },
+    "13": {
+      "file": "L13 PDF-Vertebral Column The Neck.pdf",
+      "author": "Dr Yasser Al Harbi",
+      "pages": [
+        {
+          "src": "/reference-slides/13/page-001.jpg",
+          "label": "Dr Yasser · L13 · slide 1"
+        },
+        {
+          "src": "/reference-slides/13/page-002.jpg",
+          "label": "Dr Yasser · L13 · slide 2"
+        },
+        {
+          "src": "/reference-slides/13/page-003.jpg",
+          "label": "Dr Yasser · L13 · slide 3"
+        },
+        {
+          "src": "/reference-slides/13/page-004.jpg",
+          "label": "Dr Yasser · L13 · slide 4"
+        },
+        {
+          "src": "/reference-slides/13/page-005.jpg",
+          "label": "Dr Yasser · L13 · slide 5"
+        },
+        {
+          "src": "/reference-slides/13/page-006.jpg",
+          "label": "Dr Yasser · L13 · slide 6"
+        },
+        {
+          "src": "/reference-slides/13/page-007.jpg",
+          "label": "Dr Yasser · L13 · slide 7"
+        },
+        {
+          "src": "/reference-slides/13/page-008.jpg",
+          "label": "Dr Yasser · L13 · slide 8"
+        },
+        {
+          "src": "/reference-slides/13/page-009.jpg",
+          "label": "Dr Yasser · L13 · slide 9"
+        },
+        {
+          "src": "/reference-slides/13/page-010.jpg",
+          "label": "Dr Yasser · L13 · slide 10"
+        },
+        {
+          "src": "/reference-slides/13/page-011.jpg",
+          "label": "Dr Yasser · L13 · slide 11"
+        },
+        {
+          "src": "/reference-slides/13/page-012.jpg",
+          "label": "Dr Yasser · L13 · slide 12"
+        },
+        {
+          "src": "/reference-slides/13/page-013.jpg",
+          "label": "Dr Yasser · L13 · slide 13"
+        },
+        {
+          "src": "/reference-slides/13/page-014.jpg",
+          "label": "Dr Yasser · L13 · slide 14"
+        },
+        {
+          "src": "/reference-slides/13/page-015.jpg",
+          "label": "Dr Yasser · L13 · slide 15"
+        },
+        {
+          "src": "/reference-slides/13/page-016.jpg",
+          "label": "Dr Yasser · L13 · slide 16"
+        },
+        {
+          "src": "/reference-slides/13/page-017.jpg",
+          "label": "Dr Yasser · L13 · slide 17"
+        },
+        {
+          "src": "/reference-slides/13/page-018.jpg",
+          "label": "Dr Yasser · L13 · slide 18"
+        },
+        {
+          "src": "/reference-slides/13/page-019.jpg",
+          "label": "Dr Yasser · L13 · slide 19"
+        },
+        {
+          "src": "/reference-slides/13/page-020.jpg",
+          "label": "Dr Yasser · L13 · slide 20"
+        },
+        {
+          "src": "/reference-slides/13/page-021.jpg",
+          "label": "Dr Yasser · L13 · slide 21"
+        },
+        {
+          "src": "/reference-slides/13/page-022.jpg",
+          "label": "Dr Yasser · L13 · slide 22"
+        },
+        {
+          "src": "/reference-slides/13/page-023.jpg",
+          "label": "Dr Yasser · L13 · slide 23"
+        },
+        {
+          "src": "/reference-slides/13/page-024.jpg",
+          "label": "Dr Yasser · L13 · slide 24"
+        },
+        {
+          "src": "/reference-slides/13/page-025.jpg",
+          "label": "Dr Yasser · L13 · slide 25"
+        },
+        {
+          "src": "/reference-slides/13/page-026.jpg",
+          "label": "Dr Yasser · L13 · slide 26"
+        },
+        {
+          "src": "/reference-slides/13/page-027.jpg",
+          "label": "Dr Yasser · L13 · slide 27"
+        },
+        {
+          "src": "/reference-slides/13/page-028.jpg",
+          "label": "Dr Yasser · L13 · slide 28"
+        },
+        {
+          "src": "/reference-slides/13/page-029.jpg",
+          "label": "Dr Yasser · L13 · slide 29"
+        },
+        {
+          "src": "/reference-slides/13/page-030.jpg",
+          "label": "Dr Yasser · L13 · slide 30"
+        },
+        {
+          "src": "/reference-slides/13/page-031.jpg",
+          "label": "Dr Yasser · L13 · slide 31"
+        },
+        {
+          "src": "/reference-slides/13/page-032.jpg",
+          "label": "Dr Yasser · L13 · slide 32"
+        }
+      ]
+    },
+    "14": {
+      "file": "L14 PDF-Vertebral Column Low Back.pdf",
+      "author": "Dr Yasser Al Harbi",
+      "pages": [
+        {
+          "src": "/reference-slides/14/page-001.jpg",
+          "label": "Dr Yasser · L14 · slide 1"
+        },
+        {
+          "src": "/reference-slides/14/page-002.jpg",
+          "label": "Dr Yasser · L14 · slide 2"
+        },
+        {
+          "src": "/reference-slides/14/page-003.jpg",
+          "label": "Dr Yasser · L14 · slide 3"
+        },
+        {
+          "src": "/reference-slides/14/page-004.jpg",
+          "label": "Dr Yasser · L14 · slide 4"
+        },
+        {
+          "src": "/reference-slides/14/page-005.jpg",
+          "label": "Dr Yasser · L14 · slide 5"
+        },
+        {
+          "src": "/reference-slides/14/page-006.jpg",
+          "label": "Dr Yasser · L14 · slide 6"
+        },
+        {
+          "src": "/reference-slides/14/page-007.jpg",
+          "label": "Dr Yasser · L14 · slide 7"
+        },
+        {
+          "src": "/reference-slides/14/page-008.jpg",
+          "label": "Dr Yasser · L14 · slide 8"
+        },
+        {
+          "src": "/reference-slides/14/page-009.jpg",
+          "label": "Dr Yasser · L14 · slide 9"
+        },
+        {
+          "src": "/reference-slides/14/page-010.jpg",
+          "label": "Dr Yasser · L14 · slide 10"
+        },
+        {
+          "src": "/reference-slides/14/page-011.jpg",
+          "label": "Dr Yasser · L14 · slide 11"
+        },
+        {
+          "src": "/reference-slides/14/page-012.jpg",
+          "label": "Dr Yasser · L14 · slide 12"
+        },
+        {
+          "src": "/reference-slides/14/page-013.jpg",
+          "label": "Dr Yasser · L14 · slide 13"
+        },
+        {
+          "src": "/reference-slides/14/page-014.jpg",
+          "label": "Dr Yasser · L14 · slide 14"
+        },
+        {
+          "src": "/reference-slides/14/page-015.jpg",
+          "label": "Dr Yasser · L14 · slide 15"
+        },
+        {
+          "src": "/reference-slides/14/page-016.jpg",
+          "label": "Dr Yasser · L14 · slide 16"
+        },
+        {
+          "src": "/reference-slides/14/page-017.jpg",
+          "label": "Dr Yasser · L14 · slide 17"
+        },
+        {
+          "src": "/reference-slides/14/page-018.jpg",
+          "label": "Dr Yasser · L14 · slide 18"
+        }
+      ]
+    }
+  },
+  "steps": {
+    "7": {
+      "Pelvic girdle + free lower limb": {
+        "src": "/reference-slides/7/page-003.jpg",
+        "label": "Dr Yasser · L7 · slide 3"
+      },
+      "Ilium · ischium · pubis": {
+        "src": "/reference-slides/7/page-006.jpg",
+        "label": "Dr Yasser · L7 · slide 6"
+      },
+      "How the pelvic ring joins": {
+        "src": "/reference-slides/7/page-008.jpg",
+        "label": "Dr Yasser · L7 · slide 8"
+      },
+      "Ala and body": {
+        "src": "/reference-slides/7/page-005.jpg",
+        "label": "Dr Yasser · L7 · slide 5"
+      },
+      "Iliac fossa and crest": {
+        "src": "/reference-slides/7/page-005.jpg",
+        "label": "Dr Yasser · L7 · slide 5"
+      },
+      "Two anterior spines · two muscle attachments": {
+        "src": "/reference-slides/7/page-005.jpg",
+        "label": "Dr Yasser · L7 · slide 5"
+      },
+      "ASIS → sartorius; AIIS → rectus femoris": {
+        "src": "/reference-slides/7/page-032.jpg",
+        "label": "Dr Yasser · L7 · slide 32"
+      },
+      "Greater sciatic notch": {
+        "src": "/reference-slides/7/page-005.jpg",
+        "label": "Dr Yasser · L7 · slide 5"
+      },
+      "Gluteal lines and auricular surface": {
+        "src": "/reference-slides/7/page-017.jpg",
+        "label": "Dr Yasser · L7 · slide 17"
+      },
+      "Sit on the tuberosity; attach at the spine": {
+        "src": "/reference-slides/7/page-006.jpg",
+        "label": "Dr Yasser · L7 · slide 6"
+      },
+      "Lesser sciatic notch": {
+        "src": "/reference-slides/7/page-028.jpg",
+        "label": "Dr Yasser · L7 · slide 28"
+      },
+      "Pubis · body and rami": {
+        "src": "/reference-slides/7/page-006.jpg",
+        "label": "Dr Yasser · L7 · slide 6"
+      },
+      "Pubic tubercle and obturator foramen": {
+        "src": "/reference-slides/7/page-022.jpg",
+        "label": "Dr Yasser · L7 · slide 22"
+      },
+      "False pelvis above · true pelvis below": {
+        "src": "/reference-slides/7/page-008.jpg",
+        "label": "Dr Yasser · L7 · slide 8"
+      },
+      "Inlet · outlet · pelvic axis": {
+        "src": "/reference-slides/7/page-008.jpg",
+        "label": "Dr Yasser · L7 · slide 8"
+      },
+      "Male versus female pelvis · shape and size": {
+        "src": "/reference-slides/7/page-009.jpg",
+        "label": "Dr Yasser · L7 · slide 9"
+      },
+      "Outlet · sacrum · pubic arch": {
+        "src": "/reference-slides/7/page-009.jpg",
+        "label": "Dr Yasser · L7 · slide 9"
+      },
+      "Auricular surfaces transfer body weight": {
+        "src": "/reference-slides/7/page-027.jpg",
+        "label": "Dr Yasser · L7 · slide 27"
+      },
+      "Sacroiliac ligaments": {
+        "src": "/reference-slides/7/page-028.jpg",
+        "label": "Dr Yasser · L7 · slide 28"
+      },
+      "Accessory ligaments & nerve supply": {
+        "src": "/reference-slides/7/page-028.jpg",
+        "label": "Dr Yasser · L7 · slide 28"
+      },
+      "Ball + socket · multiaxial movement": {
+        "src": "/reference-slides/7/page-029.jpg",
+        "label": "Dr Yasser · L7 · slide 29"
+      },
+      "Acetabulum · articular rim and central fossa": {
+        "src": "/reference-slides/7/page-029.jpg",
+        "label": "Dr Yasser · L7 · slide 29"
+      },
+      "Notch → foramen; two intracapsular ligaments": {
+        "src": "/reference-slides/7/page-028.jpg",
+        "label": "Dr Yasser · L7 · slide 28"
+      },
+      "Three extracapsular ligaments · three restraints": {
+        "src": "/reference-slides/7/page-030.jpg",
+        "label": "Dr Yasser · L7 · slide 30"
+      },
+      "Psoas bursa and hip nerve supply": {
+        "src": "/reference-slides/7/page-030.jpg",
+        "label": "Dr Yasser · L7 · slide 30"
+      },
+      "Longest and strongest bone": {
+        "src": "/reference-slides/7/page-015.jpg",
+        "label": "Dr Yasser · L7 · slide 15"
+      },
+      "Head · fovea · neck": {
+        "src": "/reference-slides/7/page-015.jpg",
+        "label": "Dr Yasser · L7 · slide 15"
+      },
+      "Trochanters · match the insertion": {
+        "src": "/reference-slides/7/page-015.jpg",
+        "label": "Dr Yasser · L7 · slide 15"
+      },
+      "Gluteal attachments in context": {
+        "src": "/reference-slides/7/page-005.jpg",
+        "label": "Dr Yasser · L7 · slide 5"
+      },
+      "Shaft · linea aspera": {
+        "src": "/reference-slides/7/page-015.jpg",
+        "label": "Dr Yasser · L7 · slide 15"
+      },
+      "Distal femur · condyles and anterior surface": {
+        "src": "/reference-slides/7/page-015.jpg",
+        "label": "Dr Yasser · L7 · slide 15"
+      },
+      "Intercondylar fossa · posterior view": {
+        "src": "/reference-slides/7/page-015.jpg",
+        "label": "Dr Yasser · L7 · slide 15"
+      },
+      "Patella · the largest sesamoid bone": {
+        "src": "/reference-slides/7/page-017.jpg",
+        "label": "Dr Yasser · L7 · slide 17"
+      },
+      "Posterior patellar surface": {
+        "src": "/reference-slides/7/page-017.jpg",
+        "label": "Dr Yasser · L7 · slide 17"
+      },
+      "Tibia bears weight; fibula is lateral": {
+        "src": "/reference-slides/7/page-018.jpg",
+        "label": "Dr Yasser · L7 · slide 18"
+      },
+      "Proximal tibia · condyles and tuberosity": {
+        "src": "/reference-slides/7/page-018.jpg",
+        "label": "Dr Yasser · L7 · slide 18"
+      },
+      "Ankle landmarks · two malleoli": {
+        "src": "/reference-slides/7/page-018.jpg",
+        "label": "Dr Yasser · L7 · slide 18"
+      },
+      "Seven tarsals · ankle and heel": {
+        "src": "/reference-slides/7/page-021.jpg",
+        "label": "Dr Yasser · L7 · slide 21"
+      },
+      "Navicular · cuboid · three cuneiforms": {
+        "src": "/reference-slides/7/page-021.jpg",
+        "label": "Dr Yasser · L7 · slide 21"
+      },
+      "Cuneiforms · medial to lateral": {
+        "src": "/reference-slides/7/page-018.jpg",
+        "label": "Dr Yasser · L7 · slide 18"
+      },
+      "Metatarsals 1 → 5 · medial to lateral": {
+        "src": "/reference-slides/7/page-025.jpg",
+        "label": "Dr Yasser · L7 · slide 25"
+      },
+      "A metatarsal · base, shaft, head": {
+        "src": "/reference-slides/7/page-023.jpg",
+        "label": "Dr Yasser · L7 · slide 23"
+      },
+      "Hallux has two; the other toes have three": {
+        "src": "/reference-slides/7/page-023.jpg",
+        "label": "Dr Yasser · L7 · slide 23"
+      },
+      "Three arches distribute weight": {
+        "src": "/reference-slides/7/page-025.jpg",
+        "label": "Dr Yasser · L7 · slide 25"
+      },
+      "Medial arch · follow the teal bones": {
+        "src": "/reference-slides/7/page-025.jpg",
+        "label": "Dr Yasser · L7 · slide 25"
+      },
+      "Lateral arch · follow the coral bones": {
+        "src": "/reference-slides/7/page-025.jpg",
+        "label": "Dr Yasser · L7 · slide 25"
+      },
+      "Transverse arch · across the bases": {
+        "src": "/reference-slides/7/page-025.jpg",
+        "label": "Dr Yasser · L7 · slide 25"
+      },
+      "Yield and spring back · altered arch height": {
+        "src": "/reference-slides/7/page-025.jpg",
+        "label": "Dr Yasser · L7 · slide 25"
+      },
+      "Three articular participants": {
+        "src": "/reference-slides/7/page-017.jpg",
+        "label": "Dr Yasser · L7 · slide 17"
+      },
+      "Modified hinge · capsule & synovial folds": {
+        "src": "/reference-slides/7/page-033.jpg",
+        "label": "Dr Yasser · L7 · slide 33"
+      },
+      "Medial meniscus · fixed and more vulnerable": {
+        "src": "/reference-slides/7/page-033.jpg",
+        "label": "Dr Yasser · L7 · slide 33"
+      },
+      "Extracapsular ligaments · front and sides": {
+        "src": "/reference-slides/7/page-033.jpg",
+        "label": "Dr Yasser · L7 · slide 33"
+      },
+      "Oblique popliteal ligament": {
+        "src": "/reference-slides/7/page-033.jpg",
+        "label": "Dr Yasser · L7 · slide 33"
+      },
+      "Crossed ligaments · ACL to lateral, PCL to medial": {
+        "src": "/reference-slides/7/page-033.jpg",
+        "label": "Dr Yasser · L7 · slide 33"
+      },
+      "Anterior bursae · above and in front of patella": {
+        "src": "/reference-slides/7/page-032.jpg",
+        "label": "Dr Yasser · L7 · slide 32"
+      },
+      "Infrapatellar bursae · superficial versus deep": {
+        "src": "/reference-slides/7/page-032.jpg",
+        "label": "Dr Yasser · L7 · slide 32"
+      },
+      "Posterior and tendon-related bursae": {
+        "src": "/reference-slides/7/page-032.jpg",
+        "label": "Dr Yasser · L7 · slide 32"
+      },
+      "Knee nerve supply · four names": {
+        "src": "/reference-slides/7/page-031.jpg",
+        "label": "Dr Yasser · L7 · slide 31"
+      },
+      "Proximal tibiofibular joint": {
+        "src": "/reference-slides/7/page-035.jpg",
+        "label": "Dr Yasser · L7 · slide 35"
+      },
+      "Distal tibiofibular joint": {
+        "src": "/reference-slides/7/page-036.jpg",
+        "label": "Dr Yasser · L7 · slide 36"
+      },
+      "Tibiofibular ligaments · compare the lists": {
+        "src": "/reference-slides/7/page-036.jpg",
+        "label": "Dr Yasser · L7 · slide 36"
+      },
+      "Ankle mortise · tibia + fibula + talus": {
+        "src": "/reference-slides/7/page-018.jpg",
+        "label": "Dr Yasser · L7 · slide 18"
+      },
+      "Hinge · dorsiflexion and plantarflexion": {
+        "src": "/reference-slides/7/page-037.jpg",
+        "label": "Dr Yasser · L7 · slide 37"
+      },
+      "Medial deltoid ligament": {
+        "src": "/reference-slides/7/page-037.jpg",
+        "label": "Dr Yasser · L7 · slide 37"
+      },
+      "Lateral collateral · three parts": {
+        "src": "/reference-slides/7/page-033.jpg",
+        "label": "Dr Yasser · L7 · slide 33"
+      },
+      "Subtalar joint": {
+        "src": "/reference-slides/7/page-038.jpg",
+        "label": "Dr Yasser · L7 · slide 38"
+      },
+      "Transverse tarsal · medial side": {
+        "src": "/reference-slides/7/page-025.jpg",
+        "label": "Dr Yasser · L7 · slide 25"
+      },
+      "Transverse tarsal · lateral side": {
+        "src": "/reference-slides/7/page-038.jpg",
+        "label": "Dr Yasser · L7 · slide 38"
+      },
+      "Small plane joints · gliding and little movement": {
+        "src": "/reference-slides/7/page-039.jpg",
+        "label": "Dr Yasser · L7 · slide 39"
+      },
+      "MTP versus IP · different joint types": {
+        "src": "/reference-slides/7/page-039.jpg",
+        "label": "Dr Yasser · L7 · slide 39"
+      }
+    },
+    "8": {
+      "Fascia lata → iliotibial tract": {
+        "src": "/reference-slides/8/page-003.jpg",
+        "label": "Dr Yasser · L8 · slide 3"
+      },
+      "Saphenous opening and great saphenous vein": {
+        "src": "/reference-slides/8/page-003.jpg",
+        "label": "Dr Yasser · L8 · slide 3"
+      },
+      "Three thigh compartments": {
+        "src": "/reference-slides/8/page-004.jpg",
+        "label": "Dr Yasser · L8 · slide 4"
+      },
+      "Iliopsoas · two muscles, one insertion": {
+        "src": "/reference-slides/8/page-005.jpg",
+        "label": "Dr Yasser · L8 · slide 5"
+      },
+      "Psoas major": {
+        "src": "/reference-slides/8/page-005.jpg",
+        "label": "Dr Yasser · L8 · slide 5"
+      },
+      "Iliacus": {
+        "src": "/reference-slides/8/page-005.jpg",
+        "label": "Dr Yasser · L8 · slide 5"
+      },
+      "Sartorius": {
+        "src": "/reference-slides/8/page-005.jpg",
+        "label": "Dr Yasser · L8 · slide 5"
+      },
+      "Pectineus": {
+        "src": "/reference-slides/8/page-005.jpg",
+        "label": "Dr Yasser · L8 · slide 5"
+      },
+      "Four heads converge on the patella": {
+        "src": "/reference-slides/8/page-014.jpg",
+        "label": "Dr Yasser · L8 · slide 14"
+      },
+      "Common tendon → patella → tibial tuberosity": {
+        "src": "/reference-slides/8/page-023.jpg",
+        "label": "Dr Yasser · L8 · slide 23"
+      },
+      "Rectus femoris": {
+        "src": "/reference-slides/8/page-005.jpg",
+        "label": "Dr Yasser · L8 · slide 5"
+      },
+      "Vastus lateralis": {
+        "src": "/reference-slides/8/page-003.jpg",
+        "label": "Dr Yasser · L8 · slide 3"
+      },
+      "Vastus medialis": {
+        "src": "/reference-slides/8/page-003.jpg",
+        "label": "Dr Yasser · L8 · slide 3"
+      },
+      "Vastus intermedius": {
+        "src": "/reference-slides/8/page-003.jpg",
+        "label": "Dr Yasser · L8 · slide 3"
+      },
+      "Medial thigh · muscle stack": {
+        "src": "/reference-slides/8/page-008.jpg",
+        "label": "Dr Yasser · L8 · slide 8"
+      },
+      "Adductor longus": {
+        "src": "/reference-slides/8/page-008.jpg",
+        "label": "Dr Yasser · L8 · slide 8"
+      },
+      "Adductor brevis": {
+        "src": "/reference-slides/8/page-030.jpg",
+        "label": "Dr Yasser · L8 · slide 30"
+      },
+      "Adductor magnus · adductor part": {
+        "src": "/reference-slides/8/page-008.jpg",
+        "label": "Dr Yasser · L8 · slide 8"
+      },
+      "Adductor magnus · hamstring part": {
+        "src": "/reference-slides/8/page-008.jpg",
+        "label": "Dr Yasser · L8 · slide 8"
+      },
+      "Gracilis": {
+        "src": "/reference-slides/8/page-008.jpg",
+        "label": "Dr Yasser · L8 · slide 8"
+      },
+      "Obturator externus": {
+        "src": "/reference-slides/8/page-008.jpg",
+        "label": "Dr Yasser · L8 · slide 8"
+      },
+      "Femoral triangle · three borders": {
+        "src": "/reference-slides/8/page-010.jpg",
+        "label": "Dr Yasser · L8 · slide 10"
+      },
+      "Triangle floor · lateral to medial": {
+        "src": "/reference-slides/8/page-008.jpg",
+        "label": "Dr Yasser · L8 · slide 8"
+      },
+      "Triangle contents · nerve, artery, vein": {
+        "src": "/reference-slides/8/page-010.jpg",
+        "label": "Dr Yasser · L8 · slide 10"
+      },
+      "Other triangle contents": {
+        "src": "/reference-slides/8/page-010.jpg",
+        "label": "Dr Yasser · L8 · slide 10"
+      },
+      "Femoral sheath · three compartments": {
+        "src": "/reference-slides/8/page-010.jpg",
+        "label": "Dr Yasser · L8 · slide 10"
+      },
+      "Femoral ring · upper opening of the canal": {
+        "src": "/reference-slides/8/page-010.jpg",
+        "label": "Dr Yasser · L8 · slide 10"
+      },
+      "Adductor canal · from triangle to magnus": {
+        "src": "/reference-slides/8/page-010.jpg",
+        "label": "Dr Yasser · L8 · slide 10"
+      },
+      "Adductor canal · triangular walls": {
+        "src": "/reference-slides/8/page-010.jpg",
+        "label": "Dr Yasser · L8 · slide 10"
+      },
+      "Adductor canal · contents": {
+        "src": "/reference-slides/8/page-010.jpg",
+        "label": "Dr Yasser · L8 · slide 10"
+      },
+      "Hamstrings · posterior thigh": {
+        "src": "/reference-slides/8/page-014.jpg",
+        "label": "Dr Yasser · L8 · slide 14"
+      },
+      "Semitendinosus": {
+        "src": "/reference-slides/8/page-014.jpg",
+        "label": "Dr Yasser · L8 · slide 14"
+      },
+      "Semimembranosus": {
+        "src": "/reference-slides/8/page-014.jpg",
+        "label": "Dr Yasser · L8 · slide 14"
+      },
+      "Biceps femoris · long head": {
+        "src": "/reference-slides/8/page-014.jpg",
+        "label": "Dr Yasser · L8 · slide 14"
+      },
+      "Biceps femoris · short head": {
+        "src": "/reference-slides/8/page-014.jpg",
+        "label": "Dr Yasser · L8 · slide 14"
+      },
+      "Gluteal layers · reveal medius then minimus": {
+        "src": "/reference-slides/8/page-011.jpg",
+        "label": "Dr Yasser · L8 · slide 11"
+      },
+      "Gluteus maximus": {
+        "src": "/reference-slides/8/page-011.jpg",
+        "label": "Dr Yasser · L8 · slide 11"
+      },
+      "Gluteus medius": {
+        "src": "/reference-slides/8/page-011.jpg",
+        "label": "Dr Yasser · L8 · slide 11"
+      },
+      "Gluteus minimus": {
+        "src": "/reference-slides/8/page-011.jpg",
+        "label": "Dr Yasser · L8 · slide 11"
+      },
+      "Tensor fascia lata": {
+        "src": "/reference-slides/8/page-003.jpg",
+        "label": "Dr Yasser · L8 · slide 3"
+      },
+      "Deep gluteal rotators · five landmarks": {
+        "src": "/reference-slides/8/page-012.jpg",
+        "label": "Dr Yasser · L8 · slide 12"
+      },
+      "Piriformis": {
+        "src": "/reference-slides/8/page-012.jpg",
+        "label": "Dr Yasser · L8 · slide 12"
+      },
+      "Superior gemellus": {
+        "src": "/reference-slides/8/page-012.jpg",
+        "label": "Dr Yasser · L8 · slide 12"
+      },
+      "Obturator internus": {
+        "src": "/reference-slides/8/page-012.jpg",
+        "label": "Dr Yasser · L8 · slide 12"
+      },
+      "Inferior gemellus": {
+        "src": "/reference-slides/8/page-012.jpg",
+        "label": "Dr Yasser · L8 · slide 12"
+      },
+      "Quadratus femoris": {
+        "src": "/reference-slides/8/page-005.jpg",
+        "label": "Dr Yasser · L8 · slide 5"
+      },
+      "Deep fascia of leg · three compartments": {
+        "src": "/reference-slides/8/page-003.jpg",
+        "label": "Dr Yasser · L8 · slide 3"
+      },
+      "Anterior leg · four muscles": {
+        "src": "/reference-slides/8/page-020.jpg",
+        "label": "Dr Yasser · L8 · slide 20"
+      },
+      "Tibialis anterior": {
+        "src": "/reference-slides/8/page-020.jpg",
+        "label": "Dr Yasser · L8 · slide 20"
+      },
+      "Extensor hallucis longus": {
+        "src": "/reference-slides/8/page-020.jpg",
+        "label": "Dr Yasser · L8 · slide 20"
+      },
+      "Extensor digitorum longus": {
+        "src": "/reference-slides/8/page-020.jpg",
+        "label": "Dr Yasser · L8 · slide 20"
+      },
+      "Peroneus (fibularis) tertius": {
+        "src": "/reference-slides/8/page-021.jpg",
+        "label": "Dr Yasser · L8 · slide 21"
+      },
+      "Superior extensor retinaculum · fascial band": {
+        "src": "/reference-slides/8/page-020.jpg",
+        "label": "Dr Yasser · L8 · slide 20"
+      },
+      "Under the band · Tom Has Very Nice Dogs Pigs": {
+        "src": "/reference-slides/8/page-020.jpg",
+        "label": "Dr Yasser · L8 · slide 20"
+      },
+      "Lateral leg · longus versus brevis": {
+        "src": "/reference-slides/8/page-021.jpg",
+        "label": "Dr Yasser · L8 · slide 21"
+      },
+      "Peroneus (fibularis) longus": {
+        "src": "/reference-slides/8/page-021.jpg",
+        "label": "Dr Yasser · L8 · slide 21"
+      },
+      "Peroneus (fibularis) brevis": {
+        "src": "/reference-slides/8/page-021.jpg",
+        "label": "Dr Yasser · L8 · slide 21"
+      },
+      "Superficial calf · three muscles": {
+        "src": "/reference-slides/8/page-023.jpg",
+        "label": "Dr Yasser · L8 · slide 23"
+      },
+      "Plantaris": {
+        "src": "/reference-slides/8/page-023.jpg",
+        "label": "Dr Yasser · L8 · slide 23"
+      },
+      "Gastrocnemius · two heads": {
+        "src": "/reference-slides/8/page-014.jpg",
+        "label": "Dr Yasser · L8 · slide 14"
+      },
+      "Soleus": {
+        "src": "/reference-slides/8/page-023.jpg",
+        "label": "Dr Yasser · L8 · slide 23"
+      },
+      "Calf actions · knee versus ankle": {
+        "src": "/reference-slides/8/page-023.jpg",
+        "label": "Dr Yasser · L8 · slide 23"
+      },
+      "Deep posterior leg · four muscles": {
+        "src": "/reference-slides/8/page-025.jpg",
+        "label": "Dr Yasser · L8 · slide 25"
+      },
+      "Popliteus": {
+        "src": "/reference-slides/8/page-025.jpg",
+        "label": "Dr Yasser · L8 · slide 25"
+      },
+      "Tibialis posterior": {
+        "src": "/reference-slides/8/page-025.jpg",
+        "label": "Dr Yasser · L8 · slide 25"
+      },
+      "Flexor digitorum longus": {
+        "src": "/reference-slides/8/page-025.jpg",
+        "label": "Dr Yasser · L8 · slide 25"
+      },
+      "Flexor hallucis longus": {
+        "src": "/reference-slides/8/page-025.jpg",
+        "label": "Dr Yasser · L8 · slide 25"
+      },
+      "Follow the deep tendons into the foot": {
+        "src": "/reference-slides/8/page-023.jpg",
+        "label": "Dr Yasser · L8 · slide 23"
+      },
+      "Tibial landmarks around the medial ankle": {
+        "src": "/reference-slides/8/page-008.jpg",
+        "label": "Dr Yasser · L8 · slide 8"
+      },
+      "Flexor retinaculum · two anchors": {
+        "src": "/reference-slides/8/page-025.jpg",
+        "label": "Dr Yasser · L8 · slide 25"
+      },
+      "Tom Does Very Nice Hats · behind the malleolus": {
+        "src": "/reference-slides/8/page-003.jpg",
+        "label": "Dr Yasser · L8 · slide 3"
+      },
+      "Popliteal fossa · diamond boundaries": {
+        "src": "/reference-slides/8/page-017.jpg",
+        "label": "Dr Yasser · L8 · slide 17"
+      },
+      "Popliteal fossa · floor and roof": {
+        "src": "/reference-slides/8/page-017.jpg",
+        "label": "Dr Yasser · L8 · slide 17"
+      },
+      "Popliteal fossa · five contents": {
+        "src": "/reference-slides/8/page-017.jpg",
+        "label": "Dr Yasser · L8 · slide 17"
+      },
+      "Dorsum · two short extensors": {
+        "src": "/reference-slides/8/page-027.jpg",
+        "label": "Dr Yasser · L8 · slide 27"
+      },
+      "Extensor digitorum brevis": {
+        "src": "/reference-slides/8/page-027.jpg",
+        "label": "Dr Yasser · L8 · slide 27"
+      },
+      "Extensor hallucis brevis": {
+        "src": "/reference-slides/8/page-027.jpg",
+        "label": "Dr Yasser · L8 · slide 27"
+      },
+      "Sole · four layers from superficial to deep": {
+        "src": "/reference-slides/8/page-029.jpg",
+        "label": "Dr Yasser · L8 · slide 29"
+      },
+      "Sole · layer 1 · superficial trio": {
+        "src": "/reference-slides/8/page-029.jpg",
+        "label": "Dr Yasser · L8 · slide 29"
+      },
+      "Sole · layer 2 · quadratus and lumbricals": {
+        "src": "/reference-slides/8/page-029.jpg",
+        "label": "Dr Yasser · L8 · slide 29"
+      },
+      "Sole · layer 3 · short toe muscles": {
+        "src": "/reference-slides/8/page-030.jpg",
+        "label": "Dr Yasser · L8 · slide 30"
+      },
+      "Sole · layer 4 · interossei": {
+        "src": "/reference-slides/8/page-030.jpg",
+        "label": "Dr Yasser · L8 · slide 30"
+      },
+      "Abductor hallucis": {
+        "src": "/reference-slides/8/page-029.jpg",
+        "label": "Dr Yasser · L8 · slide 29"
+      },
+      "Flexor digitorum brevis": {
+        "src": "/reference-slides/8/page-029.jpg",
+        "label": "Dr Yasser · L8 · slide 29"
+      },
+      "Abductor digiti minimi": {
+        "src": "/reference-slides/8/page-029.jpg",
+        "label": "Dr Yasser · L8 · slide 29"
+      },
+      "Quadratus plantae": {
+        "src": "/reference-slides/8/page-029.jpg",
+        "label": "Dr Yasser · L8 · slide 29"
+      },
+      "Lumbricals of foot": {
+        "src": "/reference-slides/8/page-029.jpg",
+        "label": "Dr Yasser · L8 · slide 29"
+      },
+      "Flexor hallucis brevis": {
+        "src": "/reference-slides/8/page-030.jpg",
+        "label": "Dr Yasser · L8 · slide 30"
+      },
+      "Adductor hallucis": {
+        "src": "/reference-slides/8/page-030.jpg",
+        "label": "Dr Yasser · L8 · slide 30"
+      },
+      "Flexor digiti minimi brevis": {
+        "src": "/reference-slides/8/page-030.jpg",
+        "label": "Dr Yasser · L8 · slide 30"
+      },
+      "Plantar interossei": {
+        "src": "/reference-slides/8/page-030.jpg",
+        "label": "Dr Yasser · L8 · slide 30"
+      },
+      "Dorsal interossei": {
+        "src": "/reference-slides/8/page-030.jpg",
+        "label": "Dr Yasser · L8 · slide 30"
+      },
+      "Plantar nerves · the four medial exceptions": {
+        "src": "/reference-slides/8/page-008.jpg",
+        "label": "Dr Yasser · L8 · slide 8"
+      }
+    },
+    "9": {
+      "One continuous route; names change at landmarks": {
+        "src": "/reference-slides/9/page-009.jpg",
+        "label": "Dr Yasser · L9 · slide 9"
+      },
+      "External iliac becomes femoral": {
+        "src": "/reference-slides/9/page-005.jpg",
+        "label": "Dr Yasser · L9 · slide 5"
+      },
+      "Triangle → apex → adductor canal": {
+        "src": "/reference-slides/9/page-003.jpg",
+        "label": "Dr Yasser · L9 · slide 3"
+      },
+      "Base of triangle · vein medial, nerve lateral": {
+        "src": "/reference-slides/9/page-017.jpg",
+        "label": "Dr Yasser · L9 · slide 17"
+      },
+      "Apex · the vein moves behind the artery": {
+        "src": "/reference-slides/9/page-017.jpg",
+        "label": "Dr Yasser · L9 · slide 17"
+      },
+      "Canal · the vein becomes lateral": {
+        "src": "/reference-slides/9/page-019.jpg",
+        "label": "Dr Yasser · L9 · slide 19"
+      },
+      "Anterior coverings and posterior floor": {
+        "src": "/reference-slides/9/page-008.jpg",
+        "label": "Dr Yasser · L9 · slide 8"
+      },
+      "Adductor hiatus · the name changes to popliteal": {
+        "src": "/reference-slides/9/page-003.jpg",
+        "label": "Dr Yasser · L9 · slide 3"
+      },
+      "Three superficial inguinal branches": {
+        "src": "/reference-slides/9/page-023.jpg",
+        "label": "Dr Yasser · L9 · slide 23"
+      },
+      "Deep external pudendal artery": {
+        "src": "/reference-slides/9/page-005.jpg",
+        "label": "Dr Yasser · L9 · slide 5"
+      },
+      "Profunda femoris · largest femoral branch": {
+        "src": "/reference-slides/9/page-005.jpg",
+        "label": "Dr Yasser · L9 · slide 5"
+      },
+      "Profunda gives circumflex and perforating branches": {
+        "src": "/reference-slides/9/page-006.jpg",
+        "label": "Dr Yasser · L9 · slide 6"
+      },
+      "Descending genicular · a route to the knee": {
+        "src": "/reference-slides/9/page-010.jpg",
+        "label": "Dr Yasser · L9 · slide 10"
+      },
+      "Trochanteric network · femoral head supply": {
+        "src": "/reference-slides/9/page-006.jpg",
+        "label": "Dr Yasser · L9 · slide 6"
+      },
+      "Cruciate network · level of lesser trochanter": {
+        "src": "/reference-slides/9/page-006.jpg",
+        "label": "Dr Yasser · L9 · slide 6"
+      },
+      "Popliteal fossa · nerve, vein, artery": {
+        "src": "/reference-slides/9/page-017.jpg",
+        "label": "Dr Yasser · L9 · slide 17"
+      },
+      "Vein and nerve cross from lateral to medial": {
+        "src": "/reference-slides/9/page-019.jpg",
+        "label": "Dr Yasser · L9 · slide 19"
+      },
+      "Two terminal branches at the lower border of popliteus": {
+        "src": "/reference-slides/9/page-011.jpg",
+        "label": "Dr Yasser · L9 · slide 11"
+      },
+      "Five genicular branches · upper pair and middle": {
+        "src": "/reference-slides/9/page-010.jpg",
+        "label": "Dr Yasser · L9 · slide 10"
+      },
+      "Lower genicular pair; muscle and skin branches": {
+        "src": "/reference-slides/9/page-010.jpg",
+        "label": "Dr Yasser · L9 · slide 10"
+      },
+      "Smaller branch crosses into the anterior compartment": {
+        "src": "/reference-slides/9/page-010.jpg",
+        "label": "Dr Yasser · L9 · slide 10"
+      },
+      "Anterior tibial travels with the deep peroneal nerve": {
+        "src": "/reference-slides/9/page-011.jpg",
+        "label": "Dr Yasser · L9 · slide 11"
+      },
+      "Under the superior extensor retinaculum": {
+        "src": "/reference-slides/9/page-012.jpg",
+        "label": "Dr Yasser · L9 · slide 12"
+      },
+      "At the front of the ankle: dorsalis pedis begins": {
+        "src": "/reference-slides/9/page-012.jpg",
+        "label": "Dr Yasser · L9 · slide 12"
+      },
+      "Anterior tibial branches · muscle, knee and ankle": {
+        "src": "/reference-slides/9/page-012.jpg",
+        "label": "Dr Yasser · L9 · slide 12"
+      },
+      "Dorsalis pedis beneath the inferior extensor band": {
+        "src": "/reference-slides/9/page-013.jpg",
+        "label": "Dr Yasser · L9 · slide 13"
+      },
+      "First interosseous space connects dorsum and sole": {
+        "src": "/reference-slides/9/page-013.jpg",
+        "label": "Dr Yasser · L9 · slide 13"
+      },
+      "Tarsal and first dorsal metatarsal branches": {
+        "src": "/reference-slides/9/page-013.jpg",
+        "label": "Dr Yasser · L9 · slide 13"
+      },
+      "Arcuate artery · supplies metatarsals 2, 3 and 4": {
+        "src": "/reference-slides/9/page-013.jpg",
+        "label": "Dr Yasser · L9 · slide 13"
+      },
+      "Larger terminal branch with the tibial nerve": {
+        "src": "/reference-slides/9/page-008.jpg",
+        "label": "Dr Yasser · L9 · slide 8"
+      },
+      "Deep to flexor retinaculum · divides into plantar arteries": {
+        "src": "/reference-slides/9/page-014.jpg",
+        "label": "Dr Yasser · L9 · slide 14"
+      },
+      "Fibular artery · behind the fibula": {
+        "src": "/reference-slides/9/page-014.jpg",
+        "label": "Dr Yasser · L9 · slide 14"
+      },
+      "Circumflex fibular and other posterior tibial branches": {
+        "src": "/reference-slides/9/page-018.jpg",
+        "label": "Dr Yasser · L9 · slide 18"
+      },
+      "Two terminal branches · smaller medial, larger lateral": {
+        "src": "/reference-slides/9/page-015.jpg",
+        "label": "Dr Yasser · L9 · slide 15"
+      },
+      "The lateral plantar curves medially to form the arch": {
+        "src": "/reference-slides/9/page-013.jpg",
+        "label": "Dr Yasser · L9 · slide 13"
+      },
+      "Ten contributors grouped by parent artery": {
+        "src": "/reference-slides/9/page-009.jpg",
+        "label": "Dr Yasser · L9 · slide 9"
+      },
+      "Medial arch → in front of medial malleolus": {
+        "src": "/reference-slides/9/page-018.jpg",
+        "label": "Dr Yasser · L9 · slide 18"
+      },
+      "Medial leg and thigh · saphenous nerve companion": {
+        "src": "/reference-slides/9/page-018.jpg",
+        "label": "Dr Yasser · L9 · slide 18"
+      },
+      "Through the saphenous opening → femoral vein": {
+        "src": "/reference-slides/9/page-017.jpg",
+        "label": "Dr Yasser · L9 · slide 17"
+      },
+      "Great saphenous tributaries": {
+        "src": "/reference-slides/9/page-018.jpg",
+        "label": "Dr Yasser · L9 · slide 18"
+      },
+      "Superficial connections and perforating branches": {
+        "src": "/reference-slides/9/page-018.jpg",
+        "label": "Dr Yasser · L9 · slide 18"
+      },
+      "Lateral arch → behind lateral malleolus": {
+        "src": "/reference-slides/9/page-019.jpg",
+        "label": "Dr Yasser · L9 · slide 19"
+      },
+      "Lateral to calcaneal tendon; between gastrocnemius heads": {
+        "src": "/reference-slides/9/page-019.jpg",
+        "label": "Dr Yasser · L9 · slide 19"
+      },
+      "Small saphenous drains into popliteal vein": {
+        "src": "/reference-slides/9/page-019.jpg",
+        "label": "Dr Yasser · L9 · slide 19"
+      },
+      "T10–L2 → lumbar / sacral ganglia → peripheral nerves": {
+        "src": "/reference-slides/9/page-021.jpg",
+        "label": "Dr Yasser · L9 · slide 21"
+      },
+      "Arterial examples of the sympathetic route": {
+        "src": "/reference-slides/9/page-021.jpg",
+        "label": "Dr Yasser · L9 · slide 21"
+      },
+      "Superficial veins use their nerve companions": {
+        "src": "/reference-slides/9/page-018.jpg",
+        "label": "Dr Yasser · L9 · slide 18"
+      },
+      "Popliteal nodes · small saphenous drainage route": {
+        "src": "/reference-slides/9/page-023.jpg",
+        "label": "Dr Yasser · L9 · slide 23"
+      },
+      "Superficial inguinal · vertical group": {
+        "src": "/reference-slides/9/page-023.jpg",
+        "label": "Dr Yasser · L9 · slide 23"
+      },
+      "Superficial inguinal · horizontal group": {
+        "src": "/reference-slides/9/page-023.jpg",
+        "label": "Dr Yasser · L9 · slide 23"
+      },
+      "Deep inguinal nodes → external iliac nodes": {
+        "src": "/reference-slides/9/page-023.jpg",
+        "label": "Dr Yasser · L9 · slide 23"
+      }
+    },
+    "10": {
+      "L1–L4: a plexus inside psoas major": {
+        "src": "/reference-slides/10/page-006.jpg",
+        "label": "Dr Yasser · L10 · slide 6"
+      },
+      "Anterior surface → genitofemoral": {
+        "src": "/reference-slides/10/page-003.jpg",
+        "label": "Dr Yasser · L10 · slide 3"
+      },
+      "Lateral border → four branches": {
+        "src": "/reference-slides/10/page-003.jpg",
+        "label": "Dr Yasser · L10 · slide 3"
+      },
+      "Medial border → obturator + lumbosacral trunk": {
+        "src": "/reference-slides/10/page-003.jpg",
+        "label": "Dr Yasser · L10 · slide 3"
+      },
+      "One nerve → genital and femoral branches": {
+        "src": "/reference-slides/10/page-007.jpg",
+        "label": "Dr Yasser · L10 · slide 7"
+      },
+      "Iliohypogastric: abdominal wall + above inguinal ligament": {
+        "src": "/reference-slides/10/page-004.jpg",
+        "label": "Dr Yasser · L10 · slide 4"
+      },
+      "Ilioinguinal: canal → superficial ring": {
+        "src": "/reference-slides/10/page-004.jpg",
+        "label": "Dr Yasser · L10 · slide 4"
+      },
+      "Lateral cutaneous nerve of thigh": {
+        "src": "/reference-slides/10/page-007.jpg",
+        "label": "Dr Yasser · L10 · slide 7"
+      },
+      "Largest lumbar branch · L2, L3, L4": {
+        "src": "/reference-slides/10/page-006.jpg",
+        "label": "Dr Yasser · L10 · slide 6"
+      },
+      "Lateral psoas → between psoas and iliacus": {
+        "src": "/reference-slides/10/page-005.jpg",
+        "label": "Dr Yasser · L10 · slide 5"
+      },
+      "Behind inguinal ligament; lateral to artery AND sheath": {
+        "src": "/reference-slides/10/page-006.jpg",
+        "label": "Dr Yasser · L10 · slide 6"
+      },
+      "Anterior thigh muscles · except psoas major": {
+        "src": "/reference-slides/10/page-005.jpg",
+        "label": "Dr Yasser · L10 · slide 5"
+      },
+      "Articular branches → hip and knee": {
+        "src": "/reference-slides/10/page-009.jpg",
+        "label": "Dr Yasser · L10 · slide 9"
+      },
+      "Anterior thigh branches + saphenous": {
+        "src": "/reference-slides/10/page-007.jpg",
+        "label": "Dr Yasser · L10 · slide 7"
+      },
+      "Femoral triangle → adductor canal": {
+        "src": "/reference-slides/10/page-007.jpg",
+        "label": "Dr Yasser · L10 · slide 7"
+      },
+      "Medial knee and leg · great saphenous companion": {
+        "src": "/reference-slides/10/page-007.jpg",
+        "label": "Dr Yasser · L10 · slide 7"
+      },
+      "In FRONT of medial malleolus → medial foot": {
+        "src": "/reference-slides/10/page-007.jpg",
+        "label": "Dr Yasser · L10 · slide 7"
+      },
+      "Femoral injury: knee extension fails": {
+        "src": "/reference-slides/10/page-023.jpg",
+        "label": "Dr Yasser · L10 · slide 23"
+      },
+      "L2–L4 → medial psoas → obturator foramen": {
+        "src": "/reference-slides/10/page-008.jpg",
+        "label": "Dr Yasser · L10 · slide 8"
+      },
+      "Anterior and posterior divisions": {
+        "src": "/reference-slides/10/page-009.jpg",
+        "label": "Dr Yasser · L10 · slide 9"
+      },
+      "Anterior: brevis, longus, gracilis + hip + skin": {
+        "src": "/reference-slides/10/page-009.jpg",
+        "label": "Dr Yasser · L10 · slide 9"
+      },
+      "Posterior: externus, brevis, adductor part of magnus + knee": {
+        "src": "/reference-slides/10/page-008.jpg",
+        "label": "Dr Yasser · L10 · slide 8"
+      },
+      "Obturator injury: weak adduction": {
+        "src": "/reference-slides/10/page-022.jpg",
+        "label": "Dr Yasser · L10 · slide 22"
+      },
+      "L4–S4 · anterior to piriformis": {
+        "src": "/reference-slides/10/page-011.jpg",
+        "label": "Dr Yasser · L10 · slide 11"
+      },
+      "Superior gluteal → medius, minimus, TFL": {
+        "src": "/reference-slides/10/page-011.jpg",
+        "label": "Dr Yasser · L10 · slide 11"
+      },
+      "Inferior gluteal → gluteus maximus": {
+        "src": "/reference-slides/10/page-011.jpg",
+        "label": "Dr Yasser · L10 · slide 11"
+      },
+      "Nerve to quadratus femoris → also inferior gemellus": {
+        "src": "/reference-slides/10/page-011.jpg",
+        "label": "Dr Yasser · L10 · slide 11"
+      },
+      "Nerve to obturator internus → also superior gemellus": {
+        "src": "/reference-slides/10/page-011.jpg",
+        "label": "Dr Yasser · L10 · slide 11"
+      },
+      "Posterior thigh + medial buttock skin": {
+        "src": "/reference-slides/10/page-005.jpg",
+        "label": "Dr Yasser · L10 · slide 5"
+      },
+      "Nerve to piriformis · pudendal to perineum": {
+        "src": "/reference-slides/10/page-011.jpg",
+        "label": "Dr Yasser · L10 · slide 11"
+      },
+      "S2–S4 · greater → lesser → pudendal canal": {
+        "src": "/reference-slides/10/page-018.jpg",
+        "label": "Dr Yasser · L10 · slide 18"
+      },
+      "Inferior rectal: anal skin + external sphincter": {
+        "src": "/reference-slides/10/page-018.jpg",
+        "label": "Dr Yasser · L10 · slide 18"
+      },
+      "Perineal: skin + all perineal muscles": {
+        "src": "/reference-slides/10/page-018.jpg",
+        "label": "Dr Yasser · L10 · slide 18"
+      },
+      "Dorsal nerve of penis / clitoris: sensory": {
+        "src": "/reference-slides/10/page-018.jpg",
+        "label": "Dr Yasser · L10 · slide 18"
+      },
+      "L4–S3 · below piriformis": {
+        "src": "/reference-slides/10/page-023.jpg",
+        "label": "Dr Yasser · L10 · slide 23"
+      },
+      "Deep to gluteus maximus and long head of biceps": {
+        "src": "/reference-slides/10/page-012.jpg",
+        "label": "Dr Yasser · L10 · slide 12"
+      },
+      "Tibial part → three hamstrings + magnus hamstring part": {
+        "src": "/reference-slides/10/page-012.jpg",
+        "label": "Dr Yasser · L10 · slide 12"
+      },
+      "Common peroneal part → short head of biceps": {
+        "src": "/reference-slides/10/page-017.jpg",
+        "label": "Dr Yasser · L10 · slide 17"
+      },
+      "Upper popliteal fossa → tibial + common peroneal": {
+        "src": "/reference-slides/10/page-016.jpg",
+        "label": "Dr Yasser · L10 · slide 16"
+      },
+      "Larger sciatic terminal · upper popliteal fossa": {
+        "src": "/reference-slides/10/page-012.jpg",
+        "label": "Dr Yasser · L10 · slide 12"
+      },
+      "Posterior leg · deep to gastrocnemius and soleus": {
+        "src": "/reference-slides/10/page-013.jpg",
+        "label": "Dr Yasser · L10 · slide 13"
+      },
+      "Posterior tibial artery companion · deep to retinaculum": {
+        "src": "/reference-slides/10/page-013.jpg",
+        "label": "Dr Yasser · L10 · slide 13"
+      },
+      "Tibial nerve → all posterior leg muscles": {
+        "src": "/reference-slides/10/page-014.jpg",
+        "label": "Dr Yasser · L10 · slide 14"
+      },
+      "Sural: back of leg and lateral foot · calcaneal: heel": {
+        "src": "/reference-slides/10/page-014.jpg",
+        "label": "Dr Yasser · L10 · slide 14"
+      },
+      "Articular branches → knee and ankle": {
+        "src": "/reference-slides/10/page-014.jpg",
+        "label": "Dr Yasser · L10 · slide 14"
+      },
+      "Deep to flexor retinaculum → medial + lateral plantar": {
+        "src": "/reference-slides/10/page-015.jpg",
+        "label": "Dr Yasser · L10 · slide 15"
+      },
+      "Medial plantar: 4 muscles · medial 3½ toes": {
+        "src": "/reference-slides/10/page-015.jpg",
+        "label": "Dr Yasser · L10 · slide 15"
+      },
+      "First lumbrical · FDB · FHB · abductor hallucis": {
+        "src": "/reference-slides/10/page-015.jpg",
+        "label": "Dr Yasser · L10 · slide 15"
+      },
+      "Lateral plantar: the remaining sole muscles": {
+        "src": "/reference-slides/10/page-026.jpg",
+        "label": "Dr Yasser · L10 · slide 26"
+      },
+      "Medial 3½ toes ↔ lateral 1½ toes": {
+        "src": "/reference-slides/10/page-015.jpg",
+        "label": "Dr Yasser · L10 · slide 15"
+      },
+      "Smaller sciatic terminal → around fibular neck": {
+        "src": "/reference-slides/10/page-012.jpg",
+        "label": "Dr Yasser · L10 · slide 12"
+      },
+      "Inside peroneus longus → two terminals": {
+        "src": "/reference-slides/10/page-016.jpg",
+        "label": "Dr Yasser · L10 · slide 16"
+      },
+      "Cutaneous branches + knee joint": {
+        "src": "/reference-slides/10/page-017.jpg",
+        "label": "Dr Yasser · L10 · slide 17"
+      },
+      "Deep peroneal → anterior compartment": {
+        "src": "/reference-slides/10/page-016.jpg",
+        "label": "Dr Yasser · L10 · slide 16"
+      },
+      "Deep: anterior leg + dorsum foot muscles": {
+        "src": "/reference-slides/10/page-025.jpg",
+        "label": "Dr Yasser · L10 · slide 25"
+      },
+      "Deep cutaneous territory → first web space": {
+        "src": "/reference-slides/10/page-017.jpg",
+        "label": "Dr Yasser · L10 · slide 17"
+      },
+      "Superficial: between longus and brevis": {
+        "src": "/reference-slides/10/page-016.jpg",
+        "label": "Dr Yasser · L10 · slide 16"
+      },
+      "Superficial cutaneous → lower anterolateral leg + dorsum": {
+        "src": "/reference-slides/10/page-017.jpg",
+        "label": "Dr Yasser · L10 · slide 17"
+      },
+      "Sciatica: disc pressure or tumor pressure": {
+        "src": "/reference-slides/10/page-024.jpg",
+        "label": "Dr Yasser · L10 · slide 24"
+      },
+      "Sciatic injury: wounds, fractures, dislocation, faulty injection": {
+        "src": "/reference-slides/10/page-023.jpg",
+        "label": "Dr Yasser · L10 · slide 23"
+      },
+      "Sciatic injury: hamstrings + all muscles below knee": {
+        "src": "/reference-slides/10/page-023.jpg",
+        "label": "Dr Yasser · L10 · slide 23"
+      },
+      "Below-knee sensory loss · EXCEPT medial saphenous strip": {
+        "src": "/reference-slides/10/page-023.jpg",
+        "label": "Dr Yasser · L10 · slide 23"
+      },
+      "Common peroneal injury → equinovarus": {
+        "src": "/reference-slides/10/page-025.jpg",
+        "label": "Dr Yasser · L10 · slide 25"
+      },
+      "Tibial injury → calcaneovalgus": {
+        "src": "/reference-slides/10/page-026.jpg",
+        "label": "Dr Yasser · L10 · slide 26"
+      },
+      "Opposite deficits → opposite resting positions": {
+        "src": "/reference-slides/10/page-023.jpg",
+        "label": "Dr Yasser · L10 · slide 23"
+      }
+    },
+    "12": {
+      "26 adult bones · 7 + 12 + 5 + 1 + 1": {
+        "src": "/reference-slides/12/page-003.jpg",
+        "label": "Dr Yasser · L12 · slide 3"
+      },
+      "Spine, backbone or spinal column": {
+        "src": "/reference-slides/12/page-003.jpg",
+        "label": "Dr Yasser · L12 · slide 3"
+      },
+      "Vertebrae + intervertebral discs": {
+        "src": "/reference-slides/12/page-007.jpg",
+        "label": "Dr Yasser · L12 · slide 7"
+      },
+      "Four adult curves · inspect the side view": {
+        "src": "/reference-slides/12/page-005.jpg",
+        "label": "Dr Yasser · L12 · slide 5"
+      },
+      "Primary sacral curve & newborn curve": {
+        "src": "/reference-slides/12/page-005.jpg",
+        "label": "Dr Yasser · L12 · slide 5"
+      },
+      "Why the curves matter": {
+        "src": "/reference-slides/12/page-006.jpg",
+        "label": "Dr Yasser · L12 · slide 6"
+      },
+      "Kyphosis · lordosis · scoliosis": {
+        "src": "/reference-slides/12/page-006.jpg",
+        "label": "Dr Yasser · L12 · slide 6"
+      },
+      "Anterior body · posterior arch": {
+        "src": "/reference-slides/12/page-010.jpg",
+        "label": "Dr Yasser · L12 · slide 10"
+      },
+      "Seven processes · 2 + 1 + 4": {
+        "src": "/reference-slides/12/page-014.jpg",
+        "label": "Dr Yasser · L12 · slide 14"
+      },
+      "Foramen → spinal canal": {
+        "src": "/reference-slides/12/page-011.jpg",
+        "label": "Dr Yasser · L12 · slide 11"
+      },
+      "Two vertebral notches form one intervertebral foramen": {
+        "src": "/reference-slides/12/page-011.jpg",
+        "label": "Dr Yasser · L12 · slide 11"
+      },
+      "Small body · large triangular foramen": {
+        "src": "/reference-slides/12/page-015.jpg",
+        "label": "Dr Yasser · L12 · slide 15"
+      },
+      "Foramina, tubercles & attachments": {
+        "src": "/reference-slides/12/page-010.jpg",
+        "label": "Dr Yasser · L12 · slide 10"
+      },
+      "Cervical transverse processes beside their muscles": {
+        "src": "/reference-slides/12/page-012.jpg",
+        "label": "Dr Yasser · L12 · slide 12"
+      },
+      "C6 · carotid tubercle": {
+        "src": "/reference-slides/12/page-014.jpg",
+        "label": "Dr Yasser · L12 · slide 14"
+      },
+      "Bifid C2–C6 · prominent C7": {
+        "src": "/reference-slides/12/page-012.jpg",
+        "label": "Dr Yasser · L12 · slide 12"
+      },
+      "Atlas C1 · a ring without body or spine": {
+        "src": "/reference-slides/12/page-013.jpg",
+        "label": "Dr Yasser · L12 · slide 13"
+      },
+      "Atlas · the widest cervical vertebra": {
+        "src": "/reference-slides/12/page-004.jpg",
+        "label": "Dr Yasser · L12 · slide 4"
+      },
+      "Axis C2 · dens forms the pivot": {
+        "src": "/reference-slides/12/page-013.jpg",
+        "label": "Dr Yasser · L12 · slide 13"
+      },
+      "Atlanto-occipital · “yes”": {
+        "src": "/reference-slides/12/page-013.jpg",
+        "label": "Dr Yasser · L12 · slide 13"
+      },
+      "Anterior & posterior atlanto-occipital membranes": {
+        "src": "/reference-slides/12/page-013.jpg",
+        "label": "Dr Yasser · L12 · slide 13"
+      },
+      "Atlanto-axial · “no”": {
+        "src": "/reference-slides/12/page-013.jpg",
+        "label": "Dr Yasser · L12 · slide 13"
+      },
+      "Apical & alar ligaments": {
+        "src": "/reference-slides/12/page-024.jpg",
+        "label": "Dr Yasser · L12 · slide 24"
+      },
+      "Cruciate ligament · transverse + vertical": {
+        "src": "/reference-slides/12/page-025.jpg",
+        "label": "Dr Yasser · L12 · slide 25"
+      },
+      "Membrana tectoria": {
+        "src": "/reference-slides/12/page-024.jpg",
+        "label": "Dr Yasser · L12 · slide 24"
+      },
+      "Thoracic · heart-shaped body & downward spine": {
+        "src": "/reference-slides/12/page-014.jpg",
+        "label": "Dr Yasser · L12 · slide 14"
+      },
+      "Two rib contacts · head and tubercle": {
+        "src": "/reference-slides/12/page-014.jpg",
+        "label": "Dr Yasser · L12 · slide 14"
+      },
+      "Lumbar · kidney-shaped body & thick spine": {
+        "src": "/reference-slides/12/page-015.jpg",
+        "label": "Dr Yasser · L12 · slide 15"
+      },
+      "Lumbar · triangular foramen, medial facets": {
+        "src": "/reference-slides/12/page-015.jpg",
+        "label": "Dr Yasser · L12 · slide 15"
+      },
+      "Inferior articular facets · compare regional directions": {
+        "src": "/reference-slides/12/page-025.jpg",
+        "label": "Dr Yasser · L12 · slide 25"
+      },
+      "Cervical · thoracic · lumbar at the same scale": {
+        "src": "/reference-slides/12/page-004.jpg",
+        "label": "Dr Yasser · L12 · slide 4"
+      },
+      "Discs lie between adjacent bodies": {
+        "src": "/reference-slides/12/page-007.jpg",
+        "label": "Dr Yasser · L12 · slide 7"
+      },
+      "Annulus ring · nucleus center": {
+        "src": "/reference-slides/12/page-008.jpg",
+        "label": "Dr Yasser · L12 · slide 8"
+      },
+      "Body joints · cartilage and longitudinal ligaments": {
+        "src": "/reference-slides/12/page-024.jpg",
+        "label": "Dr Yasser · L12 · slide 24"
+      },
+      "Lumbar discs · thickness and weak posterior ring": {
+        "src": "/reference-slides/12/page-008.jpg",
+        "label": "Dr Yasser · L12 · slide 8"
+      },
+      "Posterolateral herniation · L4–L5 / L5–S1": {
+        "src": "/reference-slides/12/page-027.jpg",
+        "label": "Dr Yasser · L12 · slide 27"
+      },
+      "Zygapophysial joints · plane synovial": {
+        "src": "/reference-slides/12/page-025.jpg",
+        "label": "Dr Yasser · L12 · slide 25"
+      },
+      "Supraspinous ligament · see the actual connection": {
+        "src": "/reference-slides/12/page-025.jpg",
+        "label": "Dr Yasser · L12 · slide 25"
+      },
+      "Interspinous ligaments · see the actual connection": {
+        "src": "/reference-slides/12/page-024.jpg",
+        "label": "Dr Yasser · L12 · slide 24"
+      },
+      "Intertransverse ligaments · see the actual connection": {
+        "src": "/reference-slides/12/page-025.jpg",
+        "label": "Dr Yasser · L12 · slide 25"
+      },
+      "Ligamentum flavum · see the actual connection": {
+        "src": "/reference-slides/12/page-025.jpg",
+        "label": "Dr Yasser · L12 · slide 25"
+      },
+      "Lumbar facets · sagittal to coronal": {
+        "src": "/reference-slides/12/page-014.jpg",
+        "label": "Dr Yasser · L12 · slide 14"
+      },
+      "Flexion · match the muscle group": {
+        "src": "/reference-slides/12/page-036.jpg",
+        "label": "Dr Yasser · L12 · slide 36"
+      },
+      "Extension · match the muscle group": {
+        "src": "/reference-slides/12/page-019.jpg",
+        "label": "Dr Yasser · L12 · slide 19"
+      },
+      "Rotation · match the muscle group": {
+        "src": "/reference-slides/12/page-036.jpg",
+        "label": "Dr Yasser · L12 · slide 36"
+      },
+      "Lateral flexion · match the muscle group": {
+        "src": "/reference-slides/12/page-033.jpg",
+        "label": "Dr Yasser · L12 · slide 33"
+      },
+      "Sacrum · five fused vertebrae": {
+        "src": "/reference-slides/12/page-004.jpg",
+        "label": "Dr Yasser · L12 · slide 4"
+      },
+      "Sacral crest · canal · hiatus": {
+        "src": "/reference-slides/12/page-011.jpg",
+        "label": "Dr Yasser · L12 · slide 11"
+      },
+      "Auricular surface & sacral tuberosity": {
+        "src": "/reference-slides/12/page-020.jpg",
+        "label": "Dr Yasser · L12 · slide 20"
+      },
+      "Coccyx · four fused pieces & cornua": {
+        "src": "/reference-slides/12/page-003.jpg",
+        "label": "Dr Yasser · L12 · slide 3"
+      },
+      "Atlas (C1) · isolated original bone": {
+        "src": "/reference-slides/12/page-013.jpg",
+        "label": "Dr Yasser · L12 · slide 13"
+      },
+      "Axis (C2) · isolated original bone": {
+        "src": "/reference-slides/12/page-013.jpg",
+        "label": "Dr Yasser · L12 · slide 13"
+      },
+      "C3 · isolated original bone": {
+        "src": "/reference-slides/12/page-003.jpg",
+        "label": "Dr Yasser · L12 · slide 3"
+      },
+      "C4 · isolated original bone": {
+        "src": "/reference-slides/12/page-003.jpg",
+        "label": "Dr Yasser · L12 · slide 3"
+      },
+      "C5 · isolated original bone": {
+        "src": "/reference-slides/12/page-003.jpg",
+        "label": "Dr Yasser · L12 · slide 3"
+      },
+      "C6 · isolated original bone": {
+        "src": "/reference-slides/12/page-003.jpg",
+        "label": "Dr Yasser · L12 · slide 3"
+      },
+      "C7 · isolated original bone": {
+        "src": "/reference-slides/12/page-003.jpg",
+        "label": "Dr Yasser · L12 · slide 3"
+      },
+      "T1 · isolated original bone": {
+        "src": "/reference-slides/12/page-003.jpg",
+        "label": "Dr Yasser · L12 · slide 3"
+      },
+      "T2 · isolated original bone": {
+        "src": "/reference-slides/12/page-003.jpg",
+        "label": "Dr Yasser · L12 · slide 3"
+      },
+      "T3 · isolated original bone": {
+        "src": "/reference-slides/12/page-003.jpg",
+        "label": "Dr Yasser · L12 · slide 3"
+      },
+      "T4 · isolated original bone": {
+        "src": "/reference-slides/12/page-003.jpg",
+        "label": "Dr Yasser · L12 · slide 3"
+      },
+      "T5 · isolated original bone": {
+        "src": "/reference-slides/12/page-003.jpg",
+        "label": "Dr Yasser · L12 · slide 3"
+      },
+      "T6 · isolated original bone": {
+        "src": "/reference-slides/12/page-003.jpg",
+        "label": "Dr Yasser · L12 · slide 3"
+      },
+      "T7 · isolated original bone": {
+        "src": "/reference-slides/12/page-003.jpg",
+        "label": "Dr Yasser · L12 · slide 3"
+      },
+      "T8 · isolated original bone": {
+        "src": "/reference-slides/12/page-003.jpg",
+        "label": "Dr Yasser · L12 · slide 3"
+      },
+      "T9 · isolated original bone": {
+        "src": "/reference-slides/12/page-003.jpg",
+        "label": "Dr Yasser · L12 · slide 3"
+      },
+      "T10 · isolated original bone": {
+        "src": "/reference-slides/12/page-003.jpg",
+        "label": "Dr Yasser · L12 · slide 3"
+      },
+      "T11 · isolated original bone": {
+        "src": "/reference-slides/12/page-003.jpg",
+        "label": "Dr Yasser · L12 · slide 3"
+      },
+      "T12 · isolated original bone": {
+        "src": "/reference-slides/12/page-003.jpg",
+        "label": "Dr Yasser · L12 · slide 3"
+      },
+      "L1 · isolated original bone": {
+        "src": "/reference-slides/12/page-003.jpg",
+        "label": "Dr Yasser · L12 · slide 3"
+      },
+      "L2 · isolated original bone": {
+        "src": "/reference-slides/12/page-003.jpg",
+        "label": "Dr Yasser · L12 · slide 3"
+      },
+      "L3 · isolated original bone": {
+        "src": "/reference-slides/12/page-003.jpg",
+        "label": "Dr Yasser · L12 · slide 3"
+      },
+      "L4 · isolated original bone": {
+        "src": "/reference-slides/12/page-003.jpg",
+        "label": "Dr Yasser · L12 · slide 3"
+      },
+      "L5 · isolated original bone": {
+        "src": "/reference-slides/12/page-003.jpg",
+        "label": "Dr Yasser · L12 · slide 3"
+      },
+      "Sacrum · isolated original bone": {
+        "src": "/reference-slides/12/page-004.jpg",
+        "label": "Dr Yasser · L12 · slide 4"
+      },
+      "Coccyx · isolated original bone": {
+        "src": "/reference-slides/12/page-004.jpg",
+        "label": "Dr Yasser · L12 · slide 4"
+      }
+    },
+    "13": {
+      "Superficial axio-appendicular layer": {
+        "src": "/reference-slides/13/page-015.jpg",
+        "label": "Dr Yasser · L13 · slide 15"
+      },
+      "Trapezius · isolate the source muscle": {
+        "src": "/reference-slides/13/page-013.jpg",
+        "label": "Dr Yasser · L13 · slide 13"
+      },
+      "Latissimus dorsi · isolate the source muscle": {
+        "src": "/reference-slides/13/page-026.jpg",
+        "label": "Dr Yasser · L13 · slide 26"
+      },
+      "Levator scapulae · isolate the source muscle": {
+        "src": "/reference-slides/13/page-011.jpg",
+        "label": "Dr Yasser · L13 · slide 11"
+      },
+      "Rhomboids · isolate the source muscle": {
+        "src": "/reference-slides/13/page-003.jpg",
+        "label": "Dr Yasser · L13 · slide 3"
+      },
+      "Serratus posterior superior · deep to rhomboids": {
+        "src": "/reference-slides/13/page-010.jpg",
+        "label": "Dr Yasser · L13 · slide 10"
+      },
+      "Serratus posterior inferior · deep to latissimus dorsi": {
+        "src": "/reference-slides/13/page-031.jpg",
+        "label": "Dr Yasser · L13 · slide 31"
+      },
+      "Three intrinsic layers · posterior rami": {
+        "src": "/reference-slides/13/page-008.jpg",
+        "label": "Dr Yasser · L13 · slide 8"
+      },
+      "Splenius cervicis · spinous to superior attachment": {
+        "src": "/reference-slides/13/page-013.jpg",
+        "label": "Dr Yasser · L13 · slide 13"
+      },
+      "Splenius capitis · spinous to superior attachment": {
+        "src": "/reference-slides/13/page-010.jpg",
+        "label": "Dr Yasser · L13 · slide 10"
+      },
+      "Lateral → intermediate → medial": {
+        "src": "/reference-slides/13/page-020.jpg",
+        "label": "Dr Yasser · L13 · slide 20"
+      },
+      "Iliocostalis · lateral": {
+        "src": "/reference-slides/13/page-008.jpg",
+        "label": "Dr Yasser · L13 · slide 8"
+      },
+      "Longissimus · intermediate": {
+        "src": "/reference-slides/13/page-003.jpg",
+        "label": "Dr Yasser · L13 · slide 3"
+      },
+      "Spinalis · medial": {
+        "src": "/reference-slides/13/page-022.jpg",
+        "label": "Dr Yasser · L13 · slide 22"
+      },
+      "Transverse process → spine of a vertebra above": {
+        "src": "/reference-slides/13/page-005.jpg",
+        "label": "Dr Yasser · L13 · slide 5"
+      },
+      "Semispinalis · deep layer": {
+        "src": "/reference-slides/13/page-010.jpg",
+        "label": "Dr Yasser · L13 · slide 10"
+      },
+      "Multifidus · deep layer": {
+        "src": "/reference-slides/13/page-010.jpg",
+        "label": "Dr Yasser · L13 · slide 10"
+      },
+      "Rotators · deep layer": {
+        "src": "/reference-slides/13/page-010.jpg",
+        "label": "Dr Yasser · L13 · slide 10"
+      },
+      "Interspinalis · read the connection": {
+        "src": "/reference-slides/13/page-003.jpg",
+        "label": "Dr Yasser · L13 · slide 3"
+      },
+      "Intertransversarii · read the connection": {
+        "src": "/reference-slides/13/page-003.jpg",
+        "label": "Dr Yasser · L13 · slide 3"
+      },
+      "Levatores costarum · read the connection": {
+        "src": "/reference-slides/13/page-003.jpg",
+        "label": "Dr Yasser · L13 · slide 3"
+      },
+      "Longus colli · anterior to the cervical column": {
+        "src": "/reference-slides/13/page-011.jpg",
+        "label": "Dr Yasser · L13 · slide 11"
+      },
+      "Longus capitis · anterior to the cervical column": {
+        "src": "/reference-slides/13/page-011.jpg",
+        "label": "Dr Yasser · L13 · slide 11"
+      },
+      "Rectus capitis anterior · anterior to the cervical column": {
+        "src": "/reference-slides/13/page-011.jpg",
+        "label": "Dr Yasser · L13 · slide 11"
+      },
+      "Anterior scalene · anterior to the cervical column": {
+        "src": "/reference-slides/13/page-011.jpg",
+        "label": "Dr Yasser · L13 · slide 11"
+      },
+      "Lateral flexion · four named muscles": {
+        "src": "/reference-slides/13/page-011.jpg",
+        "label": "Dr Yasser · L13 · slide 11"
+      },
+      "Rectus capitis lateralis · lateral cervical relation": {
+        "src": "/reference-slides/13/page-011.jpg",
+        "label": "Dr Yasser · L13 · slide 11"
+      },
+      "Levator scapulae · lateral cervical relation": {
+        "src": "/reference-slides/13/page-017.jpg",
+        "label": "Dr Yasser · L13 · slide 17"
+      },
+      "Middle scalene · lateral cervical relation": {
+        "src": "/reference-slides/13/page-011.jpg",
+        "label": "Dr Yasser · L13 · slide 11"
+      },
+      "Posterior scalene · lateral cervical relation": {
+        "src": "/reference-slides/13/page-011.jpg",
+        "label": "Dr Yasser · L13 · slide 11"
+      },
+      "Head flexion versus neck flexion": {
+        "src": "/reference-slides/13/page-011.jpg",
+        "label": "Dr Yasser · L13 · slide 11"
+      },
+      "Four short muscles behind atlas and axis": {
+        "src": "/reference-slides/13/page-008.jpg",
+        "label": "Dr Yasser · L13 · slide 8"
+      },
+      "Rectus capitis posterior major · attachments on C1 / C2 / skull": {
+        "src": "/reference-slides/13/page-010.jpg",
+        "label": "Dr Yasser · L13 · slide 10"
+      },
+      "Rectus capitis posterior minor · attachments on C1 / C2 / skull": {
+        "src": "/reference-slides/13/page-010.jpg",
+        "label": "Dr Yasser · L13 · slide 10"
+      },
+      "Obliquus capitis inferior · attachments on C1 / C2 / skull": {
+        "src": "/reference-slides/13/page-010.jpg",
+        "label": "Dr Yasser · L13 · slide 10"
+      },
+      "Obliquus capitis superior · attachments on C1 / C2 / skull": {
+        "src": "/reference-slides/13/page-010.jpg",
+        "label": "Dr Yasser · L13 · slide 10"
+      }
+    },
+    "14": {
+      "Spinal cord inside the spinal canal": {
+        "src": "/reference-slides/14/page-012.jpg",
+        "label": "Dr Yasser · L14 · slide 12"
+      },
+      "Cord development & measurements": {
+        "src": "/reference-slides/14/page-012.jpg",
+        "label": "Dr Yasser · L14 · slide 12"
+      },
+      "Conus medullaris & cauda equina": {
+        "src": "/reference-slides/14/page-012.jpg",
+        "label": "Dr Yasser · L14 · slide 12"
+      },
+      "31 pairs · 8 + 12 + 5 + 5 + 1": {
+        "src": "/reference-slides/14/page-003.jpg",
+        "label": "Dr Yasser · L14 · slide 3"
+      },
+      "Dorsal in · ventral out": {
+        "src": "/reference-slides/14/page-008.jpg",
+        "label": "Dr Yasser · L14 · slide 8"
+      },
+      "One segment gives one pair of spinal nerves": {
+        "src": "/reference-slides/14/page-007.jpg",
+        "label": "Dr Yasser · L14 · slide 7"
+      },
+      "Pia mater & denticulate ligaments": {
+        "src": "/reference-slides/14/page-012.jpg",
+        "label": "Dr Yasser · L14 · slide 12"
+      },
+      "Arachnoid mater · lower border of S2": {
+        "src": "/reference-slides/14/page-012.jpg",
+        "label": "Dr Yasser · L14 · slide 12"
+      },
+      "Dura mater · tube and nerve sleeves": {
+        "src": "/reference-slides/14/page-012.jpg",
+        "label": "Dr Yasser · L14 · slide 12"
+      },
+      "Outside → inside: epidural, dura, arachnoid, pia": {
+        "src": "/reference-slides/14/page-012.jpg",
+        "label": "Dr Yasser · L14 · slide 12"
+      },
+      "Lumbar cistern · L2 to S2": {
+        "src": "/reference-slides/14/page-013.jpg",
+        "label": "Dr Yasser · L14 · slide 13"
+      },
+      "C1–C7 above · C8 between C7 and T1": {
+        "src": "/reference-slides/14/page-007.jpg",
+        "label": "Dr Yasser · L14 · slide 7"
+      },
+      "C1–C4 cervical · C5–T1 brachial": {
+        "src": "/reference-slides/14/page-003.jpg",
+        "label": "Dr Yasser · L14 · slide 3"
+      },
+      "Below vertebrae · foramina · hiatus": {
+        "src": "/reference-slides/14/page-014.jpg",
+        "label": "Dr Yasser · L14 · slide 14"
+      },
+      "Ventral rami C1–C4 · behind SCM": {
+        "src": "/reference-slides/14/page-008.jpg",
+        "label": "Dr Yasser · L14 · slide 8"
+      },
+      "Four cutaneous branches": {
+        "src": "/reference-slides/14/page-016.jpg",
+        "label": "Dr Yasser · L14 · slide 16"
+      },
+      "Ansa cervicalis · C1 + C2–C3": {
+        "src": "/reference-slides/14/page-013.jpg",
+        "label": "Dr Yasser · L14 · slide 13"
+      },
+      "Phrenic · C3–C5 → diaphragm": {
+        "src": "/reference-slides/14/page-003.jpg",
+        "label": "Dr Yasser · L14 · slide 3"
+      },
+      "Six contents of the inferior vertebral canal": {
+        "src": "/reference-slides/14/page-012.jpg",
+        "label": "Dr Yasser · L14 · slide 12"
+      },
+      "Lumbar puncture · L3–L4 or L4–L5": {
+        "src": "/reference-slides/14/page-013.jpg",
+        "label": "Dr Yasser · L14 · slide 13"
+      },
+      "Epidural anesthesia · outside dura": {
+        "src": "/reference-slides/14/page-011.jpg",
+        "label": "Dr Yasser · L14 · slide 11"
+      },
+      "Caudal epidural · sacral hiatus": {
+        "src": "/reference-slides/14/page-011.jpg",
+        "label": "Dr Yasser · L14 · slide 11"
+      },
+      "Cervical cord impingement · causes": {
+        "src": "/reference-slides/14/page-017.jpg",
+        "label": "Dr Yasser · L14 · slide 17"
+      },
+      "Effects depend on the level": {
+        "src": "/reference-slides/14/page-014.jpg",
+        "label": "Dr Yasser · L14 · slide 14"
+      },
+      "Disc pathology or bone spurs → nerve encroachment": {
+        "src": "/reference-slides/14/page-006.jpg",
+        "label": "Dr Yasser · L14 · slide 6"
+      },
+      "Downward: foramina narrow, nerves enlarge": {
+        "src": "/reference-slides/14/page-008.jpg",
+        "label": "Dr Yasser · L14 · slide 8"
+      },
+      "C3–C4 · locate its sensory territory": {
+        "src": "/reference-slides/14/page-003.jpg",
+        "label": "Dr Yasser · L14 · slide 3"
+      },
+      "C5 · locate its sensory territory": {
+        "src": "/reference-slides/14/page-003.jpg",
+        "label": "Dr Yasser · L14 · slide 3"
+      },
+      "C6 · locate its sensory territory": {
+        "src": "/reference-slides/14/page-003.jpg",
+        "label": "Dr Yasser · L14 · slide 3"
+      },
+      "C7 · locate its sensory territory": {
+        "src": "/reference-slides/14/page-003.jpg",
+        "label": "Dr Yasser · L14 · slide 3"
+      },
+      "C8 · locate its sensory territory": {
+        "src": "/reference-slides/14/page-003.jpg",
+        "label": "Dr Yasser · L14 · slide 3"
+      },
+      "T1 · locate its sensory territory": {
+        "src": "/reference-slides/14/page-003.jpg",
+        "label": "Dr Yasser · L14 · slide 3"
+      },
+      "T2 · locate its sensory territory": {
+        "src": "/reference-slides/14/page-003.jpg",
+        "label": "Dr Yasser · L14 · slide 3"
+      },
+      "Disc C2 · root C3 in the lecture table": {
+        "src": "/reference-slides/14/page-012.jpg",
+        "label": "Dr Yasser · L14 · slide 12"
+      },
+      "Disc C3 · root C4 in the lecture table": {
+        "src": "/reference-slides/14/page-012.jpg",
+        "label": "Dr Yasser · L14 · slide 12"
+      },
+      "Disc C4 · root C5 in the lecture table": {
+        "src": "/reference-slides/14/page-012.jpg",
+        "label": "Dr Yasser · L14 · slide 12"
+      },
+      "Disc C5 · root C6 in the lecture table": {
+        "src": "/reference-slides/14/page-012.jpg",
+        "label": "Dr Yasser · L14 · slide 12"
+      },
+      "Disc C6 · root C7 in the lecture table": {
+        "src": "/reference-slides/14/page-012.jpg",
+        "label": "Dr Yasser · L14 · slide 12"
+      },
+      "Disc C7 · root C8 in the lecture table": {
+        "src": "/reference-slides/14/page-012.jpg",
+        "label": "Dr Yasser · L14 · slide 12"
+      },
+      "Four sensory modalities · compare both sides": {
+        "src": "/reference-slides/14/page-003.jpg",
+        "label": "Dr Yasser · L14 · slide 3"
+      },
+      "Arm abduction · C5": {
+        "src": "/reference-slides/14/page-017.jpg",
+        "label": "Dr Yasser · L14 · slide 17"
+      },
+      "Arm adduction · C7": {
+        "src": "/reference-slides/14/page-017.jpg",
+        "label": "Dr Yasser · L14 · slide 17"
+      },
+      "Forearm flexion · C5, C6": {
+        "src": "/reference-slides/14/page-005.jpg",
+        "label": "Dr Yasser · L14 · slide 5"
+      },
+      "Forearm extension · C7": {
+        "src": "/reference-slides/14/page-005.jpg",
+        "label": "Dr Yasser · L14 · slide 5"
+      },
+      "Wrist flexion · C7, C8 + T1": {
+        "src": "/reference-slides/14/page-005.jpg",
+        "label": "Dr Yasser · L14 · slide 5"
+      },
+      "Wrist extension · C7, C8": {
+        "src": "/reference-slides/14/page-005.jpg",
+        "label": "Dr Yasser · L14 · slide 5"
+      },
+      "Finger flexion · C7, C8 + T1": {
+        "src": "/reference-slides/14/page-005.jpg",
+        "label": "Dr Yasser · L14 · slide 5"
+      },
+      "Finger extension · C7": {
+        "src": "/reference-slides/14/page-005.jpg",
+        "label": "Dr Yasser · L14 · slide 5"
+      },
+      "Thumb abduction · C7, C8 + T1": {
+        "src": "/reference-slides/14/page-017.jpg",
+        "label": "Dr Yasser · L14 · slide 17"
+      },
+      "Thumb opposition · T1": {
+        "src": "/reference-slides/14/page-017.jpg",
+        "label": "Dr Yasser · L14 · slide 17"
+      },
+      "Finger abduction · C8 + T1": {
+        "src": "/reference-slides/14/page-017.jpg",
+        "label": "Dr Yasser · L14 · slide 17"
+      },
+      "Finger adduction · C8 + T1": {
+        "src": "/reference-slides/14/page-017.jpg",
+        "label": "Dr Yasser · L14 · slide 17"
+      },
+      "Vertebral artery · first subclavian part": {
+        "src": "/reference-slides/14/page-005.jpg",
+        "label": "Dr Yasser · L14 · slide 5"
+      },
+      "Foramen magnum → beside medulla → basilar": {
+        "src": "/reference-slides/14/page-014.jpg",
+        "label": "Dr Yasser · L14 · slide 14"
+      },
+      "Four branch groups": {
+        "src": "/reference-slides/14/page-016.jpg",
+        "label": "Dr Yasser · L14 · slide 16"
+      }
+    }
+  },
+  "aliases": {
+    "/lectures/l7/slides/1.jpg": {
+      "src": "/reference-slides/7/page-003.jpg",
+      "label": "Dr Yasser · L7 · slide 3"
+    },
+    "/lectures/l7/slides/10.jpg": {
+      "src": "/reference-slides/7/page-015.jpg",
+      "label": "Dr Yasser · L7 · slide 15"
+    },
+    "/lectures/l7/slides/11.jpg": {
+      "src": "/reference-slides/7/page-018.jpg",
+      "label": "Dr Yasser · L7 · slide 18"
+    },
+    "/lectures/l7/slides/12.jpg": {
+      "src": "/reference-slides/7/page-025.jpg",
+      "label": "Dr Yasser · L7 · slide 25"
+    },
+    "/lectures/l7/slides/13.jpg": {
+      "src": "/reference-slides/7/page-025.jpg",
+      "label": "Dr Yasser · L7 · slide 25"
+    },
+    "/lectures/l7/slides/14.jpg": {
+      "src": "/reference-slides/7/page-033.jpg",
+      "label": "Dr Yasser · L7 · slide 33"
+    },
+    "/lectures/l7/slides/15.jpg": {
+      "src": "/reference-slides/7/page-033.jpg",
+      "label": "Dr Yasser · L7 · slide 33"
+    },
+    "/lectures/l7/slides/16.jpg": {
+      "src": "/reference-slides/7/page-032.jpg",
+      "label": "Dr Yasser · L7 · slide 32"
+    },
+    "/lectures/l7/slides/17.jpg": {
+      "src": "/reference-slides/7/page-036.jpg",
+      "label": "Dr Yasser · L7 · slide 36"
+    },
+    "/lectures/l7/slides/18.jpg": {
+      "src": "/reference-slides/7/page-037.jpg",
+      "label": "Dr Yasser · L7 · slide 37"
+    },
+    "/lectures/l7/slides/19.jpg": {
+      "src": "/reference-slides/7/page-038.jpg",
+      "label": "Dr Yasser · L7 · slide 38"
+    },
+    "/lectures/l7/slides/2.jpg": {
+      "src": "/reference-slides/7/page-003.jpg",
+      "label": "Dr Yasser · L7 · slide 3"
+    },
+    "/lectures/l7/slides/3.jpg": {
+      "src": "/reference-slides/7/page-005.jpg",
+      "label": "Dr Yasser · L7 · slide 5"
+    },
+    "/lectures/l7/slides/4.jpg": {
+      "src": "/reference-slides/7/page-006.jpg",
+      "label": "Dr Yasser · L7 · slide 6"
+    },
+    "/lectures/l7/slides/5.jpg": {
+      "src": "/reference-slides/7/page-008.jpg",
+      "label": "Dr Yasser · L7 · slide 8"
+    },
+    "/lectures/l7/slides/6.jpg": {
+      "src": "/reference-slides/7/page-009.jpg",
+      "label": "Dr Yasser · L7 · slide 9"
+    },
+    "/lectures/l7/slides/7.jpg": {
+      "src": "/reference-slides/7/page-028.jpg",
+      "label": "Dr Yasser · L7 · slide 28"
+    },
+    "/lectures/l7/slides/8.jpg": {
+      "src": "/reference-slides/7/page-029.jpg",
+      "label": "Dr Yasser · L7 · slide 29"
+    },
+    "/lectures/l7/slides/9.jpg": {
+      "src": "/reference-slides/7/page-030.jpg",
+      "label": "Dr Yasser · L7 · slide 30"
+    },
+    "/lectures/l8/slides/1.jpg": {
+      "src": "/reference-slides/8/page-003.jpg",
+      "label": "Dr Yasser · L8 · slide 3"
+    },
+    "/lectures/l8/slides/10.jpg": {
+      "src": "/reference-slides/8/page-011.jpg",
+      "label": "Dr Yasser · L8 · slide 11"
+    },
+    "/lectures/l8/slides/11.jpg": {
+      "src": "/reference-slides/8/page-011.jpg",
+      "label": "Dr Yasser · L8 · slide 11"
+    },
+    "/lectures/l8/slides/12.jpg": {
+      "src": "/reference-slides/8/page-012.jpg",
+      "label": "Dr Yasser · L8 · slide 12"
+    },
+    "/lectures/l8/slides/13.jpg": {
+      "src": "/reference-slides/8/page-003.jpg",
+      "label": "Dr Yasser · L8 · slide 3"
+    },
+    "/lectures/l8/slides/14.jpg": {
+      "src": "/reference-slides/8/page-020.jpg",
+      "label": "Dr Yasser · L8 · slide 20"
+    },
+    "/lectures/l8/slides/15.jpg": {
+      "src": "/reference-slides/8/page-020.jpg",
+      "label": "Dr Yasser · L8 · slide 20"
+    },
+    "/lectures/l8/slides/16.jpg": {
+      "src": "/reference-slides/8/page-020.jpg",
+      "label": "Dr Yasser · L8 · slide 20"
+    },
+    "/lectures/l8/slides/17.jpg": {
+      "src": "/reference-slides/8/page-021.jpg",
+      "label": "Dr Yasser · L8 · slide 21"
+    },
+    "/lectures/l8/slides/18.jpg": {
+      "src": "/reference-slides/8/page-023.jpg",
+      "label": "Dr Yasser · L8 · slide 23"
+    },
+    "/lectures/l8/slides/19.jpg": {
+      "src": "/reference-slides/8/page-025.jpg",
+      "label": "Dr Yasser · L8 · slide 25"
+    },
+    "/lectures/l8/slides/2.jpg": {
+      "src": "/reference-slides/8/page-005.jpg",
+      "label": "Dr Yasser · L8 · slide 5"
+    },
+    "/lectures/l8/slides/20.jpg": {
+      "src": "/reference-slides/8/page-025.jpg",
+      "label": "Dr Yasser · L8 · slide 25"
+    },
+    "/lectures/l8/slides/21.jpg": {
+      "src": "/reference-slides/8/page-023.jpg",
+      "label": "Dr Yasser · L8 · slide 23"
+    },
+    "/lectures/l8/slides/22.jpg": {
+      "src": "/reference-slides/8/page-017.jpg",
+      "label": "Dr Yasser · L8 · slide 17"
+    },
+    "/lectures/l8/slides/23.jpg": {
+      "src": "/reference-slides/8/page-027.jpg",
+      "label": "Dr Yasser · L8 · slide 27"
+    },
+    "/lectures/l8/slides/24.jpg": {
+      "src": "/reference-slides/8/page-029.jpg",
+      "label": "Dr Yasser · L8 · slide 29"
+    },
+    "/lectures/l8/slides/25.jpg": {
+      "src": "/reference-slides/8/page-030.jpg",
+      "label": "Dr Yasser · L8 · slide 30"
+    },
+    "/lectures/l8/slides/3.jpg": {
+      "src": "/reference-slides/8/page-023.jpg",
+      "label": "Dr Yasser · L8 · slide 23"
+    },
+    "/lectures/l8/slides/4.jpg": {
+      "src": "/reference-slides/8/page-008.jpg",
+      "label": "Dr Yasser · L8 · slide 8"
+    },
+    "/lectures/l8/slides/5.jpg": {
+      "src": "/reference-slides/8/page-008.jpg",
+      "label": "Dr Yasser · L8 · slide 8"
+    },
+    "/lectures/l8/slides/6.jpg": {
+      "src": "/reference-slides/8/page-010.jpg",
+      "label": "Dr Yasser · L8 · slide 10"
+    },
+    "/lectures/l8/slides/7.jpg": {
+      "src": "/reference-slides/8/page-010.jpg",
+      "label": "Dr Yasser · L8 · slide 10"
+    },
+    "/lectures/l8/slides/8.jpg": {
+      "src": "/reference-slides/8/page-010.jpg",
+      "label": "Dr Yasser · L8 · slide 10"
+    },
+    "/lectures/l8/slides/9.jpg": {
+      "src": "/reference-slides/8/page-014.jpg",
+      "label": "Dr Yasser · L8 · slide 14"
+    },
+    "/lectures/l9/slides/1.jpg": {
+      "src": "/reference-slides/9/page-019.jpg",
+      "label": "Dr Yasser · L9 · slide 19"
+    },
+    "/lectures/l9/slides/10.jpg": {
+      "src": "/reference-slides/9/page-019.jpg",
+      "label": "Dr Yasser · L9 · slide 19"
+    },
+    "/lectures/l9/slides/11.jpg": {
+      "src": "/reference-slides/9/page-021.jpg",
+      "label": "Dr Yasser · L9 · slide 21"
+    },
+    "/lectures/l9/slides/12.jpg": {
+      "src": "/reference-slides/9/page-023.jpg",
+      "label": "Dr Yasser · L9 · slide 23"
+    },
+    "/lectures/l9/slides/2.jpg": {
+      "src": "/reference-slides/9/page-005.jpg",
+      "label": "Dr Yasser · L9 · slide 5"
+    },
+    "/lectures/l9/slides/3.jpg": {
+      "src": "/reference-slides/9/page-005.jpg",
+      "label": "Dr Yasser · L9 · slide 5"
+    },
+    "/lectures/l9/slides/4.jpg": {
+      "src": "/reference-slides/9/page-006.jpg",
+      "label": "Dr Yasser · L9 · slide 6"
+    },
+    "/lectures/l9/slides/5.jpg": {
+      "src": "/reference-slides/9/page-010.jpg",
+      "label": "Dr Yasser · L9 · slide 10"
+    },
+    "/lectures/l9/slides/6.jpg": {
+      "src": "/reference-slides/9/page-012.jpg",
+      "label": "Dr Yasser · L9 · slide 12"
+    },
+    "/lectures/l9/slides/7.jpg": {
+      "src": "/reference-slides/9/page-013.jpg",
+      "label": "Dr Yasser · L9 · slide 13"
+    },
+    "/lectures/l9/slides/8.jpg": {
+      "src": "/reference-slides/9/page-014.jpg",
+      "label": "Dr Yasser · L9 · slide 14"
+    },
+    "/lectures/l9/slides/9.jpg": {
+      "src": "/reference-slides/9/page-015.jpg",
+      "label": "Dr Yasser · L9 · slide 15"
+    },
+    "/lectures/l10/slides/1.jpg": {
+      "src": "/reference-slides/10/page-003.jpg",
+      "label": "Dr Yasser · L10 · slide 3"
+    },
+    "/lectures/l10/slides/10.jpg": {
+      "src": "/reference-slides/10/page-015.jpg",
+      "label": "Dr Yasser · L10 · slide 15"
+    },
+    "/lectures/l10/slides/11.jpg": {
+      "src": "/reference-slides/10/page-016.jpg",
+      "label": "Dr Yasser · L10 · slide 16"
+    },
+    "/lectures/l10/slides/12.jpg": {
+      "src": "/reference-slides/10/page-017.jpg",
+      "label": "Dr Yasser · L10 · slide 17"
+    },
+    "/lectures/l10/slides/13.jpg": {
+      "src": "/reference-slides/10/page-023.jpg",
+      "label": "Dr Yasser · L10 · slide 23"
+    },
+    "/lectures/l10/slides/14.jpg": {
+      "src": "/reference-slides/10/page-023.jpg",
+      "label": "Dr Yasser · L10 · slide 23"
+    },
+    "/lectures/l10/slides/2.jpg": {
+      "src": "/reference-slides/10/page-004.jpg",
+      "label": "Dr Yasser · L10 · slide 4"
+    },
+    "/lectures/l10/slides/3.jpg": {
+      "src": "/reference-slides/10/page-005.jpg",
+      "label": "Dr Yasser · L10 · slide 5"
+    },
+    "/lectures/l10/slides/4.jpg": {
+      "src": "/reference-slides/10/page-007.jpg",
+      "label": "Dr Yasser · L10 · slide 7"
+    },
+    "/lectures/l10/slides/5.jpg": {
+      "src": "/reference-slides/10/page-008.jpg",
+      "label": "Dr Yasser · L10 · slide 8"
+    },
+    "/lectures/l10/slides/6.jpg": {
+      "src": "/reference-slides/10/page-011.jpg",
+      "label": "Dr Yasser · L10 · slide 11"
+    },
+    "/lectures/l10/slides/7.jpg": {
+      "src": "/reference-slides/10/page-018.jpg",
+      "label": "Dr Yasser · L10 · slide 18"
+    },
+    "/lectures/l10/slides/8.jpg": {
+      "src": "/reference-slides/10/page-012.jpg",
+      "label": "Dr Yasser · L10 · slide 12"
+    },
+    "/lectures/l10/slides/9.jpg": {
+      "src": "/reference-slides/10/page-013.jpg",
+      "label": "Dr Yasser · L10 · slide 13"
+    },
+    "/lectures/l10/figures/dorsum.jpg": {
+      "src": "/reference-slides/10/page-017.jpg",
+      "label": "Dr Yasser · L10 · slide 17"
+    },
+    "/lectures/l10/figures/femoral.jpg": {
+      "src": "/reference-slides/10/page-007.jpg",
+      "label": "Dr Yasser · L10 · slide 7"
+    },
+    "/lectures/l10/figures/lumbar.jpg": {
+      "src": "/reference-slides/10/page-006.jpg",
+      "label": "Dr Yasser · L10 · slide 6"
+    },
+    "/lectures/l10/figures/plantar.jpg": {
+      "src": "/reference-slides/10/page-015.jpg",
+      "label": "Dr Yasser · L10 · slide 15"
+    },
+    "/lectures/l10/figures/postures.jpg": {
+      "src": "/reference-slides/10/page-026.jpg",
+      "label": "Dr Yasser · L10 · slide 26"
+    },
+    "/lectures/l10/figures/sacral.jpg": {
+      "src": "/reference-slides/10/page-019.jpg",
+      "label": "Dr Yasser · L10 · slide 19"
+    },
+    "/lectures/l10/figures/saphenous.jpg": {
+      "src": "/reference-slides/10/page-007.jpg",
+      "label": "Dr Yasser · L10 · slide 7"
+    },
+    "/lectures/l12/slides/1.jpg": {
+      "src": "/reference-slides/12/page-003.jpg",
+      "label": "Dr Yasser · L12 · slide 3"
+    },
+    "/lectures/l12/slides/10.jpg": {
+      "src": "/reference-slides/12/page-004.jpg",
+      "label": "Dr Yasser · L12 · slide 4"
+    },
+    "/lectures/l12/slides/2.jpg": {
+      "src": "/reference-slides/12/page-006.jpg",
+      "label": "Dr Yasser · L12 · slide 6"
+    },
+    "/lectures/l12/slides/3.jpg": {
+      "src": "/reference-slides/12/page-011.jpg",
+      "label": "Dr Yasser · L12 · slide 11"
+    },
+    "/lectures/l12/slides/4.jpg": {
+      "src": "/reference-slides/12/page-013.jpg",
+      "label": "Dr Yasser · L12 · slide 13"
+    },
+    "/lectures/l12/slides/5.jpg": {
+      "src": "/reference-slides/12/page-013.jpg",
+      "label": "Dr Yasser · L12 · slide 13"
+    },
+    "/lectures/l12/slides/6.jpg": {
+      "src": "/reference-slides/12/page-025.jpg",
+      "label": "Dr Yasser · L12 · slide 25"
+    },
+    "/lectures/l12/slides/7.jpg": {
+      "src": "/reference-slides/12/page-014.jpg",
+      "label": "Dr Yasser · L12 · slide 14"
+    },
+    "/lectures/l12/slides/8.jpg": {
+      "src": "/reference-slides/12/page-024.jpg",
+      "label": "Dr Yasser · L12 · slide 24"
+    },
+    "/lectures/l12/slides/9.jpg": {
+      "src": "/reference-slides/12/page-025.jpg",
+      "label": "Dr Yasser · L12 · slide 25"
+    },
+    "/lectures/l12/figures/aa.jpg": {
+      "src": "/reference-slides/12/page-003.jpg",
+      "label": "Dr Yasser · L12 · slide 3"
+    },
+    "/lectures/l12/figures/abnormal.jpg": {
+      "src": "/reference-slides/12/page-006.jpg",
+      "label": "Dr Yasser · L12 · slide 6"
+    },
+    "/lectures/l12/figures/ao.jpg": {
+      "src": "/reference-slides/12/page-013.jpg",
+      "label": "Dr Yasser · L12 · slide 13"
+    },
+    "/lectures/l12/figures/arch-ligaments.jpg": {
+      "src": "/reference-slides/12/page-025.jpg",
+      "label": "Dr Yasser · L12 · slide 25"
+    },
+    "/lectures/l12/figures/atlas.jpg": {
+      "src": "/reference-slides/12/page-013.jpg",
+      "label": "Dr Yasser · L12 · slide 13"
+    },
+    "/lectures/l12/figures/curves.jpg": {
+      "src": "/reference-slides/12/page-005.jpg",
+      "label": "Dr Yasser · L12 · slide 5"
+    },
+    "/lectures/l12/figures/disc.jpg": {
+      "src": "/reference-slides/12/page-008.jpg",
+      "label": "Dr Yasser · L12 · slide 8"
+    },
+    "/lectures/l12/figures/lumbar-disc.jpg": {
+      "src": "/reference-slides/12/page-007.jpg",
+      "label": "Dr Yasser · L12 · slide 7"
+    },
+    "/lectures/l12/figures/typical.jpg": {
+      "src": "/reference-slides/12/page-011.jpg",
+      "label": "Dr Yasser · L12 · slide 11"
+    },
+    "/lectures/l13/slides/1.jpg": {
+      "src": "/reference-slides/13/page-010.jpg",
+      "label": "Dr Yasser · L13 · slide 10"
+    },
+    "/lectures/l13/slides/2.jpg": {
+      "src": "/reference-slides/13/page-010.jpg",
+      "label": "Dr Yasser · L13 · slide 10"
+    },
+    "/lectures/l13/slides/3.jpg": {
+      "src": "/reference-slides/13/page-020.jpg",
+      "label": "Dr Yasser · L13 · slide 20"
+    },
+    "/lectures/l13/slides/4.jpg": {
+      "src": "/reference-slides/13/page-015.jpg",
+      "label": "Dr Yasser · L13 · slide 15"
+    },
+    "/lectures/l13/slides/5.jpg": {
+      "src": "/reference-slides/13/page-003.jpg",
+      "label": "Dr Yasser · L13 · slide 3"
+    },
+    "/lectures/l13/slides/6.jpg": {
+      "src": "/reference-slides/13/page-011.jpg",
+      "label": "Dr Yasser · L13 · slide 11"
+    },
+    "/lectures/l13/slides/7.jpg": {
+      "src": "/reference-slides/13/page-011.jpg",
+      "label": "Dr Yasser · L13 · slide 11"
+    },
+    "/lectures/l13/slides/8.jpg": {
+      "src": "/reference-slides/13/page-010.jpg",
+      "label": "Dr Yasser · L13 · slide 10"
+    },
+    "/lectures/l13/figures/anterior-table.jpg": {
+      "src": "/reference-slides/13/page-011.jpg",
+      "label": "Dr Yasser · L13 · slide 11"
+    },
+    "/lectures/l13/figures/deep.jpg": {
+      "src": "/reference-slides/13/page-010.jpg",
+      "label": "Dr Yasser · L13 · slide 10"
+    },
+    "/lectures/l13/figures/lateral-table.jpg": {
+      "src": "/reference-slides/13/page-017.jpg",
+      "label": "Dr Yasser · L13 · slide 17"
+    },
+    "/lectures/l13/figures/suboccipital.jpg": {
+      "src": "/reference-slides/13/page-010.jpg",
+      "label": "Dr Yasser · L13 · slide 10"
+    },
+    "/lectures/l14/slides/1.jpg": {
+      "src": "/reference-slides/14/page-012.jpg",
+      "label": "Dr Yasser · L14 · slide 12"
+    },
+    "/lectures/l14/slides/10.jpg": {
+      "src": "/reference-slides/14/page-003.jpg",
+      "label": "Dr Yasser · L14 · slide 3"
+    },
+    "/lectures/l14/slides/2.jpg": {
+      "src": "/reference-slides/14/page-012.jpg",
+      "label": "Dr Yasser · L14 · slide 12"
+    },
+    "/lectures/l14/slides/3.jpg": {
+      "src": "/reference-slides/14/page-012.jpg",
+      "label": "Dr Yasser · L14 · slide 12"
+    },
+    "/lectures/l14/slides/4.jpg": {
+      "src": "/reference-slides/14/page-016.jpg",
+      "label": "Dr Yasser · L14 · slide 16"
+    },
+    "/lectures/l14/slides/5.jpg": {
+      "src": "/reference-slides/14/page-012.jpg",
+      "label": "Dr Yasser · L14 · slide 12"
+    },
+    "/lectures/l14/slides/6.jpg": {
+      "src": "/reference-slides/14/page-011.jpg",
+      "label": "Dr Yasser · L14 · slide 11"
+    },
+    "/lectures/l14/slides/7.jpg": {
+      "src": "/reference-slides/14/page-006.jpg",
+      "label": "Dr Yasser · L14 · slide 6"
+    },
+    "/lectures/l14/slides/8.jpg": {
+      "src": "/reference-slides/14/page-012.jpg",
+      "label": "Dr Yasser · L14 · slide 12"
+    },
+    "/lectures/l14/slides/9.jpg": {
+      "src": "/reference-slides/14/page-005.jpg",
+      "label": "Dr Yasser · L14 · slide 5"
+    },
+    "/lectures/l14/figures/artery.jpg": {
+      "src": "/reference-slides/14/page-003.jpg",
+      "label": "Dr Yasser · L14 · slide 3"
+    },
+    "/lectures/l14/figures/dermatomes.jpg": {
+      "src": "/reference-slides/14/page-016.jpg",
+      "label": "Dr Yasser · L14 · slide 16"
+    },
+    "/lectures/l14/figures/epidural.jpg": {
+      "src": "/reference-slides/14/page-013.jpg",
+      "label": "Dr Yasser · L14 · slide 13"
+    },
+    "/lectures/l14/figures/levels.jpg": {
+      "src": "/reference-slides/14/page-014.jpg",
+      "label": "Dr Yasser · L14 · slide 14"
+    },
+    "/lectures/l14/figures/lower-canal.jpg": {
+      "src": "/reference-slides/14/page-012.jpg",
+      "label": "Dr Yasser · L14 · slide 12"
+    },
+    "/lectures/l14/figures/meninges.jpg": {
+      "src": "/reference-slides/14/page-016.jpg",
+      "label": "Dr Yasser · L14 · slide 16"
+    },
+    "/lectures/l14/figures/plexus.jpg": {
+      "src": "/reference-slides/14/page-016.jpg",
+      "label": "Dr Yasser · L14 · slide 16"
+    },
+    "/lectures/l14/figures/puncture.jpg": {
+      "src": "/reference-slides/14/page-013.jpg",
+      "label": "Dr Yasser · L14 · slide 13"
+    },
+    "/lectures/l14/figures/radiculopathy.jpg": {
+      "src": "/reference-slides/14/page-003.jpg",
+      "label": "Dr Yasser · L14 · slide 3"
+    },
+    "/lectures/l14/figures/roots.jpg": {
+      "src": "/reference-slides/14/page-012.jpg",
+      "label": "Dr Yasser · L14 · slide 12"
+    },
+    "/lectures/l14/figures/sacral-exit.jpg": {
+      "src": "/reference-slides/14/page-008.jpg",
+      "label": "Dr Yasser · L14 · slide 8"
+    },
+    "/lectures/l2/slides/1.jpg": {
+      "src": "/lectures/l2/references/s3.jpg",
+      "label": "Shoulder & arm · slide 3"
+    },
+    "/lectures/l2/slides/10.jpg": {
+      "src": "/lectures/l2/references/s33.jpg",
+      "label": "Shoulder & arm · slide 33"
+    },
+    "/lectures/l2/slides/11.jpg": {
+      "src": "/lectures/l2/references/s38.jpg",
+      "label": "Shoulder & arm · slide 38"
+    },
+    "/lectures/l2/slides/12.jpg": {
+      "src": "/lectures/l2/references/s23.jpg",
+      "label": "Shoulder & arm · slide 23"
+    },
+    "/lectures/l2/slides/13.jpg": {
+      "src": "/lectures/l2/references/s24.jpg",
+      "label": "Shoulder & arm · slide 24"
+    },
+    "/lectures/l2/slides/2.jpg": {
+      "src": "/lectures/l2/references/s5.jpg",
+      "label": "Shoulder & arm · slide 5"
+    },
+    "/lectures/l2/slides/3.jpg": {
+      "src": "/lectures/l2/references/s12.jpg",
+      "label": "Shoulder & arm · slide 12"
+    },
+    "/lectures/l2/slides/4.jpg": {
+      "src": "/lectures/l2/references/s18.jpg",
+      "label": "Shoulder & arm · slide 18"
+    },
+    "/lectures/l2/slides/5.jpg": {
+      "src": "/lectures/l2/references/s14.jpg",
+      "label": "Shoulder & arm · slide 14"
+    },
+    "/lectures/l2/slides/6.jpg": {
+      "src": "/lectures/l2/references/s15.jpg",
+      "label": "Shoulder & arm · slide 15"
+    },
+    "/lectures/l2/slides/7.jpg": {
+      "src": "/lectures/l2/references/s21.jpg",
+      "label": "Shoulder & arm · slide 21"
+    },
+    "/lectures/l2/slides/8.jpg": {
+      "src": "/lectures/l2/references/s27.jpg",
+      "label": "Shoulder & arm · slide 27"
+    },
+    "/lectures/l2/slides/9.jpg": {
+      "src": "/lectures/l2/references/s29.jpg",
+      "label": "Shoulder & arm · slide 29"
+    },
+    "/lectures/l3/slides/1.jpg": {
+      "src": "/lectures/l3/references/f3.jpg",
+      "label": "Forearm · slide 3"
+    },
+    "/lectures/l3/slides/10.jpg": {
+      "src": "/lectures/l3/references/f14.jpg",
+      "label": "Forearm · slide 14"
+    },
+    "/lectures/l3/slides/11.jpg": {
+      "src": "/lectures/l3/references/f14.jpg",
+      "label": "Forearm · slide 14"
+    },
+    "/lectures/l3/slides/12.jpg": {
+      "src": "/lectures/l3/references/h5.jpg",
+      "label": "Hand · slide 5"
+    },
+    "/lectures/l3/slides/13.jpg": {
+      "src": "/lectures/l3/references/f17.jpg",
+      "label": "Forearm · slide 17"
+    },
+    "/lectures/l3/slides/14.jpg": {
+      "src": "/lectures/l3/references/h15.jpg",
+      "label": "Hand · slide 15"
+    },
+    "/lectures/l3/slides/15.jpg": {
+      "src": "/lectures/l3/references/h15.jpg",
+      "label": "Hand · slide 15"
+    },
+    "/lectures/l3/slides/2.jpg": {
+      "src": "/lectures/l3/references/f5.jpg",
+      "label": "Forearm · slide 5"
+    },
+    "/lectures/l3/slides/3.jpg": {
+      "src": "/lectures/l3/references/f7.jpg",
+      "label": "Forearm · slide 7"
+    },
+    "/lectures/l3/slides/4.jpg": {
+      "src": "/lectures/l3/references/f8.jpg",
+      "label": "Forearm · slide 8"
+    },
+    "/lectures/l3/slides/5.jpg": {
+      "src": "/lectures/l3/references/f8.jpg",
+      "label": "Forearm · slide 8"
+    },
+    "/lectures/l3/slides/6.jpg": {
+      "src": "/lectures/l3/references/h4.jpg",
+      "label": "Hand · slide 4"
+    },
+    "/lectures/l3/slides/7.jpg": {
+      "src": "/lectures/l3/references/f10.jpg",
+      "label": "Forearm · slide 10"
+    },
+    "/lectures/l3/slides/8.jpg": {
+      "src": "/lectures/l3/references/f12.jpg",
+      "label": "Forearm · slide 12"
+    },
+    "/lectures/l3/slides/9.jpg": {
+      "src": "/lectures/l3/references/f12.jpg",
+      "label": "Forearm · slide 12"
+    },
+    "/lectures/l5/slides/1.jpg": {
+      "src": "/lectures/l5/references/s2.jpg",
+      "label": "Nerves · slide 2"
+    },
+    "/lectures/l5/slides/10.jpg": {
+      "src": "/lectures/l5/references/s22.jpg",
+      "label": "Nerves · slide 22"
+    },
+    "/lectures/l5/slides/11.jpg": {
+      "src": "/lectures/l5/references/s23.jpg",
+      "label": "Nerves · slide 23"
+    },
+    "/lectures/l5/slides/12.jpg": {
+      "src": "/lectures/l5/references/s11.jpg",
+      "label": "Nerves · slide 11"
+    },
+    "/lectures/l5/slides/13.jpg": {
+      "src": "/lectures/l5/references/s20.jpg",
+      "label": "Nerves · slide 20"
+    },
+    "/lectures/l5/slides/2.jpg": {
+      "src": "/lectures/l5/references/s4.jpg",
+      "label": "Nerves · slide 4"
+    },
+    "/lectures/l5/slides/3.jpg": {
+      "src": "/lectures/l5/references/s3.jpg",
+      "label": "Nerves · slide 3"
+    },
+    "/lectures/l5/slides/4.jpg": {
+      "src": "/lectures/l5/references/s16.jpg",
+      "label": "Nerves · slide 16"
+    },
+    "/lectures/l5/slides/5.jpg": {
+      "src": "/lectures/l5/references/s13.jpg",
+      "label": "Nerves · slide 13"
+    },
+    "/lectures/l5/slides/6.jpg": {
+      "src": "/lectures/l5/references/s4.jpg",
+      "label": "Nerves · slide 4"
+    },
+    "/lectures/l5/slides/7.jpg": {
+      "src": "/lectures/l5/references/s14.jpg",
+      "label": "Nerves · slide 14"
+    },
+    "/lectures/l5/slides/8.jpg": {
+      "src": "/lectures/l5/references/s7.jpg",
+      "label": "Nerves · slide 7"
+    },
+    "/lectures/l5/slides/9.jpg": {
+      "src": "/lectures/l5/references/s7.jpg",
+      "label": "Nerves · slide 7"
+    }
+  }
+}
