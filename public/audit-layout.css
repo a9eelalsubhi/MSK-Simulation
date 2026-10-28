@@ -1,0 +1,18 @@
+/* Final shared rules override lecture-specific legacy fixed coordinates. */
+.viewport{isolation:isolate}
+#pinLines{z-index:3;overflow:hidden;pointer-events:none}
+#annotations{z-index:4;pointer-events:none}
+body .anatomy-pin{box-sizing:border-box;min-height:0!important;height:auto!important;overflow:auto;overflow-wrap:anywhere;word-break:normal;pointer-events:none;unicode-bidi:plaintext;text-align:start;font-size:14px;line-height:1.6}
+body .anatomy-pin strong,body .anatomy-pin p{font-size:14px;line-height:1.6;unicode-bidi:plaintext;text-align:start;letter-spacing:normal}
+.pin-number{pointer-events:auto;touch-action:manipulation}
+.camera-hud,.view-tools,.tour-orientation,.tour-rail,.lower-scene-tools,.vb-scene-tools{z-index:8}
+.search-detail,.gesture-hint,.orbit-lock{z-index:10}
+.quiz-panel{z-index:12}
+.tour-rail{max-height:40%;overflow:auto;box-sizing:border-box}
+.tour-rail h2,.tour-rail p,.search-detail h3,.search-detail p,.quiz-panel h2,#quizFeedback,#stepChapter{overflow-wrap:anywhere;unicode-bidi:plaintext;text-align:start}
+.tour-status{min-width:0;align-items:start}.tour-status>span{min-width:0}
+body .anatomy-pin[hidden],.pin-number[hidden]{display:none!important}
+body .anatomy-pin[data-scrollable=true]{pointer-events:auto;overscroll-behavior:contain}
+body .layers .layer-control label{display:flex} /* all five layers remain independently available */
+@media(max-width:900px){body .viewport{min-height:820px}.view-heading{max-width:calc(100% - 30px)!important}.view-heading h2{max-width:100%!important;font-size:24px!important}.tour-rail p{font-size:13px!important}.pin-navigation{display:flex}}
+@media(max-width:650px){.tour-rail{padding:12px;max-height:38%}.tour-navigation{gap:10px}.tour-status{font-size:12px}.tour-rail h2{font-size:16px}.tour-rail p{font-size:13px}.gesture-hint{width:calc(100% - 24px);box-sizing:border-box}.quiz-panel{max-height:48%;overflow:auto}}

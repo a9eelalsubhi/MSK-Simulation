@@ -1,0 +1,20 @@
+// Optional lecture module: no listeners or UI are created for other lectures.
+export function createMuscleStudy({data,select,openActions}) {
+ const life=new AbortController(),panel=document.createElement('section');panel.className='muscle-study';
+ const heading=document.createElement('h2');heading.textContent='Muscle memory lab';panel.append(heading);
+ const label=document.createElement('label');label.textContent='Choose a muscle';const chooser=document.createElement('select');label.append(chooser);panel.append(label);
+ for(const p of data.muscleProfiles){const o=document.createElement('option');o.value=p.id;o.textContent=p.name;chooser.append(o);}
+ const cards=document.createElement('div');cards.className='recall-grid';panel.append(cards);
+ if(data.muscles&&openActions){const actions=document.createElement('button');actions.type='button';actions.textContent='See joint actions →';actions.addEventListener('click',()=>openActions(data.muscleProfiles.find(p=>p.id===chooser.value)?.muscle_id),{signal:life.signal});panel.append(actions);}
+ const note=document.createElement('p');note.className='study-note';note.textContent='Recall each answer, then tap to reveal. Attachment details are also in Lecture diagram.';panel.append(note);
+ const stageLabel=document.createElement('label');stageLabel.textContent='Abduction stage';const slider=document.createElement('input');slider.type='range';slider.min=0;slider.max=2;slider.step=1;slider.value=0;slider.setAttribute('aria-label','Abduction lecture stage');stageLabel.append(slider);panel.append(stageLabel);
+ const stageText=document.createElement('output');panel.append(stageText);
+ const stages=data.steps.map((s,i)=>({s,i})).filter(x=>Number.isInteger(x.s.abductionStage));
+ const tip=document.createElement('p');tip.className='study-note';tip.textContent='Highlights the lecture contributors; the model stays in its anatomical pose.';panel.append(tip);
+ document.querySelector('.layers').before(panel);
+ function show(profile){chooser.value=profile.id;cards.replaceChildren();note.textContent=profile.origin==null||profile.insertion==null?'This lecture gives the action and nerve supply for this sole muscle group; origin and insertion are not listed.':'Recall each answer, then tap to reveal. Attachment details are also in Lecture diagram.';for(const key of ['origin','insertion','nerve','action']){const b=document.createElement('button');b.type='button';const title=key[0].toUpperCase()+key.slice(1),value=profile[key];b.textContent=value==null?title+' · not listed in lecture':title+' · Reveal';b.disabled=value==null;b.setAttribute('aria-expanded','false');b.style.setProperty('--recall-color',profile.color);if(value!=null)b.onclick=()=>{const opened=b.getAttribute('aria-expanded')==='true';b.setAttribute('aria-expanded',String(!opened));b.textContent=opened?title+' · Reveal':title+': '+value;};cards.append(b);}}
+ chooser.addEventListener('change',()=>{const index=data.steps.findIndex(s=>s.profileId===chooser.value);if(index>=0)select(index);},{signal:life.signal});
+ slider.addEventListener('input',()=>{const item=stages.find(x=>x.s.abductionStage===Number(slider.value));if(item)select(item.i);},{signal:life.signal});
+ show(data.muscleProfiles[0]);stageText.textContent=stages[0]?.s.title||'';if(!stages.length){stageLabel.hidden=true;stageText.hidden=true;tip.hidden=true;}
+ return {capture(){return {profileId:chooser.value,revealed:[...cards.children].map(b=>b.getAttribute('aria-expanded')==='true'),stage:slider.value,stageText:stageText.textContent};},restore(saved){if(!saved)return;const profile=data.muscleProfiles.find(p=>p.id===saved.profileId);if(profile){show(profile);for(const [i,b]of [...cards.children].entries())if(saved.revealed[i]&&!b.disabled)b.onclick();}slider.value=saved.stage;stageText.textContent=saved.stageText;},update(step){const p=data.muscleProfiles.find(p=>p.id===step.profileId);if(p)show(p);if(Number.isInteger(step.abductionStage)){slider.value=step.abductionStage;stageText.textContent=step.title;slider.setAttribute('aria-valuetext',step.title);}},dispose(){life.abort();panel.remove();}};
+}

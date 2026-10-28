@@ -1,0 +1,2259 @@
+{
+  "topics": [
+    {
+      "id": "subclavian",
+      "title": "Subclavian artery",
+      "pages": [
+        4,
+        5
+      ],
+      "subtitle": "Subclavian artery"
+    },
+    {
+      "id": "axillary",
+      "title": "Axillary artery",
+      "pages": [
+        6,
+        7,
+        8
+      ],
+      "subtitle": "Axillary artery"
+    },
+    {
+      "id": "shoulder",
+      "title": "Shoulder anastomosis",
+      "pages": [
+        9
+      ],
+      "subtitle": "Shoulder anastomosis"
+    },
+    {
+      "id": "brachial",
+      "title": "Brachial artery",
+      "pages": [
+        10,
+        11
+      ],
+      "subtitle": "Brachial artery"
+    },
+    {
+      "id": "radial",
+      "title": "Radial artery",
+      "pages": [
+        13,
+        14
+      ],
+      "subtitle": "Radial artery"
+    },
+    {
+      "id": "ulnar",
+      "title": "Ulnar artery",
+      "pages": [
+        14,
+        16
+      ],
+      "subtitle": "Ulnar artery"
+    },
+    {
+      "id": "deep-arch",
+      "title": "Deep palmar arch",
+      "pages": [
+        15
+      ],
+      "subtitle": "Deep palmar arch"
+    },
+    {
+      "id": "superficial-arch",
+      "title": "Superficial palmar arch",
+      "pages": [
+        16
+      ],
+      "subtitle": "Superficial palmar arch"
+    },
+    {
+      "id": "elbow",
+      "title": "Elbow anastomosis",
+      "pages": [
+        12
+      ],
+      "subtitle": "Elbow anastomosis"
+    },
+    {
+      "id": "wrist",
+      "title": "Carpal arches",
+      "pages": [
+        14,
+        15
+      ],
+      "subtitle": "Carpal arches"
+    },
+    {
+      "id": "dorsal-veins",
+      "title": "Dorsal venous arch",
+      "pages": [
+        19
+      ],
+      "subtitle": "Dorsal venous arch"
+    },
+    {
+      "id": "cephalic",
+      "title": "Cephalic vein",
+      "pages": [
+        19
+      ],
+      "subtitle": "Cephalic vein"
+    },
+    {
+      "id": "basilic",
+      "title": "Basilic vein",
+      "pages": [
+        19
+      ],
+      "subtitle": "Basilic vein"
+    },
+    {
+      "id": "median-veins",
+      "title": "Median cubital vein",
+      "pages": [
+        19
+      ],
+      "subtitle": "Median cubital vein"
+    },
+    {
+      "id": "deep-veins",
+      "title": "Deep veins",
+      "pages": [
+        18
+      ],
+      "subtitle": "Deep veins"
+    },
+    {
+      "id": "sympathetic",
+      "title": "Vessel innervation",
+      "pages": [
+        20
+      ],
+      "subtitle": "Vessel innervation"
+    }
+  ],
+  "steps": [
+    {
+      "topic": "subclavian",
+      "title": "Different origins on the right and left",
+      "facts": [
+        1
+      ],
+      "pins": [
+        {
+          "name": "Right subclavian",
+          "text": "Arises from the brachiocephalic trunk.",
+          "target": "Right subclavian artery",
+          "axis": "x",
+          "at": 0.95
+        },
+        {
+          "name": "Left subclavian",
+          "text": "Arises from the aortic arch.",
+          "target": "Left subclavian artery",
+          "at": 0.1
+        }
+      ],
+      "focus": [
+        "Right subclavian artery",
+        "Left subclavian artery",
+        "Brachiocephalic trunk",
+        "Aortic arch"
+      ],
+      "pages": [
+        4
+      ]
+    },
+    {
+      "topic": "subclavian",
+      "title": "One muscle divides the artery into three parts",
+      "facts": [
+        2
+      ],
+      "pins": [
+        {
+          "name": "1st part",
+          "text": "Medial to scalenus anterior.",
+          "target": "Right subclavian artery",
+          "segment": 0
+        },
+        {
+          "name": "2nd part",
+          "text": "Behind scalenus anterior.",
+          "target": "Right subclavian artery",
+          "segment": 1
+        },
+        {
+          "name": "3rd part",
+          "text": "Lateral to scalenus anterior.",
+          "target": "Right subclavian artery",
+          "segment": 2
+        },
+        {
+          "name": "Scalenus anterior",
+          "text": "The translucent muscle is the landmark used to divide the artery.",
+          "target": "Scalenus anterior muscle.r",
+          "at": 0.15,
+          "context": true
+        }
+      ],
+      "focus": [
+        "Right subclavian artery"
+      ],
+      "pages": [
+        4
+      ],
+      "context": [
+        "Scalenus anterior muscle.r"
+      ],
+      "segment": {
+        "vessel": "Right subclavian artery",
+        "muscle": "Scalenus anterior muscle.r"
+      },
+      "caption": "Part colors are educational; their boundaries are approximate and follow the muscle position in this model.",
+      "muscleFocus": [
+        "Scalenus anterior muscle.r"
+      ]
+    },
+    {
+      "topic": "subclavian",
+      "title": "The artery continues as the axillary artery",
+      "facts": [
+        3
+      ],
+      "pins": [
+        {
+          "name": "Subclavian â†’ Axillary",
+          "text": "At the outer border of the first rib, the subclavian ends and the axillary begins.",
+          "target": "Right subclavian artery",
+          "axis": "x",
+          "at": 0.02
+        },
+        {
+          "name": "Axillary artery",
+          "text": "The artery continues beyond this landmark.",
+          "target": "Axillary artery.r",
+          "at": 0.9
+        }
+      ],
+      "focus": [
+        "Right subclavian artery",
+        "Axillary artery.r"
+      ],
+      "pages": [
+        4
+      ]
+    },
+    {
+      "topic": "subclavian",
+      "title": "Three branches from the first part",
+      "facts": [
+        4
+      ],
+      "pins": [
+        {
+          "name": "Vertebral artery",
+          "text": "A branch of the first part.",
+          "target": "Vertebral artery.r",
+          "at": 0.1,
+          "context": true
+        },
+        {
+          "name": "Thyrocervical trunk",
+          "text": "The thyrocervical trunk arises from the first part.",
+          "target": "Thyrocervical trunk.r"
+        },
+        {
+          "name": "Internal thoracic artery",
+          "text": "Also called the internal mammary artery.",
+          "target": "Internal thoracic artery.r",
+          "at": 0.9
+        }
+      ],
+      "focus": [
+        "Right subclavian artery",
+        "Thyrocervical trunk.r",
+        "Internal thoracic artery.r"
+      ],
+      "pages": [
+        5
+      ],
+      "context": [
+        "Vertebral artery.r"
+      ]
+    },
+    {
+      "topic": "subclavian",
+      "title": "The thyrocervical trunk gives three branches",
+      "facts": [
+        5
+      ],
+      "pins": [
+        {
+          "name": "Inferior thyroid",
+          "text": "The inferior thyroid artery.",
+          "target": "Inferior thyroid artery.r"
+        },
+        {
+          "name": "Transverse cervical",
+          "text": "Also called the superficial cervical artery in the lecture.",
+          "target": "Transverse cervical artery.r"
+        },
+        {
+          "name": "Suprascapular",
+          "text": "The suprascapular artery.",
+          "target": "Suprascapular artery.r"
+        }
+      ],
+      "focus": [
+        "Inferior thyroid artery.r",
+        "Transverse cervical artery.r",
+        "Suprascapular artery.r"
+      ],
+      "pages": [
+        5
+      ],
+      "context": [
+        "Thyrocervical trunk.r"
+      ]
+    },
+    {
+      "topic": "subclavian",
+      "title": "Second-part branch: costocervical trunk",
+      "facts": [
+        6
+      ],
+      "pins": [
+        {
+          "name": "Costo-cervical trunk",
+          "text": "Arises from the second part and gives the two branches shown.",
+          "target": "Costocervical trunk.r"
+        },
+        {
+          "name": "Superior intercostal",
+          "text": "Named the supreme intercostal artery in this model.",
+          "target": "Supreme intercostal artery.r"
+        },
+        {
+          "name": "Deep cervical",
+          "text": "The deep cervical artery.",
+          "target": "Deep cervical artery.r"
+        }
+      ],
+      "focus": [
+        "Costocervical trunk.r",
+        "Supreme intercostal artery.r",
+        "Deep cervical artery.r"
+      ],
+      "pages": [
+        5
+      ]
+    },
+    {
+      "topic": "subclavian",
+      "title": "The third part may give no branches",
+      "facts": [
+        7
+      ],
+      "pins": [
+        {
+          "name": "3rd part",
+          "text": "May give the dorsal scapular artery, or may give no branches.",
+          "target": "Right subclavian artery",
+          "axis": "x",
+          "at": 0.1,
+          "context": true
+        }
+      ],
+      "focus": [
+        "Right subclavian artery"
+      ],
+      "pages": [
+        5
+      ],
+      "diagram": {
+        "page": 5,
+        "note": "Original lecture diagram. Dashed lines indicate the parent vessel for details not separately modeled."
+      },
+      "caption": "The line points to the third part. The dorsal scapular artery is not a separate structure under this name in the model."
+    },
+    {
+      "topic": "axillary",
+      "title": "Beginning and termination of the axillary artery",
+      "facts": [
+        8
+      ],
+      "pins": [
+        {
+          "name": "Beginning",
+          "text": "Continues from the subclavian at the outer border of the first rib.",
+          "target": "Axillary artery.r",
+          "at": 0.95
+        },
+        {
+          "name": "Axillary â†’ Brachial",
+          "text": "Continues as the brachial artery at the lower border of teres major.",
+          "target": "Axillary artery.r",
+          "at": 0.03
+        },
+        {
+          "name": "Teres major",
+          "text": "The muscle associated with the termination landmark in the lecture.",
+          "target": "Teres major muscle.r",
+          "at": 0.25,
+          "context": true
+        }
+      ],
+      "focus": [
+        "Axillary artery.r",
+        "Brachial artery.r"
+      ],
+      "pages": [
+        6,
+        7
+      ],
+      "context": [
+        "Teres major muscle.r"
+      ],
+      "caption": "The name transition in this general model may not match the muscle border in the lecture diagram exactly.",
+      "muscleFocus": [
+        "Teres major muscle.r"
+      ]
+    },
+    {
+      "topic": "axillary",
+      "title": "Three parts around pectoralis minor",
+      "facts": [
+        9,
+        10
+      ],
+      "pins": [
+        {
+          "name": "1st part",
+          "text": "From the outer border of the first rib to the upper border of pectoralis minor.",
+          "target": "Axillary artery.r",
+          "segment": 0
+        },
+        {
+          "name": "2nd part",
+          "text": "Behind pectoralis minor.",
+          "target": "Axillary artery.r",
+          "segment": 1
+        },
+        {
+          "name": "3rd part",
+          "text": "From the lower border of pectoralis minor to the lower border of teres major.",
+          "target": "Axillary artery.r",
+          "segment": 2
+        },
+        {
+          "name": "Pectoralis minor",
+          "text": "The translucent muscle separates the parts of the artery.",
+          "target": "Pectoralis minor muscle.r",
+          "at": 0.82,
+          "context": true
+        }
+      ],
+      "focus": [
+        "Axillary artery.r"
+      ],
+      "pages": [
+        6,
+        7
+      ],
+      "context": [
+        "Pectoralis minor muscle.r"
+      ],
+      "segment": {
+        "vessel": "Axillary artery.r",
+        "muscle": "Pectoralis minor muscle.r"
+      },
+      "caption": "Colors show approximate educational divisions around the projected muscle. The anatomical relations define the parts.",
+      "muscleFocus": [
+        "Pectoralis minor muscle.r"
+      ]
+    },
+    {
+      "topic": "axillary",
+      "title": "The first part gives one branch",
+      "facts": [
+        11
+      ],
+      "pins": [
+        {
+          "name": "1st part â†’ Superior thoracic",
+          "text": "The superior thoracic artery is the only branch of the first part.",
+          "target": "Axillary artery.r",
+          "at": 0.92,
+          "context": true
+        }
+      ],
+      "focus": [
+        "Axillary artery.r"
+      ],
+      "pages": [
+        8
+      ],
+      "diagram": {
+        "page": 8,
+        "note": "Original lecture diagram. Dashed lines indicate the parent vessel for details not separately modeled."
+      },
+      "caption": "The superior thoracic artery is shown in the diagram but is not a separate structure in this model."
+    },
+    {
+      "topic": "axillary",
+      "title": "The second part gives two branches",
+      "facts": [
+        12
+      ],
+      "pins": [
+        {
+          "name": "Thoraco-acromial",
+          "text": "One of the two branches of the second part.",
+          "target": "Thoraco-acromial artery.r"
+        },
+        {
+          "name": "Lateral thoracic",
+          "text": "The other branch of the second part.",
+          "target": "Lateral thoracic artery.r"
+        }
+      ],
+      "focus": [
+        "Thoraco-acromial artery.r",
+        "Lateral thoracic artery.r"
+      ],
+      "pages": [
+        8
+      ],
+      "context": [
+        "Axillary artery.r",
+        "Pectoralis minor muscle.r"
+      ],
+      "muscleFocus": [
+        "Pectoralis minor muscle.r"
+      ]
+    },
+    {
+      "topic": "axillary",
+      "title": "Four branches of the thoraco-acromial artery",
+      "facts": [
+        14
+      ],
+      "pins": [
+        {
+          "name": "Thoraco-acromial branches",
+          "text": "Clavicular, humeral, acromial and pectoral, as labeled in the lecture diagram.",
+          "target": "Thoraco-acromial artery.r",
+          "context": true
+        },
+        {
+          "name": "Pectoral branches",
+          "text": "The pectoral branches are represented here in the model.",
+          "target": "Pectoral branches of thoraco-acromial artery.r"
+        }
+      ],
+      "focus": [
+        "Thoraco-acromial artery.r",
+        "Pectoral branches of thoraco-acromial artery.r"
+      ],
+      "pages": [
+        8
+      ],
+      "diagram": {
+        "page": 8,
+        "note": "Original lecture diagram. Dashed lines indicate the parent vessel for details not separately modeled."
+      },
+      "caption": "The diagram names all four branches; the model does not separate every branch."
+    },
+    {
+      "topic": "axillary",
+      "title": "The third part gives three branches",
+      "facts": [
+        13
+      ],
+      "pins": [
+        {
+          "name": "Subscapular",
+          "text": "The subscapular artery.",
+          "target": "Subscapular artery.r"
+        },
+        {
+          "name": "Anterior circumflex humeral",
+          "text": "The anterior circumflex humeral artery.",
+          "target": "Anterior circumflex humeral artery.r"
+        },
+        {
+          "name": "Posterior circumflex humeral",
+          "text": "The posterior circumflex humeral artery.",
+          "target": "Posterior circumflex humeral artery.r"
+        }
+      ],
+      "focus": [
+        "Subscapular artery.r",
+        "Anterior circumflex humeral artery.r",
+        "Posterior circumflex humeral artery.r"
+      ],
+      "pages": [
+        8
+      ],
+      "context": [
+        "Axillary artery.r"
+      ]
+    },
+    {
+      "topic": "axillary",
+      "title": "The subscapular artery divides into two branches",
+      "facts": [
+        15
+      ],
+      "pins": [
+        {
+          "name": "Circumflex scapular",
+          "text": "The circumflex branch around the scapula.",
+          "target": "Circumflex scapular artery.r"
+        },
+        {
+          "name": "Thoracodorsal",
+          "text": "The thoracodorsal branch.",
+          "target": "Thoracodorsal artery.r"
+        }
+      ],
+      "focus": [
+        "Circumflex scapular artery.r",
+        "Thoracodorsal artery.r"
+      ],
+      "pages": [
+        8
+      ],
+      "context": [
+        "Subscapular artery.r"
+      ],
+      "view": "back"
+    },
+    {
+      "topic": "shoulder",
+      "title": "Shoulder anastomosis: subclavian contributions",
+      "facts": [
+        16
+      ],
+      "pins": [
+        {
+          "name": "Suprascapular",
+          "text": "Participates in the anastomosis around the shoulder.",
+          "target": "Suprascapular artery.r"
+        },
+        {
+          "name": "Deep branch of superficial cervical",
+          "text": "The lecture calls this the deep branch of the superficial cervical artery.",
+          "target": "(Deep branch of transverse cervical artery).r"
+        }
+      ],
+      "focus": [
+        "Suprascapular artery.r",
+        "(Deep branch of transverse cervical artery).r"
+      ],
+      "pages": [
+        9
+      ],
+      "view": "back"
+    },
+    {
+      "topic": "shoulder",
+      "title": "Shoulder anastomosis: axillary contributions",
+      "facts": [
+        17
+      ],
+      "pins": [
+        {
+          "name": "Circumflex scapular",
+          "text": "The branch of the subscapular artery participating in the anastomosis.",
+          "target": "Circumflex scapular artery.r"
+        },
+        {
+          "name": "Anterior circumflex humeral",
+          "text": "One of the participating circumflex humeral arteries.",
+          "target": "Anterior circumflex humeral artery.r"
+        },
+        {
+          "name": "Posterior circumflex humeral",
+          "text": "The posterior circumflex humeral artery also participates.",
+          "target": "Posterior circumflex humeral artery.r"
+        }
+      ],
+      "focus": [
+        "Circumflex scapular artery.r",
+        "Anterior circumflex humeral artery.r",
+        "Posterior circumflex humeral artery.r"
+      ],
+      "pages": [
+        9
+      ],
+      "view": "back"
+    },
+    {
+      "topic": "brachial",
+      "title": "From the arm to the two forearm arteries",
+      "facts": [
+        18
+      ],
+      "pins": [
+        {
+          "name": "Brachial artery",
+          "text": "Terminates opposite the neck of the radius.",
+          "target": "Brachial artery.r",
+          "at": 0.03
+        },
+        {
+          "name": "Radial artery",
+          "text": "One of the two terminal branches.",
+          "target": "Radial artery.r",
+          "at": 0.97
+        },
+        {
+          "name": "Ulnar artery",
+          "text": "The other terminal branch.",
+          "target": "Ulnar artery.r",
+          "at": 0.97
+        }
+      ],
+      "focus": [
+        "Brachial artery.r"
+      ],
+      "pages": [
+        10,
+        11
+      ],
+      "region": {
+        "target": "Brachial artery.r",
+        "at": 0.05,
+        "span": 0.25
+      }
+    },
+    {
+      "topic": "brachial",
+      "title": "Two veins accompany the artery",
+      "facts": [
+        19
+      ],
+      "pins": [
+        {
+          "name": "Brachial artery",
+          "text": "Descends in the anterior compartment of the arm.",
+          "target": "Brachial artery.r",
+          "color": "#f36b7b"
+        },
+        {
+          "name": "Two brachial veins",
+          "text": "Two brachial veins accompany it.",
+          "target": "Brachial veins.r",
+          "color": "#65b5f5"
+        }
+      ],
+      "focus": [
+        "Brachial artery.r",
+        "Brachial veins.r"
+      ],
+      "pages": [
+        10,
+        11
+      ],
+      "context": []
+    },
+    {
+      "topic": "brachial",
+      "title": "Median nerve: begin in the upper arm",
+      "facts": [
+        20
+      ],
+      "pins": [
+        {
+          "name": "Median nerve â€” upper arm",
+          "text": "The median nerve is lateral to the artery here.",
+          "target": "Median nerve.r",
+          "at": 0.85,
+          "reference": "Brachial artery.r",
+          "color": "#f5c95e"
+        },
+        {
+          "name": "Brachial artery",
+          "text": "Observe the nerve's position relative to the artery.",
+          "target": "Brachial artery.r",
+          "at": 0.85,
+          "color": "#f36b7b"
+        }
+      ],
+      "focus": [
+        "Brachial artery.r"
+      ],
+      "pages": [
+        10,
+        11
+      ],
+      "region": {
+        "target": "Brachial artery.r",
+        "at": 0.8,
+        "span": 0.22
+      }
+    },
+    {
+      "topic": "brachial",
+      "title": "At mid-arm, the nerve crosses anteriorly",
+      "facts": [
+        20
+      ],
+      "pins": [
+        {
+          "name": "Median nerve â€” crossing",
+          "text": "Crosses in front of the brachial artery from lateral to medial.",
+          "target": "Median nerve.r",
+          "at": 0.5,
+          "reference": "Brachial artery.r",
+          "color": "#f5c95e"
+        },
+        {
+          "name": "Brachial artery",
+          "text": "The artery lies behind the nerve during the crossing.",
+          "target": "Brachial artery.r",
+          "at": 0.5,
+          "color": "#f36b7b"
+        }
+      ],
+      "focus": [
+        "Brachial artery.r"
+      ],
+      "pages": [
+        10,
+        11
+      ],
+      "region": {
+        "target": "Brachial artery.r",
+        "at": 0.5,
+        "span": 0.18
+      }
+    },
+    {
+      "topic": "brachial",
+      "title": "After crossing, the nerve remains medial",
+      "facts": [
+        20
+      ],
+      "pins": [
+        {
+          "name": "Median nerve â€” lower arm",
+          "text": "Remains medial to the artery down to the cubital fossa.",
+          "target": "Median nerve.r",
+          "at": 0.12,
+          "reference": "Brachial artery.r",
+          "color": "#f5c95e"
+        },
+        {
+          "name": "Brachial artery",
+          "text": "Follow this relationship to the cubital fossa.",
+          "target": "Brachial artery.r",
+          "at": 0.12,
+          "color": "#f36b7b"
+        }
+      ],
+      "focus": [
+        "Brachial artery.r"
+      ],
+      "pages": [
+        10,
+        11
+      ],
+      "region": {
+        "target": "Brachial artery.r",
+        "at": 0.15,
+        "span": 0.2
+      }
+    },
+    {
+      "topic": "brachial",
+      "title": "Ulnar nerve in the upper arm",
+      "facts": [
+        21
+      ],
+      "pins": [
+        {
+          "name": "Ulnar nerve",
+          "text": "Lies medial to the brachial artery in the upper arm.",
+          "target": "Ulnar nerve.r",
+          "at": 0.85,
+          "reference": "Brachial artery.r",
+          "color": "#f5c95e"
+        },
+        {
+          "name": "Brachial artery",
+          "text": "The artery is the reference for the nerve's position.",
+          "target": "Brachial artery.r",
+          "at": 0.85,
+          "color": "#f36b7b"
+        }
+      ],
+      "focus": [
+        "Brachial artery.r"
+      ],
+      "pages": [
+        10,
+        11
+      ],
+      "region": {
+        "target": "Brachial artery.r",
+        "at": 0.8,
+        "span": 0.24
+      }
+    },
+    {
+      "topic": "brachial",
+      "title": "Profunda brachii: the largest brachial branch",
+      "facts": [
+        22,
+        23
+      ],
+      "pins": [
+        {
+          "name": "Profunda brachii",
+          "text": "The largest branch of the brachial artery; named deep brachial artery here.",
+          "target": "Deep brachial artery.r",
+          "color": "#ef7186"
+        },
+        {
+          "name": "Radial nerve",
+          "text": "Accompanies the artery in the spiral groove.",
+          "target": "Radial nerve.r",
+          "at": 0.65,
+          "reference": "Brachial artery.r",
+          "color": "#f5c95e"
+        }
+      ],
+      "focus": [
+        "Deep brachial artery.r"
+      ],
+      "pages": [
+        10,
+        11
+      ],
+      "view": "back"
+    },
+    {
+      "topic": "brachial",
+      "title": "Termination of the profunda brachii",
+      "facts": [
+        24
+      ],
+      "pins": [
+        {
+          "name": "Anterior descending",
+          "text": "One terminal branch; named radial collateral in the model.",
+          "target": "Radial collateral artery.r"
+        },
+        {
+          "name": "Posterior descending",
+          "text": "The other branch; named middle collateral in the model.",
+          "target": "Middle collateral artery.r"
+        }
+      ],
+      "focus": [
+        "Radial collateral artery.r",
+        "Middle collateral artery.r"
+      ],
+      "pages": [
+        10,
+        11
+      ],
+      "context": [
+        "Deep brachial artery.r"
+      ],
+      "view": "back"
+    },
+    {
+      "topic": "brachial",
+      "title": "Branches supplying muscle and bone",
+      "facts": [
+        22,
+        25
+      ],
+      "pins": [
+        {
+          "name": "Muscular branches",
+          "text": "Supply the muscles of the anterior compartment of the arm.",
+          "target": "Brachial artery.r",
+          "context": true,
+          "at": 0.6
+        },
+        {
+          "name": "Nutrient artery to humerus",
+          "text": "The brachial artery also gives the nutrient artery to the humerus.",
+          "target": "Humerus.r",
+          "context": true
+        }
+      ],
+      "focus": [
+        "Brachial artery.r"
+      ],
+      "pages": [
+        10,
+        11
+      ],
+      "diagram": {
+        "page": 10,
+        "note": "Original lecture diagram. Dashed lines indicate the parent vessel for details not separately modeled."
+      },
+      "caption": "The lines link the explanation to the parent artery and bone. The small branches are not separately modeled."
+    },
+    {
+      "topic": "brachial",
+      "title": "The two ulnar collateral branches",
+      "facts": [
+        22,
+        26
+      ],
+      "pins": [
+        {
+          "name": "Superior ulnar collateral",
+          "text": "Accompanies the ulnar nerve.",
+          "target": "Superior ulnar collateral artery.r"
+        },
+        {
+          "name": "Inferior ulnar collateral",
+          "text": "The inferior ulnar collateral branch.",
+          "target": "Inferior ulnar collateral artery.r"
+        },
+        {
+          "name": "Ulnar nerve",
+          "text": "The nerve accompanying the superior branch.",
+          "target": "Ulnar nerve.r",
+          "at": 0.3,
+          "reference": "Brachial artery.r",
+          "color": "#f5c95e"
+        }
+      ],
+      "focus": [
+        "Superior ulnar collateral artery.r",
+        "Inferior ulnar collateral artery.r"
+      ],
+      "pages": [
+        10,
+        11
+      ]
+    },
+    {
+      "topic": "radial",
+      "title": "Two brachial branches at the neck of the radius",
+      "facts": [
+        27
+      ],
+      "pins": [
+        {
+          "name": "Radial â€” smaller",
+          "text": "The smaller terminal branch.",
+          "target": "Radial artery.r",
+          "at": 0.95
+        },
+        {
+          "name": "Ulnar â€” larger",
+          "text": "The larger terminal branch.",
+          "target": "Ulnar artery.r",
+          "at": 0.95
+        }
+      ],
+      "focus": [
+        "Radial artery.r",
+        "Ulnar artery.r"
+      ],
+      "pages": [
+        13,
+        14
+      ]
+    },
+    {
+      "topic": "radial",
+      "title": "Radial artery along the lateral forearm",
+      "facts": [
+        28
+      ],
+      "pins": [
+        {
+          "name": "Radial artery",
+          "text": "Descends on the lateral side of the forearm, deep to brachioradialis.",
+          "target": "Radial artery.r"
+        },
+        {
+          "name": "Brachioradialis",
+          "text": "The muscle is translucent so the artery beneath it remains visible.",
+          "target": "Brachioradialis muscle.r",
+          "context": true
+        }
+      ],
+      "focus": [
+        "Radial artery.r"
+      ],
+      "pages": [
+        13
+      ],
+      "context": [
+        "Brachioradialis muscle.r"
+      ],
+      "muscleFocus": [
+        "Brachioradialis muscle.r"
+      ]
+    },
+    {
+      "topic": "radial",
+      "title": "The pulse site at the wrist",
+      "facts": [
+        29
+      ],
+      "pins": [
+        {
+          "name": "Radial pulse",
+          "text": "Becomes superficial at the wrist. Its pulse is felt lateral to the flexor carpi radialis tendon.",
+          "target": "Radial artery.r",
+          "at": 0.13
+        },
+        {
+          "name": "Flexor carpi radialis",
+          "text": "Compare the muscle's course with the artery at the wrist.",
+          "target": "Flexor carpi radialis.r",
+          "at": 0.05,
+          "context": true
+        }
+      ],
+      "focus": [
+        "Radial artery.r"
+      ],
+      "pages": [
+        13
+      ],
+      "context": [
+        "Flexor carpi radialis.r"
+      ],
+      "region": {
+        "target": "Radial artery.r",
+        "at": 0.15,
+        "span": 0.16
+      }
+    },
+    {
+      "topic": "radial",
+      "title": "In the anatomical snuff box",
+      "facts": [
+        30
+      ],
+      "pins": [
+        {
+          "name": "Radial artery",
+          "text": "Passes through the anatomical snuff box and lies on the scaphoid.",
+          "target": "Radial artery.r",
+          "at": 0.05
+        },
+        {
+          "name": "Scaphoid",
+          "text": "The scaphoid bone lies beneath the artery at this location.",
+          "target": "Scaphoid bone.r"
+        }
+      ],
+      "focus": [
+        "Scaphoid bone.r"
+      ],
+      "pages": [
+        13
+      ],
+      "view": "back"
+    },
+    {
+      "topic": "radial",
+      "title": "The route into the palm",
+      "facts": [
+        31
+      ],
+      "pins": [
+        {
+          "name": "First dorsal interosseous",
+          "text": "Passes between the two heads of the first dorsal interosseous muscle.",
+          "target": "Radial artery.r",
+          "at": 0.04,
+          "context": true
+        },
+        {
+          "name": "Adductor pollicis",
+          "text": "Then passes between the two heads of adductor pollicis to reach the palm.",
+          "target": "Oblique head of adductor pollicis.r",
+          "context": true
+        }
+      ],
+      "focus": [
+        "Deep palmar arch.r",
+        "Oblique head of adductor pollicis.r"
+      ],
+      "pages": [
+        13
+      ],
+      "context": [
+        "Radial artery.r",
+        "Transverse head of adductor pollicis.r"
+      ],
+      "diagram": {
+        "page": 13,
+        "note": "Original lecture diagram. Dashed lines indicate the parent vessel for details not separately modeled."
+      },
+      "caption": "This sequence follows the lecture. Dashed lines connect the explanation to the available vessel or muscle."
+    },
+    {
+      "topic": "radial",
+      "title": "Radial branches in the forearm and wrist",
+      "facts": [
+        32
+      ],
+      "pins": [
+        {
+          "name": "Forearm branches",
+          "text": "Muscular branches and the radial recurrent branch.",
+          "target": "Radial artery.r",
+          "at": 0.65,
+          "context": true
+        },
+        {
+          "name": "Carpal & palmar branches",
+          "text": "Anterior and posterior carpal branches, and the superficial palmar branch; ends as the deep palmar arch.",
+          "target": "Radial artery.r",
+          "at": 0.1,
+          "context": true
+        }
+      ],
+      "focus": [
+        "Radial artery.r"
+      ],
+      "pages": [
+        13
+      ],
+      "diagram": {
+        "page": 13,
+        "note": "Original lecture diagram. Dashed lines indicate the parent vessel for details not separately modeled."
+      },
+      "caption": "Branches not separately modeled are shown in the lecture diagram."
+    },
+    {
+      "topic": "radial",
+      "title": "Branches to the thumb and index finger",
+      "facts": [
+        32,
+        33
+      ],
+      "pins": [
+        {
+          "name": "Princeps pollicis",
+          "text": "A radial branch supplying the side of the thumb.",
+          "target": "Radial artery.r",
+          "at": 0.03,
+          "context": true
+        },
+        {
+          "name": "Radialis indicis",
+          "text": "A radial branch supplying the lateral side of the index finger.",
+          "target": "Deep palmar arch.r",
+          "context": true
+        }
+      ],
+      "focus": [
+        "Deep palmar arch.r"
+      ],
+      "pages": [
+        13
+      ],
+      "diagram": {
+        "page": 13,
+        "note": "Original lecture diagram. Dashed lines indicate the parent vessel for details not separately modeled."
+      },
+      "caption": "These branches are not separate in the model. Lines indicate the parent vessel; the diagram shows their distribution.",
+      "context": [
+        "Radial artery.r"
+      ]
+    },
+    {
+      "topic": "ulnar",
+      "title": "Ulnar artery along the medial forearm",
+      "facts": [
+        34
+      ],
+      "pins": [
+        {
+          "name": "Ulnar artery",
+          "text": "Descends medially in the forearm, deep to flexor carpi ulnaris and lateral to the ulnar nerve.",
+          "target": "Ulnar artery.r",
+          "color": "#f36b7b"
+        },
+        {
+          "name": "Ulnar nerve",
+          "text": "Medial to the artery in the forearm.",
+          "target": "Ulnar nerve.r",
+          "at": 0.5,
+          "reference": "Ulnar artery.r",
+          "color": "#f5c95e"
+        },
+        {
+          "name": "Flexor carpi ulnaris",
+          "text": "The muscle lies superficial to the artery.",
+          "target": "Humeral head of flexor carpi ulnaris.r",
+          "context": true
+        }
+      ],
+      "focus": [
+        "Ulnar artery.r"
+      ],
+      "pages": [
+        14
+      ],
+      "context": [
+        "Humeral head of flexor carpi ulnaris.r",
+        "Ulnar head of flexor carpi ulnaris.r"
+      ]
+    },
+    {
+      "topic": "ulnar",
+      "title": "Entering the hand above the flexor retinaculum",
+      "facts": [
+        35
+      ],
+      "pins": [
+        {
+          "name": "Ulnar artery at wrist",
+          "text": "Enters the hand superficial to the flexor retinaculum.",
+          "target": "Ulnar artery.r",
+          "at": 0.03,
+          "context": true
+        }
+      ],
+      "focus": [
+        "Superficial palmar arch.r"
+      ],
+      "pages": [
+        14
+      ],
+      "context": [
+        "Ulnar artery.r"
+      ],
+      "diagram": {
+        "page": 14,
+        "note": "Original lecture diagram. Dashed lines indicate the parent vessel for details not separately modeled."
+      },
+      "caption": "The flexor retinaculum is not a separate displayed layer; the lecture states this relationship."
+    },
+    {
+      "topic": "ulnar",
+      "title": "Branches of the ulnar artery",
+      "facts": [
+        36
+      ],
+      "pins": [
+        {
+          "name": "Forearm branches",
+          "text": "Muscular; anterior and posterior ulnar recurrent; common interosseous.",
+          "target": "Ulnar artery.r",
+          "at": 0.75,
+          "context": true
+        },
+        {
+          "name": "Wrist & hand branches",
+          "text": "Anterior and posterior carpal; deep palmar branch; ends as the superficial palmar arch.",
+          "target": "Ulnar artery.r",
+          "at": 0.1,
+          "context": true
+        }
+      ],
+      "focus": [
+        "Ulnar artery.r"
+      ],
+      "pages": [
+        14
+      ],
+      "diagram": {
+        "page": 14,
+        "note": "Original lecture diagram. Dashed lines indicate the parent vessel for details not separately modeled."
+      }
+    },
+    {
+      "topic": "ulnar",
+      "title": "Interosseous division and recurrent branch",
+      "facts": [
+        37,
+        38
+      ],
+      "pins": [
+        {
+          "name": "Common interosseous",
+          "text": "Divides into anterior and posterior interosseous arteries.",
+          "target": "Common interosseous artery.r"
+        },
+        {
+          "name": "Posterior interosseous",
+          "text": "Gives the interosseous recurrent artery.",
+          "target": "Posterior interosseous artery.r",
+          "at": 0.9
+        },
+        {
+          "name": "Interosseous recurrent",
+          "text": "Named recurrent interosseous artery in the model.",
+          "target": "Recurrent interosseous artery.r"
+        }
+      ],
+      "focus": [
+        "Common interosseous artery.r",
+        "Recurrent interosseous artery.r"
+      ],
+      "pages": [
+        14
+      ],
+      "caption": "The anterior interosseous artery is not separately modeled; its origin is explained in the label."
+    },
+    {
+      "topic": "ulnar",
+      "title": "Arterial supply of the fingers",
+      "facts": [
+        39
+      ],
+      "pins": [
+        {
+          "name": "Radial territory",
+          "text": "Mainly supplies the thumb and lateral side of the index finger.",
+          "target": "Radial artery.r",
+          "at": 0.03,
+          "context": true
+        },
+        {
+          "name": "Ulnar territory",
+          "text": "Supplies the medial side of the index finger and the remaining three digits.",
+          "target": "Superficial palmar arch.r",
+          "context": true
+        }
+      ],
+      "focus": [
+        "Deep palmar arch.r",
+        "Superficial palmar arch.r"
+      ],
+      "pages": [
+        16
+      ],
+      "diagram": {
+        "page": 16,
+        "note": "Original lecture diagram. Dashed lines indicate the parent vessel for details not separately modeled."
+      },
+      "caption": "These are the lecture's supply territories. The lines do not mark skin-territory boundaries on the model.",
+      "context": [
+        "Radial artery.r"
+      ]
+    },
+    {
+      "topic": "deep-arch",
+      "title": "Deep arch: radial origin, ulnar completion",
+      "facts": [
+        40
+      ],
+      "pins": [
+        {
+          "name": "Deep palmar arch",
+          "text": "Begins as a continuation of the radial artery after it enters the palm.",
+          "target": "Deep palmar arch.r"
+        },
+        {
+          "name": "Medial completion",
+          "text": "Completed medially by the deep palmar branch of the ulnar artery.",
+          "target": "Deep palmar arch.r",
+          "axis": "x",
+          "at": 0.92,
+          "context": true
+        }
+      ],
+      "focus": [
+        "Deep palmar arch.r"
+      ],
+      "pages": [
+        15
+      ],
+      "caption": "The completing branch is not separate in the model; the label explains its connection to the arch."
+    },
+    {
+      "topic": "deep-arch",
+      "title": "The deep arch curves medially",
+      "facts": [
+        41
+      ],
+      "pins": [
+        {
+          "name": "Curves medially",
+          "text": "The arch curves toward the medial side.",
+          "target": "Deep palmar arch.r",
+          "axis": "x",
+          "at": 0.85
+        },
+        {
+          "name": "Depth relations",
+          "text": "Deep to the long flexor tendons; superficial to the metacarpal bones and interosseous muscles.",
+          "target": "Deep palmar arch.r",
+          "context": true
+        }
+      ],
+      "focus": [
+        "Deep palmar arch.r"
+      ],
+      "pages": [
+        15
+      ],
+      "diagram": {
+        "page": 15,
+        "note": "Original lecture diagram. Dashed lines indicate the parent vessel for details not separately modeled."
+      }
+    },
+    {
+      "topic": "deep-arch",
+      "title": "Surface level of the deep palmar arch",
+      "facts": [
+        42
+      ],
+      "pins": [
+        {
+          "name": "Proximal border of extended thumb",
+          "text": "Lies at the level of the proximal border of the extended thumb.",
+          "target": "Deep palmar arch.r",
+          "context": true
+        }
+      ],
+      "focus": [
+        "Deep palmar arch.r"
+      ],
+      "pages": [
+        15
+      ],
+      "diagram": {
+        "page": 15,
+        "note": "Original lecture diagram. Dashed lines indicate the parent vessel for details not separately modeled."
+      },
+      "caption": "The diagram shows the extended-thumb position used to identify the surface level."
+    },
+    {
+      "topic": "deep-arch",
+      "title": "Palmar metacarpal branches",
+      "facts": [
+        46
+      ],
+      "pins": [
+        {
+          "name": "Palmar metacarpal arteries",
+          "text": "Branches from the deep arch toward the fingers, as shown in the diagram.",
+          "target": "Palmar metacarpal arteries.r"
+        },
+        {
+          "name": "Deep palmar arch",
+          "text": "The arch from which they arise.",
+          "target": "Deep palmar arch.r"
+        }
+      ],
+      "focus": [
+        "Palmar metacarpal arteries.r",
+        "Deep palmar arch.r"
+      ],
+      "pages": [
+        15
+      ]
+    },
+    {
+      "topic": "superficial-arch",
+      "title": "Superficial arch: ulnar origin, radial completion",
+      "facts": [
+        43
+      ],
+      "pins": [
+        {
+          "name": "Superficial palmar arch",
+          "text": "Begins as a continuation of the ulnar artery after it enters the palm.",
+          "target": "Superficial palmar arch.r"
+        },
+        {
+          "name": "Lateral completion",
+          "text": "Completed laterally by the superficial palmar branch of the radial artery.",
+          "target": "Superficial palmar arch.r",
+          "axis": "x",
+          "at": 0.08,
+          "context": true
+        }
+      ],
+      "focus": [
+        "Superficial palmar arch.r"
+      ],
+      "pages": [
+        16
+      ],
+      "caption": "The completing branch is not separate in the model; the label explains its connection to the arch."
+    },
+    {
+      "topic": "superficial-arch",
+      "title": "The superficial arch curves laterally",
+      "facts": [
+        44
+      ],
+      "pins": [
+        {
+          "name": "Curves laterally",
+          "text": "The arch curves toward the lateral side.",
+          "target": "Superficial palmar arch.r",
+          "axis": "x",
+          "at": 0.12
+        },
+        {
+          "name": "Depth relations",
+          "text": "Deep to the palmar aponeurosis and superficial to the long flexor tendons.",
+          "target": "Superficial palmar arch.r",
+          "context": true
+        }
+      ],
+      "focus": [
+        "Superficial palmar arch.r"
+      ],
+      "pages": [
+        16
+      ],
+      "diagram": {
+        "page": 16,
+        "note": "Original lecture diagram. Dashed lines indicate the parent vessel for details not separately modeled."
+      }
+    },
+    {
+      "topic": "superficial-arch",
+      "title": "Surface level of the superficial palmar arch",
+      "facts": [
+        45
+      ],
+      "pins": [
+        {
+          "name": "Distal border of extended thumb",
+          "text": "Lies at the level of the distal border of the fully extended thumb.",
+          "target": "Superficial palmar arch.r",
+          "context": true
+        }
+      ],
+      "focus": [
+        "Superficial palmar arch.r"
+      ],
+      "pages": [
+        16
+      ],
+      "diagram": {
+        "page": 16,
+        "note": "Original lecture diagram. Dashed lines indicate the parent vessel for details not separately modeled."
+      },
+      "caption": "Compare the diagrams: the superficial arch is at the distal border; the deep arch is at the proximal border."
+    },
+    {
+      "topic": "superficial-arch",
+      "title": "Digital arteries from the palm",
+      "facts": [
+        47
+      ],
+      "pins": [
+        {
+          "name": "Common palmar digital",
+          "text": "The common palmar digital arteries.",
+          "target": "Common palmar digital arteries.r"
+        },
+        {
+          "name": "Proper palmar digital",
+          "text": "The proper palmar digital arteries running along the sides of the fingers.",
+          "target": "Proper palmar digital arteries.r"
+        }
+      ],
+      "focus": [
+        "Common palmar digital arteries.r",
+        "Proper palmar digital arteries.r"
+      ],
+      "pages": [
+        16
+      ],
+      "context": [
+        "Superficial palmar arch.r"
+      ]
+    },
+    {
+      "topic": "elbow",
+      "title": "A connection above and below the elbow",
+      "facts": [
+        48
+      ],
+      "pins": [
+        {
+          "name": "From above",
+          "text": "Branches of the brachial and profunda brachii arteries.",
+          "target": "Brachial artery.r",
+          "at": 0.08,
+          "context": true
+        },
+        {
+          "name": "From below",
+          "text": "Branches of the radial and ulnar arteries.",
+          "target": "Radial artery.r",
+          "at": 0.95,
+          "context": true
+        }
+      ],
+      "focus": [
+        "Superior ulnar collateral artery.r",
+        "Inferior ulnar collateral artery.r",
+        "Radial collateral artery.r",
+        "Recurrent interosseous artery.r"
+      ],
+      "pages": [
+        12
+      ],
+      "context": [
+        "Brachial artery.r",
+        "Radial artery.r"
+      ]
+    },
+    {
+      "topic": "elbow",
+      "title": "In front of the medial epicondyle",
+      "facts": [
+        49
+      ],
+      "pins": [
+        {
+          "name": "Inferior ulnar collateral",
+          "text": "Anastomoses with the anterior ulnar recurrent artery in front of the medial epicondyle.",
+          "target": "Inferior ulnar collateral artery.r"
+        },
+        {
+          "name": "Anterior ulnar recurrent",
+          "text": "The model does not separate the anterior and posterior branches; see their positions in the diagram.",
+          "target": "(Ulnar recurrent artery).r",
+          "context": true
+        }
+      ],
+      "focus": [
+        "Inferior ulnar collateral artery.r"
+      ],
+      "pages": [
+        12
+      ],
+      "diagram": {
+        "page": 12,
+        "note": "Original lecture diagram. Dashed lines indicate the parent vessel for details not separately modeled."
+      },
+      "context": [
+        "(Ulnar recurrent artery).r"
+      ]
+    },
+    {
+      "topic": "elbow",
+      "title": "Behind the medial epicondyle",
+      "facts": [
+        50
+      ],
+      "pins": [
+        {
+          "name": "Superior ulnar collateral",
+          "text": "Anastomoses with the posterior ulnar recurrent artery behind the medial epicondyle.",
+          "target": "Superior ulnar collateral artery.r",
+          "at": 0.1
+        },
+        {
+          "name": "Posterior ulnar recurrent",
+          "text": "Meets it from below, as the diagram shows.",
+          "target": "(Ulnar recurrent artery).r",
+          "context": true
+        }
+      ],
+      "focus": [
+        "Superior ulnar collateral artery.r"
+      ],
+      "pages": [
+        12
+      ],
+      "region": {
+        "target": "Brachial artery.r",
+        "at": 0.1,
+        "span": 0.2
+      },
+      "diagram": {
+        "page": 12,
+        "note": "Original lecture diagram. Dashed lines indicate the parent vessel for details not separately modeled."
+      },
+      "view": "back",
+      "context": [
+        "(Ulnar recurrent artery).r"
+      ]
+    },
+    {
+      "topic": "elbow",
+      "title": "In front of the lateral epicondyle",
+      "facts": [
+        51
+      ],
+      "pins": [
+        {
+          "name": "Anterior descending",
+          "text": "A profunda brachii branch joining the radial recurrent artery in front of the lateral epicondyle.",
+          "target": "Radial collateral artery.r"
+        },
+        {
+          "name": "Radial recurrent",
+          "text": "Not separately modeled; its position and connection appear in the diagram.",
+          "target": "Radial artery.r",
+          "at": 0.95,
+          "context": true
+        }
+      ],
+      "focus": [
+        "Radial collateral artery.r"
+      ],
+      "pages": [
+        12
+      ],
+      "diagram": {
+        "page": 12,
+        "note": "Original lecture diagram. Dashed lines indicate the parent vessel for details not separately modeled."
+      },
+      "context": [
+        "Radial artery.r"
+      ]
+    },
+    {
+      "topic": "elbow",
+      "title": "Behind the lateral epicondyle",
+      "facts": [
+        52
+      ],
+      "pins": [
+        {
+          "name": "Posterior descending",
+          "text": "A profunda brachii branch; named middle collateral here.",
+          "target": "Middle collateral artery.r"
+        },
+        {
+          "name": "Interosseous recurrent",
+          "text": "Joins the posterior descending branch behind the lateral epicondyle.",
+          "target": "Recurrent interosseous artery.r"
+        }
+      ],
+      "focus": [
+        "Middle collateral artery.r",
+        "Recurrent interosseous artery.r"
+      ],
+      "pages": [
+        12
+      ],
+      "view": "back"
+    },
+    {
+      "topic": "wrist",
+      "title": "The anterior carpal arch",
+      "facts": [
+        53
+      ],
+      "pins": [
+        {
+          "name": "Anterior carpal arch",
+          "text": "At the front of the wrist: anterior carpal branches of the radial and ulnar arteries join.",
+          "target": "Palmar carpal branch of radial artery.r",
+          "context": true
+        }
+      ],
+      "focus": [
+        "Deep palmar arch.r",
+        "Palmar carpal branch of radial artery.r"
+      ],
+      "pages": [
+        14,
+        15
+      ],
+      "diagram": {
+        "page": 14,
+        "note": "Original lecture diagram. Dashed lines indicate the parent vessel for details not separately modeled."
+      },
+      "caption": "The model shows the available radial carpal branch; the complete anterior arch is not a separate structure."
+    },
+    {
+      "topic": "wrist",
+      "title": "The posterior carpal arch",
+      "facts": [
+        54
+      ],
+      "pins": [
+        {
+          "name": "Posterior carpal arch",
+          "text": "At the back of the wrist: posterior carpal branches of the radial and ulnar arteries join.",
+          "target": "Dorsal carpal anastomosis.r"
+        },
+        {
+          "name": "Ulnar dorsal carpal branch",
+          "text": "One of the participating branches shown here.",
+          "target": "Dorsal carpal branch of ulnar artery.r"
+        }
+      ],
+      "focus": [
+        "Dorsal carpal anastomosis.r",
+        "Dorsal carpal branch of ulnar artery.r"
+      ],
+      "pages": [
+        14,
+        15
+      ],
+      "view": "back"
+    },
+    {
+      "topic": "dorsal-veins",
+      "title": "From digital veins to the dorsal arch",
+      "facts": [
+        55
+      ],
+      "pins": [
+        {
+          "name": "Digital veins",
+          "text": "Palmar and dorsal digital veins join.",
+          "target": "Palmar digital veins.r"
+        },
+        {
+          "name": "Dorsal venous arch",
+          "text": "They form the dorsal venous arch, named dorsal venous network in the model.",
+          "target": "Dorsal venous network of hand.r"
+        }
+      ],
+      "focus": [
+        "Palmar digital veins.r",
+        "Dorsal venous network of hand.r"
+      ],
+      "pages": [
+        19
+      ],
+      "context": [
+        "Dorsal digital veins of hand.r"
+      ],
+      "view": "back"
+    },
+    {
+      "topic": "cephalic",
+      "title": "Cephalic vein: the lateral continuation",
+      "facts": [
+        56
+      ],
+      "pins": [
+        {
+          "name": "Lateral continuation",
+          "text": "Begins as the lateral continuation of the dorsal venous arch.",
+          "target": "Cephalic vein.r",
+          "at": 0.02
+        },
+        {
+          "name": "Lateral forearm",
+          "text": "Ascends along the lateral side of the forearm.",
+          "target": "Cephalic vein.r",
+          "at": 0.35
+        }
+      ],
+      "focus": [
+        "Cephalic vein.r"
+      ],
+      "pages": [
+        19
+      ]
+    },
+    {
+      "topic": "cephalic",
+      "title": "Draining into the axillary vein",
+      "facts": [
+        57
+      ],
+      "pins": [
+        {
+          "name": "Clavipectoral triangle",
+          "text": "The cephalic vein passes through the clavipectoral triangle.",
+          "target": "Cephalic vein.r",
+          "at": 0.94,
+          "context": true
+        },
+        {
+          "name": "Clavipectoral fascia â†’ Axillary vein",
+          "text": "Pierces the clavipectoral fascia to drain into the axillary vein.",
+          "target": "Axillary vein.r",
+          "at": 0.8
+        }
+      ],
+      "focus": [
+        "Axillary vein.r"
+      ],
+      "pages": [
+        19
+      ],
+      "context": [
+        "Cephalic vein.r"
+      ],
+      "diagram": {
+        "page": 19,
+        "note": "Original lecture diagram. Dashed lines indicate the parent vessel for details not separately modeled."
+      },
+      "caption": "The fascia is not modeled as a separate layer; the lecture shows the passage."
+    },
+    {
+      "topic": "basilic",
+      "title": "Basilic vein: the medial continuation",
+      "facts": [
+        58
+      ],
+      "pins": [
+        {
+          "name": "Medial continuation",
+          "text": "The medial continuation of the dorsal venous arch.",
+          "target": "Basilic vein.r",
+          "at": 0.02
+        },
+        {
+          "name": "Medial forearm",
+          "text": "Ascends along the medial side of the forearm.",
+          "target": "Basilic vein.r",
+          "at": 0.4
+        }
+      ],
+      "focus": [
+        "Basilic vein.r"
+      ],
+      "pages": [
+        19
+      ]
+    },
+    {
+      "topic": "basilic",
+      "title": "From the basilic to the axillary vein",
+      "facts": [
+        59
+      ],
+      "pins": [
+        {
+          "name": "Deep fascia",
+          "text": "According to the lecture, it pierces the deep fascia at mid-arm.",
+          "target": "Basilic vein.r",
+          "at": 0.9,
+          "context": true
+        },
+        {
+          "name": "Basilic + brachial veins",
+          "text": "Then joins the brachial veins to form the axillary vein.",
+          "target": "Axillary vein.r",
+          "at": 0.1
+        }
+      ],
+      "focus": [
+        "Basilic vein.r",
+        "Brachial veins.r",
+        "Axillary vein.r"
+      ],
+      "pages": [
+        19
+      ],
+      "diagram": {
+        "page": 19,
+        "note": "Original lecture diagram. Dashed lines indicate the parent vessel for details not separately modeled."
+      },
+      "caption": "This preserves the lecture's wording. The union in the general model may differ from the diagram."
+    },
+    {
+      "topic": "median-veins",
+      "title": "An oblique bridge across the cubital fossa",
+      "facts": [
+        60,
+        61
+      ],
+      "pins": [
+        {
+          "name": "Median cubital vein",
+          "text": "Passes obliquely across the cubital fossa, connecting the cephalic and basilic veins.",
+          "target": "Median cubital vein.r"
+        },
+        {
+          "name": "Intravenous injection",
+          "text": "The lecture identifies this as the most commonly used vein for intravenous injection.",
+          "target": "Median cubital vein.r",
+          "at": 0.2
+        }
+      ],
+      "focus": [
+        "Median cubital vein.r"
+      ],
+      "pages": [
+        19
+      ],
+      "context": [
+        "Cephalic vein.r",
+        "Basilic vein.r"
+      ]
+    },
+    {
+      "topic": "median-veins",
+      "title": "Median vein of the forearm",
+      "facts": [
+        62
+      ],
+      "pins": [
+        {
+          "name": "Median antebrachial vein",
+          "text": "May drain into the basilic vein, cephalic vein, or both.",
+          "target": "Median antebrachial vein.r"
+        }
+      ],
+      "focus": [
+        "Median antebrachial vein.r"
+      ],
+      "pages": [
+        19
+      ],
+      "caption": "The model shows one arrangement; the lecture lists all three drainage possibilities."
+    },
+    {
+      "topic": "deep-veins",
+      "title": "Venae comitantes: two veins per artery",
+      "facts": [
+        63
+      ],
+      "pins": [
+        {
+          "name": "Radial veins",
+          "text": "Two veins accompany the radial artery.",
+          "target": "Radial veins.r"
+        },
+        {
+          "name": "Ulnar veins",
+          "text": "Two veins accompany the ulnar artery.",
+          "target": "Ulnar veins.r"
+        },
+        {
+          "name": "Brachial veins",
+          "text": "Two veins accompany the brachial artery. These are deep veins.",
+          "target": "Brachial veins.r"
+        }
+      ],
+      "focus": [
+        "Radial veins.r",
+        "Ulnar veins.r",
+        "Brachial veins.r"
+      ],
+      "pages": [
+        18
+      ]
+    },
+    {
+      "topic": "deep-veins",
+      "title": "Forearm veins unite as brachial veins",
+      "facts": [
+        64
+      ],
+      "pins": [
+        {
+          "name": "Radial + ulnar veins",
+          "text": "The veins accompanying the two forearm arteries unite.",
+          "target": "Radial veins.r",
+          "at": 0.95
+        },
+        {
+          "name": "Brachial venae comitantes",
+          "text": "They form the veins accompanying the brachial artery.",
+          "target": "Brachial veins.r",
+          "at": 0.06
+        }
+      ],
+      "focus": [
+        "Brachial veins.r",
+        "Radial veins.r",
+        "Ulnar veins.r"
+      ],
+      "pages": [
+        18
+      ]
+    },
+    {
+      "topic": "sympathetic",
+      "title": "Sympathetic supply: preganglionic fibers",
+      "facts": [
+        65
+      ],
+      "pins": [
+        {
+          "name": "Sympathetic supply â€” T2â€“T8",
+          "text": "Preganglionic fibers arise from T2 to T8.",
+          "target": "Roots of brachial plexus.r",
+          "context": true
+        }
+      ],
+      "focus": [
+        "Roots of brachial plexus.r"
+      ],
+      "pages": [
+        20
+      ],
+      "diagram": {
+        "page": 20,
+        "note": "Original lecture diagram. Dashed lines indicate the parent vessel for details not separately modeled."
+      },
+      "caption": "These levels and microscopic fibers are not displayed. The line only indicates the plexus region for orientation."
+    },
+    {
+      "topic": "sympathetic",
+      "title": "Sources of postganglionic fibers",
+      "facts": [
+        66
+      ],
+      "pins": [
+        {
+          "name": "Postganglionic fibers",
+          "text": "Middle cervical, inferior cervical, first thoracic, or stellate ganglia.",
+          "target": "Roots of brachial plexus.r",
+          "context": true
+        }
+      ],
+      "focus": [
+        "Roots of brachial plexus.r"
+      ],
+      "pages": [
+        20
+      ],
+      "diagram": {
+        "page": 20,
+        "note": "Original lecture diagram. Dashed lines indicate the parent vessel for details not separately modeled."
+      },
+      "caption": "These are the sources listed in the lecture. No estimated markers are placed on ganglia not separately modeled."
+    },
+    {
+      "topic": "sympathetic",
+      "title": "Plexus nerves carry fibers to the vessels",
+      "facts": [
+        67
+      ],
+      "pins": [
+        {
+          "name": "Brachial plexus nerves",
+          "text": "Distribute postganglionic fibers to accompany arteries and veins.",
+          "target": "Roots of brachial plexus.r"
+        },
+        {
+          "name": "Along nerves and vessels",
+          "text": "The model shows large nerves and vessels; sympathetic fibers themselves are microscopic.",
+          "target": "Median nerve.r",
+          "at": 0.65,
+          "context": true
+        }
+      ],
+      "focus": [
+        "Median nerve.r",
+        "Brachial artery.r"
+      ],
+      "pages": [
+        20
+      ],
+      "context": [
+        "Radial nerve.r",
+        "Ulnar nerve.r"
+      ],
+      "caption": "Tour complete. Revisit any chapter from the menu or restart the tour."
+    }
+  ]
+}

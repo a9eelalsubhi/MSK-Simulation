@@ -1,0 +1,25 @@
+import assert from 'node:assert/strict';
+import {readFile} from 'node:fs/promises';
+import * as THREE from './public/vendor/three.module.js';
+class Element extends EventTarget{constructor(){super();this.children=[];this.dataset={};this.style={};this.attributes={};this.value='';this.hidden=false;this.classList={add(){},remove(){}};}setAttribute(k,v){this.attributes[k]=v;}removeAttribute(k){delete this.attributes[k];}append(e){this.children.push(e);}replaceChildren(){this.children=[];}scrollIntoView(){} }
+const ids=new Map(),get=id=>{if(!ids.has(id))ids.set(id,new Element());return ids.get(id);};
+const views=['Anterior','Posterior','Medial','Lateral'].map(v=>{const b=new Element();b.dataset.view=v;return b;});
+const doc=new Element();doc.getElementById=get;doc.createElement=()=>new Element();doc.querySelectorAll=()=>views;doc.querySelector=()=>get('sidebar');doc.body=new Element();globalThis.document=doc;globalThis.matchMedia=()=>({matches:false});
+const source=(await readFile(new URL('./public/enhancements.js',import.meta.url),'utf8')).replace("'three'",JSON.stringify(new URL('./public/vendor/three.module.js',import.meta.url).href));
+const {createEnhancements}=await import('data:text/javascript;base64,'+Buffer.from(source).toString('base64'));
+const tour=JSON.parse(await readFile(new URL('./public/lectures/l1/tour.json',import.meta.url),'utf8'));
+const names=[...new Set(tour.steps.flatMap(s=>s.pins.filter(p=>!p.context).map(p=>p.target)))];
+const meshes=names.map((n,i)=>{const m=new THREE.Mesh(new THREE.BoxGeometry(.01,.2,.01),new THREE.MeshStandardMaterial());m.userData={anatomyName:n,displayLayer:/artery|arch/i.test(n)?'arteries':'bones'};m.position.x=-.2-i*.001;m.updateMatrixWorld();return m;});
+const muscle=new THREE.Mesh(new THREE.BoxGeometry(),new THREE.MeshStandardMaterial());muscle.userData.displayLayer='muscles';meshes.push(muscle);
+const camera=new THREE.PerspectiveCamera(38,1.5,.001,20),controls=new Element();controls.target=new THREE.Vector3();controls.touches={};controls.update=()=>{};const state={};let selected=-1,restored=false,extra;
+const api={studyLayer:"bones",functionalQuiz:tour.functionalQuiz,camera,controls,canvas:new Element(),meshes,steps:tour.steps,byName:new Map(meshes.map(m=>[m.userData.anatomyName,m])),state,refresh:()=>extra?.applyMuscles(),select:i=>selected=i,cancelCamera(){},capture:()=>({saved:true}),restore:s=>{restored=s.saved;}};
+extra=createEnhancements(api);const fire=(e,type)=>e.dispatchEvent(new Event(type));
+get('muscleOpacity').value='25';fire(get('muscleOpacity'),'input');assert.equal(muscle.material.opacity,.25);assert.equal(muscle.material.depthWrite,false);assert(muscle.visible);
+get('muscleOpacity').value='0';fire(get('muscleOpacity'),'input');assert(!muscle.visible);
+fire(get('orbitLock'),'click');assert.equal(controls.enabled,false);assert.equal(api.canvas.style.touchAction,'pan-y');fire(get('orbitLock'),'click');assert.equal(controls.enabled,true);
+for(const view of views){fire(view,'click');extra.tick(performance.now()+1000);const d=camera.position.clone().sub(controls.target);if(view.dataset.view==='Medial')assert(d.x>0);if(view.dataset.view==='Lateral')assert(d.x<0);if(view.dataset.view==='Anterior')assert(d.z>0);if(view.dataset.view==='Posterior')assert(d.z<0);}
+get('anatomySearch').value='scapula';fire(get('anatomySearch'),'input');assert(get('searchResults').children.length>0);get('searchResults').children[0].onclick();assert(selected>=0);assert.equal(get('searchDetail').hidden,false);
+fire(get('quizToggle'),'click');assert(extra.quizActive);assert.equal(get('quizOptions').children.length,4);const options=get('quizOptions').children;assert.equal(new Set(options.map(b=>b.textContent)).size,4);options[0].onclick();assert(!get('nextQuestion').hidden);assert(options.every(b=>b.disabled));
+fire(get('nextQuestion'),'click');assert(get('quizPrompt').textContent.includes('medial'));assert(extra.handlePick('Ulna.r'));assert(get('quizFeedback').textContent.startsWith('Correct.'));
+fire(get('quizToggle'),'click');assert(!extra.quizActive);assert(restored);extra.dispose();
+console.log('PASS: camera presets, opacity isolation, orbit lock, search selection, quiz choices, raycast answer routing and exit restore.');

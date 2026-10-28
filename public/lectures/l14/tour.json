@@ -1,0 +1,3998 @@
+{
+  "lectureId": 14,
+  "title": "Spinal cord, nerves & vessels",
+  "topics": [
+    {
+      "id": "cord",
+      "title": "Cord & spinal nerves",
+      "subtitle": "Lecture 14 · Cord & spinal nerves"
+    },
+    {
+      "id": "roots",
+      "title": "Spinal segment · sensory & motor roots",
+      "subtitle": "Lecture 14 · Spinal segment · sensory & motor roots"
+    },
+    {
+      "id": "meninges",
+      "title": "Meninges & spaces",
+      "subtitle": "Lecture 14 · Meninges & spaces"
+    },
+    {
+      "id": "exits",
+      "title": "Spinal nerve exits & plexuses",
+      "subtitle": "Lecture 14 · Spinal nerve exits & plexuses"
+    },
+    {
+      "id": "cervical-plexus",
+      "title": "Cervical plexus · relations & branches",
+      "subtitle": "Lecture 14 · Cervical plexus · relations & branches"
+    },
+    {
+      "id": "procedures",
+      "title": "Lumbar cistern & anesthetic spaces",
+      "subtitle": "Lecture 14 · Lumbar cistern & anesthetic spaces"
+    },
+    {
+      "id": "compression",
+      "title": "Compression & foraminal encroachment",
+      "subtitle": "Lecture 14 · Compression & foraminal encroachment"
+    },
+    {
+      "id": "dermatomes",
+      "title": "Upper limb dermatomes",
+      "subtitle": "Lecture 14 · Upper limb dermatomes"
+    },
+    {
+      "id": "radiculopathy",
+      "title": "Cervical root signs & sensory testing",
+      "subtitle": "Lecture 14 · Cervical root signs & sensory testing"
+    },
+    {
+      "id": "myotomes",
+      "title": "Upper limb myotome tests",
+      "subtitle": "Lecture 14 · Upper limb myotome tests"
+    },
+    {
+      "id": "artery",
+      "title": "Vertebral artery · course & branches",
+      "subtitle": "Lecture 14 · Vertebral artery · course & branches"
+    }
+  ],
+  "steps": [
+    {
+      "id": "cord-map",
+      "topic": "cord",
+      "title": "Spinal cord inside the spinal canal",
+      "pages": [
+        1
+      ],
+      "pins": [
+        {
+          "name": "Spinal cord",
+          "target": "White matter of spinal cord",
+          "text": "Adult ends at L2 in this lecture. Growth stops at age 5.",
+          "color": "#f1c75b",
+          "at": 0.6
+        },
+        {
+          "name": "Cervical enlargement",
+          "target": "White matter of spinal cord",
+          "text": "Supplies upper limbs.",
+          "color": "#59d9d0",
+          "at": 0.86
+        },
+        {
+          "name": "Lumbar enlargement",
+          "target": "White matter of spinal cord",
+          "text": "Supplies lower limbs.",
+          "color": "#ff7d9b",
+          "at": 0.1
+        }
+      ],
+      "focus": [
+        "White matter of spinal cord"
+      ],
+      "view": "back",
+      "studyView": true,
+      "boneContext": [
+        "Atlas (C1)",
+        "Axis (C2)",
+        "Vertebra C3",
+        "Vertebra C4",
+        "Vertebra C5",
+        "Vertebra C6",
+        "Vertebra C7",
+        "Vertebra T1",
+        "Vertebra T2",
+        "Vertebra T3",
+        "Vertebra T4",
+        "Vertebra T5",
+        "Vertebra T6",
+        "Vertebra T7",
+        "Vertebra T8",
+        "Vertebra T9",
+        "Vertebra T10",
+        "Vertebra T11",
+        "Vertebra T12",
+        "Vertebra L1",
+        "Vertebra L2",
+        "Vertebra L3",
+        "Vertebra L4",
+        "Vertebra L5",
+        "Sacrum",
+        "Coccyx"
+      ],
+      "sceneOpacity": {
+        "Atlas (C1)": 0.18,
+        "Axis (C2)": 0.18,
+        "Vertebra C3": 0.18,
+        "Vertebra C4": 0.18,
+        "Vertebra C5": 0.18,
+        "Vertebra C6": 0.18,
+        "Vertebra C7": 0.18,
+        "Vertebra T1": 0.18,
+        "Vertebra T2": 0.18,
+        "Vertebra T3": 0.18,
+        "Vertebra T4": 0.18,
+        "Vertebra T5": 0.18,
+        "Vertebra T6": 0.18,
+        "Vertebra T7": 0.18,
+        "Vertebra T8": 0.18,
+        "Vertebra T9": 0.18,
+        "Vertebra T10": 0.18,
+        "Vertebra T11": 0.18,
+        "Vertebra T12": 0.18,
+        "Vertebra L1": 0.18,
+        "Vertebra L2": 0.18,
+        "Vertebra L3": 0.18,
+        "Vertebra L4": 0.18,
+        "Vertebra L5": 0.18,
+        "Sacrum": 0.18,
+        "Coccyx": 0.18
+      },
+      "caption": "The skeleton stays visible as context. Use Section view to open half of the bony canal; use the level picker to inspect a vertebra."
+    },
+    {
+      "id": "cord-length",
+      "topic": "cord",
+      "title": "Cord development & measurements",
+      "pages": [
+        1
+      ],
+      "pins": [
+        {
+          "name": "Newborn end",
+          "target": "Vertebra L4",
+          "text": "Ends at L4 in newborn, compared with adult L2.",
+          "color": "#59d9d0",
+          "context": true
+        },
+        {
+          "name": "Cord dimensions",
+          "target": "White matter of spinal cord",
+          "text": "Lecture dimensions: 16–18 inches long and ¾ inch diameter.",
+          "color": "#f1c75b"
+        }
+      ],
+      "focus": [
+        "White matter of spinal cord",
+        "Vertebra L2",
+        "Vertebra L4"
+      ],
+      "view": "lateral",
+      "studyView": true,
+      "boneContext": [
+        "Atlas (C1)",
+        "Axis (C2)",
+        "Vertebra C3",
+        "Vertebra C4",
+        "Vertebra C5",
+        "Vertebra C6",
+        "Vertebra C7",
+        "Vertebra T1",
+        "Vertebra T2",
+        "Vertebra T3",
+        "Vertebra T4",
+        "Vertebra T5",
+        "Vertebra T6",
+        "Vertebra T7",
+        "Vertebra T8",
+        "Vertebra T9",
+        "Vertebra T10",
+        "Vertebra T11",
+        "Vertebra T12",
+        "Vertebra L1",
+        "Vertebra L2",
+        "Vertebra L3",
+        "Vertebra L4",
+        "Vertebra L5",
+        "Sacrum",
+        "Coccyx"
+      ],
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "conus-cauda",
+      "topic": "cord",
+      "title": "Conus medullaris & cauda equina",
+      "pages": [
+        1
+      ],
+      "pins": [
+        {
+          "name": "Conus medullaris",
+          "target": "White matter of spinal cord",
+          "text": "Cone-shaped end of spinal cord.",
+          "color": "#f1c75b",
+          "at": 0
+        },
+        {
+          "name": "Cauda equina",
+          "target": "Anterior root of spinal nerve.r",
+          "text": "Lowest spinal nerves, the “horse’s tail”.",
+          "color": "#ff7d9b",
+          "at": 0.1
+        }
+      ],
+      "focus": [
+        "White matter of spinal cord",
+        "Posterior root of spinal nerve.r",
+        "Anterior root of spinal nerve.r",
+        "Spinal ganglion.r"
+      ],
+      "view": "back",
+      "studyView": true,
+      "boneContext": [
+        "Vertebra L1",
+        "Vertebra L2",
+        "Vertebra L3",
+        "Vertebra L4",
+        "Vertebra L5",
+        "Sacrum",
+        "Coccyx"
+      ],
+      "region": {
+        "target": "Vertebra L2",
+        "span": 0.36
+      },
+      "figure": "lower-canal",
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "nerve-count",
+      "topic": "cord",
+      "title": "31 pairs · 8 + 12 + 5 + 5 + 1",
+      "pages": [
+        1
+      ],
+      "pins": [
+        {
+          "name": "Cervical / thoracic",
+          "target": "Posterior root of spinal nerve.r",
+          "text": "8 cervical pairs C1–C8; 12 thoracic T1–T12.",
+          "color": "#59d9d0",
+          "at": 0.85
+        },
+        {
+          "name": "Lumbar / sacral",
+          "target": "Anterior root of spinal nerve.r",
+          "text": "5 lumbar L1–L5; 5 sacral S1–S5.",
+          "color": "#ff7d9b",
+          "at": 0.25
+        },
+        {
+          "name": "Coccygeal",
+          "target": "Sacrum",
+          "text": "1 coccygeal pair. Named and numbered by cord level of origin; exit through IVF.",
+          "color": "#f1c75b",
+          "context": true
+        }
+      ],
+      "focus": [
+        "Posterior root of spinal nerve.r",
+        "Anterior root of spinal nerve.r",
+        "Spinal ganglion.r"
+      ],
+      "view": "back",
+      "studyView": true,
+      "boneContext": [
+        "Atlas (C1)",
+        "Axis (C2)",
+        "Vertebra C3",
+        "Vertebra C4",
+        "Vertebra C5",
+        "Vertebra C6",
+        "Vertebra C7",
+        "Vertebra T1",
+        "Vertebra T2",
+        "Vertebra T3",
+        "Vertebra T4",
+        "Vertebra T5",
+        "Vertebra T6",
+        "Vertebra T7",
+        "Vertebra T8",
+        "Vertebra T9",
+        "Vertebra T10",
+        "Vertebra T11",
+        "Vertebra T12",
+        "Vertebra L1",
+        "Vertebra L2",
+        "Vertebra L3",
+        "Vertebra L4",
+        "Vertebra L5",
+        "Sacrum",
+        "Coccyx"
+      ],
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "root-circuit",
+      "topic": "roots",
+      "title": "Dorsal in · ventral out",
+      "pages": [
+        2
+      ],
+      "pins": [
+        {
+          "name": "Dorsal / posterior root",
+          "target": "Posterior root of spinal nerve.r",
+          "text": "Incoming sensory fibers.",
+          "color": "#59d9d0",
+          "reference": "Vertebra T6",
+          "at": 0.5
+        },
+        {
+          "name": "Ventral / anterior root",
+          "target": "Anterior root of spinal nerve.r",
+          "text": "Outgoing motor fibers.",
+          "color": "#ff7d9b",
+          "reference": "Vertebra T6",
+          "at": 0.5
+        },
+        {
+          "name": "Dorsal root ganglion",
+          "target": "Spinal ganglion.r",
+          "text": "Cell bodies of sensory nerves.",
+          "color": "#f1c75b",
+          "reference": "Vertebra T6",
+          "at": 0.5
+        }
+      ],
+      "focus": [
+        "Posterior root of spinal nerve.r",
+        "Anterior root of spinal nerve.r",
+        "Spinal ganglion.r",
+        "White matter of spinal cord"
+      ],
+      "view": "lateral",
+      "studyView": true,
+      "boneContext": [
+        "Vertebra T6",
+        "Vertebra T7"
+      ],
+      "region": {
+        "target": "Vertebra T6",
+        "span": 0.13
+      },
+      "figure": "roots",
+      "structureColors": {
+        "Posterior root of spinal nerve.r": "#59d9d0",
+        "Anterior root of spinal nerve.r": "#ff7d9b",
+        "Spinal ganglion.r": "#f1c75b"
+      },
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "segment",
+      "topic": "roots",
+      "title": "One segment gives one pair of spinal nerves",
+      "pages": [
+        2
+      ],
+      "pins": [
+        {
+          "name": "Spinal segment",
+          "target": "White matter of spinal cord",
+          "text": "An area of spinal cord giving origin to one pair of spinal nerves.",
+          "color": "#f1c75b",
+          "at": 0.55
+        },
+        {
+          "name": "Paired roots",
+          "target": "Posterior root of spinal nerve.r",
+          "text": "Spinal nerves begin as dorsal sensory and ventral motor roots.",
+          "color": "#59d9d0",
+          "at": 0.55
+        }
+      ],
+      "focus": [
+        "White matter of spinal cord",
+        "Posterior root of spinal nerve.r",
+        "Anterior root of spinal nerve.r",
+        "Spinal ganglion.r"
+      ],
+      "view": "back",
+      "studyView": true,
+      "boneContext": [
+        "Vertebra T1",
+        "Vertebra T2",
+        "Vertebra T3",
+        "Vertebra T4",
+        "Vertebra T5",
+        "Vertebra T6",
+        "Vertebra T7",
+        "Vertebra T8",
+        "Vertebra T9",
+        "Vertebra T10",
+        "Vertebra T11",
+        "Vertebra T12"
+      ],
+      "region": {
+        "target": "Vertebra T6",
+        "span": 0.18
+      },
+      "figure": "roots",
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "pia",
+      "topic": "meninges",
+      "title": "Pia mater & denticulate ligaments",
+      "pages": [
+        2
+      ],
+      "pins": [
+        {
+          "name": "Pia mater",
+          "target": "White matter of spinal cord",
+          "text": "Thin layer. Denticulate ligaments hold cord in place; pia ends with the cord.",
+          "color": "#59d9d0",
+          "context": true
+        },
+        {
+          "name": "Filum terminale",
+          "target": "Coccyx",
+          "text": "Pial extension attaches to first coccygeal piece.",
+          "color": "#ff7d9b",
+          "context": true
+        }
+      ],
+      "focus": [
+        "Spinal dura",
+        "White matter of spinal cord",
+        "Coccyx"
+      ],
+      "view": "back",
+      "studyView": true,
+      "boneContext": [
+        "Atlas (C1)",
+        "Axis (C2)",
+        "Vertebra C3",
+        "Vertebra C4",
+        "Vertebra C5",
+        "Vertebra C6",
+        "Vertebra C7",
+        "Vertebra T1",
+        "Vertebra T2",
+        "Vertebra T3",
+        "Vertebra T4",
+        "Vertebra T5",
+        "Vertebra T6",
+        "Vertebra T7",
+        "Vertebra T8",
+        "Vertebra T9",
+        "Vertebra T10",
+        "Vertebra T11",
+        "Vertebra T12",
+        "Vertebra L1",
+        "Vertebra L2",
+        "Vertebra L3",
+        "Vertebra L4",
+        "Vertebra L5",
+        "Sacrum",
+        "Coccyx"
+      ],
+      "sceneOpacity": {
+        "Spinal dura": 0.2
+      },
+      "figure": "meninges",
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "arachnoid",
+      "topic": "meninges",
+      "title": "Arachnoid mater · lower border of S2",
+      "pages": [
+        2
+      ],
+      "pins": [
+        {
+          "name": "Arachnoid mater",
+          "target": "Spinal dura",
+          "text": "Web of collagen fibers; ends at lower border of S2. Follows roots into IVF.",
+          "color": "#aa9df1",
+          "context": true
+        }
+      ],
+      "focus": [
+        "Spinal dura",
+        "White matter of spinal cord"
+      ],
+      "view": "back",
+      "studyView": true,
+      "boneContext": [
+        "Atlas (C1)",
+        "Axis (C2)",
+        "Vertebra C3",
+        "Vertebra C4",
+        "Vertebra C5",
+        "Vertebra C6",
+        "Vertebra C7",
+        "Vertebra T1",
+        "Vertebra T2",
+        "Vertebra T3",
+        "Vertebra T4",
+        "Vertebra T5",
+        "Vertebra T6",
+        "Vertebra T7",
+        "Vertebra T8",
+        "Vertebra T9",
+        "Vertebra T10",
+        "Vertebra T11",
+        "Vertebra T12",
+        "Vertebra L1",
+        "Vertebra L2",
+        "Vertebra L3",
+        "Vertebra L4",
+        "Vertebra L5",
+        "Sacrum",
+        "Coccyx"
+      ],
+      "sceneOpacity": {
+        "Spinal dura": 0.2
+      },
+      "figure": "meninges",
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "dura",
+      "topic": "meninges",
+      "title": "Dura mater · tube and nerve sleeves",
+      "pages": [
+        2
+      ],
+      "pins": [
+        {
+          "name": "Dura mater",
+          "target": "Spinal dura",
+          "text": "Dense irregular connective tissue tube; ends at lower border of S2. Follows roots and becomes continuous with epineurium.",
+          "color": "#f1c75b"
+        }
+      ],
+      "focus": [
+        "Spinal dura",
+        "White matter of spinal cord"
+      ],
+      "view": "back",
+      "studyView": true,
+      "boneContext": [
+        "Atlas (C1)",
+        "Axis (C2)",
+        "Vertebra C3",
+        "Vertebra C4",
+        "Vertebra C5",
+        "Vertebra C6",
+        "Vertebra C7",
+        "Vertebra T1",
+        "Vertebra T2",
+        "Vertebra T3",
+        "Vertebra T4",
+        "Vertebra T5",
+        "Vertebra T6",
+        "Vertebra T7",
+        "Vertebra T8",
+        "Vertebra T9",
+        "Vertebra T10",
+        "Vertebra T11",
+        "Vertebra T12",
+        "Vertebra L1",
+        "Vertebra L2",
+        "Vertebra L3",
+        "Vertebra L4",
+        "Vertebra L5",
+        "Sacrum",
+        "Coccyx"
+      ],
+      "sceneOpacity": {
+        "Spinal dura": 0.2
+      },
+      "figure": "meninges",
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "spaces",
+      "topic": "meninges",
+      "title": "Outside → inside: epidural, dura, arachnoid, pia",
+      "pages": [
+        3
+      ],
+      "pins": [
+        {
+          "name": "Epidural space",
+          "target": "Spinal dura",
+          "text": "Between dura and vertebrae; contains fat.",
+          "color": "#f1c75b",
+          "context": true
+        },
+        {
+          "name": "Subdural space",
+          "target": "Spinal dura",
+          "text": "Between dura and arachnoid; the lecture describes interstitial fluid.",
+          "color": "#aa9df1",
+          "context": true
+        },
+        {
+          "name": "Subarachnoid space",
+          "target": "White matter of spinal cord",
+          "text": "Between arachnoid and pia; contains CSF.",
+          "color": "#59d9d0",
+          "context": true
+        }
+      ],
+      "focus": [
+        "Spinal dura",
+        "White matter of spinal cord"
+      ],
+      "view": "back",
+      "studyView": true,
+      "boneContext": [
+        "Atlas (C1)",
+        "Axis (C2)",
+        "Vertebra C3",
+        "Vertebra C4",
+        "Vertebra C5",
+        "Vertebra C6",
+        "Vertebra C7",
+        "Vertebra T1",
+        "Vertebra T2",
+        "Vertebra T3",
+        "Vertebra T4",
+        "Vertebra T5",
+        "Vertebra T6",
+        "Vertebra T7",
+        "Vertebra T8",
+        "Vertebra T9",
+        "Vertebra T10",
+        "Vertebra T11",
+        "Vertebra T12",
+        "Vertebra L1",
+        "Vertebra L2",
+        "Vertebra L3",
+        "Vertebra L4",
+        "Vertebra L5",
+        "Sacrum",
+        "Coccyx"
+      ],
+      "sceneOpacity": {
+        "Spinal dura": 0.2
+      },
+      "figure": "meninges",
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "cistern",
+      "topic": "meninges",
+      "title": "Lumbar cistern · L2 to S2",
+      "pages": [
+        3
+      ],
+      "pins": [
+        {
+          "name": "Lumbar cistern",
+          "target": "Spinal dura",
+          "text": "Enlarged subarachnoid space from L2 to S2.",
+          "color": "#59d9d0",
+          "context": true,
+          "reference": "Vertebra L4",
+          "at": 0.5
+        },
+        {
+          "name": "L2 landmark",
+          "target": "Vertebra L2",
+          "text": "Upper limit of the lumbar cistern in the lecture.",
+          "color": "#ff7d9b"
+        },
+        {
+          "name": "S2 landmark",
+          "target": "Sacrum",
+          "text": "Lower border of S2: dura and arachnoid termination.",
+          "color": "#aa9df1",
+          "context": true,
+          "part": "s2"
+        }
+      ],
+      "focus": [
+        "Spinal dura",
+        "White matter of spinal cord",
+        "Posterior root of spinal nerve.r",
+        "Anterior root of spinal nerve.r",
+        "Spinal ganglion.r"
+      ],
+      "view": "lateral",
+      "studyView": true,
+      "boneContext": [
+        "Vertebra L1",
+        "Vertebra L2",
+        "Vertebra L3",
+        "Vertebra L4",
+        "Vertebra L5",
+        "Sacrum",
+        "Coccyx"
+      ],
+      "region": {
+        "target": "Vertebra L4",
+        "span": 0.34
+      },
+      "sceneOpacity": {
+        "Spinal dura": 0.12
+      },
+      "figure": "lower-canal",
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "cervical-exits",
+      "topic": "exits",
+      "title": "C1–C7 above · C8 between C7 and T1",
+      "pages": [
+        3
+      ],
+      "pins": [
+        {
+          "name": "C1 exit",
+          "target": "Atlas (C1)",
+          "text": "Between atlas and occipital bone.",
+          "color": "#59d9d0",
+          "context": true
+        },
+        {
+          "name": "C1–C7",
+          "target": "Vertebra C5",
+          "text": "Exit above the corresponding vertebra.",
+          "color": "#ff7d9b",
+          "context": true
+        },
+        {
+          "name": "C8",
+          "target": "Vertebra C7",
+          "text": "Exit between C7 and T1.",
+          "color": "#f1c75b",
+          "context": true
+        }
+      ],
+      "focus": [
+        "Atlas (C1)",
+        "Axis (C2)",
+        "Vertebra C3",
+        "Vertebra C4",
+        "Vertebra C5",
+        "Vertebra C6",
+        "Vertebra C7",
+        "Vertebra T1",
+        "Posterior root of spinal nerve.r",
+        "Anterior root of spinal nerve.r",
+        "Spinal ganglion.r"
+      ],
+      "view": "lateral",
+      "studyView": true,
+      "figure": "levels",
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "plexus-levels",
+      "topic": "exits",
+      "title": "C1–C4 cervical · C5–T1 brachial",
+      "pages": [
+        3
+      ],
+      "pins": [
+        {
+          "name": "Cervical plexus",
+          "target": "Vertebra C3",
+          "text": "C1–C4 spinal nerves.",
+          "color": "#59d9d0",
+          "context": true
+        },
+        {
+          "name": "Brachial plexus",
+          "target": "Vertebra C7",
+          "text": "C5–T1 spinal nerves.",
+          "color": "#ff7d9b",
+          "context": true
+        }
+      ],
+      "focus": [
+        "Atlas (C1)",
+        "Axis (C2)",
+        "Vertebra C3",
+        "Vertebra C4",
+        "Vertebra C5",
+        "Vertebra C6",
+        "Vertebra C7",
+        "Vertebra T1"
+      ],
+      "view": "front",
+      "studyView": true,
+      "figure": "levels",
+      "structureColors": {
+        "Atlas (C1)": "#59d9d0",
+        "Axis (C2)": "#59d9d0",
+        "Vertebra C3": "#59d9d0",
+        "Vertebra C4": "#59d9d0",
+        "Vertebra C5": "#ff7d9b",
+        "Vertebra C6": "#ff7d9b",
+        "Vertebra C7": "#ff7d9b",
+        "Vertebra T1": "#ff7d9b"
+      },
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "lower-exits",
+      "topic": "exits",
+      "title": "Below vertebrae · foramina · hiatus",
+      "pages": [
+        6
+      ],
+      "pins": [
+        {
+          "name": "T1–L5",
+          "target": "Vertebra L3",
+          "text": "Exit IVF below corresponding vertebrae.",
+          "color": "#59d9d0",
+          "context": true
+        },
+        {
+          "name": "S1–S4",
+          "target": "Sacrum",
+          "text": "Exit corresponding sacral foramina.",
+          "color": "#ff7d9b",
+          "context": true,
+          "part": "posterior-foramina"
+        },
+        {
+          "name": "S5 & Co1",
+          "target": "Sacrum",
+          "text": "Exit through sacral hiatus.",
+          "color": "#f1c75b",
+          "context": true,
+          "part": "hiatus"
+        }
+      ],
+      "focus": [
+        "Vertebra L1",
+        "Vertebra L2",
+        "Vertebra L3",
+        "Vertebra L4",
+        "Vertebra L5",
+        "Sacrum",
+        "Coccyx",
+        "Posterior root of spinal nerve.r",
+        "Anterior root of spinal nerve.r",
+        "Spinal ganglion.r"
+      ],
+      "view": "back",
+      "studyView": true,
+      "figure": "sacral-exit",
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "cervical-plexus",
+      "topic": "cervical-plexus",
+      "title": "Ventral rami C1–C4 · behind SCM",
+      "pages": [
+        4
+      ],
+      "pins": [
+        {
+          "name": "Plexus region",
+          "target": "Vertebra C3",
+          "text": "Anterior to levator scapulae and middle scalene; posterior to sternocleidomastoid.",
+          "color": "#f1c75b",
+          "context": true
+        },
+        {
+          "name": "Sternocleidomastoid",
+          "target": "Sternocleidomastoid muscle.r",
+          "text": "Cutaneous branches emerge behind its lateral border.",
+          "color": "#ff7d9b"
+        }
+      ],
+      "focus": [
+        "Sternocleidomastoid muscle.r",
+        "Levator scapulae.r",
+        "Scalenus medius muscle.r"
+      ],
+      "view": "lateral",
+      "studyView": true,
+      "boneContext": [
+        "Atlas (C1)",
+        "Axis (C2)",
+        "Vertebra C3",
+        "Vertebra C4",
+        "Vertebra C5",
+        "Vertebra C6",
+        "Vertebra C7",
+        "Occipital bone",
+        "Temporal bone.r",
+        "Temporal bone.l",
+        "First rib.r",
+        "First rib.l",
+        "Scapula.r",
+        "Scapula.l",
+        "Clavicle.r",
+        "Clavicle.l"
+      ],
+      "muscleFocus": [
+        "Sternocleidomastoid muscle.r",
+        "Levator scapulae.r",
+        "Scalenus medius muscle.r"
+      ],
+      "sceneOpacity": {
+        "Sternocleidomastoid muscle.r": 0.22
+      },
+      "region": {
+        "target": "Vertebra C3",
+        "span": 0.22
+      },
+      "figure": "plexus",
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "cutaneous-branches",
+      "topic": "cervical-plexus",
+      "title": "Four cutaneous branches",
+      "pages": [
+        4
+      ],
+      "pins": [
+        {
+          "name": "Lesser occipital",
+          "target": "Sternocleidomastoid muscle.r",
+          "text": "Cutaneous branch named in the lecture.",
+          "color": "#59d9d0",
+          "context": true
+        },
+        {
+          "name": "Great auricular + transverse cervical",
+          "target": "Sternocleidomastoid muscle.r",
+          "text": "Both C2–C3.",
+          "color": "#ff7d9b",
+          "context": true
+        },
+        {
+          "name": "Supraclavicular",
+          "target": "Clavicle.r",
+          "text": "C3–C4.",
+          "color": "#f1c75b",
+          "context": true
+        }
+      ],
+      "focus": [
+        "Sternocleidomastoid muscle.r"
+      ],
+      "view": "lateral",
+      "studyView": true,
+      "boneContext": [
+        "Atlas (C1)",
+        "Axis (C2)",
+        "Vertebra C3",
+        "Vertebra C4",
+        "Vertebra C5",
+        "Vertebra C6",
+        "Vertebra C7",
+        "Occipital bone",
+        "Temporal bone.r",
+        "Temporal bone.l",
+        "First rib.r",
+        "First rib.l",
+        "Scapula.r",
+        "Scapula.l",
+        "Clavicle.r",
+        "Clavicle.l"
+      ],
+      "region": {
+        "target": "Vertebra C3",
+        "span": 0.22
+      },
+      "figure": "plexus",
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "ansa",
+      "topic": "cervical-plexus",
+      "title": "Ansa cervicalis · C1 + C2–C3",
+      "pages": [
+        4
+      ],
+      "pins": [
+        {
+          "name": "Descending branch",
+          "target": "Hypoglossal nerve (XII).r",
+          "text": "C1 descending branch from hypoglossal nerve.",
+          "color": "#59d9d0",
+          "context": true,
+          "reference": "Vertebra C4",
+          "at": 0.5
+        },
+        {
+          "name": "Descending cervical",
+          "target": "Vertebra C3",
+          "text": "C2–C3 descending cervical nerve.",
+          "color": "#ff7d9b",
+          "context": true
+        },
+        {
+          "name": "Muscular target",
+          "target": "Sternohyoid muscle.r",
+          "text": "Ansa cervicalis supplies infrahyoid muscles.",
+          "color": "#f1c75b"
+        }
+      ],
+      "focus": [
+        "Sternohyoid muscle.r",
+        "Sternothyroid muscle.r",
+        "Omohyoid muscle.r",
+        "Hypoglossal nerve (XII).r"
+      ],
+      "view": "front",
+      "studyView": true,
+      "boneContext": [
+        "Atlas (C1)",
+        "Axis (C2)",
+        "Vertebra C3",
+        "Vertebra C4",
+        "Vertebra C5",
+        "Vertebra C6",
+        "Vertebra C7",
+        "Occipital bone",
+        "Temporal bone.r",
+        "Temporal bone.l",
+        "First rib.r",
+        "First rib.l",
+        "Scapula.r",
+        "Scapula.l",
+        "Clavicle.r",
+        "Clavicle.l"
+      ],
+      "muscleFocus": [
+        "Sternohyoid muscle.r",
+        "Sternothyroid muscle.r",
+        "Omohyoid muscle.r"
+      ],
+      "region": {
+        "target": "Vertebra C4",
+        "span": 0.25
+      },
+      "figure": "plexus",
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "phrenic",
+      "topic": "cervical-plexus",
+      "title": "Phrenic · C3–C5 → diaphragm",
+      "pages": [
+        4
+      ],
+      "pins": [
+        {
+          "name": "Phrenic nerve",
+          "target": "Vertebra C4",
+          "text": "C3–C5; muscular branch to diaphragm.",
+          "color": "#f1c75b",
+          "context": true
+        }
+      ],
+      "focus": [
+        "Atlas (C1)",
+        "Axis (C2)",
+        "Vertebra C3",
+        "Vertebra C4",
+        "Vertebra C5",
+        "Vertebra C6",
+        "Vertebra C7"
+      ],
+      "view": "front",
+      "studyView": true,
+      "figure": "plexus",
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "inferior-canal",
+      "topic": "procedures",
+      "title": "Six contents of the inferior vertebral canal",
+      "pages": [
+        5
+      ],
+      "pins": [
+        {
+          "name": "Cord end and roots",
+          "target": "White matter of spinal cord",
+          "text": "Conus, cauda equina, lowest spinal nerves L1–Co1.",
+          "color": "#f1c75b",
+          "at": 0
+        },
+        {
+          "name": "Coverings",
+          "target": "Spinal dura",
+          "text": "Spinal meninges: dura, arachnoid and pia.",
+          "color": "#aa9df1",
+          "context": true,
+          "reference": "Vertebra L3",
+          "at": 0.5
+        },
+        {
+          "name": "Filum and CSF",
+          "target": "Coccyx",
+          "text": "Filum terminale; lumbar cistern containing CSF.",
+          "color": "#59d9d0",
+          "context": true
+        }
+      ],
+      "focus": [
+        "White matter of spinal cord",
+        "Spinal dura",
+        "Posterior root of spinal nerve.r",
+        "Anterior root of spinal nerve.r",
+        "Spinal ganglion.r"
+      ],
+      "view": "lateral",
+      "studyView": true,
+      "boneContext": [
+        "Vertebra L1",
+        "Vertebra L2",
+        "Vertebra L3",
+        "Vertebra L4",
+        "Vertebra L5",
+        "Sacrum",
+        "Coccyx"
+      ],
+      "region": {
+        "target": "Vertebra L3",
+        "span": 0.38
+      },
+      "figure": "lower-canal",
+      "section": true,
+      "sceneOpacity": {
+        "Spinal dura": 0.1
+      },
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "lumbar-puncture",
+      "topic": "procedures",
+      "title": "Lumbar puncture · L3–L4 or L4–L5",
+      "pages": [
+        5
+      ],
+      "pins": [
+        {
+          "name": "L3–L4",
+          "target": "Intervertebral disc L3-L4",
+          "text": "Common approach level.",
+          "color": "#59d9d0"
+        },
+        {
+          "name": "L4–L5",
+          "target": "Intervertebral disc L4-L5",
+          "text": "Another common approach level.",
+          "color": "#ff7d9b"
+        },
+        {
+          "name": "CSF target",
+          "target": "Spinal dura",
+          "text": "Withdraw diagnostic CSF from lumbar cistern, avoiding cord damage.",
+          "color": "#f1c75b",
+          "context": true,
+          "reference": "Vertebra L4",
+          "at": 0.5
+        }
+      ],
+      "focus": [
+        "Intervertebral disc L3-L4",
+        "Intervertebral disc L4-L5",
+        "White matter of spinal cord",
+        "Spinal dura",
+        "Posterior root of spinal nerve.r",
+        "Anterior root of spinal nerve.r",
+        "Spinal ganglion.r"
+      ],
+      "view": "lateral",
+      "studyView": true,
+      "boneContext": [
+        "Vertebra L1",
+        "Vertebra L2",
+        "Vertebra L3",
+        "Vertebra L4",
+        "Vertebra L5",
+        "Sacrum"
+      ],
+      "region": {
+        "target": "Vertebra L4",
+        "span": 0.29
+      },
+      "figure": "puncture",
+      "section": true,
+      "sceneOpacity": {
+        "Spinal dura": 0.14
+      },
+      "caption": "Disc markers identify the vertical levels, not the posterior needle trajectory. The original lecture drawing shows the approach into the lumbar cistern."
+    },
+    {
+      "id": "epidural",
+      "topic": "procedures",
+      "title": "Epidural anesthesia · outside dura",
+      "pages": [
+        6
+      ],
+      "pins": [
+        {
+          "name": "Epidural space",
+          "target": "Spinal dura",
+          "text": "Target is epidural space; same approach as lumbar puncture. Sacral hiatus is another approach.",
+          "color": "#f1c75b",
+          "context": true,
+          "reference": "Vertebra L4",
+          "at": 0.5
+        }
+      ],
+      "focus": [
+        "Spinal dura",
+        "White matter of spinal cord"
+      ],
+      "view": "lateral",
+      "studyView": true,
+      "boneContext": [
+        "Vertebra L1",
+        "Vertebra L2",
+        "Vertebra L3",
+        "Vertebra L4",
+        "Vertebra L5",
+        "Sacrum"
+      ],
+      "region": {
+        "target": "Vertebra L4",
+        "span": 0.3
+      },
+      "figure": "epidural",
+      "section": true,
+      "sceneOpacity": {
+        "Spinal dura": 0.24
+      },
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "caudal",
+      "topic": "procedures",
+      "title": "Caudal epidural · sacral hiatus",
+      "pages": [
+        6
+      ],
+      "pins": [
+        {
+          "name": "Sacral hiatus",
+          "target": "Sacrum",
+          "text": "Caudal anesthesia during delivery enters through the hiatus.",
+          "color": "#f1c75b",
+          "part": "hiatus"
+        },
+        {
+          "name": "Cornua",
+          "target": "Coccyx",
+          "text": "Sacral and coccygeal cornua are important landmarks.",
+          "color": "#ff7d9b",
+          "part": "cornua"
+        },
+        {
+          "name": "Nerves",
+          "target": "Sacrum",
+          "text": "Anesthetizes S2–Co1 spinal nerves in the lecture.",
+          "color": "#59d9d0",
+          "context": true
+        }
+      ],
+      "focus": [
+        "Sacrum",
+        "Coccyx"
+      ],
+      "view": "back",
+      "studyView": true,
+      "parts": true,
+      "figure": "sacral-exit",
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "cord-impingement",
+      "topic": "compression",
+      "title": "Cervical cord impingement · causes",
+      "pages": [
+        3
+      ],
+      "pins": [
+        {
+          "name": "Disc pathology",
+          "target": "Intervertebral disc C5-C6",
+          "text": "Inflammation, degeneration or herniation.",
+          "color": "#ff7d9b"
+        },
+        {
+          "name": "Other causes",
+          "target": "White matter of spinal cord",
+          "text": "Neck trauma; tumors, infections and congenital vertebral anomalies.",
+          "color": "#f1c75b",
+          "context": true
+        }
+      ],
+      "focus": [
+        "Atlas (C1)",
+        "Axis (C2)",
+        "Vertebra C3",
+        "Vertebra C4",
+        "Vertebra C5",
+        "Vertebra C6",
+        "Vertebra C7",
+        "White matter of spinal cord",
+        "Intervertebral disc C5-C6"
+      ],
+      "view": "lateral",
+      "studyView": true,
+      "sceneOpacity": {
+        "Atlas (C1)": 0.16,
+        "Axis (C2)": 0.16,
+        "Vertebra C3": 0.16,
+        "Vertebra C4": 0.16,
+        "Vertebra C5": 0.16,
+        "Vertebra C6": 0.16,
+        "Vertebra C7": 0.16
+      },
+      "section": true,
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "cord-effects",
+      "topic": "compression",
+      "title": "Effects depend on the level",
+      "pages": [
+        3
+      ],
+      "pins": [
+        {
+          "name": "Respiratory / sensory",
+          "target": "White matter of spinal cord",
+          "text": "Respiratory dysfunction; neck and limb pain or numbness.",
+          "color": "#59d9d0",
+          "context": true
+        },
+        {
+          "name": "Motor",
+          "target": "White matter of spinal cord",
+          "text": "Neck, upper/lower limb stiffness, weakness or paralysis.",
+          "color": "#ff7d9b",
+          "context": true
+        },
+        {
+          "name": "Visceral",
+          "target": "White matter of spinal cord",
+          "text": "Urination, defecation, erection and ejaculation dysfunction.",
+          "color": "#f1c75b",
+          "context": true
+        }
+      ],
+      "focus": [
+        "White matter of spinal cord"
+      ],
+      "view": "back",
+      "studyView": true,
+      "boneContext": [
+        "Atlas (C1)",
+        "Axis (C2)",
+        "Vertebra C3",
+        "Vertebra C4",
+        "Vertebra C5",
+        "Vertebra C6",
+        "Vertebra C7",
+        "Vertebra T1",
+        "Vertebra T2",
+        "Vertebra T3",
+        "Vertebra T4",
+        "Vertebra T5",
+        "Vertebra T6",
+        "Vertebra T7",
+        "Vertebra T8",
+        "Vertebra T9",
+        "Vertebra T10",
+        "Vertebra T11",
+        "Vertebra T12",
+        "Vertebra L1",
+        "Vertebra L2",
+        "Vertebra L3",
+        "Vertebra L4",
+        "Vertebra L5",
+        "Sacrum",
+        "Coccyx"
+      ],
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "foramen-encroachment",
+      "topic": "compression",
+      "title": "Disc pathology or bone spurs → nerve encroachment",
+      "pages": [
+        7
+      ],
+      "pins": [
+        {
+          "name": "Causes",
+          "target": "Vertebra L4",
+          "text": "Disc herniation, disc degeneration or bone spurs.",
+          "color": "#ff7d9b",
+          "context": true,
+          "part": "notch"
+        },
+        {
+          "name": "Effects",
+          "target": "Spinal ganglion.r",
+          "text": "Numbness, local or radiating pain, and weakness depend on nerve involved.",
+          "color": "#f1c75b",
+          "context": true,
+          "reference": "Vertebra L4",
+          "at": 0.5
+        }
+      ],
+      "focus": [
+        "Vertebra L3",
+        "Vertebra L4",
+        "Vertebra L5",
+        "Posterior root of spinal nerve.r",
+        "Anterior root of spinal nerve.r",
+        "Spinal ganglion.r"
+      ],
+      "view": "lateral",
+      "studyView": true,
+      "region": {
+        "target": "Vertebra L4",
+        "span": 0.2
+      },
+      "figure": "dermatomes",
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "lumbar-foramina",
+      "topic": "compression",
+      "title": "Downward: foramina narrow, nerves enlarge",
+      "pages": [
+        7
+      ],
+      "pins": [
+        {
+          "name": "L1 → L5",
+          "target": "Vertebra L3",
+          "text": "Lumbar IVF become narrower; spinal nerves become larger.",
+          "color": "#59d9d0",
+          "context": true,
+          "part": "notch"
+        },
+        {
+          "name": "Lower-level risk",
+          "target": "Vertebra L5",
+          "text": "Greater chance of nerve encroachment due to foraminal stenosis.",
+          "color": "#ff7d9b",
+          "context": true,
+          "part": "notch"
+        }
+      ],
+      "focus": [
+        "Vertebra L1",
+        "Vertebra L2",
+        "Vertebra L3",
+        "Vertebra L4",
+        "Vertebra L5",
+        "Posterior root of spinal nerve.r",
+        "Anterior root of spinal nerve.r",
+        "Spinal ganglion.r"
+      ],
+      "view": "lateral",
+      "studyView": true,
+      "region": {
+        "target": "Vertebra L3",
+        "span": 0.33
+      },
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "dermatome-c34",
+      "topic": "dermatomes",
+      "title": "C3–C4 · locate its sensory territory",
+      "pages": [
+        7
+      ],
+      "pins": [
+        {
+          "name": "C3–C4",
+          "target": "Vertebra C4",
+          "text": "Base of neck, extending laterally over shoulder.",
+          "color": "#59d9d0",
+          "context": true
+        }
+      ],
+      "focus": [
+        "Atlas (C1)",
+        "Axis (C2)",
+        "Vertebra C3",
+        "Vertebra C4",
+        "Vertebra C5",
+        "Vertebra C6",
+        "Vertebra C7",
+        "Vertebra T1",
+        "Vertebra T2"
+      ],
+      "view": "front",
+      "studyView": true,
+      "figure": "dermatomes",
+      "caption": "Match the cord-level label to the skin territory in the enlarged original drawing. Skin boundaries are not invented on this bone model."
+    },
+    {
+      "id": "dermatome-c5",
+      "topic": "dermatomes",
+      "title": "C5 · locate its sensory territory",
+      "pages": [
+        7
+      ],
+      "pins": [
+        {
+          "name": "C5",
+          "target": "Vertebra C5",
+          "text": "Lateral aspect of arm / superior aspect of abducted arm.",
+          "color": "#59d9d0",
+          "context": true
+        }
+      ],
+      "focus": [
+        "Atlas (C1)",
+        "Axis (C2)",
+        "Vertebra C3",
+        "Vertebra C4",
+        "Vertebra C5",
+        "Vertebra C6",
+        "Vertebra C7",
+        "Vertebra T1",
+        "Vertebra T2"
+      ],
+      "view": "front",
+      "studyView": true,
+      "figure": "dermatomes",
+      "caption": "Match the cord-level label to the skin territory in the enlarged original drawing. Skin boundaries are not invented on this bone model."
+    },
+    {
+      "id": "dermatome-c6",
+      "topic": "dermatomes",
+      "title": "C6 · locate its sensory territory",
+      "pages": [
+        7
+      ],
+      "pins": [
+        {
+          "name": "C6",
+          "target": "Vertebra C6",
+          "text": "Lateral forearm and thumb.",
+          "color": "#59d9d0",
+          "context": true
+        }
+      ],
+      "focus": [
+        "Atlas (C1)",
+        "Axis (C2)",
+        "Vertebra C3",
+        "Vertebra C4",
+        "Vertebra C5",
+        "Vertebra C6",
+        "Vertebra C7",
+        "Vertebra T1",
+        "Vertebra T2"
+      ],
+      "view": "front",
+      "studyView": true,
+      "figure": "dermatomes",
+      "caption": "Match the cord-level label to the skin territory in the enlarged original drawing. Skin boundaries are not invented on this bone model."
+    },
+    {
+      "id": "dermatome-c7",
+      "topic": "dermatomes",
+      "title": "C7 · locate its sensory territory",
+      "pages": [
+        7
+      ],
+      "pins": [
+        {
+          "name": "C7",
+          "target": "Vertebra C7",
+          "text": "Middle and ring fingers / middle three fingers; center of posterior forearm.",
+          "color": "#59d9d0",
+          "context": true
+        }
+      ],
+      "focus": [
+        "Atlas (C1)",
+        "Axis (C2)",
+        "Vertebra C3",
+        "Vertebra C4",
+        "Vertebra C5",
+        "Vertebra C6",
+        "Vertebra C7",
+        "Vertebra T1",
+        "Vertebra T2"
+      ],
+      "view": "front",
+      "studyView": true,
+      "figure": "dermatomes",
+      "caption": "Match the cord-level label to the skin territory in the enlarged original drawing. Skin boundaries are not invented on this bone model."
+    },
+    {
+      "id": "dermatome-c8",
+      "topic": "dermatomes",
+      "title": "C8 · locate its sensory territory",
+      "pages": [
+        7
+      ],
+      "pins": [
+        {
+          "name": "C8",
+          "target": "Vertebra C7",
+          "text": "Little finger, medial hand and forearm.",
+          "color": "#59d9d0",
+          "context": true
+        }
+      ],
+      "focus": [
+        "Atlas (C1)",
+        "Axis (C2)",
+        "Vertebra C3",
+        "Vertebra C4",
+        "Vertebra C5",
+        "Vertebra C6",
+        "Vertebra C7",
+        "Vertebra T1",
+        "Vertebra T2"
+      ],
+      "view": "front",
+      "studyView": true,
+      "figure": "dermatomes",
+      "caption": "Match the cord-level label to the skin territory in the enlarged original drawing. Skin boundaries are not invented on this bone model."
+    },
+    {
+      "id": "dermatome-t1",
+      "topic": "dermatomes",
+      "title": "T1 · locate its sensory territory",
+      "pages": [
+        7
+      ],
+      "pins": [
+        {
+          "name": "T1",
+          "target": "Vertebra T1",
+          "text": "Medial forearm and inferior arm.",
+          "color": "#59d9d0",
+          "context": true
+        }
+      ],
+      "focus": [
+        "Atlas (C1)",
+        "Axis (C2)",
+        "Vertebra C3",
+        "Vertebra C4",
+        "Vertebra C5",
+        "Vertebra C6",
+        "Vertebra C7",
+        "Vertebra T1",
+        "Vertebra T2"
+      ],
+      "view": "front",
+      "studyView": true,
+      "figure": "dermatomes",
+      "caption": "Match the cord-level label to the skin territory in the enlarged original drawing. Skin boundaries are not invented on this bone model."
+    },
+    {
+      "id": "dermatome-t2",
+      "topic": "dermatomes",
+      "title": "T2 · locate its sensory territory",
+      "pages": [
+        7
+      ],
+      "pins": [
+        {
+          "name": "T2",
+          "target": "Vertebra T2",
+          "text": "Medial superior arm and skin of axilla.",
+          "color": "#59d9d0",
+          "context": true
+        }
+      ],
+      "focus": [
+        "Atlas (C1)",
+        "Axis (C2)",
+        "Vertebra C3",
+        "Vertebra C4",
+        "Vertebra C5",
+        "Vertebra C6",
+        "Vertebra C7",
+        "Vertebra T1",
+        "Vertebra T2"
+      ],
+      "view": "front",
+      "studyView": true,
+      "figure": "dermatomes",
+      "caption": "Match the cord-level label to the skin territory in the enlarged original drawing. Skin boundaries are not invented on this bone model."
+    },
+    {
+      "id": "root-c3",
+      "topic": "radiculopathy",
+      "title": "Disc C2 · root C3 in the lecture table",
+      "pages": [
+        8
+      ],
+      "pins": [
+        {
+          "name": "Root C3",
+          "target": "Axis (C2)",
+          "text": "Lecture disc/root row: Posterior neck pain / numbness radiating to mastoid and ear.",
+          "color": "#ff7d9b",
+          "context": true
+        },
+        {
+          "name": "Reflex",
+          "target": "Axis (C2)",
+          "text": "Normal reflexes.",
+          "color": "#f1c75b",
+          "context": true
+        }
+      ],
+      "focus": [
+        "Atlas (C1)",
+        "Axis (C2)",
+        "Vertebra C3",
+        "Vertebra C4",
+        "Vertebra C5",
+        "Vertebra C6",
+        "Vertebra C7",
+        "Vertebra T1"
+      ],
+      "view": "lateral",
+      "studyView": true,
+      "figure": "radiculopathy",
+      "structureColors": {
+        "Axis (C2)": "#ff7d9b"
+      },
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "root-c4",
+      "topic": "radiculopathy",
+      "title": "Disc C3 · root C4 in the lecture table",
+      "pages": [
+        8
+      ],
+      "pins": [
+        {
+          "name": "Root C4",
+          "target": "Vertebra C3",
+          "text": "Lecture disc/root row: Posterior neck pain / numbness along levator scapulae, sometimes pectoralis.",
+          "color": "#ff7d9b",
+          "context": true
+        },
+        {
+          "name": "Reflex",
+          "target": "Vertebra C3",
+          "text": "Normal reflexes.",
+          "color": "#f1c75b",
+          "context": true
+        }
+      ],
+      "focus": [
+        "Atlas (C1)",
+        "Axis (C2)",
+        "Vertebra C3",
+        "Vertebra C4",
+        "Vertebra C5",
+        "Vertebra C6",
+        "Vertebra C7",
+        "Vertebra T1"
+      ],
+      "view": "lateral",
+      "studyView": true,
+      "figure": "radiculopathy",
+      "structureColors": {
+        "Vertebra C3": "#ff7d9b"
+      },
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "root-c5",
+      "topic": "radiculopathy",
+      "title": "Disc C4 · root C5 in the lecture table",
+      "pages": [
+        8
+      ],
+      "pins": [
+        {
+          "name": "Root C5",
+          "target": "Vertebra C4",
+          "text": "Lecture disc/root row: Shoulder/arm pain and paresthesia; deltoid weakness and possible atrophy.",
+          "color": "#ff7d9b",
+          "context": true
+        },
+        {
+          "name": "Reflex",
+          "target": "Vertebra C4",
+          "text": "Normal reflexes.",
+          "color": "#f1c75b",
+          "context": true
+        }
+      ],
+      "focus": [
+        "Atlas (C1)",
+        "Axis (C2)",
+        "Vertebra C3",
+        "Vertebra C4",
+        "Vertebra C5",
+        "Vertebra C6",
+        "Vertebra C7",
+        "Vertebra T1"
+      ],
+      "view": "lateral",
+      "studyView": true,
+      "figure": "radiculopathy",
+      "structureColors": {
+        "Vertebra C4": "#ff7d9b"
+      },
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "root-c6",
+      "topic": "radiculopathy",
+      "title": "Disc C5 · root C6 in the lecture table",
+      "pages": [
+        8
+      ],
+      "pins": [
+        {
+          "name": "Root C6",
+          "target": "Vertebra C5",
+          "text": "Lecture disc/root row: Lateral forearm → thumb pain; biceps weakness.",
+          "color": "#ff7d9b",
+          "context": true
+        },
+        {
+          "name": "Reflex",
+          "target": "Vertebra C5",
+          "text": "Decreased biceps reflex.",
+          "color": "#f1c75b",
+          "context": true
+        }
+      ],
+      "focus": [
+        "Atlas (C1)",
+        "Axis (C2)",
+        "Vertebra C3",
+        "Vertebra C4",
+        "Vertebra C5",
+        "Vertebra C6",
+        "Vertebra C7",
+        "Vertebra T1"
+      ],
+      "view": "lateral",
+      "studyView": true,
+      "figure": "radiculopathy",
+      "structureColors": {
+        "Vertebra C5": "#ff7d9b"
+      },
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "root-c7",
+      "topic": "radiculopathy",
+      "title": "Disc C6 · root C7 in the lecture table",
+      "pages": [
+        8
+      ],
+      "pins": [
+        {
+          "name": "Root C7",
+          "target": "Vertebra C6",
+          "text": "Lecture disc/root row: Middle forearm → middle fingers pain; triceps weakness.",
+          "color": "#ff7d9b",
+          "context": true
+        },
+        {
+          "name": "Reflex",
+          "target": "Vertebra C6",
+          "text": "Decreased triceps and radial reflexes.",
+          "color": "#f1c75b",
+          "context": true
+        }
+      ],
+      "focus": [
+        "Atlas (C1)",
+        "Axis (C2)",
+        "Vertebra C3",
+        "Vertebra C4",
+        "Vertebra C5",
+        "Vertebra C6",
+        "Vertebra C7",
+        "Vertebra T1"
+      ],
+      "view": "lateral",
+      "studyView": true,
+      "figure": "radiculopathy",
+      "structureColors": {
+        "Vertebra C6": "#ff7d9b"
+      },
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "root-c8",
+      "topic": "radiculopathy",
+      "title": "Disc C7 · root C8 in the lecture table",
+      "pages": [
+        8
+      ],
+      "pins": [
+        {
+          "name": "Root C8",
+          "target": "Vertebra C7",
+          "text": "Lecture disc/root row: Medial forearm/hand pain; ulnar hypesthesia; intrinsic hand weakness.",
+          "color": "#ff7d9b",
+          "context": true
+        },
+        {
+          "name": "Reflex",
+          "target": "Vertebra C7",
+          "text": "Normal reflexes.",
+          "color": "#f1c75b",
+          "context": true
+        }
+      ],
+      "focus": [
+        "Atlas (C1)",
+        "Axis (C2)",
+        "Vertebra C3",
+        "Vertebra C4",
+        "Vertebra C5",
+        "Vertebra C6",
+        "Vertebra C7",
+        "Vertebra T1"
+      ],
+      "view": "lateral",
+      "studyView": true,
+      "figure": "radiculopathy",
+      "structureColors": {
+        "Vertebra C7": "#ff7d9b"
+      },
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "sensory-tests",
+      "topic": "radiculopathy",
+      "title": "Four sensory modalities · compare both sides",
+      "pages": [
+        8
+      ],
+      "pins": [
+        {
+          "name": "Light / sharp touch",
+          "target": "Vertebra C5",
+          "text": "Finger or cotton for light touch; dedicated disposable pin for pinprick.",
+          "color": "#59d9d0",
+          "context": true
+        },
+        {
+          "name": "Vibration",
+          "target": "Vertebra C6",
+          "text": "128 Hz tuning fork.",
+          "color": "#ff7d9b",
+          "context": true
+        },
+        {
+          "name": "Position sense",
+          "target": "Vertebra C7",
+          "text": "Start at distal interphalangeal joint; move distal phalanx randomly up/down. Eyes closed; test and compare both sides.",
+          "color": "#f1c75b",
+          "context": true
+        }
+      ],
+      "focus": [
+        "Atlas (C1)",
+        "Axis (C2)",
+        "Vertebra C3",
+        "Vertebra C4",
+        "Vertebra C5",
+        "Vertebra C6",
+        "Vertebra C7"
+      ],
+      "view": "front",
+      "studyView": true,
+      "figure": "radiculopathy",
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "myotome-1",
+      "topic": "myotomes",
+      "title": "Arm abduction · C5",
+      "pages": [
+        9
+      ],
+      "pins": [
+        {
+          "name": "Muscles",
+          "target": "Supraspinatus muscle.r",
+          "text": "Supraspinatus; deltoid.",
+          "color": "#59d9d0"
+        },
+        {
+          "name": "Nerve",
+          "target": "Acromial part of deltoid muscle.r",
+          "text": "Suprascapular; axillary.",
+          "color": "#ff7d9b"
+        },
+        {
+          "name": "Root values",
+          "target": "Supraspinatus muscle.r",
+          "text": "C5 in the supplied lecture myotome table.",
+          "color": "#f1c75b"
+        }
+      ],
+      "focus": [
+        "Supraspinatus muscle.r",
+        "Acromial part of deltoid muscle.r"
+      ],
+      "view": "front",
+      "studyView": true,
+      "boneContext": [
+        "Capitate bone.r",
+        "Clavicle.r",
+        "Distal phalanx of fifth finger of hand.r",
+        "Distal phalanx of first finger of hand.r",
+        "Distal phalanx of fourth finger of hand.r",
+        "Distal phalanx of second finger of hand.r",
+        "Distal phalanx of third finger of hand.r",
+        "Fifth metacarpal bone.r",
+        "First metacarpal bone.r",
+        "Fourth metacarpal bone.r",
+        "Hamate bone.r",
+        "Humerus.r",
+        "Lunate bone.r",
+        "Middle phalanx of fifth finger of hand.r",
+        "Middle phalanx of fourth finger of hand.r",
+        "Middle phalanx of second finger of hand.r",
+        "Middle phalanx of third finger of hand.r",
+        "Pisiform bone.r",
+        "Proximal phalanx of fifth finger of hand.r",
+        "Proximal phalanx of first finger of hand.r",
+        "Proximal phalanx of fourth finger of hand.r",
+        "Proximal phalanx of second finger of hand.r",
+        "Proximal phalanx of third finger of hand.r",
+        "Radius.r",
+        "Scaphoid bone.r",
+        "Scapula.r",
+        "Second metacarpal bone.r",
+        "Temporal bone.r",
+        "Third metacarpal bone.r",
+        "Trapezium bone.r",
+        "Trapezoid bone.r",
+        "Triquetrum bone.r",
+        "Ulna.r",
+        "Vertebra C5",
+        "Vertebra C6",
+        "Vertebra C7",
+        "Vertebra T1"
+      ],
+      "muscleFocus": [
+        "Supraspinatus muscle.r",
+        "Acromial part of deltoid muscle.r"
+      ],
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "myotome-2",
+      "topic": "myotomes",
+      "title": "Arm adduction · C7",
+      "pages": [
+        9
+      ],
+      "pins": [
+        {
+          "name": "Muscles",
+          "target": "Sternocostal head of pectoralis major muscle.r",
+          "text": "Pectoralis major; latissimus dorsi.",
+          "color": "#59d9d0"
+        },
+        {
+          "name": "Nerve",
+          "target": "Latissimus dorsi muscle.r",
+          "text": "Pectoral; thoracodorsal.",
+          "color": "#ff7d9b"
+        },
+        {
+          "name": "Root values",
+          "target": "Sternocostal head of pectoralis major muscle.r",
+          "text": "C7 in the supplied lecture myotome table.",
+          "color": "#f1c75b"
+        }
+      ],
+      "focus": [
+        "Sternocostal head of pectoralis major muscle.r",
+        "Latissimus dorsi muscle.r"
+      ],
+      "view": "front",
+      "studyView": true,
+      "boneContext": [
+        "Capitate bone.r",
+        "Clavicle.r",
+        "Distal phalanx of fifth finger of hand.r",
+        "Distal phalanx of first finger of hand.r",
+        "Distal phalanx of fourth finger of hand.r",
+        "Distal phalanx of second finger of hand.r",
+        "Distal phalanx of third finger of hand.r",
+        "Fifth metacarpal bone.r",
+        "First metacarpal bone.r",
+        "Fourth metacarpal bone.r",
+        "Hamate bone.r",
+        "Humerus.r",
+        "Lunate bone.r",
+        "Middle phalanx of fifth finger of hand.r",
+        "Middle phalanx of fourth finger of hand.r",
+        "Middle phalanx of second finger of hand.r",
+        "Middle phalanx of third finger of hand.r",
+        "Pisiform bone.r",
+        "Proximal phalanx of fifth finger of hand.r",
+        "Proximal phalanx of first finger of hand.r",
+        "Proximal phalanx of fourth finger of hand.r",
+        "Proximal phalanx of second finger of hand.r",
+        "Proximal phalanx of third finger of hand.r",
+        "Radius.r",
+        "Scaphoid bone.r",
+        "Scapula.r",
+        "Second metacarpal bone.r",
+        "Temporal bone.r",
+        "Third metacarpal bone.r",
+        "Trapezium bone.r",
+        "Trapezoid bone.r",
+        "Triquetrum bone.r",
+        "Ulna.r",
+        "Vertebra C5",
+        "Vertebra C6",
+        "Vertebra C7",
+        "Vertebra T1"
+      ],
+      "muscleFocus": [
+        "Sternocostal head of pectoralis major muscle.r",
+        "Latissimus dorsi muscle.r"
+      ],
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "myotome-3",
+      "topic": "myotomes",
+      "title": "Forearm flexion · C5, C6",
+      "pages": [
+        9
+      ],
+      "pins": [
+        {
+          "name": "Muscles",
+          "target": "Brachialis muscle.r",
+          "text": "Brachialis; biceps brachii.",
+          "color": "#59d9d0"
+        },
+        {
+          "name": "Nerve",
+          "target": "Short head of biceps brachii.r",
+          "text": "Musculocutaneous.",
+          "color": "#ff7d9b"
+        },
+        {
+          "name": "Root values",
+          "target": "Brachialis muscle.r",
+          "text": "C5, C6 in the supplied lecture myotome table.",
+          "color": "#f1c75b"
+        }
+      ],
+      "focus": [
+        "Brachialis muscle.r",
+        "Long head of biceps brachii.r",
+        "Short head of biceps brachii.r"
+      ],
+      "view": "front",
+      "studyView": true,
+      "boneContext": [
+        "Capitate bone.r",
+        "Clavicle.r",
+        "Distal phalanx of fifth finger of hand.r",
+        "Distal phalanx of first finger of hand.r",
+        "Distal phalanx of fourth finger of hand.r",
+        "Distal phalanx of second finger of hand.r",
+        "Distal phalanx of third finger of hand.r",
+        "Fifth metacarpal bone.r",
+        "First metacarpal bone.r",
+        "Fourth metacarpal bone.r",
+        "Hamate bone.r",
+        "Humerus.r",
+        "Lunate bone.r",
+        "Middle phalanx of fifth finger of hand.r",
+        "Middle phalanx of fourth finger of hand.r",
+        "Middle phalanx of second finger of hand.r",
+        "Middle phalanx of third finger of hand.r",
+        "Pisiform bone.r",
+        "Proximal phalanx of fifth finger of hand.r",
+        "Proximal phalanx of first finger of hand.r",
+        "Proximal phalanx of fourth finger of hand.r",
+        "Proximal phalanx of second finger of hand.r",
+        "Proximal phalanx of third finger of hand.r",
+        "Radius.r",
+        "Scaphoid bone.r",
+        "Scapula.r",
+        "Second metacarpal bone.r",
+        "Temporal bone.r",
+        "Third metacarpal bone.r",
+        "Trapezium bone.r",
+        "Trapezoid bone.r",
+        "Triquetrum bone.r",
+        "Ulna.r",
+        "Vertebra C5",
+        "Vertebra C6",
+        "Vertebra C7",
+        "Vertebra T1"
+      ],
+      "muscleFocus": [
+        "Brachialis muscle.r",
+        "Long head of biceps brachii.r",
+        "Short head of biceps brachii.r"
+      ],
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "myotome-4",
+      "topic": "myotomes",
+      "title": "Forearm extension · C7",
+      "pages": [
+        9
+      ],
+      "pins": [
+        {
+          "name": "Muscles",
+          "target": "Long head of triceps brachii.r",
+          "text": "Triceps.",
+          "color": "#59d9d0"
+        },
+        {
+          "name": "Nerve",
+          "target": "Medial head of triceps brachii.r",
+          "text": "Radial.",
+          "color": "#ff7d9b"
+        },
+        {
+          "name": "Root values",
+          "target": "Long head of triceps brachii.r",
+          "text": "C7 in the supplied lecture myotome table.",
+          "color": "#f1c75b"
+        }
+      ],
+      "focus": [
+        "Long head of triceps brachii.r",
+        "Lateral head of triceps brachii.r",
+        "Medial head of triceps brachii.r"
+      ],
+      "view": "front",
+      "studyView": true,
+      "boneContext": [
+        "Capitate bone.r",
+        "Clavicle.r",
+        "Distal phalanx of fifth finger of hand.r",
+        "Distal phalanx of first finger of hand.r",
+        "Distal phalanx of fourth finger of hand.r",
+        "Distal phalanx of second finger of hand.r",
+        "Distal phalanx of third finger of hand.r",
+        "Fifth metacarpal bone.r",
+        "First metacarpal bone.r",
+        "Fourth metacarpal bone.r",
+        "Hamate bone.r",
+        "Humerus.r",
+        "Lunate bone.r",
+        "Middle phalanx of fifth finger of hand.r",
+        "Middle phalanx of fourth finger of hand.r",
+        "Middle phalanx of second finger of hand.r",
+        "Middle phalanx of third finger of hand.r",
+        "Pisiform bone.r",
+        "Proximal phalanx of fifth finger of hand.r",
+        "Proximal phalanx of first finger of hand.r",
+        "Proximal phalanx of fourth finger of hand.r",
+        "Proximal phalanx of second finger of hand.r",
+        "Proximal phalanx of third finger of hand.r",
+        "Radius.r",
+        "Scaphoid bone.r",
+        "Scapula.r",
+        "Second metacarpal bone.r",
+        "Temporal bone.r",
+        "Third metacarpal bone.r",
+        "Trapezium bone.r",
+        "Trapezoid bone.r",
+        "Triquetrum bone.r",
+        "Ulna.r",
+        "Vertebra C5",
+        "Vertebra C6",
+        "Vertebra C7",
+        "Vertebra T1"
+      ],
+      "muscleFocus": [
+        "Long head of triceps brachii.r",
+        "Lateral head of triceps brachii.r",
+        "Medial head of triceps brachii.r"
+      ],
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "myotome-5",
+      "topic": "myotomes",
+      "title": "Wrist flexion · C7, C8 + T1",
+      "pages": [
+        9
+      ],
+      "pins": [
+        {
+          "name": "Muscles",
+          "target": "Flexor carpi radialis.r",
+          "text": "Flexor carpi radialis; flexor carpi ulnaris.",
+          "color": "#59d9d0"
+        },
+        {
+          "name": "Nerve",
+          "target": "Ulnar head of flexor carpi ulnaris.r",
+          "text": "Median; ulnar.",
+          "color": "#ff7d9b"
+        },
+        {
+          "name": "Root values",
+          "target": "Flexor carpi radialis.r",
+          "text": "C7, C8 + T1 in the supplied lecture myotome table.",
+          "color": "#f1c75b"
+        }
+      ],
+      "focus": [
+        "Flexor carpi radialis.r",
+        "Humeral head of flexor carpi ulnaris.r",
+        "Ulnar head of flexor carpi ulnaris.r"
+      ],
+      "view": "front",
+      "studyView": true,
+      "boneContext": [
+        "Capitate bone.r",
+        "Clavicle.r",
+        "Distal phalanx of fifth finger of hand.r",
+        "Distal phalanx of first finger of hand.r",
+        "Distal phalanx of fourth finger of hand.r",
+        "Distal phalanx of second finger of hand.r",
+        "Distal phalanx of third finger of hand.r",
+        "Fifth metacarpal bone.r",
+        "First metacarpal bone.r",
+        "Fourth metacarpal bone.r",
+        "Hamate bone.r",
+        "Humerus.r",
+        "Lunate bone.r",
+        "Middle phalanx of fifth finger of hand.r",
+        "Middle phalanx of fourth finger of hand.r",
+        "Middle phalanx of second finger of hand.r",
+        "Middle phalanx of third finger of hand.r",
+        "Pisiform bone.r",
+        "Proximal phalanx of fifth finger of hand.r",
+        "Proximal phalanx of first finger of hand.r",
+        "Proximal phalanx of fourth finger of hand.r",
+        "Proximal phalanx of second finger of hand.r",
+        "Proximal phalanx of third finger of hand.r",
+        "Radius.r",
+        "Scaphoid bone.r",
+        "Scapula.r",
+        "Second metacarpal bone.r",
+        "Temporal bone.r",
+        "Third metacarpal bone.r",
+        "Trapezium bone.r",
+        "Trapezoid bone.r",
+        "Triquetrum bone.r",
+        "Ulna.r",
+        "Vertebra C5",
+        "Vertebra C6",
+        "Vertebra C7",
+        "Vertebra T1"
+      ],
+      "muscleFocus": [
+        "Flexor carpi radialis.r",
+        "Humeral head of flexor carpi ulnaris.r",
+        "Ulnar head of flexor carpi ulnaris.r"
+      ],
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "myotome-6",
+      "topic": "myotomes",
+      "title": "Wrist extension · C7, C8",
+      "pages": [
+        9
+      ],
+      "pins": [
+        {
+          "name": "Muscles",
+          "target": "Extensor carpi radialis longus.r",
+          "text": "Extensor carpi radialis; extensor carpi ulnaris.",
+          "color": "#59d9d0"
+        },
+        {
+          "name": "Nerve",
+          "target": "Ulnar head of extensor carpi ulnaris.r",
+          "text": "Radial; posterior interosseous.",
+          "color": "#ff7d9b"
+        },
+        {
+          "name": "Root values",
+          "target": "Extensor carpi radialis longus.r",
+          "text": "C7, C8 in the supplied lecture myotome table.",
+          "color": "#f1c75b"
+        }
+      ],
+      "focus": [
+        "Extensor carpi radialis longus.r",
+        "Extensor carpi radialis brevis.r",
+        "Humeral head of extensor carpi ulnaris.r",
+        "Ulnar head of extensor carpi ulnaris.r"
+      ],
+      "view": "front",
+      "studyView": true,
+      "boneContext": [
+        "Capitate bone.r",
+        "Clavicle.r",
+        "Distal phalanx of fifth finger of hand.r",
+        "Distal phalanx of first finger of hand.r",
+        "Distal phalanx of fourth finger of hand.r",
+        "Distal phalanx of second finger of hand.r",
+        "Distal phalanx of third finger of hand.r",
+        "Fifth metacarpal bone.r",
+        "First metacarpal bone.r",
+        "Fourth metacarpal bone.r",
+        "Hamate bone.r",
+        "Humerus.r",
+        "Lunate bone.r",
+        "Middle phalanx of fifth finger of hand.r",
+        "Middle phalanx of fourth finger of hand.r",
+        "Middle phalanx of second finger of hand.r",
+        "Middle phalanx of third finger of hand.r",
+        "Pisiform bone.r",
+        "Proximal phalanx of fifth finger of hand.r",
+        "Proximal phalanx of first finger of hand.r",
+        "Proximal phalanx of fourth finger of hand.r",
+        "Proximal phalanx of second finger of hand.r",
+        "Proximal phalanx of third finger of hand.r",
+        "Radius.r",
+        "Scaphoid bone.r",
+        "Scapula.r",
+        "Second metacarpal bone.r",
+        "Temporal bone.r",
+        "Third metacarpal bone.r",
+        "Trapezium bone.r",
+        "Trapezoid bone.r",
+        "Triquetrum bone.r",
+        "Ulna.r",
+        "Vertebra C5",
+        "Vertebra C6",
+        "Vertebra C7",
+        "Vertebra T1"
+      ],
+      "muscleFocus": [
+        "Extensor carpi radialis longus.r",
+        "Extensor carpi radialis brevis.r",
+        "Humeral head of extensor carpi ulnaris.r",
+        "Ulnar head of extensor carpi ulnaris.r"
+      ],
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "myotome-7",
+      "topic": "myotomes",
+      "title": "Finger flexion · C7, C8 + T1",
+      "pages": [
+        9
+      ],
+      "pins": [
+        {
+          "name": "Muscles",
+          "target": "Humero-ulnar head of flexor digitorum superficialis.r",
+          "text": "FDS; FDP.",
+          "color": "#59d9d0"
+        },
+        {
+          "name": "Nerve",
+          "target": "Flexor digitorum profundus.r",
+          "text": "Median; ulnar; anterior interosseous.",
+          "color": "#ff7d9b"
+        },
+        {
+          "name": "Root values",
+          "target": "Humero-ulnar head of flexor digitorum superficialis.r",
+          "text": "C7, C8 + T1 in the supplied lecture myotome table.",
+          "color": "#f1c75b"
+        }
+      ],
+      "focus": [
+        "Humero-ulnar head of flexor digitorum superficialis.r",
+        "Radial head of flexor digitorum superficialis.r",
+        "Flexor digitorum profundus.r"
+      ],
+      "view": "front",
+      "studyView": true,
+      "boneContext": [
+        "Capitate bone.r",
+        "Clavicle.r",
+        "Distal phalanx of fifth finger of hand.r",
+        "Distal phalanx of first finger of hand.r",
+        "Distal phalanx of fourth finger of hand.r",
+        "Distal phalanx of second finger of hand.r",
+        "Distal phalanx of third finger of hand.r",
+        "Fifth metacarpal bone.r",
+        "First metacarpal bone.r",
+        "Fourth metacarpal bone.r",
+        "Hamate bone.r",
+        "Humerus.r",
+        "Lunate bone.r",
+        "Middle phalanx of fifth finger of hand.r",
+        "Middle phalanx of fourth finger of hand.r",
+        "Middle phalanx of second finger of hand.r",
+        "Middle phalanx of third finger of hand.r",
+        "Pisiform bone.r",
+        "Proximal phalanx of fifth finger of hand.r",
+        "Proximal phalanx of first finger of hand.r",
+        "Proximal phalanx of fourth finger of hand.r",
+        "Proximal phalanx of second finger of hand.r",
+        "Proximal phalanx of third finger of hand.r",
+        "Radius.r",
+        "Scaphoid bone.r",
+        "Scapula.r",
+        "Second metacarpal bone.r",
+        "Temporal bone.r",
+        "Third metacarpal bone.r",
+        "Trapezium bone.r",
+        "Trapezoid bone.r",
+        "Triquetrum bone.r",
+        "Ulna.r",
+        "Vertebra C5",
+        "Vertebra C6",
+        "Vertebra C7",
+        "Vertebra T1"
+      ],
+      "muscleFocus": [
+        "Humero-ulnar head of flexor digitorum superficialis.r",
+        "Radial head of flexor digitorum superficialis.r",
+        "Flexor digitorum profundus.r"
+      ],
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "myotome-8",
+      "topic": "myotomes",
+      "title": "Finger extension · C7",
+      "pages": [
+        9
+      ],
+      "pins": [
+        {
+          "name": "Muscles",
+          "target": "Extensor digitorum.r",
+          "text": "Extensor digitorum.",
+          "color": "#59d9d0"
+        },
+        {
+          "name": "Nerve",
+          "target": "Extensor digitorum.r",
+          "text": "Posterior interosseous.",
+          "color": "#ff7d9b"
+        },
+        {
+          "name": "Root values",
+          "target": "Extensor digitorum.r",
+          "text": "C7 in the supplied lecture myotome table.",
+          "color": "#f1c75b"
+        }
+      ],
+      "focus": [
+        "Extensor digitorum.r"
+      ],
+      "view": "front",
+      "studyView": true,
+      "boneContext": [
+        "Capitate bone.r",
+        "Clavicle.r",
+        "Distal phalanx of fifth finger of hand.r",
+        "Distal phalanx of first finger of hand.r",
+        "Distal phalanx of fourth finger of hand.r",
+        "Distal phalanx of second finger of hand.r",
+        "Distal phalanx of third finger of hand.r",
+        "Fifth metacarpal bone.r",
+        "First metacarpal bone.r",
+        "Fourth metacarpal bone.r",
+        "Hamate bone.r",
+        "Humerus.r",
+        "Lunate bone.r",
+        "Middle phalanx of fifth finger of hand.r",
+        "Middle phalanx of fourth finger of hand.r",
+        "Middle phalanx of second finger of hand.r",
+        "Middle phalanx of third finger of hand.r",
+        "Pisiform bone.r",
+        "Proximal phalanx of fifth finger of hand.r",
+        "Proximal phalanx of first finger of hand.r",
+        "Proximal phalanx of fourth finger of hand.r",
+        "Proximal phalanx of second finger of hand.r",
+        "Proximal phalanx of third finger of hand.r",
+        "Radius.r",
+        "Scaphoid bone.r",
+        "Scapula.r",
+        "Second metacarpal bone.r",
+        "Temporal bone.r",
+        "Third metacarpal bone.r",
+        "Trapezium bone.r",
+        "Trapezoid bone.r",
+        "Triquetrum bone.r",
+        "Ulna.r",
+        "Vertebra C5",
+        "Vertebra C6",
+        "Vertebra C7",
+        "Vertebra T1"
+      ],
+      "muscleFocus": [
+        "Extensor digitorum.r"
+      ],
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "myotome-9",
+      "topic": "myotomes",
+      "title": "Thumb abduction · C7, C8 + T1",
+      "pages": [
+        9
+      ],
+      "pins": [
+        {
+          "name": "Muscles",
+          "target": "Abductor pollicis longus.r",
+          "text": "Abductor pollicis longus; brevis.",
+          "color": "#59d9d0"
+        },
+        {
+          "name": "Nerve",
+          "target": "Abductor pollicis brevis.r",
+          "text": "Radial; median.",
+          "color": "#ff7d9b"
+        },
+        {
+          "name": "Root values",
+          "target": "Abductor pollicis longus.r",
+          "text": "C7, C8 + T1 in the supplied lecture myotome table.",
+          "color": "#f1c75b"
+        }
+      ],
+      "focus": [
+        "Abductor pollicis longus.r",
+        "Abductor pollicis brevis.r"
+      ],
+      "view": "front",
+      "studyView": true,
+      "boneContext": [
+        "Capitate bone.r",
+        "Clavicle.r",
+        "Distal phalanx of fifth finger of hand.r",
+        "Distal phalanx of first finger of hand.r",
+        "Distal phalanx of fourth finger of hand.r",
+        "Distal phalanx of second finger of hand.r",
+        "Distal phalanx of third finger of hand.r",
+        "Fifth metacarpal bone.r",
+        "First metacarpal bone.r",
+        "Fourth metacarpal bone.r",
+        "Hamate bone.r",
+        "Humerus.r",
+        "Lunate bone.r",
+        "Middle phalanx of fifth finger of hand.r",
+        "Middle phalanx of fourth finger of hand.r",
+        "Middle phalanx of second finger of hand.r",
+        "Middle phalanx of third finger of hand.r",
+        "Pisiform bone.r",
+        "Proximal phalanx of fifth finger of hand.r",
+        "Proximal phalanx of first finger of hand.r",
+        "Proximal phalanx of fourth finger of hand.r",
+        "Proximal phalanx of second finger of hand.r",
+        "Proximal phalanx of third finger of hand.r",
+        "Radius.r",
+        "Scaphoid bone.r",
+        "Scapula.r",
+        "Second metacarpal bone.r",
+        "Temporal bone.r",
+        "Third metacarpal bone.r",
+        "Trapezium bone.r",
+        "Trapezoid bone.r",
+        "Triquetrum bone.r",
+        "Ulna.r",
+        "Vertebra C5",
+        "Vertebra C6",
+        "Vertebra C7",
+        "Vertebra T1"
+      ],
+      "muscleFocus": [
+        "Abductor pollicis longus.r",
+        "Abductor pollicis brevis.r"
+      ],
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "myotome-10",
+      "topic": "myotomes",
+      "title": "Thumb opposition · T1",
+      "pages": [
+        9
+      ],
+      "pins": [
+        {
+          "name": "Muscles",
+          "target": "Opponens pollicis muscle.r",
+          "text": "Opponens pollicis.",
+          "color": "#59d9d0"
+        },
+        {
+          "name": "Nerve",
+          "target": "Opponens pollicis muscle.r",
+          "text": "Median.",
+          "color": "#ff7d9b"
+        },
+        {
+          "name": "Root values",
+          "target": "Opponens pollicis muscle.r",
+          "text": "T1 in the supplied lecture myotome table.",
+          "color": "#f1c75b"
+        }
+      ],
+      "focus": [
+        "Opponens pollicis muscle.r"
+      ],
+      "view": "front",
+      "studyView": true,
+      "boneContext": [
+        "Capitate bone.r",
+        "Clavicle.r",
+        "Distal phalanx of fifth finger of hand.r",
+        "Distal phalanx of first finger of hand.r",
+        "Distal phalanx of fourth finger of hand.r",
+        "Distal phalanx of second finger of hand.r",
+        "Distal phalanx of third finger of hand.r",
+        "Fifth metacarpal bone.r",
+        "First metacarpal bone.r",
+        "Fourth metacarpal bone.r",
+        "Hamate bone.r",
+        "Humerus.r",
+        "Lunate bone.r",
+        "Middle phalanx of fifth finger of hand.r",
+        "Middle phalanx of fourth finger of hand.r",
+        "Middle phalanx of second finger of hand.r",
+        "Middle phalanx of third finger of hand.r",
+        "Pisiform bone.r",
+        "Proximal phalanx of fifth finger of hand.r",
+        "Proximal phalanx of first finger of hand.r",
+        "Proximal phalanx of fourth finger of hand.r",
+        "Proximal phalanx of second finger of hand.r",
+        "Proximal phalanx of third finger of hand.r",
+        "Radius.r",
+        "Scaphoid bone.r",
+        "Scapula.r",
+        "Second metacarpal bone.r",
+        "Temporal bone.r",
+        "Third metacarpal bone.r",
+        "Trapezium bone.r",
+        "Trapezoid bone.r",
+        "Triquetrum bone.r",
+        "Ulna.r",
+        "Vertebra C5",
+        "Vertebra C6",
+        "Vertebra C7",
+        "Vertebra T1"
+      ],
+      "muscleFocus": [
+        "Opponens pollicis muscle.r"
+      ],
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "myotome-11",
+      "topic": "myotomes",
+      "title": "Finger abduction · C8 + T1",
+      "pages": [
+        9
+      ],
+      "pins": [
+        {
+          "name": "Muscles",
+          "target": "Dorsal interossei muscles of hand.r",
+          "text": "Dorsal interossei; abductor digiti minimi.",
+          "color": "#59d9d0"
+        },
+        {
+          "name": "Nerve",
+          "target": "Abductor digiti minimi of hand.r",
+          "text": "Ulnar.",
+          "color": "#ff7d9b"
+        },
+        {
+          "name": "Root values",
+          "target": "Dorsal interossei muscles of hand.r",
+          "text": "C8 + T1 in the supplied lecture myotome table.",
+          "color": "#f1c75b"
+        }
+      ],
+      "focus": [
+        "Dorsal interossei muscles of hand.r",
+        "Abductor digiti minimi of hand.r"
+      ],
+      "view": "front",
+      "studyView": true,
+      "boneContext": [
+        "Capitate bone.r",
+        "Clavicle.r",
+        "Distal phalanx of fifth finger of hand.r",
+        "Distal phalanx of first finger of hand.r",
+        "Distal phalanx of fourth finger of hand.r",
+        "Distal phalanx of second finger of hand.r",
+        "Distal phalanx of third finger of hand.r",
+        "Fifth metacarpal bone.r",
+        "First metacarpal bone.r",
+        "Fourth metacarpal bone.r",
+        "Hamate bone.r",
+        "Humerus.r",
+        "Lunate bone.r",
+        "Middle phalanx of fifth finger of hand.r",
+        "Middle phalanx of fourth finger of hand.r",
+        "Middle phalanx of second finger of hand.r",
+        "Middle phalanx of third finger of hand.r",
+        "Pisiform bone.r",
+        "Proximal phalanx of fifth finger of hand.r",
+        "Proximal phalanx of first finger of hand.r",
+        "Proximal phalanx of fourth finger of hand.r",
+        "Proximal phalanx of second finger of hand.r",
+        "Proximal phalanx of third finger of hand.r",
+        "Radius.r",
+        "Scaphoid bone.r",
+        "Scapula.r",
+        "Second metacarpal bone.r",
+        "Temporal bone.r",
+        "Third metacarpal bone.r",
+        "Trapezium bone.r",
+        "Trapezoid bone.r",
+        "Triquetrum bone.r",
+        "Ulna.r",
+        "Vertebra C5",
+        "Vertebra C6",
+        "Vertebra C7",
+        "Vertebra T1"
+      ],
+      "muscleFocus": [
+        "Dorsal interossei muscles of hand.r",
+        "Abductor digiti minimi of hand.r"
+      ],
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "myotome-12",
+      "topic": "myotomes",
+      "title": "Finger adduction · C8 + T1",
+      "pages": [
+        9
+      ],
+      "pins": [
+        {
+          "name": "Muscles",
+          "target": "Palmar interossei muscles.r",
+          "text": "Palmar interossei.",
+          "color": "#59d9d0"
+        },
+        {
+          "name": "Nerve",
+          "target": "Palmar interossei muscles.r",
+          "text": "Ulnar.",
+          "color": "#ff7d9b"
+        },
+        {
+          "name": "Root values",
+          "target": "Palmar interossei muscles.r",
+          "text": "C8 + T1 in the supplied lecture myotome table.",
+          "color": "#f1c75b"
+        }
+      ],
+      "focus": [
+        "Palmar interossei muscles.r"
+      ],
+      "view": "front",
+      "studyView": true,
+      "boneContext": [
+        "Capitate bone.r",
+        "Clavicle.r",
+        "Distal phalanx of fifth finger of hand.r",
+        "Distal phalanx of first finger of hand.r",
+        "Distal phalanx of fourth finger of hand.r",
+        "Distal phalanx of second finger of hand.r",
+        "Distal phalanx of third finger of hand.r",
+        "Fifth metacarpal bone.r",
+        "First metacarpal bone.r",
+        "Fourth metacarpal bone.r",
+        "Hamate bone.r",
+        "Humerus.r",
+        "Lunate bone.r",
+        "Middle phalanx of fifth finger of hand.r",
+        "Middle phalanx of fourth finger of hand.r",
+        "Middle phalanx of second finger of hand.r",
+        "Middle phalanx of third finger of hand.r",
+        "Pisiform bone.r",
+        "Proximal phalanx of fifth finger of hand.r",
+        "Proximal phalanx of first finger of hand.r",
+        "Proximal phalanx of fourth finger of hand.r",
+        "Proximal phalanx of second finger of hand.r",
+        "Proximal phalanx of third finger of hand.r",
+        "Radius.r",
+        "Scaphoid bone.r",
+        "Scapula.r",
+        "Second metacarpal bone.r",
+        "Temporal bone.r",
+        "Third metacarpal bone.r",
+        "Trapezium bone.r",
+        "Trapezoid bone.r",
+        "Triquetrum bone.r",
+        "Ulna.r",
+        "Vertebra C5",
+        "Vertebra C6",
+        "Vertebra C7",
+        "Vertebra T1"
+      ],
+      "muscleFocus": [
+        "Palmar interossei muscles.r"
+      ],
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "artery-origin",
+      "topic": "artery",
+      "title": "Vertebral artery · first subclavian part",
+      "pages": [
+        10
+      ],
+      "pins": [
+        {
+          "name": "Subclavian origin",
+          "target": "Right subclavian artery",
+          "text": "Arises from the first part of subclavian artery in the neck.",
+          "color": "#ff7d9b"
+        },
+        {
+          "name": "Ascending course",
+          "target": "Vertebral artery.r",
+          "text": "Ascends through the upper six cervical transverse vertebrae.",
+          "color": "#f1c75b"
+        }
+      ],
+      "focus": [
+        "Right subclavian artery",
+        "Vertebral artery.r"
+      ],
+      "view": "front",
+      "studyView": true,
+      "boneContext": [
+        "Atlas (C1)",
+        "Axis (C2)",
+        "Vertebra C3",
+        "Vertebra C4",
+        "Vertebra C5",
+        "Vertebra C6",
+        "Vertebra C7",
+        "Occipital bone"
+      ],
+      "region": {
+        "target": "Vertebra C4",
+        "span": 0.26
+      },
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "artery-skull",
+      "topic": "artery",
+      "title": "Foramen magnum → beside medulla → basilar",
+      "pages": [
+        10
+      ],
+      "pins": [
+        {
+          "name": "Vertebral arteries",
+          "target": "Vertebral artery.r",
+          "text": "Enter skull through foramen magnum; ascend on each side of medulla oblongata.",
+          "color": "#ff7d9b"
+        },
+        {
+          "name": "Basilar artery",
+          "target": "Basilar artery",
+          "text": "Right and left vertebral arteries unite at lower border of pons.",
+          "color": "#f1c75b"
+        }
+      ],
+      "focus": [
+        "Vertebral artery.r",
+        "Vertebral artery.l",
+        "Basilar artery",
+        "Medulla oblongata.r",
+        "Medulla oblongata.l"
+      ],
+      "view": "back",
+      "studyView": true,
+      "boneContext": [
+        "Atlas (C1)",
+        "Axis (C2)",
+        "Vertebra C3",
+        "Occipital bone"
+      ],
+      "region": {
+        "target": "Atlas (C1)",
+        "span": 0.17
+      },
+      "sceneOpacity": {
+        "Occipital bone": 0.12
+      },
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "artery-branches",
+      "topic": "artery",
+      "title": "Four branch groups",
+      "pages": [
+        10
+      ],
+      "pins": [
+        {
+          "name": "Anterior spinal",
+          "target": "Anterior spinal artery.r",
+          "text": "Anterior spinal artery.",
+          "color": "#59d9d0"
+        },
+        {
+          "name": "PICA",
+          "target": "Posterior inferior cerebellar artery.r",
+          "text": "Posterior inferior cerebellar artery: largest branch.",
+          "color": "#ff7d9b"
+        },
+        {
+          "name": "Other branches",
+          "target": "Vertebral artery.r",
+          "text": "Two posterior spinal arteries; medullary branches supply medulla oblongata.",
+          "color": "#f1c75b",
+          "context": true
+        }
+      ],
+      "focus": [
+        "Vertebral artery.r",
+        "Vertebral artery.l",
+        "Anterior spinal artery.r",
+        "Anterior spinal artery.l",
+        "Posterior inferior cerebellar artery.r",
+        "Posterior inferior cerebellar artery.l"
+      ],
+      "view": "back",
+      "studyView": true,
+      "boneContext": [
+        "Atlas (C1)",
+        "Axis (C2)",
+        "Vertebra C3",
+        "Occipital bone"
+      ],
+      "region": {
+        "target": "Atlas (C1)",
+        "span": 0.2
+      },
+      "figure": "artery",
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    }
+  ],
+  "modelPaths": {
+    "skeletal": "/lectures/vertebra/models/skeletal.glb",
+    "articular": "/lectures/vertebra/models/articular.glb",
+    "muscular": "/lectures/vertebra/models/muscular.glb",
+    "nervous": "/lectures/vertebra/models/nervous.glb",
+    "cardiovascular": "/lectures/vertebra/models/cardiovascular.glb"
+  },
+  "systems": [
+    "skeletal",
+    "articular",
+    "muscular",
+    "nervous",
+    "cardiovascular"
+  ],
+  "column": [
+    "Atlas (C1)",
+    "Axis (C2)",
+    "Vertebra C3",
+    "Vertebra C4",
+    "Vertebra C5",
+    "Vertebra C6",
+    "Vertebra C7",
+    "Vertebra T1",
+    "Vertebra T2",
+    "Vertebra T3",
+    "Vertebra T4",
+    "Vertebra T5",
+    "Vertebra T6",
+    "Vertebra T7",
+    "Vertebra T8",
+    "Vertebra T9",
+    "Vertebra T10",
+    "Vertebra T11",
+    "Vertebra T12",
+    "Vertebra L1",
+    "Vertebra L2",
+    "Vertebra L3",
+    "Vertebra L4",
+    "Vertebra L5",
+    "Sacrum",
+    "Coccyx"
+  ],
+  "vertebraCatalog": [
+    {
+      "name": "Atlas (C1)",
+      "target": "Atlas (C1)",
+      "region": "Cervical",
+      "color": "#59d9d0"
+    },
+    {
+      "name": "Axis (C2)",
+      "target": "Axis (C2)",
+      "region": "Cervical",
+      "color": "#59d9d0"
+    },
+    {
+      "name": "C3",
+      "target": "Vertebra C3",
+      "region": "Cervical",
+      "color": "#59d9d0"
+    },
+    {
+      "name": "C4",
+      "target": "Vertebra C4",
+      "region": "Cervical",
+      "color": "#59d9d0"
+    },
+    {
+      "name": "C5",
+      "target": "Vertebra C5",
+      "region": "Cervical",
+      "color": "#59d9d0"
+    },
+    {
+      "name": "C6",
+      "target": "Vertebra C6",
+      "region": "Cervical",
+      "color": "#59d9d0"
+    },
+    {
+      "name": "C7",
+      "target": "Vertebra C7",
+      "region": "Cervical",
+      "color": "#59d9d0"
+    },
+    {
+      "name": "T1",
+      "target": "Vertebra T1",
+      "region": "Thoracic",
+      "color": "#ff7d9b"
+    },
+    {
+      "name": "T2",
+      "target": "Vertebra T2",
+      "region": "Thoracic",
+      "color": "#ff7d9b"
+    },
+    {
+      "name": "T3",
+      "target": "Vertebra T3",
+      "region": "Thoracic",
+      "color": "#ff7d9b"
+    },
+    {
+      "name": "T4",
+      "target": "Vertebra T4",
+      "region": "Thoracic",
+      "color": "#ff7d9b"
+    },
+    {
+      "name": "T5",
+      "target": "Vertebra T5",
+      "region": "Thoracic",
+      "color": "#ff7d9b"
+    },
+    {
+      "name": "T6",
+      "target": "Vertebra T6",
+      "region": "Thoracic",
+      "color": "#ff7d9b"
+    },
+    {
+      "name": "T7",
+      "target": "Vertebra T7",
+      "region": "Thoracic",
+      "color": "#ff7d9b"
+    },
+    {
+      "name": "T8",
+      "target": "Vertebra T8",
+      "region": "Thoracic",
+      "color": "#ff7d9b"
+    },
+    {
+      "name": "T9",
+      "target": "Vertebra T9",
+      "region": "Thoracic",
+      "color": "#ff7d9b"
+    },
+    {
+      "name": "T10",
+      "target": "Vertebra T10",
+      "region": "Thoracic",
+      "color": "#ff7d9b"
+    },
+    {
+      "name": "T11",
+      "target": "Vertebra T11",
+      "region": "Thoracic",
+      "color": "#ff7d9b"
+    },
+    {
+      "name": "T12",
+      "target": "Vertebra T12",
+      "region": "Thoracic",
+      "color": "#ff7d9b"
+    },
+    {
+      "name": "L1",
+      "target": "Vertebra L1",
+      "region": "Lumbar",
+      "color": "#f1c75b"
+    },
+    {
+      "name": "L2",
+      "target": "Vertebra L2",
+      "region": "Lumbar",
+      "color": "#f1c75b"
+    },
+    {
+      "name": "L3",
+      "target": "Vertebra L3",
+      "region": "Lumbar",
+      "color": "#f1c75b"
+    },
+    {
+      "name": "L4",
+      "target": "Vertebra L4",
+      "region": "Lumbar",
+      "color": "#f1c75b"
+    },
+    {
+      "name": "L5",
+      "target": "Vertebra L5",
+      "region": "Lumbar",
+      "color": "#f1c75b"
+    },
+    {
+      "name": "Sacrum",
+      "target": "Sacrum",
+      "region": "Sacral",
+      "color": "#aa9df1"
+    },
+    {
+      "name": "Coccyx",
+      "target": "Coccyx",
+      "region": "Coccygeal",
+      "color": "#76bafb"
+    }
+  ],
+  "quizLayers": [
+    "nerves"
+  ],
+  "quizTargets": [
+    "White matter of spinal cord",
+    "Anterior root of spinal nerve.r",
+    "Posterior root of spinal nerve.r",
+    "Spinal ganglion.r",
+    "Spinal dura"
+  ],
+  "functionalQuiz": [
+    {
+      "target": "Posterior root of spinal nerve.r",
+      "prompt": "Click the incoming sensory root.",
+      "explanation": "Dorsal / posterior root carries incoming sensory fibers."
+    },
+    {
+      "target": "Anterior root of spinal nerve.r",
+      "prompt": "Click the outgoing motor root.",
+      "explanation": "Ventral / anterior root carries outgoing motor fibers."
+    },
+    {
+      "target": "Spinal ganglion.r",
+      "prompt": "Click the structure containing sensory cell bodies.",
+      "explanation": "Sensory cell bodies are in the dorsal root ganglion."
+    },
+    {
+      "target": "White matter of spinal cord",
+      "prompt": "Click the structure protected inside the spinal canal.",
+      "explanation": "Spinal cord runs inside the canal."
+    }
+  ],
+  "targetNames": {
+    "Scalenus posterior muscle.r": "Scalenus posterior muscle · right",
+    "Longissimus capitis muscle.l": "Longissimus capitis muscle · left",
+    "Intervertebral disc T12-L1": "Intervertebral disc T12-L1",
+    "Semispinalis thoracis muscle.r": "Semispinalis thoracis muscle · right",
+    "Vertebra L2": "Vertebra L2",
+    "Scalenus medius muscle.l": "Scalenus medius muscle · left",
+    "Twelfth rib.r": "Twelfth rib · right",
+    "Fifth metacarpal bone.r": "Fifth metacarpal bone · right",
+    "Vertebra L5": "Vertebra L5",
+    "Sixth rib.l": "Sixth rib · left",
+    "Splenius capitis muscle.l": "Splenius capitis muscle · left",
+    "Distal phalanx of fifth finger of foot.r": "Distal phalanx of fifth finger of foot · right",
+    "Intervertebral disc C4-C5": "Intervertebral disc C4-C5",
+    "Rectus abdominis muscle.r": "Rectus abdominis muscle · right",
+    "Rectus posterior minor capitis muscle.r": "Rectus capitis posterior minor · right",
+    "(Abdominal part of pectoralis major muscle).r": "(Abdominal part of pectoralis major muscle) · right",
+    "Latissimus dorsi muscle.r": "Latissimus dorsi muscle · right",
+    "Splenius capitis muscle.r": "Splenius capitis muscle · right",
+    "External abdominal oblique muscle.r": "External abdominal oblique muscle · right",
+    "Middle phalanx of second finger of hand.r": "Middle phalanx of second finger of hand · right",
+    "Temporal bone.r": "Temporal bone · right",
+    "Sternohyoid muscle.l": "Sternohyoid muscle · left",
+    "Third rib.r": "Third rib · right",
+    "Extensor carpi radialis brevis.r": "Extensor carpi radialis brevis · right",
+    "Iliocostalis lumborum muscle.l": "Iliocostalis lumborum muscle · left",
+    "Serratus posterior inferior muscle.l": "Serratus posterior inferior muscle · left",
+    "Anterior longitudinal ligament": "Anterior longitudinal ligament",
+    "Intervertebral disc T3-T4": "Intervertebral disc T3-T4",
+    "Intervertebral disc T10-T11": "Intervertebral disc T10-T11",
+    "Rhomboid major muscle.r": "Rhomboid major muscle · right",
+    "Vertebra T4": "Vertebra T4",
+    "Rhomboid major muscle.l": "Rhomboid major muscle · left",
+    "Fifth rib.r": "Fifth rib · right",
+    "Intervertebral disc T4-T5": "Intervertebral disc T4-T5",
+    "Sternocleidomastoid muscle.r": "Sternocleidomastoid muscle · right",
+    "Supraspinous ligament": "Supraspinous ligament",
+    "Rotatores.l": "Rotatores · left",
+    "Omohyoid muscle.l": "Omohyoid muscle · left",
+    "Sacrum": "Sacrum",
+    "Eleventh rib.l": "Eleventh rib · left",
+    "Distal phalanx of fourth finger of hand.r": "Distal phalanx of fourth finger of hand · right",
+    "Sternocleidomastoid muscle.l": "Sternocleidomastoid muscle · left",
+    "Clavicular head of pectoralis major muscle.r": "Clavicular head of pectoralis major muscle · right",
+    "Eighth rib.r": "Eighth rib · right",
+    "Scalenus medius muscle.r": "Scalenus medius muscle · right",
+    "Transverse part of trapezius muscle.l": "Transverse part of trapezius muscle · left",
+    "Costal cartilage of sixth rib.l": "Costal cartilage of sixth rib · left",
+    "Radius.r": "Radius · right",
+    "Vertebra T5": "Vertebra T5",
+    "Levatores breves costarum.l": "Levatores breves costarum · left",
+    "Vertebra T9": "Vertebra T9",
+    "Costal cartilage of ninth rib.r": "Costal cartilage of ninth rib · right",
+    "Obliquus superior capitis muscle.r": "Obliquus capitis superior · right",
+    "Vertebra T2": "Vertebra T2",
+    "Vertebra T12": "Vertebra T12",
+    "Longus colli muscle.r": "Longus colli muscle · right",
+    "Middle phalanx of fifth finger of foot.r": "Middle phalanx of fifth finger of foot · right",
+    "Proximal phalanx of second finger of foot.r": "Proximal phalanx of second finger of foot · right",
+    "Ulna.r": "Ulna · right",
+    "Short head of biceps brachii.r": "Short head of biceps brachii · right",
+    "Posterior longitudinal ligament": "Posterior longitudinal ligament",
+    "Third metacarpal bone.r": "Third metacarpal bone · right",
+    "Second rib.l": "Second rib · left",
+    "Longus capitis muscle.l": "Longus capitis muscle · left",
+    "Scaphoid bone.r": "Scaphoid bone · right",
+    "Proximal phalanx of third finger of foot.r": "Proximal phalanx of third finger of foot · right",
+    "Second metacarpal bone.r": "Second metacarpal bone · right",
+    "Rectus lateralis capitis muscle.r": "Rectus capitis lateralis · right",
+    "Ventral parts of lateral intertransversarii lumborum muscles.r": "Ventral parts of lateral intertransversarii lumborum muscles · right",
+    "Abductor pollicis longus.r": "Abductor pollicis longus · right",
+    "Ninth rib.l": "Ninth rib · left",
+    "Proximal phalanx of fifth finger of hand.r": "Proximal phalanx of fifth finger of hand · right",
+    "Vertebra T8": "Vertebra T8",
+    "Costal cartilage of third rib.r": "Costal cartilage of third rib · right",
+    "Semispinalis colli muscle.l": "Semispinalis cervicis · left",
+    "Spinalis thoracis muscle.r": "Spinalis thoracis muscle · right",
+    "Levatores longi costarum.l": "Levatores longi costarum · left",
+    "Axis (C2)": "Axis (C2)",
+    "Anterior root of spinal nerve.r": "Ventral spinal roots · right",
+    "Levatores breves costarum.r": "Levatores breves costarum · right",
+    "Multifidus thoracis muscle.r": "Multifidus thoracis muscle · right",
+    "Distal phalanx of first finger of foot.r": "Distal phalanx of first finger of foot · right",
+    "Seventh rib.l": "Seventh rib · left",
+    "Iliocostalis colli muscle.r": "Iliocostalis cervicis · right",
+    "Eleventh rib.r": "Eleventh rib · right",
+    "Interspinales lumborum muscles.l": "Interspinales lumborum muscles · left",
+    "First rib.l": "First rib · left",
+    "Vertebra T1": "Vertebra T1",
+    "Intervertebral disc T7-T8": "Intervertebral disc T7-T8",
+    "Medial head of triceps brachii.r": "Medial head of triceps brachii · right",
+    "Costal cartilage of fifth rib.r": "Costal cartilage of fifth rib · right",
+    "Capitate bone.r": "Capitate bone · right",
+    "Interspinales colli muscles.l": "Interspinales colli muscles · left",
+    "Clavicle.r": "Clavicle · right",
+    "Distal phalanx of fifth finger of hand.r": "Distal phalanx of fifth finger of hand · right",
+    "Scapula.l": "Scapula · left",
+    "Costal cartilage of second rib.l": "Costal cartilage of second rib · left",
+    "Rectus anterior capitis muscle.l": "Rectus capitis anterior · left",
+    "Rectus lateralis capitis muscle.l": "Rectus capitis lateralis · left",
+    "Posterior inferior cerebellar artery.l": "Posterior inferior cerebellar artery · left",
+    "Extensor digitorum.r": "Extensor digitorum · right",
+    "Distal phalanx of third finger of foot.r": "Distal phalanx of third finger of foot · right",
+    "Multifidus thoracis muscle.l": "Multifidus thoracis muscle · left",
+    "Interspinales thoracis muscles.r": "Interspinales thoracis muscles · right",
+    "Costal cartilage of seventh rib.r": "Costal cartilage of seventh rib · right",
+    "Intervertebral disc L4-L5": "Intervertebral disc L4-L5",
+    "Multifidus colli muscle.l": "Multifidus colli muscle · left",
+    "Long head of triceps brachii.r": "Long head of triceps brachii · right",
+    "Anterior horn of spinal cord": "Anterior horn of spinal cord",
+    "Ligamenta flava": "Ligamenta flava",
+    "Ascending part of trapezius muscle.r": "Ascending part of trapezius muscle · right",
+    "Ventral parts of lateral intertransversarii lumborum muscles.l": "Ventral parts of lateral intertransversarii lumborum muscles · left",
+    "Intervertebral disc L2-L3": "Intervertebral disc L2-L3",
+    "Ninth rib.r": "Ninth rib · right",
+    "Proximal phalanx of fourth finger of foot.r": "Proximal phalanx of fourth finger of foot · right",
+    "Costal cartilage of eighth rib.r": "Costal cartilage of eighth rib · right",
+    "Brachialis muscle.r": "Brachialis muscle · right",
+    "Rectus abdominis muscle.l": "Rectus abdominis muscle · left",
+    "Middle phalanx of fourth finger of foot.r": "Middle phalanx of fourth finger of foot · right",
+    "Spinalis thoracis muscle.l": "Spinalis thoracis muscle · left",
+    "Costal cartilage of tenth rib.l": "Costal cartilage of tenth rib · left",
+    "Interspinales lumborum muscles.r": "Interspinales lumborum muscles · right",
+    "Proximal phalanx of third finger of hand.r": "Proximal phalanx of third finger of hand · right",
+    "Multifidus lumborum muscle.r": "Multifidus lumborum muscle · right",
+    "Anterior spinal artery.r": "Anterior spinal artery · right",
+    "Splenius colli muscle.l": "Splenius cervicis · left",
+    "Vertebra C5": "Vertebra C5",
+    "Spinalis capitis muscle.r": "Spinalis capitis muscle · right",
+    "Omohyoid muscle.r": "Omohyoid muscle · right",
+    "Intervertebral disc T2-T3": "Intervertebral disc T2-T3",
+    "Rhomboid minor muscle.l": "Rhomboid minor muscle · left",
+    "Opponens pollicis muscle.r": "Opponens pollicis muscle · right",
+    "Twelfth rib.l": "Twelfth rib · left",
+    "Posterior horn of spinal cord": "Posterior horn of spinal cord",
+    "Costal cartilage of first rib.r": "Costal cartilage of first rib · right",
+    "Spinal ganglion.r": "Dorsal root ganglia · right",
+    "Temporal bone.l": "Temporal bone · left",
+    "Semispinalis colli muscle.r": "Semispinalis cervicis · right",
+    "Intervertebral disc T5-T6": "Intervertebral disc T5-T6",
+    "Longissimus colli muscle.r": "Longissimus cervicis · right",
+    "Internal abdominal oblique muscle.r": "Internal abdominal oblique muscle · right",
+    "Intervertebral disc C3-C4": "Intervertebral disc C3-C4",
+    "Middle phalanx of third finger of hand.r": "Middle phalanx of third finger of hand · right",
+    "Middle phalanx of second finger of foot.r": "Middle phalanx of second finger of foot · right",
+    "Abductor pollicis brevis.r": "Abductor pollicis brevis · right",
+    "Body of sternum": "Body of sternum",
+    "Medulla oblongata.r": "Medulla oblongata · right",
+    "Sternocostal head of pectoralis major muscle.r": "Sternocostal head of pectoralis major muscle · right",
+    "Xiphoid process": "Xiphoid process",
+    "Hamate bone.r": "Hamate bone · right",
+    "Multifidus lumborum muscle.l": "Multifidus lumborum muscle · left",
+    "Costal cartilage of second rib.r": "Costal cartilage of second rib · right",
+    "Palmar interossei muscles.r": "Palmar interossei muscles · right",
+    "Descending part of trapezius muscle.r": "Descending part of trapezius muscle · right",
+    "Posterior root of spinal nerve.r": "Dorsal spinal roots · right",
+    "Clavicular part of deltoid muscle.r": "Clavicular part of deltoid muscle · right",
+    "Hip bone.r": "Hip bone · right",
+    "Intervertebral disc L5-S1": "Intervertebral disc L5-S1",
+    "Dorsal parts of lateral intertransversarii lumborum muscles.r": "Dorsal parts of lateral intertransversarii lumborum muscles · right",
+    "Costal cartilage of first rib.l": "Costal cartilage of first rib · left",
+    "Vertebra C7": "Vertebra C7",
+    "Triquetrum bone.r": "Triquetrum bone · right",
+    "Costal cartilage of eighth rib.l": "Costal cartilage of eighth rib · left",
+    "Radial head of flexor digitorum superficialis.r": "Radial head of flexor digitorum superficialis · right",
+    "Longissimus capitis muscle.r": "Longissimus capitis muscle · right",
+    "Middle phalanx of fifth finger of hand.r": "Middle phalanx of fifth finger of hand · right",
+    "Proximal phalanx of fourth finger of hand.r": "Proximal phalanx of fourth finger of hand · right",
+    "Vertebra L1": "Vertebra L1",
+    "Intervertebral disc T1-T2": "Intervertebral disc T1-T2",
+    "Fourth rib.r": "Fourth rib · right",
+    "Scapula.r": "Scapula · right",
+    "Anterior spinal artery.l": "Anterior spinal artery · left",
+    "Multifidus colli muscle.r": "Multifidus colli muscle · right",
+    "Intervertebral disc T11-T12": "Intervertebral disc T11-T12",
+    "Distal phalanx of second finger of foot.r": "Distal phalanx of second finger of foot · right",
+    "Vertebra T3": "Vertebra T3",
+    "Intra-articular ligament of head of rib.r": "Intra-articular ligament of head of rib · right",
+    "White matter of spinal cord": "Spinal cord",
+    "Dorsal parts of lateral intertransversarii lumborum muscles.l": "Dorsal parts of lateral intertransversarii lumborum muscles · left",
+    "Spinalis colli muscle.l": "Spinalis colli muscle · left",
+    "Ulnar head of extensor carpi ulnaris.r": "Ulnar head of extensor carpi ulnaris · right",
+    "Spinalis colli muscle.r": "Spinalis colli muscle · right",
+    "First rib.r": "First rib · right",
+    "Longissimus thoracis muscle.l": "Longissimus thoracis muscle · left",
+    "Rectus anterior capitis muscle.r": "Rectus capitis anterior · right",
+    "First metacarpal bone.r": "First metacarpal bone · right",
+    "Fourth rib.l": "Fourth rib · left",
+    "Spinal dura": "Dura mater",
+    "Proximal phalanx of first finger of foot.r": "Proximal phalanx of first finger of foot · right",
+    "Medulla oblongata.l": "Medulla oblongata · left",
+    "Vertebra T11": "Vertebra T11",
+    "Scalenus anterior muscle.l": "Scalenus anterior muscle · left",
+    "Psoas major.l": "Psoas major · left",
+    "Vertebra T6": "Vertebra T6",
+    "Intervertebral disc L1-L2": "Intervertebral disc L1-L2",
+    "Proximal phalanx of fifth finger of foot.r": "Proximal phalanx of fifth finger of foot · right",
+    "Vertebral artery.r": "Vertebral artery · right",
+    "Anterior root of spinal nerve.l": "Ventral spinal roots · left",
+    "Spinalis capitis muscle.l": "Spinalis capitis muscle · left",
+    "Rotatores.r": "Rotatores · right",
+    "Dorsal interossei muscles of hand.r": "Dorsal interossei muscles of hand · right",
+    "Costal cartilage of tenth rib.r": "Costal cartilage of tenth rib · right",
+    "Vertebral artery.l": "Vertebral artery · left",
+    "Fifth rib.l": "Fifth rib · left",
+    "Iliocostalis thoracis muscle.l": "Iliocostalis thoracis muscle · left",
+    "Third rib.l": "Third rib · left",
+    "Extensor carpi radialis longus.r": "Extensor carpi radialis longus · right",
+    "Distal phalanx of fourth finger of foot.r": "Distal phalanx of fourth finger of foot · right",
+    "Intertransverse ligaments.l": "Intertransverse ligaments · left",
+    "Radiate ligament of head of rib.l": "Radiate ligament of head of rib · left",
+    "Tenth rib.r": "Tenth rib · right",
+    "Vertebra C4": "Vertebra C4",
+    "Obliquus inferior capitis muscle.l": "Obliquus capitis inferior · left",
+    "Rectus posterior minor capitis muscle.l": "Rectus capitis posterior minor · left",
+    "Vertebra C6": "Vertebra C6",
+    "Second rib.r": "Second rib · right",
+    "Proximal phalanx of first finger of hand.r": "Proximal phalanx of first finger of hand · right",
+    "Costal cartilage of fourth rib.r": "Costal cartilage of fourth rib · right",
+    "Posterior inferior cerebellar artery.r": "Posterior inferior cerebellar artery · right",
+    "Seventh rib.r": "Seventh rib · right",
+    "Clavicle.l": "Clavicle · left",
+    "Radiate ligament of head of rib.r": "Radiate ligament of head of rib · right",
+    "Serratus posterior inferior muscle.r": "Serratus posterior inferior muscle · right",
+    "Distal phalanx of third finger of hand.r": "Distal phalanx of third finger of hand · right",
+    "Iliocostalis colli muscle": "Iliocostalis cervicis",
+    "Vertebra C3": "Vertebra C3",
+    "Iliocostalis lumborum muscle.r": "Iliocostalis lumborum muscle · right",
+    "Quadratus lumborum muscle.l": "Quadratus lumborum muscle · left",
+    "Humero-ulnar head of flexor digitorum superficialis.r": "Humero-ulnar head of flexor digitorum superficialis · right",
+    "Rhomboid minor muscle.r": "Rhomboid minor muscle · right",
+    "Nuchal ligament": "Nuchal ligament",
+    "Hip bone.l": "Hip bone · left",
+    "Intervertebral disc C6-C7": "Intervertebral disc C6-C7",
+    "Humeral head of extensor carpi ulnaris.r": "Humeral head of extensor carpi ulnaris · right",
+    "Abductor digiti minimi of hand.r": "Abductor digiti minimi of hand · right",
+    "Descending part of trapezius muscle.l": "Descending part of trapezius muscle · left",
+    "Semispinalis thoracis muscle.l": "Semispinalis thoracis muscle · left",
+    "Acromial part of deltoid muscle.r": "Acromial part of deltoid muscle · right",
+    "Serratus posterior superior muscle.r": "Serratus posterior superior muscle · right",
+    "Posterior root of spinal nerve.l": "Dorsal spinal roots · left",
+    "Pisiform bone.r": "Pisiform bone · right",
+    "Vertebra T7": "Vertebra T7",
+    "Sternohyoid muscle.r": "Sternohyoid muscle · right",
+    "Tenth rib.l": "Tenth rib · left",
+    "Intervertebral disc C7-T1": "Intervertebral disc C7-T1",
+    "Longus capitis muscle.r": "Longus capitis muscle · right",
+    "Iliocostalis thoracis muscle.r": "Iliocostalis thoracis muscle · right",
+    "Flexor carpi radialis.r": "Flexor carpi radialis · right",
+    "Psoas major.r": "Psoas major · right",
+    "Trapezium bone.r": "Trapezium bone · right",
+    "Intervertebral disc C2-C3": "Intervertebral disc C2-C3",
+    "Rectus posterior major capitis muscle.l": "Rectus capitis posterior major · left",
+    "Interspinales colli muscles.r": "Interspinales colli muscles · right",
+    "Proximal phalanx of second finger of hand.r": "Proximal phalanx of second finger of hand · right",
+    "Manubrium of sternum": "Manubrium of sternum",
+    "Levatores longi costarum.r": "Levatores longi costarum · right",
+    "Eighth rib.l": "Eighth rib · left",
+    "Scalenus posterior muscle.l": "Scalenus posterior muscle · left",
+    "Sternothyroid muscle.l": "Sternothyroid muscle · left",
+    "Trapezoid bone.r": "Trapezoid bone · right",
+    "Longissimus thoracis muscle.r": "Longissimus thoracis muscle · right",
+    "Scalenus anterior muscle.r": "Scalenus anterior muscle · right",
+    "Costal cartilage of ninth rib.l": "Costal cartilage of ninth rib · left",
+    "Costal cartilage of fifth rib.l": "Costal cartilage of fifth rib · left",
+    "Atlas (C1)": "Atlas (C1)",
+    "Interspinales thoracis muscles.l": "Interspinales thoracis muscles · left",
+    "External abdominal oblique muscle.l": "External abdominal oblique muscle · left",
+    "Spinal ganglion.l": "Dorsal root ganglia · left",
+    "Obliquus inferior capitis muscle.r": "Obliquus capitis inferior · right",
+    "Costal cartilage of fourth rib.l": "Costal cartilage of fourth rib · left",
+    "Left subclavian artery": "Left subclavian artery",
+    "Lateral head of triceps brachii.r": "Lateral head of triceps brachii · right",
+    "Levator scapulae.r": "Levator scapulae · right",
+    "Quadratus lumborum muscle.r": "Quadratus lumborum muscle · right",
+    "Flexor digitorum profundus.r": "Flexor digitorum profundus · right",
+    "Middle phalanx of third finger of foot.r": "Middle phalanx of third finger of foot · right",
+    "Vertebra T10": "Vertebra T10",
+    "Scapular spinal part of deltoid muscle.r": "Scapular spinal part of deltoid muscle · right",
+    "Hypoglossal nerve (XII).r": "Hypoglossal nerve (XII) · right",
+    "Right subclavian artery": "Right subclavian artery",
+    "Middle phalanx of fourth finger of hand.r": "Middle phalanx of fourth finger of hand · right",
+    "Costal cartilage of third rib.l": "Costal cartilage of third rib · left",
+    "Humeral head of flexor carpi ulnaris.r": "Humeral head of flexor carpi ulnaris · right",
+    "Costal cartilage of sixth rib.r": "Costal cartilage of sixth rib · right",
+    "Vertebra L3": "Vertebra L3",
+    "Lunate bone.r": "Lunate bone · right",
+    "Levator scapulae.l": "Levator scapulae · left",
+    "Intertransverse ligaments.r": "Intertransverse ligaments · right",
+    "Fourth metacarpal bone.r": "Fourth metacarpal bone · right",
+    "Intervertebral disc T8-T9": "Intervertebral disc T8-T9",
+    "Sixth rib.r": "Sixth rib · right",
+    "Sternothyroid muscle.r": "Sternothyroid muscle · right",
+    "Intervertebral disc C5-C6": "Intervertebral disc C5-C6",
+    "Rectus posterior major capitis muscle.r": "Rectus capitis posterior major · right",
+    "Interspinous ligaments": "Interspinous ligaments",
+    "Humerus.r": "Humerus · right",
+    "Internal abdominal oblique muscle.l": "Internal abdominal oblique muscle · left",
+    "Longus colli muscle.l": "Longus colli muscle · left",
+    "Obliquus superior capitis muscle.l": "Obliquus capitis superior · left",
+    "Long head of biceps brachii.r": "Long head of biceps brachii · right",
+    "Intervertebral disc T6-T7": "Intervertebral disc T6-T7",
+    "Ulnar head of flexor carpi ulnaris.r": "Ulnar head of flexor carpi ulnaris · right",
+    "Latissimus dorsi muscle.l": "Latissimus dorsi muscle · left",
+    "Ascending part of trapezius muscle.l": "Ascending part of trapezius muscle · left",
+    "Intervertebral disc T9-T10": "Intervertebral disc T9-T10",
+    "Intervertebral disc L3-L4": "Intervertebral disc L3-L4",
+    "Coccyx": "Coccyx",
+    "Distal phalanx of second finger of hand.r": "Distal phalanx of second finger of hand · right",
+    "Costal cartilage of seventh rib.l": "Costal cartilage of seventh rib · left",
+    "Occipital bone": "Occipital bone",
+    "Transverse part of trapezius muscle.r": "Transverse part of trapezius muscle · right",
+    "Supraspinatus muscle.r": "Supraspinatus muscle · right",
+    "Vertebra L4": "Vertebra L4",
+    "Distal phalanx of first finger of hand.r": "Distal phalanx of first finger of hand · right",
+    "Splenius colli muscle.r": "Splenius cervicis · right",
+    "Longissimus colli muscle.l": "Longissimus cervicis · left",
+    "Basilar artery": "Basilar artery",
+    "Serratus posterior superior muscle.l": "Serratus posterior superior muscle · left"
+  },
+  "muscleProfiles": [],
+  "studyTables": [
+    {
+      "id": "radiculopathy",
+      "title": "Cervical disc / root manifestations",
+      "page": 8,
+      "headers": [
+        "Disc level (source label)",
+        "Root",
+        "Manifestations",
+        "Reflexes"
+      ],
+      "rows": [
+        [
+          "C2",
+          "C3",
+          "Posterior neck pain / numbness radiating to mastoid and ear.",
+          "Normal reflexes"
+        ],
+        [
+          "C3",
+          "C4",
+          "Posterior neck pain / numbness along levator scapulae, sometimes pectoralis.",
+          "Normal reflexes"
+        ],
+        [
+          "C4",
+          "C5",
+          "Shoulder/arm pain and paresthesia; deltoid weakness and possible atrophy.",
+          "Normal reflexes"
+        ],
+        [
+          "C5",
+          "C6",
+          "Lateral forearm → thumb pain; biceps weakness.",
+          "Decreased biceps reflex"
+        ],
+        [
+          "C6",
+          "C7",
+          "Middle forearm → middle fingers pain; triceps weakness.",
+          "Decreased triceps and radial reflexes"
+        ],
+        [
+          "C7",
+          "C8",
+          "Medial forearm/hand pain; ulnar hypesthesia; intrinsic hand weakness.",
+          "Normal reflexes"
+        ]
+      ]
+    },
+    {
+      "id": "myotomes",
+      "title": "Myotomes · supplied lecture values",
+      "page": 9,
+      "headers": [
+        "Test",
+        "Muscles",
+        "Nerves",
+        "Roots"
+      ],
+      "rows": [
+        [
+          "Arm abduction",
+          "Supraspinatus; deltoid",
+          "Suprascapular; axillary",
+          "C5"
+        ],
+        [
+          "Arm adduction",
+          "Pectoralis major; latissimus dorsi",
+          "Pectoral; thoracodorsal",
+          "C7"
+        ],
+        [
+          "Forearm flexion",
+          "Brachialis; biceps brachii",
+          "Musculocutaneous",
+          "C5, C6"
+        ],
+        [
+          "Forearm extension",
+          "Triceps",
+          "Radial",
+          "C7"
+        ],
+        [
+          "Wrist flexion",
+          "Flexor carpi radialis; flexor carpi ulnaris",
+          "Median; ulnar",
+          "C7, C8 + T1"
+        ],
+        [
+          "Wrist extension",
+          "Extensor carpi radialis; extensor carpi ulnaris",
+          "Radial; posterior interosseous",
+          "C7, C8"
+        ],
+        [
+          "Finger flexion",
+          "FDS; FDP",
+          "Median; ulnar; anterior interosseous",
+          "C7, C8 + T1"
+        ],
+        [
+          "Finger extension",
+          "Extensor digitorum",
+          "Posterior interosseous",
+          "C7"
+        ],
+        [
+          "Thumb abduction",
+          "Abductor pollicis longus; brevis",
+          "Radial; median",
+          "C7, C8 + T1"
+        ],
+        [
+          "Thumb opposition",
+          "Opponens pollicis",
+          "Median",
+          "T1"
+        ],
+        [
+          "Finger abduction",
+          "Dorsal interossei; abductor digiti minimi",
+          "Ulnar",
+          "C8 + T1"
+        ],
+        [
+          "Finger adduction",
+          "Palmar interossei",
+          "Ulnar",
+          "C8 + T1"
+        ]
+      ]
+    },
+    {
+      "id": "dermatomes",
+      "title": "Upper limb dermatomes · source table",
+      "page": 7,
+      "headers": [
+        "Segments",
+        "Territory"
+      ],
+      "rows": [
+        [
+          "C3, C4",
+          "Base of neck extending laterally over shoulder"
+        ],
+        [
+          "C5",
+          "Lateral arm / superior abducted arm"
+        ],
+        [
+          "C6",
+          "Lateral forearm and thumb"
+        ],
+        [
+          "C7",
+          "Middle/ring fingers (middle three fingers) and center posterior forearm"
+        ],
+        [
+          "C8",
+          "Little finger; medial hand and forearm"
+        ],
+        [
+          "T1",
+          "Medial forearm and inferior arm"
+        ],
+        [
+          "T2",
+          "Medial superior arm and axillary skin"
+        ]
+      ]
+    }
+  ],
+  "sourceFigures": {
+    "lower-canal": {
+      "page": 5,
+      "src": "/lectures/l14/figures/lower-canal.jpg",
+      "caption": "Conus, cauda equina and lower canal contents"
+    },
+    "roots": {
+      "page": 2,
+      "src": "/lectures/l14/figures/roots.jpg",
+      "caption": "Incoming dorsal root and outgoing ventral root"
+    },
+    "meninges": {
+      "page": 2,
+      "src": "/lectures/l14/figures/meninges.jpg",
+      "caption": "Original meningeal cross-section"
+    },
+    "levels": {
+      "page": 1,
+      "src": "/lectures/l14/figures/levels.jpg",
+      "caption": "Cord levels and 31 nerve pairs"
+    },
+    "plexus": {
+      "page": 4,
+      "src": "/lectures/l14/figures/plexus.jpg",
+      "caption": "Original cervical plexus branches"
+    },
+    "puncture": {
+      "page": 5,
+      "src": "/lectures/l14/figures/puncture.jpg",
+      "caption": "Lumbar cistern and puncture levels"
+    },
+    "epidural": {
+      "page": 6,
+      "src": "/lectures/l14/figures/epidural.jpg",
+      "caption": "Original epidural approach illustration"
+    },
+    "sacral-exit": {
+      "page": 6,
+      "src": "/lectures/l14/figures/sacral-exit.jpg",
+      "caption": "Sacral foramina, hiatus and cornua"
+    },
+    "dermatomes": {
+      "page": 7,
+      "src": "/lectures/l14/figures/dermatomes.jpg",
+      "caption": "Dermatomes and named cutaneous nerves"
+    },
+    "radiculopathy": {
+      "page": 8,
+      "src": "/lectures/l14/figures/radiculopathy.jpg",
+      "caption": "Lecture cervical disc / root findings table"
+    },
+    "artery": {
+      "page": 10,
+      "src": "/lectures/l14/figures/artery.jpg",
+      "caption": "Vertebral arteries through cervical transverse foramina"
+    }
+  },
+  "coverage": [
+    {
+      "page": 1,
+      "scenes": [
+        "cord-map",
+        "cord-length",
+        "conus-cauda",
+        "nerve-count"
+      ]
+    },
+    {
+      "page": 2,
+      "scenes": [
+        "root-circuit",
+        "segment",
+        "pia",
+        "arachnoid",
+        "dura"
+      ]
+    },
+    {
+      "page": 3,
+      "scenes": [
+        "spaces",
+        "cistern",
+        "cervical-exits",
+        "plexus-levels",
+        "cord-impingement",
+        "cord-effects"
+      ]
+    },
+    {
+      "page": 4,
+      "scenes": [
+        "cervical-plexus",
+        "cutaneous-branches",
+        "ansa",
+        "phrenic"
+      ]
+    },
+    {
+      "page": 5,
+      "scenes": [
+        "inferior-canal",
+        "lumbar-puncture"
+      ]
+    },
+    {
+      "page": 6,
+      "scenes": [
+        "lower-exits",
+        "epidural",
+        "caudal"
+      ]
+    },
+    {
+      "page": 7,
+      "scenes": [
+        "foramen-encroachment",
+        "lumbar-foramina",
+        "dermatome-c34",
+        "dermatome-c5",
+        "dermatome-c6",
+        "dermatome-c7",
+        "dermatome-c8",
+        "dermatome-t1",
+        "dermatome-t2"
+      ]
+    },
+    {
+      "page": 8,
+      "scenes": [
+        "root-c3",
+        "root-c4",
+        "root-c5",
+        "root-c6",
+        "root-c7",
+        "root-c8",
+        "sensory-tests"
+      ]
+    },
+    {
+      "page": 9,
+      "scenes": [
+        "myotome-1",
+        "myotome-2",
+        "myotome-3",
+        "myotome-4",
+        "myotome-5",
+        "myotome-6",
+        "myotome-7",
+        "myotome-8",
+        "myotome-9",
+        "myotome-10",
+        "myotome-11",
+        "myotome-12"
+      ]
+    },
+    {
+      "page": 10,
+      "scenes": [
+        "artery-origin",
+        "artery-skull",
+        "artery-branches"
+      ]
+    }
+  ]
+}

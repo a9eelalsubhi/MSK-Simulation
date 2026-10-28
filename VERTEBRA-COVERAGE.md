@@ -1,0 +1,60 @@
+# Vertebra: Lectures 12, 13 and 14
+
+Sources: the three PDFs supplied by the user, Dr Ibrahim Amr. L12: 10 PDF pages / printed 1–10; L13: 8 PDF pages / printed 11–18; L14: 10 PDF pages / printed 19–28. All teaching facts and original figures follow these lectures. External atlases inform isolation, comparison and layering, without adding examinable content.
+
+## Page-by-page coverage
+
+| Lecture | PDF / printed page | Scenes | Covered material |
+|---|---|---|---|
+| 12 | 1 / 1 | 1, 2, 3 | 26 adult bones · 7 + 12 + 5 + 1 + 1; Spine, backbone or spinal column; Vertebrae + intervertebral discs |
+| 12 | 2 / 2 | 4, 5, 6, 7 | Four adult curves · inspect the side view; Primary sacral curve & newborn curve; Why the curves matter; Kyphosis · lordosis · scoliosis |
+| 12 | 3 / 3 | 8, 9, 10, 11, 32, 33 | Anterior body · posterior arch; Seven processes · 2 + 1 + 4; Foramen → spinal canal; Two vertebral notches form one intervertebral foramen; Discs lie between adjacent bodies; Annulus ring · nucleus center |
+| 12 | 4 / 4 | 12, 13, 14, 15, 16, 17, 18, 51, 52, 53, 54, 55, 56, 57 | Small body · large triangular foramen; Foramina, tubercles & attachments; Cervical transverse processes beside their muscles; C6 · carotid tubercle; Bifid C2–C6 · prominent C7; Atlas C1 · a ring without body or spine; Atlas · the widest cervical vertebra; Atlas (C1) · isolated original bone; Axis (C2) · isolated original bone; C3 · isolated original bone; C4 · isolated original bone; C5 · isolated original bone; C6 · isolated original bone; C7 · isolated original bone |
+| 12 | 5 / 5 | 19, 20, 21 | Axis C2 · dens forms the pivot; Atlanto-occipital · “yes”; Anterior & posterior atlanto-occipital membranes |
+| 12 | 6 / 6 | 22, 23, 24, 25 | Atlanto-axial · “no”; Apical & alar ligaments; Cruciate ligament · transverse + vertical; Membrana tectoria |
+| 12 | 7 / 7 | 26, 27, 28, 29, 30, 31, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74 | Thoracic · heart-shaped body & downward spine; Two rib contacts · head and tubercle; Lumbar · kidney-shaped body & thick spine; Lumbar · triangular foramen, medial facets; Inferior articular facets · compare regional directions; Cervical · thoracic · lumbar at the same scale; T1 · isolated original bone; T2 · isolated original bone; T3 · isolated original bone; T4 · isolated original bone; T5 · isolated original bone; T6 · isolated original bone; T7 · isolated original bone; T8 · isolated original bone; T9 · isolated original bone; T10 · isolated original bone; T11 · isolated original bone; T12 · isolated original bone; L1 · isolated original bone; L2 · isolated original bone; L3 · isolated original bone; L4 · isolated original bone; L5 · isolated original bone |
+| 12 | 8 / 8 | 34, 35, 36 | Body joints · cartilage and longitudinal ligaments; Lumbar discs · thickness and weak posterior ring; Posterolateral herniation · L4–L5 / L5–S1 |
+| 12 | 9 / 9 | 37, 38, 39, 40, 41, 42, 43, 44, 45, 46 | Zygapophysial joints · plane synovial; Supraspinous ligament · see the actual connection; Interspinous ligaments · see the actual connection; Intertransverse ligaments · see the actual connection; Ligamentum flavum · see the actual connection; Lumbar facets · sagittal to coronal; Flexion · match the muscle group; Extension · match the muscle group; Rotation · match the muscle group; Lateral flexion · match the muscle group |
+| 12 | 10 / 10 | 47, 48, 49, 50, 75, 76 | Sacrum · five fused vertebrae; Sacral crest · canal · hiatus; Auricular surface & sacral tuberosity; Coccyx · four fused pieces & cornua; Sacrum · isolated original bone; Coccyx · isolated original bone |
+| 13 | 1 / 11 | 1, 2, 3, 4, 5, 6, 7 | Superficial axio-appendicular layer; Trapezius · isolate the source muscle; Latissimus dorsi · isolate the source muscle; Levator scapulae · isolate the source muscle; Rhomboids · isolate the source muscle; Serratus posterior superior · deep to rhomboids; Serratus posterior inferior · deep to latissimus dorsi |
+| 13 | 2 / 12 | 8, 9, 10 | Three intrinsic layers · posterior rami; Splenius cervicis · spinous to superior attachment; Splenius capitis · spinous to superior attachment |
+| 13 | 3 / 13 | 11, 12, 13, 14 | Lateral → intermediate → medial; Iliocostalis · lateral; Longissimus · intermediate; Spinalis · medial |
+| 13 | 4 / 14 | 15, 16, 17, 18 | Transverse process → spine of a vertebra above; Semispinalis · deep layer; Multifidus · deep layer; Rotators · deep layer |
+| 13 | 5 / 15 | 19, 20, 21 | Interspinalis · read the connection; Intertransversarii · read the connection; Levatores costarum · read the connection |
+| 13 | 6 / 16 | 22, 23, 24, 25 | Longus colli · anterior to the cervical column; Longus capitis · anterior to the cervical column; Rectus capitis anterior · anterior to the cervical column; Anterior scalene · anterior to the cervical column |
+| 13 | 7 / 17 | 26, 27, 28, 29, 30, 31 | Lateral flexion · four named muscles; Rectus capitis lateralis · lateral cervical relation; Levator scapulae · lateral cervical relation; Middle scalene · lateral cervical relation; Posterior scalene · lateral cervical relation; Head flexion versus neck flexion |
+| 13 | 8 / 18 | 32, 33, 34, 35, 36 | Four short muscles behind atlas and axis; Rectus capitis posterior major · attachments on C1 / C2 / skull; Rectus capitis posterior minor · attachments on C1 / C2 / skull; Obliquus capitis inferior · attachments on C1 / C2 / skull; Obliquus capitis superior · attachments on C1 / C2 / skull |
+| 14 | 1 / 19 | 1, 2, 3, 4 | Spinal cord inside the spinal canal; Cord development & measurements; Conus medullaris & cauda equina; 31 pairs · 8 + 12 + 5 + 5 + 1 |
+| 14 | 2 / 20 | 5, 6, 7, 8, 9 | Dorsal in · ventral out; One segment gives one pair of spinal nerves; Pia mater & denticulate ligaments; Arachnoid mater · lower border of S2; Dura mater · tube and nerve sleeves |
+| 14 | 3 / 21 | 10, 11, 12, 13, 23, 24 | Outside → inside: epidural, dura, arachnoid, pia; Lumbar cistern · L2 to S2; C1–C7 above · C8 between C7 and T1; C1–C4 cervical · C5–T1 brachial; Cervical cord impingement · causes; Effects depend on the level |
+| 14 | 4 / 22 | 15, 16, 17, 18 | Ventral rami C1–C4 · behind SCM; Four cutaneous branches; Ansa cervicalis · C1 + C2–C3; Phrenic · C3–C5 → diaphragm |
+| 14 | 5 / 23 | 19, 20 | Six contents of the inferior vertebral canal; Lumbar puncture · L3–L4 or L4–L5 |
+| 14 | 6 / 24 | 14, 21, 22 | Below vertebrae · foramina · hiatus; Epidural anesthesia · outside dura; Caudal epidural · sacral hiatus |
+| 14 | 7 / 25 | 25, 26, 27, 28, 29, 30, 31, 32, 33 | Disc pathology or bone spurs → nerve encroachment; Downward: foramina narrow, nerves enlarge; C3–C4 · locate its sensory territory; C5 · locate its sensory territory; C6 · locate its sensory territory; C7 · locate its sensory territory; C8 · locate its sensory territory; T1 · locate its sensory territory; T2 · locate its sensory territory |
+| 14 | 8 / 26 | 34, 35, 36, 37, 38, 39, 40 | Disc C2 · root C3 in the lecture table; Disc C3 · root C4 in the lecture table; Disc C4 · root C5 in the lecture table; Disc C5 · root C6 in the lecture table; Disc C6 · root C7 in the lecture table; Disc C7 · root C8 in the lecture table; Four sensory modalities · compare both sides |
+| 14 | 9 / 27 | 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52 | Arm abduction · C5; Arm adduction · C7; Forearm flexion · C5, C6; Forearm extension · C7; Wrist flexion · C7, C8 + T1; Wrist extension · C7, C8; Finger flexion · C7, C8 + T1; Finger extension · C7; Thumb abduction · C7, C8 + T1; Thumb opposition · T1; Finger abduction · C8 + T1; Finger adduction · C8 + T1 |
+| 14 | 10 / 28 | 53, 54, 55 | Vertebral artery · first subclavian part; Foramen magnum → beside medulla → basilar; Four branch groups |
+
+## Visual learning and interaction
+
+- Three selector entries in a new Vertebra group; 76, 36 and 55 scenes (167 total), plus each lecture’s complete explorer. Every scene includes source references. All 26 adult vertebral bones are individually available in the picker.
+- L12: original isolated bone shapes, broad colored parts and actual geometry anchors, atlas/axis, adjacent body/disc and facet relationships, source cranial ligament and disc figures, sacral/coccygeal landmarks. C5/T6/L3 comparison separates the intact bones at original scale, then restores their original positions.
+- L13: six linked back-muscle layer stops; colored erector-spinae columns; deep and short muscles; anterior/lateral cervical and four suboccipital groups. Sixteen source attachment/nerve/action profiles and enlarged original attachment tables. Regional bones remain at 42% by default.
+- L14: cord levels and roots with regional anchors; sensory versus motor roots and ganglia, source meningeal cross-section, lumbar cistern / puncture / epidural / caudal comparisons, cervical plexus reference, dermatomes, six disc/root rows and twelve myotome tests, vertebral artery course. Bones default to 22% (18% in cord overview). Section view opens half of the actual bony canal. Regional search frames the relevant level rather than an entire longitudinal mesh.
+- Preserved branding and English interface, search, camera presets, smooth target update, mobile scroll lock, quiz identification and functional questions, independent opacity/switches for five systems plus ligaments/discs. User opacity overrides persist across scenes. The previously active lecture unloads on navigation.
+- Shared original geometry assets: 129 skeletal, 31 articular, 136 muscular, 13 nervous and 9 cardiovascular meshes, with original transforms/Draco data and existing attribution. The three new lectures reuse these five assets rather than downloading duplicate copies.
+
+## Limits and source-specific wording
+
+- Bone part colors and fused-bone landmark patches are educational regions, not measured segmentation or isolated part meshes. An intact bone’s source silhouette and geometry are preserved. Section view clips existing geometry without inventing internal anatomy.
+- Some cranial membranes/ligaments, pia, arachnoid, denticulate ligaments, filum, fine cervical plexus branches and semispinalis capitis lack independent meshes. Original figures and clearly marked dotted context callouts explain them; they are excluded from identification targets. Spinalis capitis is not renamed semispinalis capitis.
+- L13 highlighted splenius capitis C7–T3 is retained; the later reference table’s differing origin remains visible. Levator C2–C6 and shared scalene C5–C7 values are marked as source-table wording. The source obliquus capitis inferior attachment wording is preserved in its original table and explanation, without relocating the real muscle.
+- L14 newborn L4 / adult L2, age 5, meningeal termination, subdural description, source disc labels and myotome root values follow the lecture. No unsupported correction is silently introduced. LP disc markers identify vertical levels; original source figures show the posterior needle approach.
+
+## Verification
+
+- build.py checks every source page, all model binary ranges, 26 bones, unique scenes, visible pin targets, regional reference meshes, source figures, profiles and quiz target membership. Existing lecture contracts continue to pass.
+- check-vertebra.mjs covers transformed-parent comparison, original shape and scale preservation, position restoration/disposal, actual geometry pin anchors, reused color buffers, section/quiz safety, profile/layer/table jumps and lesson restoration. Shared camera/search/quiz, muscle/bone and layer suites pass.
+- Browser QA: desktop comparison and isolated shapes, colored erector columns and suboccipital attachments, root colors and original figure, expanded source tables, search selection, quiz feedback / functional prompt / exit restoration. Mobile control dimensions and callout spacing reviewed. No browser console errors observed.
+
+Presentation references: https://anatomy.app/encyclopedia/cervical-vertebrae and https://support.visiblebody.com/hc/en-us/articles/360003152034-Accessing-detailed-information-on-any-structure .

@@ -1,0 +1,3246 @@
+{
+  "topics": [
+    {
+      "id": "chapter-1",
+      "title": "Bones of the upper limb",
+      "subtitle": "Bones of the upper limb",
+      "pages": [
+        3
+      ]
+    },
+    {
+      "id": "chapter-2",
+      "title": "Pectoral girdle",
+      "subtitle": "Pectoral girdle",
+      "pages": [
+        4
+      ]
+    },
+    {
+      "id": "chapter-3",
+      "title": "Clavicle",
+      "subtitle": "Clavicle",
+      "pages": [
+        5,
+        6
+      ]
+    },
+    {
+      "id": "chapter-4",
+      "title": "Scapula",
+      "subtitle": "Scapula",
+      "pages": [
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "id": "chapter-5",
+      "title": "Humerus",
+      "subtitle": "Humerus",
+      "pages": [
+        11,
+        12
+      ]
+    },
+    {
+      "id": "chapter-6",
+      "title": "Ulna",
+      "subtitle": "Ulna",
+      "pages": [
+        15
+      ]
+    },
+    {
+      "id": "chapter-7",
+      "title": "Radius",
+      "subtitle": "Radius",
+      "pages": [
+        16
+      ]
+    },
+    {
+      "id": "chapter-8",
+      "title": "Carpal bones",
+      "subtitle": "Carpal bones",
+      "pages": [
+        19
+      ]
+    },
+    {
+      "id": "chapter-9",
+      "title": "Metacarpals and phalanges",
+      "subtitle": "Metacarpals and phalanges",
+      "pages": [
+        20
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "title": "Sternoclavicular joint",
+      "subtitle": "Sternoclavicular joint",
+      "pages": [
+        23
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "title": "Acromioclavicular joint",
+      "subtitle": "Acromioclavicular joint",
+      "pages": [
+        24
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "title": "Glenohumeral joint",
+      "subtitle": "Glenohumeral joint",
+      "pages": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "title": "Elbow joint",
+      "subtitle": "Elbow joint",
+      "pages": [
+        27
+      ]
+    },
+    {
+      "id": "chapter-14",
+      "title": "Radioulnar joints",
+      "subtitle": "Radioulnar joints",
+      "pages": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "chapter-15",
+      "title": "Wrist joint",
+      "subtitle": "Wrist joint",
+      "pages": [
+        30
+      ]
+    },
+    {
+      "id": "chapter-16",
+      "title": "Hand joints",
+      "subtitle": "Hand joints",
+      "pages": [
+        22,
+        31,
+        32
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "topic": "chapter-1",
+      "title": "The free upper limb: 30 bones",
+      "pages": [
+        3
+      ],
+      "pins": [
+        {
+          "target": "Humerus.r",
+          "name": "Humerus",
+          "text": "1 bone in the arm.",
+          "at": 0.5,
+          "axis": "y",
+          "context": false,
+          "color": "#f5ce70"
+        },
+        {
+          "target": "Ulna.r",
+          "name": "Ulna",
+          "text": "1 medial forearm bone.",
+          "at": 0.5,
+          "axis": "y",
+          "context": false,
+          "color": "#b99aef"
+        },
+        {
+          "target": "Radius.r",
+          "name": "Radius",
+          "text": "1 lateral forearm bone.",
+          "at": 0.5,
+          "axis": "y",
+          "context": false,
+          "color": "#7eb1f7"
+        }
+      ],
+      "focus": [
+        "Humerus.r",
+        "Ulna.r",
+        "Radius.r"
+      ],
+      "view": "front",
+      "facts": [
+        1
+      ],
+      "caption": "Highlighted lecture points. Select Lecture diagram to compare with the original slide.",
+      "boneColors": {
+        "Humerus.r": "#f5ce70",
+        "Ulna.r": "#b99aef",
+        "Radius.r": "#7eb1f7"
+      }
+    },
+    {
+      "topic": "chapter-1",
+      "title": "Wrist and hand counts",
+      "pages": [
+        3
+      ],
+      "pins": [
+        {
+          "target": "Capitate bone.r",
+          "name": "Carpals",
+          "text": "8 wrist bones.",
+          "at": 0.5,
+          "axis": "y",
+          "context": false,
+          "color": "#ef91b6"
+        },
+        {
+          "target": "Third metacarpal bone.r",
+          "name": "Metacarpals and phalanges",
+          "text": "19 bones together in the hand.",
+          "at": 0.5,
+          "axis": "y",
+          "context": false,
+          "color": "#72d7ca"
+        }
+      ],
+      "focus": [
+        "Capitate bone.r",
+        "Third metacarpal bone.r"
+      ],
+      "view": "front",
+      "facts": [
+        2
+      ],
+      "caption": "Highlighted lecture points. Select Lecture diagram to compare with the original slide.",
+      "boneColors": {
+        "Capitate bone.r": "#ef91b6",
+        "Third metacarpal bone.r": "#72d7ca"
+      }
+    },
+    {
+      "topic": "chapter-2",
+      "title": "Scapula and clavicle",
+      "pages": [
+        4
+      ],
+      "pins": [
+        {
+          "target": "Scapula.r",
+          "name": "Scapula",
+          "text": "The pectoral girdle consists of the scapula and clavicle. The scapula is held in place by muscles.",
+          "at": 0.5,
+          "axis": "y",
+          "context": false,
+          "color": "#ef91b6"
+        },
+        {
+          "target": "Clavicle.r",
+          "name": "Clavicle",
+          "text": "Connects to the sternum and scapula.",
+          "at": 0.5,
+          "axis": "y",
+          "context": false,
+          "color": "#72d7ca"
+        }
+      ],
+      "focus": [
+        "Scapula.r",
+        "Clavicle.r"
+      ],
+      "view": "front",
+      "facts": [
+        3
+      ],
+      "caption": "This follows the highlighted pectoral-girdle definition on slide 4. Slide 3 uses a different grouping that also lists the humerus.",
+      "boneColors": {
+        "Scapula.r": "#ef91b6",
+        "Clavicle.r": "#72d7ca"
+      }
+    },
+    {
+      "topic": "chapter-2",
+      "title": "SC and AC joints",
+      "pages": [
+        4
+      ],
+      "pins": [
+        {
+          "target": "Clavicle.r",
+          "name": "Sternoclavicular joint (SC)",
+          "text": "Clavicle articulates with the sternum.",
+          "at": 0.95,
+          "axis": "x",
+          "context": false,
+          "color": "#72d7ca"
+        },
+        {
+          "target": "Clavicle.r",
+          "name": "Acromioclavicular joint (AC)",
+          "text": "Clavicle articulates with the scapula.",
+          "at": 0.05,
+          "axis": "x",
+          "context": false,
+          "color": "#72d7ca"
+        }
+      ],
+      "focus": [
+        "Clavicle.r",
+        "Scapula.r",
+        "Manubrium of sternum"
+      ],
+      "view": "front",
+      "facts": [
+        4
+      ],
+      "caption": "Highlighted lecture points. Select Lecture diagram to compare with the original slide.",
+      "boneColors": {
+        "Clavicle.r": "#72d7ca",
+        "Scapula.r": "#ef91b6",
+        "Manubrium of sternum": "#e5a675"
+      }
+    },
+    {
+      "topic": "chapter-2",
+      "title": "GH and scapulothoracic articulation",
+      "pages": [
+        4
+      ],
+      "pins": [
+        {
+          "target": "Humerus.r",
+          "name": "Glenohumeral joint (GH)",
+          "text": "Upper limb attaches to the pectoral girdle at the shoulder.",
+          "at": 0.95,
+          "axis": "y",
+          "context": false,
+          "color": "#f5ce70"
+        },
+        {
+          "target": "Scapula.r",
+          "name": "Scapulothoracic articulation (ST)",
+          "text": "Not a true anatomical joint: no usual union by fibrous, cartilaginous or synovial tissues.",
+          "at": 0.5,
+          "axis": "y",
+          "context": false,
+          "color": "#ef91b6"
+        }
+      ],
+      "focus": [
+        "Scapula.r",
+        "Humerus.r"
+      ],
+      "view": "front",
+      "facts": [
+        5
+      ],
+      "caption": "Callouts locate the related bone or joint region. Use the highlighted slide for fine landmarks and soft-tissue details.",
+      "diagram": {
+        "page": 4,
+        "note": "Highlighted lecture reference. The 3D callout identifies the related bone or joint region; fine structures are shown in the slide."
+      },
+      "boneColors": {
+        "Scapula.r": "#ef91b6",
+        "Humerus.r": "#f5ce70"
+      }
+    },
+    {
+      "topic": "chapter-3",
+      "title": "S-shaped with two curves",
+      "pages": [
+        5
+      ],
+      "pins": [
+        {
+          "target": "Clavicle.r",
+          "name": "Medial two-thirds",
+          "text": "Sternal portion of the S-shaped clavicle.",
+          "at": 0.8,
+          "axis": "x",
+          "color": "#72d7ca"
+        },
+        {
+          "target": "Clavicle.r",
+          "name": "Lateral one-third",
+          "text": "Acromial portion. The change between the curves is the highlighted fracture region.",
+          "at": 0.15,
+          "axis": "x",
+          "color": "#ef91b6"
+        }
+      ],
+      "focus": [
+        "Clavicle.r"
+      ],
+      "view": "front",
+      "facts": [
+        6
+      ],
+      "caption": "Colors mark educational bone regions on this model. Their boundaries are illustrative; the original slide is the detailed reference.",
+      "diagram": {
+        "page": 5,
+        "note": "Highlighted lecture reference. The 3D callout identifies the related bone or joint region; fine structures are shown in the slide."
+      },
+      "osteology": "clavicle-parts",
+      "boneColors": {
+        "Clavicle.r": "#72d7ca"
+      }
+    },
+    {
+      "topic": "chapter-3",
+      "title": "Anterior and posterior lateral borders",
+      "pages": [
+        5
+      ],
+      "pins": [
+        {
+          "target": "Clavicle.r",
+          "name": "Anterior border",
+          "text": "The lateral part is concave forward.",
+          "feature": "anterior",
+          "color": "#ef91b6"
+        },
+        {
+          "target": "Clavicle.r",
+          "name": "Posterior border",
+          "text": "The lateral part is convex.",
+          "feature": "posterior",
+          "color": "#72d7ca"
+        }
+      ],
+      "focus": [
+        "Clavicle.r"
+      ],
+      "view": "superior",
+      "facts": [
+        7
+      ],
+      "caption": "Colors mark educational bone regions on this model. Their boundaries are illustrative; the original slide is the detailed reference.",
+      "diagram": {
+        "page": 5,
+        "note": "Highlighted lecture reference. The 3D callout identifies the related bone or joint region; fine structures are shown in the slide."
+      },
+      "osteology": "clavicle-borders",
+      "boneColors": {
+        "Clavicle.r": "#72d7ca"
+      }
+    },
+    {
+      "topic": "chapter-3",
+      "title": "Superior and inferior surfaces",
+      "pages": [
+        5
+      ],
+      "pins": [
+        {
+          "target": "Clavicle.r",
+          "name": "Superior surface",
+          "text": "Smooth superior surface.",
+          "at": 0.65,
+          "color": "#f5ce70"
+        },
+        {
+          "target": "Clavicle.r",
+          "name": "Inferior surface",
+          "text": "Rough inferior surface with attachment landmarks.",
+          "at": 0.35,
+          "color": "#7eb1f7"
+        }
+      ],
+      "focus": [
+        "Clavicle.r"
+      ],
+      "view": "superior",
+      "facts": [
+        8
+      ],
+      "caption": "Colors mark educational bone regions on this model. Their boundaries are illustrative; the original slide is the detailed reference.",
+      "diagram": {
+        "page": 5,
+        "note": "Highlighted lecture reference. The 3D callout identifies the related bone or joint region; fine structures are shown in the slide."
+      },
+      "osteology": "clavicle-surfaces",
+      "boneColors": {
+        "Clavicle.r": "#72d7ca"
+      }
+    },
+    {
+      "topic": "chapter-3",
+      "title": "Fracture and stability",
+      "pages": [
+        5
+      ],
+      "pins": [
+        {
+          "target": "Clavicle.r",
+          "name": "Junction of the curves",
+          "text": "Highlighted fracture site.",
+          "at": 0.5,
+          "axis": "y",
+          "context": false,
+          "color": "#72d7ca"
+        },
+        {
+          "target": "Clavicle.r",
+          "name": "Attached ligaments",
+          "text": "Stabilize the position of the clavicle.",
+          "at": 0.5,
+          "axis": "y",
+          "context": false,
+          "color": "#72d7ca"
+        }
+      ],
+      "focus": [
+        "Clavicle.r"
+      ],
+      "view": "front",
+      "facts": [
+        9
+      ],
+      "caption": "Callouts locate the related bone or joint region. Use the highlighted slide for fine landmarks and soft-tissue details.",
+      "diagram": {
+        "page": 5,
+        "note": "Highlighted lecture reference. The 3D callout identifies the related bone or joint region; fine structures are shown in the slide."
+      },
+      "boneColors": {
+        "Clavicle.r": "#72d7ca"
+      }
+    },
+    {
+      "topic": "chapter-3",
+      "title": "Lateral clavicle attachments",
+      "pages": [
+        6
+      ],
+      "pins": [
+        {
+          "target": "Clavicular part of deltoid muscle.r",
+          "name": "Deltoid",
+          "text": "Superior surface and anterior border, on the lateral third.",
+          "at": 0.15,
+          "axis": "x",
+          "context": false,
+          "color": "#ef91b6"
+        },
+        {
+          "target": "Transverse part of trapezius muscle.r",
+          "name": "Trapezius",
+          "text": "Superior surface, posteriorly on the lateral third.",
+          "at": 0.2,
+          "axis": "x",
+          "context": false,
+          "color": "#72d7ca"
+        }
+      ],
+      "focus": [
+        "Clavicle.r"
+      ],
+      "view": "front",
+      "facts": [
+        10
+      ],
+      "caption": "Colored muscles retain their anatomical model positions. Compare their bone attachments with the highlighted lecture diagram.",
+      "diagram": {
+        "page": 6,
+        "note": "Highlighted lecture reference. The 3D callout identifies the related bone or joint region; fine structures are shown in the slide."
+      },
+      "context": [
+        "Clavicular part of deltoid muscle.r",
+        "Transverse part of trapezius muscle.r"
+      ],
+      "muscleFocus": [
+        "Clavicular part of deltoid muscle.r",
+        "Transverse part of trapezius muscle.r"
+      ],
+      "boneColors": {
+        "Clavicle.r": "#72d7ca"
+      }
+    },
+    {
+      "topic": "chapter-3",
+      "title": "Inferior clavicle attachments",
+      "pages": [
+        6
+      ],
+      "pins": [
+        {
+          "target": "Subclavius muscle.r",
+          "name": "Subclavius",
+          "text": "Subclavian groove on the inferior surface.",
+          "at": 0.5,
+          "axis": "y",
+          "context": false,
+          "color": "#ef91b6"
+        },
+        {
+          "target": "Clavicle.r",
+          "name": "Conoid ligament",
+          "text": "Medial part of the coracoclavicular ligament; conoid tubercle.",
+          "at": 0.5,
+          "axis": "y",
+          "context": false,
+          "color": "#72d7ca"
+        },
+        {
+          "target": "Clavicle.r",
+          "name": "Trapezoid ligament",
+          "text": "Lateral part of the coracoclavicular ligament; trapezoid line.",
+          "at": 0.5,
+          "axis": "y",
+          "context": false,
+          "color": "#72d7ca"
+        }
+      ],
+      "focus": [
+        "Clavicle.r"
+      ],
+      "view": "front",
+      "facts": [
+        11
+      ],
+      "caption": "Colored muscles retain their anatomical model positions. Compare their bone attachments with the highlighted lecture diagram.",
+      "diagram": {
+        "page": 6,
+        "note": "Highlighted lecture reference. The 3D callout identifies the related bone or joint region; fine structures are shown in the slide."
+      },
+      "context": [
+        "Subclavius muscle.r"
+      ],
+      "muscleFocus": [
+        "Subclavius muscle.r"
+      ],
+      "boneColors": {
+        "Clavicle.r": "#72d7ca"
+      }
+    },
+    {
+      "topic": "chapter-3",
+      "title": "Medial clavicle attachments",
+      "pages": [
+        6
+      ],
+      "pins": [
+        {
+          "target": "Clavicular head of pectoralis major muscle.r",
+          "name": "Pectoralis major",
+          "text": "Anterior border of the medial third (rounded border).",
+          "at": 0.8,
+          "axis": "x",
+          "context": false,
+          "color": "#ef91b6"
+        },
+        {
+          "target": "Sternocleidomastoid muscle.r",
+          "name": "Sternocleidomastoid",
+          "text": "Clavicular head: superiorly on the medial third.",
+          "at": 0.85,
+          "axis": "x",
+          "context": false,
+          "color": "#72d7ca"
+        },
+        {
+          "target": "Sternohyoid muscle.r",
+          "name": "Sternohyoid",
+          "text": "Inferiorly on the medial third.",
+          "at": 0.9,
+          "axis": "x",
+          "context": false,
+          "color": "#f5ce70"
+        }
+      ],
+      "focus": [
+        "Clavicle.r"
+      ],
+      "view": "front",
+      "facts": [
+        12
+      ],
+      "caption": "Colored muscles retain their anatomical model positions. Compare their bone attachments with the highlighted lecture diagram.",
+      "diagram": {
+        "page": 6,
+        "note": "Highlighted lecture reference. The 3D callout identifies the related bone or joint region; fine structures are shown in the slide."
+      },
+      "context": [
+        "Clavicular head of pectoralis major muscle.r",
+        "Sternocleidomastoid muscle.r",
+        "Sternohyoid muscle.r"
+      ],
+      "muscleFocus": [
+        "Clavicular head of pectoralis major muscle.r",
+        "Sternocleidomastoid muscle.r",
+        "Sternohyoid muscle.r"
+      ],
+      "boneColors": {
+        "Clavicle.r": "#72d7ca"
+      }
+    },
+    {
+      "topic": "chapter-3",
+      "title": "Clavicular ends and position",
+      "pages": [
+        5
+      ],
+      "pins": [
+        {
+          "target": "Clavicle.r",
+          "name": "Sternal and acromial ends",
+          "text": "The clavicle extends from the sternum to the scapula above the first rib.",
+          "color": "#72d7ca"
+        }
+      ],
+      "focus": [
+        "Clavicle.r"
+      ],
+      "view": "superior",
+      "facts": [
+        13
+      ],
+      "caption": "Callouts locate the related bone or joint region. Use the highlighted slide for fine landmarks and soft-tissue details.",
+      "diagram": {
+        "page": 5,
+        "note": "Highlighted lecture reference. The 3D callout identifies the related bone or joint region; fine structures are shown in the slide."
+      },
+      "boneColors": {
+        "Clavicle.r": "#72d7ca"
+      }
+    },
+    {
+      "topic": "chapter-4",
+      "title": "Scapular angles and anterior fossa",
+      "pages": [
+        8
+      ],
+      "pins": [
+        {
+          "target": "Scapula.r",
+          "name": "Superior angle",
+          "text": "Superior meeting point of the medial and superior borders.",
+          "point": [
+            -0.086,
+            1.407,
+            -0.09
+          ],
+          "color": "#ef91b6"
+        },
+        {
+          "target": "Scapula.r",
+          "name": "Inferior angle",
+          "text": "Inferior meeting point of the medial and lateral borders.",
+          "point": [
+            -0.098,
+            1.256,
+            -0.107
+          ],
+          "color": "#ef91b6"
+        },
+        {
+          "target": "Scapula.r",
+          "name": "Subscapular fossa",
+          "text": "The anterior surface has one fossa.",
+          "point": [
+            -0.11,
+            1.34,
+            -0.068
+          ],
+          "color": "#ef91b6"
+        }
+      ],
+      "focus": [
+        "Scapula.r"
+      ],
+      "view": "front",
+      "facts": [
+        14
+      ],
+      "caption": "Callouts locate the related bone or joint region. Use the highlighted slide for fine landmarks and soft-tissue details.",
+      "diagram": {
+        "page": 8,
+        "note": "Highlighted lecture reference. The 3D callout identifies the related bone or joint region; fine structures are shown in the slide."
+      },
+      "boneColors": {
+        "Scapula.r": "#ef91b6"
+      }
+    },
+    {
+      "topic": "chapter-4",
+      "title": "Trace the three scapular borders",
+      "pages": [
+        8
+      ],
+      "pins": [
+        {
+          "target": "Scapula.r",
+          "name": "Superior border",
+          "text": "The upper border; the scapular notch lies along it.",
+          "feature": "superior",
+          "color": "#ef91b6"
+        },
+        {
+          "target": "Scapula.r",
+          "name": "Medial (vertebral) border",
+          "text": "The border closest to the vertebral column.",
+          "feature": "medial",
+          "color": "#72d7ca"
+        },
+        {
+          "target": "Scapula.r",
+          "name": "Lateral (axillary) border",
+          "text": "Runs toward the glenoid region on the lateral side.",
+          "feature": "lateral",
+          "color": "#f5ce70"
+        }
+      ],
+      "focus": [
+        "Scapula.r"
+      ],
+      "view": "back",
+      "facts": [
+        15
+      ],
+      "caption": "Colors mark educational bone regions on this model. Their boundaries are illustrative; the original slide is the detailed reference.",
+      "diagram": {
+        "page": 8,
+        "note": "Highlighted lecture reference. The 3D callout identifies the related bone or joint region; fine structures are shown in the slide."
+      },
+      "osteology": "scapular-borders",
+      "boneColors": {
+        "Scapula.r": "#ef91b6"
+      }
+    },
+    {
+      "topic": "chapter-4",
+      "title": "Notch, coracoid and glenoid",
+      "pages": [
+        8
+      ],
+      "pins": [
+        {
+          "target": "Scapula.r",
+          "name": "Scapular notch",
+          "text": "Highlighted notch on the superior border.",
+          "at": 0.85,
+          "axis": "y",
+          "context": false,
+          "color": "#ef91b6"
+        },
+        {
+          "target": "Scapula.r",
+          "name": "Coracoid process",
+          "text": "Highlighted anterior projection.",
+          "at": 0.85,
+          "axis": "y",
+          "context": false,
+          "color": "#ef91b6"
+        },
+        {
+          "target": "Scapula.r",
+          "name": "Glenoid cavity",
+          "text": "Highlighted articular cavity on the lateral aspect.",
+          "at": 0.7,
+          "axis": "y",
+          "context": false,
+          "color": "#ef91b6"
+        }
+      ],
+      "focus": [
+        "Scapula.r"
+      ],
+      "view": "front",
+      "facts": [
+        16
+      ],
+      "caption": "Callouts locate the related bone or joint region. Use the highlighted slide for fine landmarks and soft-tissue details.",
+      "diagram": {
+        "page": 8,
+        "note": "Highlighted lecture reference. The 3D callout identifies the related bone or joint region; fine structures are shown in the slide."
+      },
+      "boneColors": {
+        "Scapula.r": "#ef91b6"
+      }
+    },
+    {
+      "topic": "chapter-4",
+      "title": "Posterior fossae and spine",
+      "pages": [
+        9
+      ],
+      "pins": [
+        {
+          "target": "Scapula.r",
+          "name": "Supraspinous and infraspinous fossae",
+          "text": "Two fossae on the posterior surface.",
+          "at": 0.5,
+          "axis": "y",
+          "context": false,
+          "color": "#ef91b6"
+        },
+        {
+          "target": "Scapula.r",
+          "name": "Scapular spine and acromion",
+          "text": "The spine continues to the acromion.",
+          "at": 0.8,
+          "axis": "y",
+          "context": false,
+          "color": "#ef91b6"
+        }
+      ],
+      "focus": [
+        "Scapula.r"
+      ],
+      "view": "back",
+      "facts": [
+        17
+      ],
+      "caption": "Callouts locate the related bone or joint region. Use the highlighted slide for fine landmarks and soft-tissue details.",
+      "diagram": {
+        "page": 9,
+        "note": "Highlighted lecture reference. The 3D callout identifies the related bone or joint region; fine structures are shown in the slide."
+      },
+      "boneColors": {
+        "Scapula.r": "#ef91b6"
+      }
+    },
+    {
+      "topic": "chapter-4",
+      "title": "Glenoid tubercles",
+      "pages": [
+        9
+      ],
+      "pins": [
+        {
+          "target": "Scapula.r",
+          "name": "Supraglenoid tubercle",
+          "text": "Highlighted above the glenoid cavity.",
+          "at": 0.8,
+          "axis": "y",
+          "context": false,
+          "color": "#ef91b6"
+        },
+        {
+          "target": "Scapula.r",
+          "name": "Infraglenoid tubercle",
+          "text": "Highlighted below the glenoid cavity.",
+          "at": 0.6,
+          "axis": "y",
+          "context": false,
+          "color": "#ef91b6"
+        }
+      ],
+      "focus": [
+        "Scapula.r"
+      ],
+      "view": "front",
+      "facts": [
+        18
+      ],
+      "caption": "Callouts locate the related bone or joint region. Use the highlighted slide for fine landmarks and soft-tissue details.",
+      "diagram": {
+        "page": 9,
+        "note": "Highlighted lecture reference. The 3D callout identifies the related bone or joint region; fine structures are shown in the slide."
+      },
+      "boneColors": {
+        "Scapula.r": "#ef91b6"
+      }
+    },
+    {
+      "topic": "chapter-4",
+      "title": "Colored anterior scapular attachments",
+      "pages": [
+        10
+      ],
+      "pins": [
+        {
+          "target": "Pectoralis minor muscle.r",
+          "name": "Coracoid region",
+          "text": "Pectoralis minor; coracobrachialis and short head of biceps.",
+          "at": 0.8,
+          "axis": "y",
+          "context": false,
+          "color": "#ef91b6"
+        },
+        {
+          "target": "Subscapularis muscle.r",
+          "name": "Subscapularis and serratus anterior",
+          "text": "Colored attachment areas on the anterior scapula.",
+          "at": 0.5,
+          "axis": "y",
+          "context": false,
+          "color": "#72d7ca"
+        },
+        {
+          "target": "Long head of triceps brachii.r",
+          "name": "Omohyoid and long head of triceps",
+          "text": "Highlighted attachment labels on the diagram.",
+          "at": 0.5,
+          "axis": "y",
+          "context": false,
+          "color": "#f5ce70"
+        }
+      ],
+      "focus": [
+        "Scapula.r"
+      ],
+      "view": "front",
+      "facts": [
+        19
+      ],
+      "caption": "Colored muscles retain their anatomical model positions. Compare their bone attachments with the highlighted lecture diagram.",
+      "diagram": {
+        "page": 10,
+        "note": "Highlighted lecture reference. The 3D callout identifies the related bone or joint region; fine structures are shown in the slide."
+      },
+      "context": [
+        "Pectoralis minor muscle.r",
+        "Coracobrachialis muscle.r",
+        "Short head of biceps brachii.r",
+        "Subscapularis muscle.r",
+        "Serratus anterior muscle.r",
+        "Long head of triceps brachii.r",
+        "Omohyoid muscle.r"
+      ],
+      "muscleFocus": [
+        "Pectoralis minor muscle.r",
+        "Coracobrachialis muscle.r",
+        "Short head of biceps brachii.r",
+        "Subscapularis muscle.r",
+        "Serratus anterior muscle.r",
+        "Long head of triceps brachii.r",
+        "Omohyoid muscle.r"
+      ],
+      "boneColors": {
+        "Scapula.r": "#ef91b6"
+      }
+    },
+    {
+      "topic": "chapter-4",
+      "title": "Colored posterior scapular attachments",
+      "pages": [
+        10
+      ],
+      "pins": [
+        {
+          "target": "Supraspinatus muscle.r",
+          "name": "Supraspinatus and infraspinatus",
+          "text": "Colored attachment regions in the posterior fossae.",
+          "at": 0.5,
+          "axis": "y",
+          "context": false,
+          "color": "#ef91b6"
+        },
+        {
+          "target": "Scapular spinal part of deltoid muscle.r",
+          "name": "Deltoid and trapezius",
+          "text": "Highlighted on the spine/acromial region.",
+          "at": 0.8,
+          "axis": "y",
+          "context": false,
+          "color": "#72d7ca"
+        },
+        {
+          "target": "Levator scapulae.r",
+          "name": "Levator scapulae and rhomboids",
+          "text": "Levator scapulae, rhomboid minor and rhomboid major are marked along the medial border.",
+          "at": 0.5,
+          "axis": "y",
+          "context": false,
+          "color": "#f5ce70"
+        }
+      ],
+      "focus": [
+        "Scapula.r"
+      ],
+      "view": "back",
+      "facts": [
+        20
+      ],
+      "caption": "Colored muscles retain their anatomical model positions. Compare their bone attachments with the highlighted lecture diagram.",
+      "diagram": {
+        "page": 10,
+        "note": "Highlighted lecture reference. The 3D callout identifies the related bone or joint region; fine structures are shown in the slide."
+      },
+      "context": [
+        "Supraspinatus muscle.r",
+        "Infraspinatus muscle.r",
+        "Scapular spinal part of deltoid muscle.r",
+        "Transverse part of trapezius muscle.r",
+        "Levator scapulae.r",
+        "Rhomboid minor muscle.r",
+        "Rhomboid major muscle.r"
+      ],
+      "muscleFocus": [
+        "Supraspinatus muscle.r",
+        "Infraspinatus muscle.r",
+        "Scapular spinal part of deltoid muscle.r",
+        "Transverse part of trapezius muscle.r",
+        "Levator scapulae.r",
+        "Rhomboid minor muscle.r",
+        "Rhomboid major muscle.r"
+      ],
+      "boneColors": {
+        "Scapula.r": "#ef91b6"
+      }
+    },
+    {
+      "topic": "chapter-4",
+      "title": "Inferior and lateral scapular attachments",
+      "pages": [
+        10
+      ],
+      "pins": [
+        {
+          "target": "Teres minor muscle.r",
+          "name": "Teres minor and teres major",
+          "text": "Highlighted along the lateral/inferior scapula.",
+          "at": 0.3,
+          "axis": "y",
+          "context": false,
+          "color": "#ef91b6"
+        },
+        {
+          "target": "Latissimus dorsi muscle.r",
+          "name": "Latissimus dorsi",
+          "text": "Highlighted at the inferior region.",
+          "at": 0.05,
+          "axis": "y",
+          "context": false,
+          "color": "#ef91b6"
+        }
+      ],
+      "focus": [
+        "Scapula.r"
+      ],
+      "view": "back",
+      "facts": [
+        21
+      ],
+      "caption": "Colored muscles retain their anatomical model positions. Compare their bone attachments with the highlighted lecture diagram.",
+      "diagram": {
+        "page": 10,
+        "note": "Highlighted lecture reference. The 3D callout identifies the related bone or joint region; fine structures are shown in the slide."
+      },
+      "context": [
+        "Teres minor muscle.r",
+        "Teres major muscle.r",
+        "Latissimus dorsi muscle.r"
+      ],
+      "muscleFocus": [
+        "Teres minor muscle.r",
+        "Teres major muscle.r",
+        "Latissimus dorsi muscle.r"
+      ],
+      "boneColors": {
+        "Scapula.r": "#ef91b6"
+      }
+    },
+    {
+      "topic": "chapter-5",
+      "title": "Head, neck and tubercles",
+      "pages": [
+        11
+      ],
+      "pins": [
+        {
+          "target": "Humerus.r",
+          "name": "Head and anatomical neck",
+          "text": "Highlighted proximal landmarks.",
+          "at": 0.95,
+          "axis": "y",
+          "context": false,
+          "color": "#f5ce70"
+        },
+        {
+          "target": "Humerus.r",
+          "name": "Greater and lesser tubercles",
+          "text": "Sites for muscle attachments.",
+          "at": 0.85,
+          "axis": "y",
+          "context": false,
+          "color": "#f5ce70"
+        },
+        {
+          "target": "Humerus.r",
+          "name": "Intertubercular sulcus",
+          "text": "Also called the bicipital groove.",
+          "at": 0.82,
+          "axis": "y",
+          "context": false,
+          "color": "#f5ce70"
+        }
+      ],
+      "focus": [
+        "Humerus.r"
+      ],
+      "view": "front",
+      "facts": [
+        22
+      ],
+      "caption": "Callouts locate the related bone or joint region. Use the highlighted slide for fine landmarks and soft-tissue details.",
+      "diagram": {
+        "page": 11,
+        "note": "Highlighted lecture reference. The 3D callout identifies the related bone or joint region; fine structures are shown in the slide."
+      },
+      "boneColors": {
+        "Humerus.r": "#f5ce70"
+      }
+    },
+    {
+      "topic": "chapter-5",
+      "title": "Surgical neck and shaft",
+      "pages": [
+        11
+      ],
+      "pins": [
+        {
+          "target": "Humerus.r",
+          "name": "Surgical neck",
+          "text": "Highlighted fracture site.",
+          "at": 0.8,
+          "axis": "y",
+          "context": false,
+          "color": "#f5ce70"
+        },
+        {
+          "target": "Humerus.r",
+          "name": "Deltoid tuberosity",
+          "text": "Highlighted shaft landmark.",
+          "at": 0.5,
+          "axis": "y",
+          "context": false,
+          "color": "#f5ce70"
+        },
+        {
+          "target": "Humerus.r",
+          "name": "Radial groove",
+          "text": "Highlighted shaft landmark.",
+          "at": 0.45,
+          "axis": "y",
+          "context": false,
+          "color": "#f5ce70"
+        }
+      ],
+      "focus": [
+        "Humerus.r"
+      ],
+      "view": "front",
+      "facts": [
+        23
+      ],
+      "caption": "Callouts locate the related bone or joint region. Use the highlighted slide for fine landmarks and soft-tissue details.",
+      "diagram": {
+        "page": 11,
+        "note": "Highlighted lecture reference. The 3D callout identifies the related bone or joint region; fine structures are shown in the slide."
+      },
+      "boneColors": {
+        "Humerus.r": "#f5ce70"
+      }
+    },
+    {
+      "topic": "chapter-5",
+      "title": "Elbow articulations",
+      "pages": [
+        11
+      ],
+      "pins": [
+        {
+          "target": "Humerus.r",
+          "name": "Capitulum",
+          "text": "Articulates with the head of the radius.",
+          "at": 0.05,
+          "axis": "y",
+          "context": false,
+          "color": "#f5ce70"
+        },
+        {
+          "target": "Humerus.r",
+          "name": "Trochlea",
+          "text": "Articulates with the ulna.",
+          "at": 0.05,
+          "axis": "y",
+          "context": false,
+          "color": "#f5ce70"
+        }
+      ],
+      "focus": [
+        "Humerus.r",
+        "Ulna.r",
+        "Radius.r"
+      ],
+      "view": "front",
+      "facts": [
+        24
+      ],
+      "caption": "Callouts locate the related bone or joint region. Use the highlighted slide for fine landmarks and soft-tissue details.",
+      "diagram": {
+        "page": 11,
+        "note": "Highlighted lecture reference. The 3D callout identifies the related bone or joint region; fine structures are shown in the slide."
+      },
+      "boneColors": {
+        "Humerus.r": "#f5ce70",
+        "Ulna.r": "#b99aef",
+        "Radius.r": "#7eb1f7"
+      }
+    },
+    {
+      "topic": "chapter-5",
+      "title": "Distal humeral landmarks",
+      "pages": [
+        11
+      ],
+      "pins": [
+        {
+          "target": "Humerus.r",
+          "name": "Olecranon fossa",
+          "text": "Posterior depression for the olecranon process of the ulna.",
+          "at": 0.08,
+          "axis": "y",
+          "context": false,
+          "color": "#f5ce70"
+        },
+        {
+          "target": "Humerus.r",
+          "name": "Medial and lateral epicondyles",
+          "text": "Attachments for forearm muscles.",
+          "at": 0.05,
+          "axis": "y",
+          "context": false,
+          "color": "#f5ce70"
+        }
+      ],
+      "focus": [
+        "Humerus.r"
+      ],
+      "view": "back",
+      "facts": [
+        25
+      ],
+      "caption": "Callouts locate the related bone or joint region. Use the highlighted slide for fine landmarks and soft-tissue details.",
+      "diagram": {
+        "page": 11,
+        "note": "Highlighted lecture reference. The 3D callout identifies the related bone or joint region; fine structures are shown in the slide."
+      },
+      "boneColors": {
+        "Humerus.r": "#f5ce70"
+      }
+    },
+    {
+      "topic": "chapter-5",
+      "title": "Colored proximal humeral attachments",
+      "pages": [
+        12
+      ],
+      "pins": [
+        {
+          "target": "Subscapularis muscle.r",
+          "name": "Subscapularis",
+          "text": "Colored proximal attachment on the lecture diagram.",
+          "at": 0.9,
+          "axis": "y",
+          "context": false,
+          "color": "#ef91b6"
+        },
+        {
+          "target": "Teres major muscle.r",
+          "name": "Latissimus dorsi, teres major and pectoralis major",
+          "text": "Colored attachment regions around the proximal humerus.",
+          "at": 0.75,
+          "axis": "y",
+          "context": false,
+          "color": "#72d7ca"
+        }
+      ],
+      "focus": [
+        "Humerus.r"
+      ],
+      "view": "front",
+      "facts": [
+        26
+      ],
+      "caption": "Colored muscles retain their anatomical model positions. Compare their bone attachments with the highlighted lecture diagram.",
+      "diagram": {
+        "page": 12,
+        "note": "Highlighted lecture reference. The 3D callout identifies the related bone or joint region; fine structures are shown in the slide."
+      },
+      "context": [
+        "Subscapularis muscle.r",
+        "Teres major muscle.r",
+        "Clavicular head of pectoralis major muscle.r",
+        "Latissimus dorsi muscle.r"
+      ],
+      "muscleFocus": [
+        "Subscapularis muscle.r",
+        "Teres major muscle.r",
+        "Clavicular head of pectoralis major muscle.r",
+        "Latissimus dorsi muscle.r"
+      ],
+      "boneColors": {
+        "Humerus.r": "#f5ce70"
+      }
+    },
+    {
+      "topic": "chapter-5",
+      "title": "Colored shaft attachments",
+      "pages": [
+        12
+      ],
+      "pins": [
+        {
+          "target": "Acromial part of deltoid muscle.r",
+          "name": "Deltoid and coracobrachialis",
+          "text": "Highlighted attachment labels on the shaft.",
+          "at": 0.5,
+          "axis": "y",
+          "context": false,
+          "color": "#ef91b6"
+        },
+        {
+          "target": "Brachialis muscle.r",
+          "name": "Brachialis",
+          "text": "Highlighted anterior shaft attachment.",
+          "at": 0.3,
+          "axis": "y",
+          "context": false,
+          "color": "#72d7ca"
+        },
+        {
+          "target": "Lateral head of triceps brachii.r",
+          "name": "Triceps brachii",
+          "text": "Highlighted lateral and medial head attachment regions.",
+          "at": 0.45,
+          "axis": "y",
+          "context": false,
+          "color": "#f5ce70"
+        }
+      ],
+      "focus": [
+        "Humerus.r"
+      ],
+      "view": "front",
+      "facts": [
+        27
+      ],
+      "caption": "Colored muscles retain their anatomical model positions. Compare their bone attachments with the highlighted lecture diagram.",
+      "diagram": {
+        "page": 12,
+        "note": "Highlighted lecture reference. The 3D callout identifies the related bone or joint region; fine structures are shown in the slide."
+      },
+      "context": [
+        "Acromial part of deltoid muscle.r",
+        "Coracobrachialis muscle.r",
+        "Brachialis muscle.r",
+        "Lateral head of triceps brachii.r",
+        "Medial head of triceps brachii.r"
+      ],
+      "muscleFocus": [
+        "Acromial part of deltoid muscle.r",
+        "Coracobrachialis muscle.r",
+        "Brachialis muscle.r",
+        "Lateral head of triceps brachii.r",
+        "Medial head of triceps brachii.r"
+      ],
+      "boneColors": {
+        "Humerus.r": "#f5ce70"
+      }
+    },
+    {
+      "topic": "chapter-6",
+      "title": "Medial forearm bone and proximal notches",
+      "pages": [
+        15
+      ],
+      "pins": [
+        {
+          "target": "Ulna.r",
+          "name": "Ulna",
+          "text": "Medial forearm bone.",
+          "at": 0.5,
+          "axis": "y",
+          "context": false,
+          "color": "#b99aef"
+        },
+        {
+          "target": "Ulna.r",
+          "name": "Trochlear notch",
+          "text": "Articulates with the humerus.",
+          "at": 0.95,
+          "axis": "y",
+          "context": false,
+          "color": "#b99aef"
+        },
+        {
+          "target": "Ulna.r",
+          "name": "Radial notch",
+          "text": "Articulates with the radius.",
+          "at": 0.9,
+          "axis": "y",
+          "context": false,
+          "color": "#b99aef"
+        }
+      ],
+      "focus": [
+        "Ulna.r"
+      ],
+      "view": "front",
+      "facts": [
+        28
+      ],
+      "caption": "Callouts locate the related bone or joint region. Use the highlighted slide for fine landmarks and soft-tissue details.",
+      "diagram": {
+        "page": 15,
+        "note": "Highlighted lecture reference. The 3D callout identifies the related bone or joint region; fine structures are shown in the slide."
+      },
+      "boneColors": {
+        "Ulna.r": "#b99aef"
+      }
+    },
+    {
+      "topic": "chapter-6",
+      "title": "Olecranon and supinator landmarks",
+      "pages": [
+        15
+      ],
+      "pins": [
+        {
+          "target": "Ulna.r",
+          "name": "Olecranon process",
+          "text": "Forms the point of the elbow.",
+          "at": 0.98,
+          "axis": "y",
+          "context": false,
+          "color": "#b99aef"
+        },
+        {
+          "target": "Ulna.r",
+          "name": "Supinator crest and fossa",
+          "text": "Highlighted proximal landmarks.",
+          "at": 0.8,
+          "axis": "y",
+          "context": false,
+          "color": "#b99aef"
+        }
+      ],
+      "focus": [
+        "Ulna.r"
+      ],
+      "view": "front",
+      "facts": [
+        29
+      ],
+      "caption": "Callouts locate the related bone or joint region. Use the highlighted slide for fine landmarks and soft-tissue details.",
+      "diagram": {
+        "page": 15,
+        "note": "Highlighted lecture reference. The 3D callout identifies the related bone or joint region; fine structures are shown in the slide."
+      },
+      "boneColors": {
+        "Ulna.r": "#b99aef"
+      }
+    },
+    {
+      "topic": "chapter-6",
+      "title": "Distal ulna",
+      "pages": [
+        15
+      ],
+      "pins": [
+        {
+          "target": "Ulna.r",
+          "name": "Styloid process",
+          "text": "Highlighted distal landmark.",
+          "at": 0.02,
+          "axis": "y",
+          "context": false,
+          "color": "#b99aef"
+        }
+      ],
+      "focus": [
+        "Ulna.r"
+      ],
+      "view": "front",
+      "facts": [
+        30
+      ],
+      "caption": "Callouts locate the related bone or joint region. Use the highlighted slide for fine landmarks and soft-tissue details.",
+      "diagram": {
+        "page": 15,
+        "note": "Highlighted lecture reference. The 3D callout identifies the related bone or joint region; fine structures are shown in the slide."
+      },
+      "boneColors": {
+        "Ulna.r": "#b99aef"
+      }
+    },
+    {
+      "topic": "chapter-6",
+      "title": "Ulna and the wrist disc",
+      "pages": [
+        15
+      ],
+      "pins": [
+        {
+          "target": "Ulna.r",
+          "name": "Distal ulna",
+          "text": "The head is separated from the wrist joint by a fibrocartilage disc.",
+          "color": "#b99aef"
+        }
+      ],
+      "focus": [
+        "Ulna.r"
+      ],
+      "view": "front",
+      "facts": [
+        31
+      ],
+      "caption": "Callouts locate the related bone or joint region. Use the highlighted slide for fine landmarks and soft-tissue details.",
+      "diagram": {
+        "page": 15,
+        "note": "Highlighted lecture reference. The 3D callout identifies the related bone or joint region; fine structures are shown in the slide."
+      },
+      "boneColors": {
+        "Ulna.r": "#b99aef"
+      }
+    },
+    {
+      "topic": "chapter-7",
+      "title": "Lateral forearm bone and radial head",
+      "pages": [
+        16
+      ],
+      "pins": [
+        {
+          "target": "Radius.r",
+          "name": "Radius",
+          "text": "Lateral forearm bone.",
+          "at": 0.5,
+          "axis": "y",
+          "context": false,
+          "color": "#7eb1f7"
+        },
+        {
+          "target": "Radius.r",
+          "name": "Head of radius",
+          "text": "Articulates with the humeral capitulum and the radial notch of the ulna.",
+          "at": 0.96,
+          "axis": "y",
+          "context": false,
+          "color": "#7eb1f7"
+        }
+      ],
+      "focus": [
+        "Radius.r"
+      ],
+      "view": "front",
+      "facts": [
+        32
+      ],
+      "caption": "Callouts locate the related bone or joint region. Use the highlighted slide for fine landmarks and soft-tissue details.",
+      "diagram": {
+        "page": 16,
+        "note": "Highlighted lecture reference. The 3D callout identifies the related bone or joint region; fine structures are shown in the slide."
+      },
+      "boneColors": {
+        "Radius.r": "#7eb1f7"
+      }
+    },
+    {
+      "topic": "chapter-7",
+      "title": "Radial tuberosity and distal relations",
+      "pages": [
+        16
+      ],
+      "pins": [
+        {
+          "target": "Radius.r",
+          "name": "Radial tuberosity",
+          "text": "Muscle attachment site.",
+          "at": 0.8,
+          "axis": "y",
+          "context": false,
+          "color": "#7eb1f7"
+        },
+        {
+          "target": "Radius.r",
+          "name": "Distal radioulnar joint",
+          "text": "Articulation with the head of the ulna.",
+          "at": 0.05,
+          "axis": "y",
+          "context": false,
+          "color": "#7eb1f7"
+        },
+        {
+          "target": "Radius.r",
+          "name": "Dorsal tubercle",
+          "text": "Highlighted distal radius landmark.",
+          "at": 0.08,
+          "axis": "y",
+          "context": false,
+          "color": "#7eb1f7"
+        }
+      ],
+      "focus": [
+        "Radius.r"
+      ],
+      "view": "front",
+      "facts": [
+        33
+      ],
+      "caption": "Callouts locate the related bone or joint region. Use the highlighted slide for fine landmarks and soft-tissue details.",
+      "diagram": {
+        "page": 16,
+        "note": "Highlighted lecture reference. The 3D callout identifies the related bone or joint region; fine structures are shown in the slide."
+      },
+      "boneColors": {
+        "Radius.r": "#7eb1f7"
+      }
+    },
+    {
+      "topic": "chapter-7",
+      "title": "Radius and the wrist",
+      "pages": [
+        16
+      ],
+      "pins": [
+        {
+          "target": "Radius.r",
+          "name": "Wrist articulation",
+          "text": "The highlighted slide lists scaphoid, lunate and triquetrum. Slide 30 shows the radius and articular disc above this carpal row.",
+          "at": 0.05,
+          "axis": "y",
+          "context": false,
+          "color": "#7eb1f7"
+        }
+      ],
+      "focus": [
+        "Radius.r",
+        "Scaphoid bone.r",
+        "Lunate bone.r",
+        "Triquetrum bone.r"
+      ],
+      "view": "front",
+      "facts": [
+        34
+      ],
+      "caption": "Callouts locate the related bone or joint region. Use the highlighted slide for fine landmarks and soft-tissue details.",
+      "diagram": {
+        "page": 16,
+        "note": "Highlighted lecture reference. The 3D callout identifies the related bone or joint region; fine structures are shown in the slide."
+      },
+      "boneColors": {
+        "Radius.r": "#7eb1f7",
+        "Scaphoid bone.r": "#72d7ca",
+        "Lunate bone.r": "#f5ce70",
+        "Triquetrum bone.r": "#7eb1f7"
+      }
+    },
+    {
+      "topic": "chapter-8",
+      "title": "Proximal row: lateral to medial",
+      "pages": [
+        19
+      ],
+      "pins": [
+        {
+          "target": "Scaphoid bone.r",
+          "name": "1. Scaphoid",
+          "text": "Boat-shaped",
+          "at": 0.5,
+          "axis": "y",
+          "context": false,
+          "color": "#ef91b6"
+        },
+        {
+          "target": "Lunate bone.r",
+          "name": "2. Lunate",
+          "text": "Moon-shaped",
+          "at": 0.5,
+          "axis": "y",
+          "context": false,
+          "color": "#72d7ca"
+        },
+        {
+          "target": "Triquetrum bone.r",
+          "name": "3. Triquetrum",
+          "text": "Three corners",
+          "at": 0.5,
+          "axis": "y",
+          "context": false,
+          "color": "#f5ce70"
+        },
+        {
+          "target": "Pisiform bone.r",
+          "name": "4. Pisiform",
+          "text": "Pea-shaped",
+          "at": 0.5,
+          "axis": "y",
+          "context": false,
+          "color": "#7eb1f7"
+        }
+      ],
+      "focus": [
+        "Scaphoid bone.r",
+        "Lunate bone.r",
+        "Triquetrum bone.r",
+        "Pisiform bone.r"
+      ],
+      "view": "front",
+      "facts": [
+        35
+      ],
+      "caption": "Highlighted lecture points. Select Lecture diagram to compare with the original slide.",
+      "boneColors": {
+        "Scaphoid bone.r": "#ef91b6",
+        "Lunate bone.r": "#72d7ca",
+        "Triquetrum bone.r": "#f5ce70",
+        "Pisiform bone.r": "#7eb1f7"
+      }
+    },
+    {
+      "topic": "chapter-8",
+      "title": "Distal row: lateral to medial",
+      "pages": [
+        19
+      ],
+      "pins": [
+        {
+          "target": "Trapezium bone.r",
+          "name": "1. Trapezium",
+          "text": "Four-sided",
+          "at": 0.5,
+          "axis": "y",
+          "context": false,
+          "color": "#ef91b6"
+        },
+        {
+          "target": "Trapezoid bone.r",
+          "name": "2. Trapezoid",
+          "text": "Four-sided",
+          "at": 0.5,
+          "axis": "y",
+          "context": false,
+          "color": "#72d7ca"
+        },
+        {
+          "target": "Capitate bone.r",
+          "name": "3. Capitate",
+          "text": "Large head",
+          "at": 0.5,
+          "axis": "y",
+          "context": false,
+          "color": "#f5ce70"
+        },
+        {
+          "target": "Hamate bone.r",
+          "name": "4. Hamate",
+          "text": "Hooked process",
+          "at": 0.5,
+          "axis": "y",
+          "context": false,
+          "color": "#7eb1f7"
+        }
+      ],
+      "focus": [
+        "Trapezium bone.r",
+        "Trapezoid bone.r",
+        "Capitate bone.r",
+        "Hamate bone.r"
+      ],
+      "view": "front",
+      "facts": [
+        36
+      ],
+      "caption": "Highlighted lecture points. Select Lecture diagram to compare with the original slide.",
+      "boneColors": {
+        "Trapezium bone.r": "#ef91b6",
+        "Trapezoid bone.r": "#72d7ca",
+        "Capitate bone.r": "#f5ce70",
+        "Hamate bone.r": "#7eb1f7"
+      }
+    },
+    {
+      "topic": "chapter-9",
+      "title": "Five metacarpals",
+      "pages": [
+        20
+      ],
+      "pins": [
+        {
+          "target": "First metacarpal bone.r",
+          "name": "First metacarpal",
+          "text": "Proximal to the thumb.",
+          "at": 0.5,
+          "axis": "y",
+          "context": false,
+          "color": "#ef91b6"
+        },
+        {
+          "target": "Third metacarpal bone.r",
+          "name": "Metacarpals",
+          "text": "Five in total; each has a base, shaft and head. The knuckles are the metacarpophalangeal joints.",
+          "at": 0.5,
+          "axis": "y",
+          "context": false,
+          "color": "#f5ce70"
+        }
+      ],
+      "focus": [
+        "First metacarpal bone.r",
+        "Second metacarpal bone.r",
+        "Third metacarpal bone.r",
+        "Fourth metacarpal bone.r",
+        "Fifth metacarpal bone.r"
+      ],
+      "view": "front",
+      "facts": [
+        37
+      ],
+      "caption": "Highlighted lecture points. Select Lecture diagram to compare with the original slide.",
+      "boneColors": {
+        "First metacarpal bone.r": "#ef91b6",
+        "Second metacarpal bone.r": "#72d7ca",
+        "Third metacarpal bone.r": "#f5ce70",
+        "Fourth metacarpal bone.r": "#7eb1f7",
+        "Fifth metacarpal bone.r": "#ef91b6"
+      }
+    },
+    {
+      "topic": "chapter-9",
+      "title": "Fourteen phalanges",
+      "pages": [
+        20
+      ],
+      "pins": [
+        {
+          "target": "Proximal phalanx of second finger of hand.r",
+          "name": "Proximal phalanx",
+          "text": "Each phalanx has a base, shaft and head.",
+          "at": 0.5,
+          "axis": "y",
+          "context": false,
+          "color": "#f5ce70"
+        },
+        {
+          "target": "Middle phalanx of second finger of hand.r",
+          "name": "Middle phalanx",
+          "text": "Fingers have proximal, middle and distal phalanges.",
+          "at": 0.5,
+          "axis": "y",
+          "context": false,
+          "color": "#7eb1f7"
+        },
+        {
+          "target": "Distal phalanx of first finger of hand.r",
+          "name": "Thumb exception",
+          "text": "The thumb has no middle phalanx. There are 14 phalanges in total.",
+          "at": 0.5,
+          "axis": "y",
+          "context": false,
+          "color": "#72d7ca"
+        }
+      ],
+      "focus": [
+        "Proximal phalanx of first finger of hand.r",
+        "Distal phalanx of first finger of hand.r",
+        "Proximal phalanx of second finger of hand.r",
+        "Middle phalanx of second finger of hand.r",
+        "Distal phalanx of second finger of hand.r",
+        "Proximal phalanx of third finger of hand.r",
+        "Middle phalanx of third finger of hand.r",
+        "Distal phalanx of third finger of hand.r",
+        "Proximal phalanx of fourth finger of hand.r",
+        "Middle phalanx of fourth finger of hand.r",
+        "Distal phalanx of fourth finger of hand.r",
+        "Proximal phalanx of fifth finger of hand.r",
+        "Middle phalanx of fifth finger of hand.r",
+        "Distal phalanx of fifth finger of hand.r"
+      ],
+      "view": "front",
+      "facts": [
+        38
+      ],
+      "caption": "Highlighted lecture points. Select Lecture diagram to compare with the original slide.",
+      "boneColors": {
+        "Proximal phalanx of first finger of hand.r": "#ef91b6",
+        "Distal phalanx of first finger of hand.r": "#72d7ca",
+        "Proximal phalanx of second finger of hand.r": "#f5ce70",
+        "Middle phalanx of second finger of hand.r": "#7eb1f7",
+        "Distal phalanx of second finger of hand.r": "#ef91b6",
+        "Proximal phalanx of third finger of hand.r": "#72d7ca",
+        "Middle phalanx of third finger of hand.r": "#f5ce70",
+        "Distal phalanx of third finger of hand.r": "#7eb1f7",
+        "Proximal phalanx of fourth finger of hand.r": "#ef91b6",
+        "Middle phalanx of fourth finger of hand.r": "#72d7ca",
+        "Distal phalanx of fourth finger of hand.r": "#f5ce70",
+        "Proximal phalanx of fifth finger of hand.r": "#7eb1f7",
+        "Middle phalanx of fifth finger of hand.r": "#ef91b6",
+        "Distal phalanx of fifth finger of hand.r": "#72d7ca"
+      }
+    },
+    {
+      "topic": "chapter-10",
+      "title": "SC joint surfaces and type",
+      "pages": [
+        23
+      ],
+      "pins": [
+        {
+          "target": "Clavicle.r",
+          "name": "Sternum and clavicle",
+          "text": "Highlighted articular partners.",
+          "at": 0.95,
+          "axis": "x",
+          "context": false,
+          "color": "#72d7ca"
+        },
+        {
+          "target": "Manubrium of sternum",
+          "name": "Joint type in the lecture",
+          "text": "Described as a double-plane synovial joint.",
+          "at": 0.5,
+          "axis": "y",
+          "context": false,
+          "color": "#e5a675"
+        }
+      ],
+      "focus": [
+        "Clavicle.r",
+        "Manubrium of sternum"
+      ],
+      "view": "front",
+      "facts": [
+        39
+      ],
+      "caption": "Callouts locate the related bone or joint region. Use the highlighted slide for fine landmarks and soft-tissue details.",
+      "diagram": {
+        "page": 23,
+        "note": "Highlighted lecture reference. The 3D callout identifies the related bone or joint region; fine structures are shown in the slide."
+      },
+      "region": {
+        "target": "Clavicle.r",
+        "at": 0.95,
+        "span": 0.18,
+        "axis": "x"
+      },
+      "boneColors": {
+        "Clavicle.r": "#72d7ca",
+        "Manubrium of sternum": "#e5a675"
+      }
+    },
+    {
+      "topic": "chapter-10",
+      "title": "SC movement",
+      "pages": [
+        23
+      ],
+      "pins": [
+        {
+          "target": "Clavicle.r",
+          "name": "Medial part",
+          "text": "Forward and backward movement.",
+          "at": 0.9,
+          "axis": "x",
+          "context": false,
+          "color": "#72d7ca"
+        },
+        {
+          "target": "Clavicle.r",
+          "name": "Lateral part",
+          "text": "Elevation and depression.",
+          "at": 0.1,
+          "axis": "x",
+          "context": false,
+          "color": "#72d7ca"
+        }
+      ],
+      "focus": [
+        "Clavicle.r",
+        "Manubrium of sternum"
+      ],
+      "view": "front",
+      "facts": [
+        40
+      ],
+      "caption": "Callouts locate the related bone or joint region. Use the highlighted slide for fine landmarks and soft-tissue details.",
+      "diagram": {
+        "page": 23,
+        "note": "Highlighted lecture reference. The 3D callout identifies the related bone or joint region; fine structures are shown in the slide."
+      },
+      "region": {
+        "target": "Clavicle.r",
+        "at": 0.9,
+        "span": 0.18,
+        "axis": "x"
+      },
+      "boneColors": {
+        "Clavicle.r": "#72d7ca",
+        "Manubrium of sternum": "#e5a675"
+      }
+    },
+    {
+      "topic": "chapter-10",
+      "title": "SC disc and ligaments",
+      "pages": [
+        23
+      ],
+      "pins": [
+        {
+          "target": "Clavicle.r",
+          "name": "Articular disc",
+          "text": "Highlighted disc within the joint.",
+          "at": 0.95,
+          "axis": "x",
+          "context": false,
+          "color": "#72d7ca"
+        },
+        {
+          "target": "Clavicle.r",
+          "name": "Sternoclavicular ligament",
+          "text": "Highlighted reinforcing ligament.",
+          "at": 0.95,
+          "axis": "x",
+          "context": false,
+          "color": "#72d7ca"
+        },
+        {
+          "target": "Clavicle.r",
+          "name": "Costoclavicular ligament",
+          "text": "Accessory ligament.",
+          "at": 0.85,
+          "axis": "x",
+          "context": false,
+          "color": "#72d7ca"
+        }
+      ],
+      "focus": [
+        "Clavicle.r",
+        "Manubrium of sternum",
+        "First rib.r"
+      ],
+      "view": "front",
+      "facts": [
+        41
+      ],
+      "caption": "Callouts locate the related bone or joint region. Use the highlighted slide for fine landmarks and soft-tissue details.",
+      "diagram": {
+        "page": 23,
+        "note": "Highlighted lecture reference. The 3D callout identifies the related bone or joint region; fine structures are shown in the slide."
+      },
+      "region": {
+        "target": "Clavicle.r",
+        "at": 0.95,
+        "span": 0.18,
+        "axis": "x"
+      },
+      "boneColors": {
+        "Clavicle.r": "#72d7ca",
+        "Manubrium of sternum": "#e5a675",
+        "First rib.r": "#f5ce70"
+      }
+    },
+    {
+      "topic": "chapter-10",
+      "title": "SC nerve supply",
+      "pages": [
+        23
+      ],
+      "pins": [
+        {
+          "target": "Clavicle.r",
+          "name": "Supraclavicular nerve",
+          "text": "Highlighted nerve supply.",
+          "at": 0.9,
+          "axis": "x",
+          "context": false,
+          "color": "#72d7ca"
+        },
+        {
+          "target": "Clavicle.r",
+          "name": "Nerve to subclavius",
+          "text": "Highlighted nerve supply.",
+          "at": 0.85,
+          "axis": "x",
+          "context": false,
+          "color": "#72d7ca"
+        }
+      ],
+      "focus": [
+        "Clavicle.r"
+      ],
+      "view": "front",
+      "facts": [
+        42
+      ],
+      "caption": "Callouts locate the related bone or joint region. Use the highlighted slide for fine landmarks and soft-tissue details.",
+      "diagram": {
+        "page": 23,
+        "note": "Highlighted lecture reference. The 3D callout identifies the related bone or joint region; fine structures are shown in the slide."
+      },
+      "region": {
+        "target": "Clavicle.r",
+        "at": 0.9,
+        "span": 0.18,
+        "axis": "x"
+      },
+      "boneColors": {
+        "Clavicle.r": "#72d7ca"
+      }
+    },
+    {
+      "topic": "chapter-11",
+      "title": "AC articulation and movement",
+      "pages": [
+        24
+      ],
+      "pins": [
+        {
+          "target": "Clavicle.r",
+          "name": "Acromion and clavicle",
+          "text": "Highlighted articular partners.",
+          "at": 0.05,
+          "axis": "x",
+          "context": false,
+          "color": "#72d7ca"
+        },
+        {
+          "target": "Scapula.r",
+          "name": "Gliding movement",
+          "text": "Highlighted movement at the AC joint.",
+          "at": 0.9,
+          "axis": "y",
+          "context": false,
+          "color": "#ef91b6"
+        }
+      ],
+      "focus": [
+        "Clavicle.r",
+        "Scapula.r"
+      ],
+      "view": "front",
+      "facts": [
+        43
+      ],
+      "caption": "Callouts locate the related bone or joint region. Use the highlighted slide for fine landmarks and soft-tissue details.",
+      "diagram": {
+        "page": 24,
+        "note": "Highlighted lecture reference. The 3D callout identifies the related bone or joint region; fine structures are shown in the slide."
+      },
+      "region": {
+        "target": "Clavicle.r",
+        "at": 0.05,
+        "span": 0.18,
+        "axis": "x"
+      },
+      "boneColors": {
+        "Clavicle.r": "#72d7ca",
+        "Scapula.r": "#ef91b6"
+      }
+    },
+    {
+      "topic": "chapter-11",
+      "title": "AC ligaments and nerve supply",
+      "pages": [
+        24
+      ],
+      "pins": [
+        {
+          "target": "Clavicle.r",
+          "name": "Acromioclavicular ligaments",
+          "text": "Superior and inferior ligaments.",
+          "at": 0.05,
+          "axis": "x",
+          "context": false,
+          "color": "#72d7ca"
+        },
+        {
+          "target": "Scapula.r",
+          "name": "Coracoclavicular ligament",
+          "text": "Highlighted accessory ligament.",
+          "at": 0.85,
+          "axis": "y",
+          "context": false,
+          "color": "#ef91b6"
+        },
+        {
+          "target": "Scapula.r",
+          "name": "Suprascapular nerve",
+          "text": "Highlighted nerve supply.",
+          "at": 0.85,
+          "axis": "y",
+          "context": false,
+          "color": "#ef91b6"
+        }
+      ],
+      "focus": [
+        "Clavicle.r",
+        "Scapula.r"
+      ],
+      "view": "front",
+      "facts": [
+        44
+      ],
+      "caption": "Callouts locate the related bone or joint region. Use the highlighted slide for fine landmarks and soft-tissue details.",
+      "diagram": {
+        "page": 24,
+        "note": "Highlighted lecture reference. The 3D callout identifies the related bone or joint region; fine structures are shown in the slide."
+      },
+      "region": {
+        "target": "Clavicle.r",
+        "at": 0.05,
+        "span": 0.18,
+        "axis": "x"
+      },
+      "boneColors": {
+        "Clavicle.r": "#72d7ca",
+        "Scapula.r": "#ef91b6"
+      }
+    },
+    {
+      "topic": "chapter-11",
+      "title": "AC joint type and disc",
+      "pages": [
+        24
+      ],
+      "pins": [
+        {
+          "target": "Clavicle.r",
+          "name": "Plane synovial joint",
+          "text": "Acromion and clavicle form a plane synovial joint with a fibrocartilaginous disc.",
+          "color": "#72d7ca"
+        }
+      ],
+      "focus": [
+        "Clavicle.r",
+        "Scapula.r"
+      ],
+      "view": "front",
+      "facts": [
+        45
+      ],
+      "caption": "Callouts locate the related bone or joint region. Use the highlighted slide for fine landmarks and soft-tissue details.",
+      "diagram": {
+        "page": 24,
+        "note": "Highlighted lecture reference. The 3D callout identifies the related bone or joint region; fine structures are shown in the slide."
+      },
+      "region": {
+        "target": "Clavicle.r",
+        "at": 0.05,
+        "span": 0.18,
+        "axis": "x"
+      },
+      "boneColors": {
+        "Clavicle.r": "#72d7ca",
+        "Scapula.r": "#ef91b6"
+      }
+    },
+    {
+      "topic": "chapter-12",
+      "title": "Ball-and-socket articulation",
+      "pages": [
+        25
+      ],
+      "pins": [
+        {
+          "target": "Humerus.r",
+          "name": "Head of humerus",
+          "text": "Articulates with the glenoid cavity of the scapula.",
+          "at": 0.96,
+          "axis": "y",
+          "context": false,
+          "color": "#f5ce70"
+        },
+        {
+          "target": "Scapula.r",
+          "name": "Glenoid cavity",
+          "text": "The highlighted joint type is ball and socket. The lecture describes all types of movement.",
+          "at": 0.7,
+          "axis": "y",
+          "context": false,
+          "color": "#ef91b6"
+        }
+      ],
+      "focus": [
+        "Scapula.r",
+        "Humerus.r"
+      ],
+      "view": "front",
+      "facts": [
+        46
+      ],
+      "caption": "Callouts locate the related bone or joint region. Use the highlighted slide for fine landmarks and soft-tissue details.",
+      "diagram": {
+        "page": 25,
+        "note": "Highlighted lecture reference. The 3D callout identifies the related bone or joint region; fine structures are shown in the slide."
+      },
+      "region": {
+        "target": "Humerus.r",
+        "at": 0.96,
+        "span": 0.18,
+        "axis": "y"
+      },
+      "boneColors": {
+        "Scapula.r": "#ef91b6",
+        "Humerus.r": "#f5ce70"
+      }
+    },
+    {
+      "topic": "chapter-12",
+      "title": "Capsule, labrum and bursa",
+      "pages": [
+        25
+      ],
+      "pins": [
+        {
+          "target": "Scapula.r",
+          "name": "Articular capsule",
+          "text": "From the glenoid cavity to the anatomical neck of the humerus.",
+          "at": 0.7,
+          "axis": "y",
+          "context": false,
+          "color": "#ef91b6"
+        },
+        {
+          "target": "Scapula.r",
+          "name": "Glenoid labrum",
+          "text": "Deepens the socket.",
+          "at": 0.7,
+          "axis": "y",
+          "context": false,
+          "color": "#ef91b6"
+        },
+        {
+          "target": "Humerus.r",
+          "name": "Subacromial bursa",
+          "text": "Highlighted nearby bursa.",
+          "at": 0.95,
+          "axis": "y",
+          "context": false,
+          "color": "#f5ce70"
+        }
+      ],
+      "focus": [
+        "Scapula.r",
+        "Humerus.r"
+      ],
+      "view": "front",
+      "facts": [
+        47
+      ],
+      "caption": "Callouts locate the related bone or joint region. Use the highlighted slide for fine landmarks and soft-tissue details.",
+      "diagram": {
+        "page": 25,
+        "note": "Highlighted lecture reference. The 3D callout identifies the related bone or joint region; fine structures are shown in the slide."
+      },
+      "region": {
+        "target": "Scapula.r",
+        "at": 0.7,
+        "span": 0.18,
+        "axis": "y"
+      },
+      "boneColors": {
+        "Scapula.r": "#ef91b6",
+        "Humerus.r": "#f5ce70"
+      }
+    },
+    {
+      "topic": "chapter-12",
+      "title": "GH nerve supply",
+      "pages": [
+        25
+      ],
+      "pins": [
+        {
+          "target": "Humerus.r",
+          "name": "Axillary nerve",
+          "text": "Highlighted nerve supply.",
+          "at": 0.85,
+          "axis": "y",
+          "context": false,
+          "color": "#f5ce70"
+        },
+        {
+          "target": "Scapula.r",
+          "name": "Suprascapular nerve",
+          "text": "Highlighted nerve supply.",
+          "at": 0.7,
+          "axis": "y",
+          "context": false,
+          "color": "#ef91b6"
+        }
+      ],
+      "focus": [
+        "Humerus.r",
+        "Scapula.r"
+      ],
+      "view": "front",
+      "facts": [
+        48
+      ],
+      "caption": "Callouts locate the related bone or joint region. Use the highlighted slide for fine landmarks and soft-tissue details.",
+      "diagram": {
+        "page": 25,
+        "note": "Highlighted lecture reference. The 3D callout identifies the related bone or joint region; fine structures are shown in the slide."
+      },
+      "region": {
+        "target": "Humerus.r",
+        "at": 0.85,
+        "span": 0.18,
+        "axis": "y"
+      },
+      "boneColors": {
+        "Humerus.r": "#f5ce70",
+        "Scapula.r": "#ef91b6"
+      }
+    },
+    {
+      "topic": "chapter-12",
+      "title": "Shoulder ligaments",
+      "pages": [
+        26
+      ],
+      "pins": [
+        {
+          "target": "Humerus.r",
+          "name": "Glenohumeral ligaments",
+          "text": "Highlighted capsule-strengthening ligaments.",
+          "at": 0.93,
+          "axis": "y",
+          "context": false,
+          "color": "#f5ce70"
+        },
+        {
+          "target": "Humerus.r",
+          "name": "Coracohumeral ligament",
+          "text": "Highlighted shoulder ligament.",
+          "at": 0.93,
+          "axis": "y",
+          "context": false,
+          "color": "#f5ce70"
+        }
+      ],
+      "focus": [
+        "Scapula.r",
+        "Humerus.r"
+      ],
+      "view": "front",
+      "facts": [
+        49
+      ],
+      "caption": "Callouts locate the related bone or joint region. Use the highlighted slide for fine landmarks and soft-tissue details.",
+      "diagram": {
+        "page": 26,
+        "note": "Highlighted lecture reference. The 3D callout identifies the related bone or joint region; fine structures are shown in the slide."
+      },
+      "region": {
+        "target": "Humerus.r",
+        "at": 0.93,
+        "span": 0.18,
+        "axis": "y"
+      },
+      "boneColors": {
+        "Scapula.r": "#ef91b6",
+        "Humerus.r": "#f5ce70"
+      }
+    },
+    {
+      "topic": "chapter-12",
+      "title": "Biceps tendon restraint and accessory ligament",
+      "pages": [
+        26
+      ],
+      "pins": [
+        {
+          "target": "Humerus.r",
+          "name": "Transverse humeral ligament",
+          "text": "Holds the biceps tendon in place.",
+          "at": 0.85,
+          "axis": "y",
+          "context": false,
+          "color": "#f5ce70"
+        },
+        {
+          "target": "Scapula.r",
+          "name": "Coracoacromial ligament",
+          "text": "Highlighted accessory ligament.",
+          "at": 0.85,
+          "axis": "y",
+          "context": false,
+          "color": "#ef91b6"
+        }
+      ],
+      "focus": [
+        "Scapula.r",
+        "Humerus.r"
+      ],
+      "view": "front",
+      "facts": [
+        50
+      ],
+      "caption": "Callouts locate the related bone or joint region. Use the highlighted slide for fine landmarks and soft-tissue details.",
+      "diagram": {
+        "page": 26,
+        "note": "Highlighted lecture reference. The 3D callout identifies the related bone or joint region; fine structures are shown in the slide."
+      },
+      "region": {
+        "target": "Humerus.r",
+        "at": 0.85,
+        "span": 0.18,
+        "axis": "y"
+      },
+      "boneColors": {
+        "Scapula.r": "#ef91b6",
+        "Humerus.r": "#f5ce70"
+      }
+    },
+    {
+      "topic": "chapter-13",
+      "title": "Elbow articular partners",
+      "pages": [
+        27
+      ],
+      "pins": [
+        {
+          "target": "Humerus.r",
+          "name": "Trochlea and capitulum",
+          "text": "Highlighted humeral surfaces.",
+          "at": 0.04,
+          "axis": "y",
+          "context": false,
+          "color": "#f5ce70"
+        },
+        {
+          "target": "Ulna.r",
+          "name": "Trochlear notch",
+          "text": "Highlighted ulnar surface.",
+          "at": 0.96,
+          "axis": "y",
+          "context": false,
+          "color": "#b99aef"
+        },
+        {
+          "target": "Radius.r",
+          "name": "Head of radius",
+          "text": "Highlighted radial surface.",
+          "at": 0.96,
+          "axis": "y",
+          "context": false,
+          "color": "#7eb1f7"
+        }
+      ],
+      "focus": [
+        "Humerus.r",
+        "Ulna.r",
+        "Radius.r"
+      ],
+      "view": "front",
+      "facts": [
+        51
+      ],
+      "caption": "Callouts locate the related bone or joint region. Use the highlighted slide for fine landmarks and soft-tissue details.",
+      "diagram": {
+        "page": 27,
+        "note": "Highlighted lecture reference. The 3D callout identifies the related bone or joint region; fine structures are shown in the slide."
+      },
+      "region": {
+        "target": "Humerus.r",
+        "at": 0.04,
+        "span": 0.13,
+        "axis": "y"
+      },
+      "boneColors": {
+        "Humerus.r": "#f5ce70",
+        "Ulna.r": "#b99aef",
+        "Radius.r": "#7eb1f7"
+      }
+    },
+    {
+      "topic": "chapter-13",
+      "title": "Hinge movement and nerve supply",
+      "pages": [
+        27
+      ],
+      "pins": [
+        {
+          "target": "Humerus.r",
+          "name": "Hinge joint",
+          "text": "Flexion and extension.",
+          "at": 0.04,
+          "axis": "y",
+          "context": false,
+          "color": "#f5ce70"
+        },
+        {
+          "target": "Humerus.r",
+          "name": "Nerve supply",
+          "text": "Branches from radial, ulnar, median and musculocutaneous nerves.",
+          "at": 0.04,
+          "axis": "y",
+          "context": false,
+          "color": "#f5ce70"
+        }
+      ],
+      "focus": [
+        "Humerus.r",
+        "Ulna.r",
+        "Radius.r"
+      ],
+      "view": "front",
+      "facts": [
+        52
+      ],
+      "caption": "Callouts locate the related bone or joint region. Use the highlighted slide for fine landmarks and soft-tissue details.",
+      "diagram": {
+        "page": 27,
+        "note": "Highlighted lecture reference. The 3D callout identifies the related bone or joint region; fine structures are shown in the slide."
+      },
+      "region": {
+        "target": "Humerus.r",
+        "at": 0.04,
+        "span": 0.13,
+        "axis": "y"
+      },
+      "boneColors": {
+        "Humerus.r": "#f5ce70",
+        "Ulna.r": "#b99aef",
+        "Radius.r": "#7eb1f7"
+      }
+    },
+    {
+      "topic": "chapter-13",
+      "title": "Elbow ligament support",
+      "pages": [
+        27
+      ],
+      "pins": [
+        {
+          "target": "Radius.r",
+          "name": "Radial annular ligament",
+          "text": "Holds the head of the radius in place.",
+          "at": 0.96,
+          "axis": "y",
+          "context": false,
+          "color": "#7eb1f7"
+        },
+        {
+          "target": "Ulna.r",
+          "name": "Collateral ligaments",
+          "text": "Maintain integrity of the joint.",
+          "at": 0.96,
+          "axis": "y",
+          "context": false,
+          "color": "#b99aef"
+        }
+      ],
+      "focus": [
+        "Ulna.r",
+        "Radius.r",
+        "Humerus.r"
+      ],
+      "view": "front",
+      "facts": [
+        53
+      ],
+      "caption": "Callouts locate the related bone or joint region. Use the highlighted slide for fine landmarks and soft-tissue details.",
+      "diagram": {
+        "page": 27,
+        "note": "Highlighted lecture reference. The 3D callout identifies the related bone or joint region; fine structures are shown in the slide."
+      },
+      "region": {
+        "target": "Radius.r",
+        "at": 0.96,
+        "span": 0.13,
+        "axis": "y"
+      },
+      "boneColors": {
+        "Ulna.r": "#b99aef",
+        "Radius.r": "#7eb1f7",
+        "Humerus.r": "#f5ce70"
+      }
+    },
+    {
+      "topic": "chapter-14",
+      "title": "Proximal radioulnar articulation",
+      "pages": [
+        28
+      ],
+      "pins": [
+        {
+          "target": "Radius.r",
+          "name": "Head of radius",
+          "text": "Articulates with the annular ligament and radial notch of the ulna.",
+          "at": 0.96,
+          "axis": "y",
+          "context": false,
+          "color": "#7eb1f7"
+        },
+        {
+          "target": "Ulna.r",
+          "name": "Pivot joint",
+          "text": "Rotation: pronation and supination.",
+          "at": 0.92,
+          "axis": "y",
+          "context": false,
+          "color": "#b99aef"
+        }
+      ],
+      "focus": [
+        "Radius.r",
+        "Ulna.r"
+      ],
+      "view": "front",
+      "facts": [
+        54
+      ],
+      "caption": "Callouts locate the related bone or joint region. Use the highlighted slide for fine landmarks and soft-tissue details.",
+      "diagram": {
+        "page": 28,
+        "note": "Highlighted lecture reference. The 3D callout identifies the related bone or joint region; fine structures are shown in the slide."
+      },
+      "region": {
+        "target": "Radius.r",
+        "at": 0.96,
+        "span": 0.13,
+        "axis": "y"
+      },
+      "boneColors": {
+        "Radius.r": "#7eb1f7",
+        "Ulna.r": "#b99aef"
+      }
+    },
+    {
+      "topic": "chapter-14",
+      "title": "Proximal radioulnar nerve supply",
+      "pages": [
+        28
+      ],
+      "pins": [
+        {
+          "target": "Radius.r",
+          "name": "Articular nerve branches",
+          "text": "Radial, ulnar, median and musculocutaneous nerves, as highlighted in the lecture.",
+          "at": 0.95,
+          "axis": "y",
+          "context": false,
+          "color": "#7eb1f7"
+        }
+      ],
+      "focus": [
+        "Radius.r"
+      ],
+      "view": "front",
+      "facts": [
+        55
+      ],
+      "caption": "Callouts locate the related bone or joint region. Use the highlighted slide for fine landmarks and soft-tissue details.",
+      "diagram": {
+        "page": 28,
+        "note": "Highlighted lecture reference. The 3D callout identifies the related bone or joint region; fine structures are shown in the slide."
+      },
+      "region": {
+        "target": "Radius.r",
+        "at": 0.95,
+        "span": 0.13,
+        "axis": "y"
+      },
+      "boneColors": {
+        "Radius.r": "#7eb1f7"
+      }
+    },
+    {
+      "topic": "chapter-14",
+      "title": "Distal radioulnar articulation",
+      "pages": [
+        29
+      ],
+      "pins": [
+        {
+          "target": "Ulna.r",
+          "name": "Head of ulna",
+          "text": "Articulates with the ulnar notch of the radius.",
+          "at": 0.04,
+          "axis": "y",
+          "context": false,
+          "color": "#b99aef"
+        },
+        {
+          "target": "Radius.r",
+          "name": "Articular disc",
+          "text": "Highlighted disc at the distal joint.",
+          "at": 0.04,
+          "axis": "y",
+          "context": false,
+          "color": "#7eb1f7"
+        }
+      ],
+      "focus": [
+        "Ulna.r",
+        "Radius.r"
+      ],
+      "view": "front",
+      "facts": [
+        56
+      ],
+      "caption": "Callouts locate the related bone or joint region. Use the highlighted slide for fine landmarks and soft-tissue details.",
+      "diagram": {
+        "page": 29,
+        "note": "Highlighted lecture reference. The 3D callout identifies the related bone or joint region; fine structures are shown in the slide."
+      },
+      "region": {
+        "target": "Ulna.r",
+        "at": 0.04,
+        "span": 0.13,
+        "axis": "y"
+      },
+      "boneColors": {
+        "Ulna.r": "#b99aef",
+        "Radius.r": "#7eb1f7"
+      }
+    },
+    {
+      "topic": "chapter-14",
+      "title": "Distal radioulnar rotation and nerves",
+      "pages": [
+        29
+      ],
+      "pins": [
+        {
+          "target": "Radius.r",
+          "name": "Rotation",
+          "text": "Pronation and supination.",
+          "at": 0.04,
+          "axis": "y",
+          "context": false,
+          "color": "#7eb1f7"
+        },
+        {
+          "target": "Ulna.r",
+          "name": "Nerve supply",
+          "text": "Anterior interosseous nerve (from median nerve) and deep branch of radial nerve.",
+          "at": 0.04,
+          "axis": "y",
+          "context": false,
+          "color": "#b99aef"
+        }
+      ],
+      "focus": [
+        "Ulna.r",
+        "Radius.r"
+      ],
+      "view": "front",
+      "facts": [
+        57
+      ],
+      "caption": "Callouts locate the related bone or joint region. Use the highlighted slide for fine landmarks and soft-tissue details.",
+      "diagram": {
+        "page": 29,
+        "note": "Highlighted lecture reference. The 3D callout identifies the related bone or joint region; fine structures are shown in the slide."
+      },
+      "region": {
+        "target": "Radius.r",
+        "at": 0.04,
+        "span": 0.13,
+        "axis": "y"
+      },
+      "boneColors": {
+        "Ulna.r": "#b99aef",
+        "Radius.r": "#7eb1f7"
+      }
+    },
+    {
+      "topic": "chapter-14",
+      "title": "Distal radioulnar joint type",
+      "pages": [
+        29
+      ],
+      "pins": [
+        {
+          "target": "Radius.r",
+          "name": "Pivot joint",
+          "text": "The distal radioulnar joint permits rotation: pronation and supination.",
+          "color": "#7eb1f7"
+        }
+      ],
+      "focus": [
+        "Ulna.r",
+        "Radius.r"
+      ],
+      "view": "front",
+      "facts": [
+        58
+      ],
+      "caption": "Callouts locate the related bone or joint region. Use the highlighted slide for fine landmarks and soft-tissue details.",
+      "diagram": {
+        "page": 29,
+        "note": "Highlighted lecture reference. The 3D callout identifies the related bone or joint region; fine structures are shown in the slide."
+      },
+      "region": {
+        "target": "Radius.r",
+        "at": 0.04,
+        "span": 0.13,
+        "axis": "y"
+      },
+      "boneColors": {
+        "Ulna.r": "#b99aef",
+        "Radius.r": "#7eb1f7"
+      }
+    },
+    {
+      "topic": "chapter-15",
+      "title": "Wrist articular surfaces",
+      "pages": [
+        30
+      ],
+      "pins": [
+        {
+          "target": "Radius.r",
+          "name": "Proximal side",
+          "text": "Distal radius and articular disc above.",
+          "at": 0.04,
+          "axis": "y",
+          "context": false,
+          "color": "#7eb1f7"
+        },
+        {
+          "target": "Lunate bone.r",
+          "name": "Distal side",
+          "text": "Scaphoid, lunate and triquetral bones below.",
+          "at": 0.5,
+          "axis": "y",
+          "context": false,
+          "color": "#f5ce70"
+        }
+      ],
+      "focus": [
+        "Radius.r",
+        "Scaphoid bone.r",
+        "Lunate bone.r",
+        "Triquetrum bone.r"
+      ],
+      "view": "front",
+      "facts": [
+        59
+      ],
+      "caption": "Callouts locate the related bone or joint region. Use the highlighted slide for fine landmarks and soft-tissue details.",
+      "diagram": {
+        "page": 30,
+        "note": "Highlighted lecture reference. The 3D callout identifies the related bone or joint region; fine structures are shown in the slide."
+      },
+      "region": {
+        "target": "Radius.r",
+        "at": 0.04,
+        "span": 0.13,
+        "axis": "y"
+      },
+      "boneColors": {
+        "Radius.r": "#7eb1f7",
+        "Scaphoid bone.r": "#72d7ca",
+        "Lunate bone.r": "#f5ce70",
+        "Triquetrum bone.r": "#7eb1f7"
+      }
+    },
+    {
+      "topic": "chapter-15",
+      "title": "Ellipsoid movement and nerve supply",
+      "pages": [
+        30
+      ],
+      "pins": [
+        {
+          "target": "Lunate bone.r",
+          "name": "Ellipsoid joint",
+          "text": "Flexion, extension, abduction and adduction.",
+          "at": 0.5,
+          "axis": "y",
+          "context": false,
+          "color": "#ef91b6"
+        },
+        {
+          "target": "Radius.r",
+          "name": "Nerve supply",
+          "text": "Anterior interosseous nerve (from median nerve) and deep branch of radial nerve.",
+          "at": 0.04,
+          "axis": "y",
+          "context": false,
+          "color": "#7eb1f7"
+        }
+      ],
+      "focus": [
+        "Lunate bone.r",
+        "Radius.r"
+      ],
+      "view": "front",
+      "facts": [
+        60
+      ],
+      "caption": "Callouts locate the related bone or joint region. Use the highlighted slide for fine landmarks and soft-tissue details.",
+      "diagram": {
+        "page": 30,
+        "note": "Highlighted lecture reference. The 3D callout identifies the related bone or joint region; fine structures are shown in the slide."
+      },
+      "region": {
+        "target": "Lunate bone.r",
+        "at": 0.5,
+        "span": 0.13,
+        "axis": "y"
+      },
+      "boneColors": {
+        "Lunate bone.r": "#ef91b6",
+        "Radius.r": "#7eb1f7"
+      }
+    },
+    {
+      "topic": "chapter-15",
+      "title": "Wrist ligaments",
+      "pages": [
+        30
+      ],
+      "pins": [
+        {
+          "target": "Radius.r",
+          "name": "Wrist ligament support",
+          "text": "The lecture lists anterior, posterior, medial and lateral ligaments.",
+          "color": "#7eb1f7"
+        }
+      ],
+      "focus": [
+        "Lunate bone.r",
+        "Radius.r"
+      ],
+      "view": "front",
+      "facts": [
+        61
+      ],
+      "caption": "Callouts locate the related bone or joint region. Use the highlighted slide for fine landmarks and soft-tissue details.",
+      "diagram": {
+        "page": 30,
+        "note": "Highlighted lecture reference. The 3D callout identifies the related bone or joint region; fine structures are shown in the slide."
+      },
+      "region": {
+        "target": "Lunate bone.r",
+        "at": 0.5,
+        "span": 0.13,
+        "axis": "y"
+      },
+      "boneColors": {
+        "Lunate bone.r": "#ef91b6",
+        "Radius.r": "#7eb1f7"
+      }
+    },
+    {
+      "topic": "chapter-16",
+      "title": "Highlighted thumb CMC exception",
+      "pages": [
+        31
+      ],
+      "pins": [
+        {
+          "target": "First metacarpal bone.r",
+          "name": "Thumb carpometacarpal joint",
+          "text": "The highlighted exception is a synovial saddle-shaped joint.",
+          "at": 0.95,
+          "axis": "y",
+          "context": false,
+          "color": "#ef91b6"
+        }
+      ],
+      "focus": [
+        "First metacarpal bone.r",
+        "Trapezium bone.r"
+      ],
+      "view": "front",
+      "facts": [
+        62
+      ],
+      "caption": "Callouts locate the related bone or joint region. Use the highlighted slide for fine landmarks and soft-tissue details.",
+      "diagram": {
+        "page": 31,
+        "note": "Highlighted lecture reference. The 3D callout identifies the related bone or joint region; fine structures are shown in the slide."
+      },
+      "region": {
+        "target": "First metacarpal bone.r",
+        "at": 0.95,
+        "span": 0.13,
+        "axis": "y"
+      },
+      "boneColors": {
+        "First metacarpal bone.r": "#ef91b6",
+        "Trapezium bone.r": "#72d7ca"
+      }
+    },
+    {
+      "topic": "chapter-16",
+      "title": "Locate the hand joints",
+      "pages": [
+        22,
+        31,
+        32
+      ],
+      "pins": [
+        {
+          "target": "Capitate bone.r",
+          "name": "Intercarpal joints",
+          "text": "Between the carpal bones.",
+          "at": 0.5
+        },
+        {
+          "target": "Second metacarpal bone.r",
+          "name": "Carpometacarpal and intermetacarpal joints",
+          "text": "The lecture identifies the carpal-to-metacarpal and intermetacarpal articulations.",
+          "at": 0.95
+        },
+        {
+          "target": "Proximal phalanx of second finger of hand.r",
+          "name": "Metacarpophalangeal and interphalangeal joints",
+          "text": "Locate the knuckle and the joints between phalanges in the original hand diagram.",
+          "at": 0.5
+        }
+      ],
+      "focus": [
+        "Capitate bone.r",
+        "Second metacarpal bone.r",
+        "Proximal phalanx of second finger of hand.r",
+        "Middle phalanx of second finger of hand.r",
+        "Distal phalanx of second finger of hand.r"
+      ],
+      "view": "front",
+      "facts": [
+        63
+      ],
+      "caption": "Use the original hand diagram to locate these joints. Unmarked diagram labels are not additional quiz facts.",
+      "diagram": {
+        "page": 32,
+        "note": "Original hand-joint diagram. Labels identify the adjacent articulating bones."
+      },
+      "boneColors": {
+        "First metacarpal bone.r": "#ef91b6",
+        "Trapezium bone.r": "#72d7ca"
+      }
+    }
+  ],
+  "source": "L1 - Upper Limb Bones and Joints lecture.pdf",
+  "scope": "Highlighted and colored teaching points only. Unmarked illustration labels are not separate lessons.",
+  "lectureId": "1",
+  "studyLayer": "bones",
+  "functionalQuiz": [
+    {
+      "target": "Ulna.r",
+      "prompt": "Click the medial bone of the forearm.",
+      "explanation": "The ulna is the medial forearm bone."
+    },
+    {
+      "target": "Radius.r",
+      "prompt": "Click the lateral bone of the forearm.",
+      "explanation": "The radius is the lateral forearm bone."
+    },
+    {
+      "target": "Scaphoid bone.r",
+      "prompt": "Click the boat-shaped bone in the proximal carpal row.",
+      "explanation": "The scaphoid is the lateral, boat-shaped bone of the proximal row."
+    }
+  ]
+}

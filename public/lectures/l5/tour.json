@@ -1,0 +1,3120 @@
+{
+  "topics": [
+    {
+      "id": "plexus",
+      "title": "Brachial plexus · formation",
+      "subtitle": "Lecture 05 · Chapter 01"
+    },
+    {
+      "id": "branches",
+      "title": "Plexus branches",
+      "subtitle": "Lecture 05 · Chapter 02"
+    },
+    {
+      "id": "relations",
+      "title": "Plexus relations",
+      "subtitle": "Lecture 05 · Chapter 03"
+    },
+    {
+      "id": "palsies",
+      "title": "Upper vs lower plexus injury",
+      "subtitle": "Lecture 05 · Chapter 04"
+    },
+    {
+      "id": "axillary",
+      "title": "Axillary nerve",
+      "subtitle": "Lecture 05 · Chapter 05"
+    },
+    {
+      "id": "musculocutaneous",
+      "title": "Musculocutaneous nerve",
+      "subtitle": "Lecture 05 · Chapter 06"
+    },
+    {
+      "id": "long",
+      "title": "Long thoracic nerve",
+      "subtitle": "Lecture 05 · Chapter 07"
+    },
+    {
+      "id": "sensory",
+      "title": "Hand sensory map",
+      "subtitle": "Lecture 05 · Chapter 08"
+    },
+    {
+      "id": "median",
+      "title": "Median nerve",
+      "subtitle": "Lecture 05 · Chapter 09"
+    },
+    {
+      "id": "ulnar",
+      "title": "Ulnar nerve",
+      "subtitle": "Lecture 05 · Chapter 10"
+    },
+    {
+      "id": "median-injury",
+      "title": "Median nerve injuries",
+      "subtitle": "Lecture 05 · Chapter 11"
+    },
+    {
+      "id": "ulnar-injury",
+      "title": "Ulnar nerve injuries",
+      "subtitle": "Lecture 05 · Chapter 12"
+    },
+    {
+      "id": "radial",
+      "title": "Radial nerve",
+      "subtitle": "Lecture 05 · Chapter 13"
+    },
+    {
+      "id": "radial-injury",
+      "title": "Radial nerve injuries",
+      "subtitle": "Lecture 05 · Chapter 14"
+    },
+    {
+      "id": "compare",
+      "title": "Nerve comparisons",
+      "subtitle": "Lecture 05 · Chapter 15"
+    }
+  ],
+  "steps": [
+    {
+      "topic": "plexus",
+      "title": "A network for the upper limb",
+      "pages": [
+        1
+      ],
+      "facts": [],
+      "focus": [
+        "Roots of brachial plexus.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Five roots",
+          "text": "Brachial plexus supplies the upper limb. Formed from the lower four cervical spinal nerves and first thoracic nerve: C5, C6, C7, C8 and T1.",
+          "target": "Roots of brachial plexus.r",
+          "color": "#dca0f1"
+        }
+      ],
+      "view": "front",
+      "caption": "Trace the colored nerve and compare its relations with the original lecture diagram.",
+      "plexusStage": "roots",
+      "referencePages": [
+        "s2"
+      ]
+    },
+    {
+      "topic": "plexus",
+      "title": "Five roots → three trunks",
+      "pages": [
+        1
+      ],
+      "facts": [],
+      "focus": [
+        "Superior trunk of brachial plexus.r",
+        "Middle trunk of brachial plexus.r",
+        "Inferior trunk of brachial plexus.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Upper trunk",
+          "text": "C5 + C6.",
+          "target": "Superior trunk of brachial plexus.r",
+          "color": "#dca0f1"
+        },
+        {
+          "name": "Middle trunk",
+          "text": "C7.",
+          "target": "Middle trunk of brachial plexus.r",
+          "color": "#dca0f1"
+        },
+        {
+          "name": "Lower trunk",
+          "text": "C8 + T1.",
+          "target": "Inferior trunk of brachial plexus.r",
+          "color": "#dca0f1"
+        }
+      ],
+      "view": "front",
+      "caption": "Trace the colored nerve and compare its relations with the original lecture diagram.",
+      "plexusStage": "trunks",
+      "referencePages": [
+        "s2"
+      ]
+    },
+    {
+      "topic": "plexus",
+      "title": "Each trunk → anterior and posterior division",
+      "pages": [
+        1
+      ],
+      "facts": [],
+      "focus": [
+        "Anterior division of superior trunk of brachial plexus.r",
+        "Anterior division of middle trunk of brachial plexus.r",
+        "Anterior division of inferior trunk of brachial plexus.r",
+        "Posterior division of superior trunk of brachial plexus.r",
+        "Posterior division of middle trunk of brachial plexus.r",
+        "Posterior division of inferior trunk of brachial plexus.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Anterior divisions",
+          "text": "One from each of the upper, middle and lower trunks.",
+          "target": "Anterior division of middle trunk of brachial plexus.r",
+          "color": "#dca0f1"
+        },
+        {
+          "name": "Posterior divisions",
+          "text": "One from each trunk; these converge into posterior cord.",
+          "target": "Posterior division of middle trunk of brachial plexus.r",
+          "color": "#dca0f1"
+        }
+      ],
+      "view": "front",
+      "caption": "Trace the colored nerve and compare its relations with the original lecture diagram.",
+      "plexusStage": "divisions",
+      "referencePages": [
+        "s2"
+      ]
+    },
+    {
+      "topic": "plexus",
+      "title": "Anterior divisions → lateral and medial cords",
+      "pages": [
+        1
+      ],
+      "facts": [],
+      "focus": [
+        "Anterior division of superior trunk of brachial plexus.r",
+        "Anterior division of middle trunk of brachial plexus.r",
+        "Anterior division of inferior trunk of brachial plexus.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Lateral cord",
+          "text": "Anterior divisions of upper and middle trunks: C5–C7. These source divisions are highlighted; the cord has no separate mesh.",
+          "target": "Anterior division of superior trunk of brachial plexus.r",
+          "color": "#dca0f1",
+          "context": true
+        },
+        {
+          "name": "Medial cord",
+          "text": "Anterior division of lower trunk only: C8–T1. Its source division is highlighted; the cord has no separate mesh.",
+          "target": "Anterior division of inferior trunk of brachial plexus.r",
+          "color": "#dca0f1",
+          "context": true
+        }
+      ],
+      "view": "front",
+      "caption": "Trace the colored nerve and compare its relations with the original lecture diagram.",
+      "diagram": {
+        "page": 1,
+        "note": "Original lecture figure — fine branches, skin boundaries and deformities are shown here"
+      },
+      "plexusStage": "cords",
+      "referencePages": [
+        "s2"
+      ]
+    },
+    {
+      "topic": "plexus",
+      "title": "Posterior divisions → posterior cord",
+      "pages": [
+        1
+      ],
+      "facts": [],
+      "focus": [
+        "Posterior cord of brachial plexus.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Posterior cord",
+          "text": "Posterior divisions of all three trunks; C5–C8 and T1.",
+          "target": "Posterior cord of brachial plexus.r",
+          "color": "#dca0f1"
+        }
+      ],
+      "view": "front",
+      "caption": "Trace the colored nerve and compare its relations with the original lecture diagram.",
+      "plexusStage": "cords",
+      "referencePages": [
+        "s2"
+      ]
+    },
+    {
+      "topic": "branches",
+      "title": "Root branches",
+      "pages": [
+        2
+      ],
+      "facts": [],
+      "focus": [
+        "Dorsal scapular nerve.r",
+        "Long thoracic nerve.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Dorsal scapular nerve",
+          "text": "Branch listed under root branches.",
+          "target": "Dorsal scapular nerve.r",
+          "color": "#dca0f1",
+          "context": false
+        },
+        {
+          "name": "Long thoracic nerve",
+          "text": "Branch listed under root branches.",
+          "target": "Long thoracic nerve.r",
+          "color": "#efa46c",
+          "context": false
+        }
+      ],
+      "view": "front",
+      "caption": "Trace the colored nerve and compare its relations with the original lecture diagram.",
+      "diagram": null,
+      "plexusStage": "branches",
+      "referencePages": [
+        "s4",
+        "s5"
+      ]
+    },
+    {
+      "topic": "branches",
+      "title": "Trunk branches",
+      "pages": [
+        2
+      ],
+      "facts": [],
+      "focus": [
+        "Suprascapular nerve.r",
+        "Subclavian nerve.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Suprascapular nerve",
+          "text": "Branch listed under trunk branches.",
+          "target": "Suprascapular nerve.r",
+          "color": "#dca0f1",
+          "context": false
+        },
+        {
+          "name": "Nerve to subclavius",
+          "text": "Branch listed under trunk branches.",
+          "target": "Subclavian nerve.r",
+          "color": "#dca0f1",
+          "context": false
+        }
+      ],
+      "view": "front",
+      "caption": "Trace the colored nerve and compare its relations with the original lecture diagram.",
+      "diagram": null,
+      "plexusStage": "branches",
+      "referencePages": [
+        "s4",
+        "s5"
+      ]
+    },
+    {
+      "topic": "branches",
+      "title": "Medial cord · cutaneous and pectoral",
+      "pages": [
+        2
+      ],
+      "facts": [],
+      "focus": [
+        "Medial brachial cutaneous nerve.r",
+        "Medial antebrachial cutaneous nerve.r",
+        "Medial pectoral nerve.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Medial cutaneous nerve of arm",
+          "text": "Branch listed under medial cord.",
+          "target": "Medial brachial cutaneous nerve.r",
+          "color": "#dca0f1",
+          "context": false
+        },
+        {
+          "name": "Medial cutaneous nerve of forearm",
+          "text": "Branch listed under medial cord.",
+          "target": "Medial antebrachial cutaneous nerve.r",
+          "color": "#dca0f1",
+          "context": false
+        },
+        {
+          "name": "Medial pectoral nerve",
+          "text": "Branch listed under medial cord.",
+          "target": "Medial pectoral nerve.r",
+          "color": "#dca0f1",
+          "context": false
+        }
+      ],
+      "view": "front",
+      "caption": "Trace the colored nerve and compare its relations with the original lecture diagram.",
+      "diagram": null,
+      "plexusStage": "branches",
+      "referencePages": [
+        "s4",
+        "s5"
+      ]
+    },
+    {
+      "topic": "branches",
+      "title": "Medial cord · terminal contributions",
+      "pages": [
+        2
+      ],
+      "facts": [],
+      "focus": [
+        "Median nerve.r",
+        "Ulnar nerve.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Medial root of median nerve",
+          "text": "Branch listed under medial cord. The median nerve is framed; its individual root is not separately modeled.",
+          "target": "Median nerve.r",
+          "color": "#ff798c",
+          "context": true
+        },
+        {
+          "name": "Ulnar nerve",
+          "text": "Branch listed under medial cord.",
+          "target": "Ulnar nerve.r",
+          "color": "#57d9d1",
+          "context": false
+        }
+      ],
+      "view": "front",
+      "caption": "Trace the colored nerve and compare its relations with the original lecture diagram.",
+      "diagram": {
+        "page": 2,
+        "note": "Original lecture figure — fine branches, skin boundaries and deformities are shown here"
+      },
+      "plexusStage": "branches",
+      "referencePages": [
+        "s4",
+        "s5"
+      ]
+    },
+    {
+      "topic": "branches",
+      "title": "Lateral cord branches",
+      "pages": [
+        2
+      ],
+      "facts": [],
+      "focus": [
+        "Lateral pectoral nerve.r",
+        "Median nerve.r",
+        "Musculocutaneous nerve.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Lateral pectoral nerve",
+          "text": "Branch listed under lateral cord branches.",
+          "target": "Lateral pectoral nerve.r",
+          "color": "#dca0f1",
+          "context": false
+        },
+        {
+          "name": "Lateral root of median nerve",
+          "text": "Branch listed under lateral cord branches. The median nerve is framed; its individual root is not separately modeled.",
+          "target": "Median nerve.r",
+          "color": "#ff798c",
+          "context": true
+        },
+        {
+          "name": "Musculocutaneous nerve",
+          "text": "Branch listed under lateral cord branches.",
+          "target": "Musculocutaneous nerve.r",
+          "color": "#78d6a4",
+          "context": false
+        }
+      ],
+      "view": "front",
+      "caption": "Trace the colored nerve and compare its relations with the original lecture diagram.",
+      "diagram": {
+        "page": 2,
+        "note": "Original lecture figure — fine branches, skin boundaries and deformities are shown here"
+      },
+      "plexusStage": "branches",
+      "referencePages": [
+        "s4",
+        "s5"
+      ]
+    },
+    {
+      "topic": "branches",
+      "title": "Posterior cord · subscapular and thoracodorsal",
+      "pages": [
+        2
+      ],
+      "facts": [],
+      "focus": [
+        "Superior subscapular nerve.r",
+        "Inferior subscapular nerve.r",
+        "Thoracodorsal nerve.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Upper subscapular nerve",
+          "text": "Branch listed under posterior cord.",
+          "target": "Superior subscapular nerve.r",
+          "color": "#dca0f1",
+          "context": false
+        },
+        {
+          "name": "Lower subscapular nerve",
+          "text": "Branch listed under posterior cord.",
+          "target": "Inferior subscapular nerve.r",
+          "color": "#dca0f1",
+          "context": false
+        },
+        {
+          "name": "Nerve to latissimus dorsi (thoracodorsal)",
+          "text": "Branch listed under posterior cord.",
+          "target": "Thoracodorsal nerve.r",
+          "color": "#dca0f1",
+          "context": false
+        }
+      ],
+      "view": "front",
+      "caption": "Trace the colored nerve and compare its relations with the original lecture diagram.",
+      "diagram": null,
+      "plexusStage": "branches",
+      "referencePages": [
+        "s4",
+        "s5"
+      ]
+    },
+    {
+      "topic": "branches",
+      "title": "Posterior cord · terminal nerves",
+      "pages": [
+        2
+      ],
+      "facts": [],
+      "focus": [
+        "Axillary nerve.r",
+        "Radial nerve.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Axillary nerve",
+          "text": "Branch listed under posterior cord.",
+          "target": "Axillary nerve.r",
+          "color": "#f4c653",
+          "context": false
+        },
+        {
+          "name": "Radial nerve",
+          "text": "Branch listed under posterior cord.",
+          "target": "Radial nerve.r",
+          "color": "#79b4ff",
+          "context": false
+        }
+      ],
+      "view": "front",
+      "caption": "Trace the colored nerve and compare its relations with the original lecture diagram.",
+      "diagram": null,
+      "plexusStage": "branches",
+      "referencePages": [
+        "s4",
+        "s5"
+      ]
+    },
+    {
+      "topic": "relations",
+      "title": "Between the scalene muscles",
+      "pages": [
+        3
+      ],
+      "facts": [],
+      "focus": [
+        "Roots of brachial plexus.r",
+        "Superior trunk of brachial plexus.r",
+        "Middle trunk of brachial plexus.r",
+        "Inferior trunk of brachial plexus.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Roots and trunks",
+          "text": "Roots and trunks pass posterior to scalenus anterior and anterior to scalenus medius. The source shows this interval; scalenus medius is not separately included here.",
+          "target": "Roots of brachial plexus.r",
+          "color": "#dca0f1"
+        }
+      ],
+      "view": "front",
+      "caption": "Trace the colored nerve and compare its relations with the original lecture diagram.",
+      "muscleFocus": [
+        "Scalenus anterior muscle.r"
+      ],
+      "diagram": {
+        "page": 3,
+        "note": "Original lecture figure — fine branches, skin boundaries and deformities are shown here"
+      },
+      "referencePages": [
+        "s3"
+      ]
+    },
+    {
+      "topic": "relations",
+      "title": "Cords and the axillary artery",
+      "pages": [
+        3
+      ],
+      "facts": [],
+      "focus": [
+        "Axillary artery.r",
+        "Posterior cord of brachial plexus.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Axillary relations",
+          "text": "In the axilla, three cords become arranged around the axillary artery. The lecture groups the plexus, artery and vein together in the axillary sheath.",
+          "target": "Axillary artery.r",
+          "color": "#ff798c"
+        },
+        {
+          "name": "First part of artery",
+          "text": "All three cords lie above and lateral to the first part. Use the original diagram for the cord positions.",
+          "target": "Posterior cord of brachial plexus.r",
+          "color": "#dca0f1"
+        }
+      ],
+      "view": "front",
+      "caption": "Trace the colored nerve and compare its relations with the original lecture diagram.",
+      "diagram": {
+        "page": 3,
+        "note": "Original lecture figure — fine branches, skin boundaries and deformities are shown here"
+      },
+      "referencePages": [
+        "s3"
+      ]
+    },
+    {
+      "topic": "relations",
+      "title": "Cords are named around the second part",
+      "pages": [
+        3
+      ],
+      "facts": [],
+      "focus": [
+        "Axillary artery.r",
+        "Posterior cord of brachial plexus.r",
+        "Anterior division of inferior trunk of brachial plexus.r",
+        "Anterior division of middle trunk of brachial plexus.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Medial cord",
+          "text": "Crosses behind the artery to reach the medial side of its second part. Related division is framed.",
+          "target": "Anterior division of inferior trunk of brachial plexus.r",
+          "color": "#dca0f1",
+          "context": true
+        },
+        {
+          "name": "Posterior cord",
+          "text": "Behind the second part of axillary artery.",
+          "target": "Posterior cord of brachial plexus.r",
+          "color": "#dca0f1"
+        },
+        {
+          "name": "Lateral cord",
+          "text": "Lateral side of the second part. Related division is framed.",
+          "target": "Anterior division of middle trunk of brachial plexus.r",
+          "color": "#dca0f1",
+          "context": true
+        }
+      ],
+      "view": "front",
+      "caption": "Trace the colored nerve and compare its relations with the original lecture diagram.",
+      "diagram": {
+        "page": 3,
+        "note": "Original lecture figure — fine branches, skin boundaries and deformities are shown here"
+      },
+      "referencePages": [
+        "s3"
+      ]
+    },
+    {
+      "topic": "palsies",
+      "title": "Erb–Duchenne palsy",
+      "pages": [
+        4
+      ],
+      "facts": [],
+      "focus": [
+        "Superior trunk of brachial plexus.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Upper roots C5–C6",
+          "text": "Motor: Waiter’s tip: shoulder adducted and medially rotated; arm hangs at side; elbow extended; forearm pronated.",
+          "target": "Superior trunk of brachial plexus.r",
+          "color": "#dca0f1"
+        },
+        {
+          "name": "Sensory",
+          "text": "Loss of sensation on lateral side of upper limb.",
+          "target": "Superior trunk of brachial plexus.r",
+          "color": "#dca0f1",
+          "at": 0.25
+        },
+        {
+          "name": "Cause / context",
+          "text": "Increased angle between head and shoulder; difficult delivery.",
+          "target": "Superior trunk of brachial plexus.r",
+          "color": "#dca0f1",
+          "at": 0.75
+        }
+      ],
+      "view": "front",
+      "caption": "Lecture comparison: the 3D model stays in its normal pose. Original figures show the injury posture; this is not a deformity simulation.",
+      "lesionId": "erb",
+      "nerveId": "plexus",
+      "diagram": {
+        "page": 4,
+        "note": "Original lecture figure — fine branches, skin boundaries and deformities are shown here"
+      },
+      "referencePages": [
+        "s16"
+      ]
+    },
+    {
+      "topic": "palsies",
+      "title": "Klumpke palsy",
+      "pages": [
+        4
+      ],
+      "facts": [],
+      "focus": [
+        "Inferior trunk of brachial plexus.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Lower roots C8–T1",
+          "text": "Motor: Complete claw hand: MCP hyperextension and interphalangeal flexion — opposite of writing position.",
+          "target": "Inferior trunk of brachial plexus.r",
+          "color": "#dca0f1"
+        },
+        {
+          "name": "Sensory",
+          "text": "Loss of sensation on medial side of upper limb.",
+          "target": "Inferior trunk of brachial plexus.r",
+          "color": "#dca0f1",
+          "at": 0.25
+        },
+        {
+          "name": "Cause / context",
+          "text": "Excessive arm abduction; cervical rib.",
+          "target": "Inferior trunk of brachial plexus.r",
+          "color": "#dca0f1",
+          "at": 0.75
+        }
+      ],
+      "view": "front",
+      "caption": "Lecture comparison: the 3D model stays in its normal pose. Original figures show the injury posture; this is not a deformity simulation.",
+      "lesionId": "klumpke",
+      "nerveId": "plexus",
+      "diagram": {
+        "page": 4,
+        "note": "Original lecture figure — fine branches, skin boundaries and deformities are shown here"
+      },
+      "referencePages": [
+        "s17"
+      ]
+    },
+    {
+      "topic": "axillary",
+      "title": "Axillary nerve · origin",
+      "pages": [
+        5
+      ],
+      "facts": [],
+      "focus": [
+        "Axillary nerve.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Axillary nerve",
+          "text": "Roots: C5, C6. Origin: Posterior cord.",
+          "target": "Axillary nerve.r",
+          "color": "#f4c653"
+        }
+      ],
+      "view": "front",
+      "caption": "Trace the colored nerve and compare its relations with the original lecture diagram.",
+      "nerveId": "axillary",
+      "nerveAspect": "origin",
+      "referencePages": [
+        "s13"
+      ]
+    },
+    {
+      "topic": "axillary",
+      "title": "Axillary nerve · course",
+      "pages": [
+        5
+      ],
+      "facts": [],
+      "focus": [
+        "Axillary nerve.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Axillary nerve",
+          "text": "Passes backward through quadrangular space, then winds around surgical neck of humerus.",
+          "target": "Axillary nerve.r",
+          "color": "#f4c653"
+        }
+      ],
+      "view": "front",
+      "caption": "Trace the colored nerve and compare its relations with the original lecture diagram.",
+      "nerveId": "axillary",
+      "nerveAspect": "course",
+      "diagram": {
+        "page": 5,
+        "note": "Original lecture figure — fine branches, skin boundaries and deformities are shown here"
+      },
+      "referencePages": [
+        "s13"
+      ]
+    },
+    {
+      "topic": "axillary",
+      "title": "Axillary nerve · motor links",
+      "pages": [
+        5
+      ],
+      "facts": [],
+      "focus": [
+        "Axillary nerve.r",
+        "Acromial part of deltoid muscle.r",
+        "Clavicular part of deltoid muscle.r",
+        "Scapular spinal part of deltoid muscle.r",
+        "Teres minor muscle.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Axillary nerve",
+          "text": "Deltoid and teres minor.",
+          "target": "Axillary nerve.r",
+          "color": "#f4c653"
+        },
+        {
+          "name": "Connected muscles",
+          "text": "These intact muscles illustrate the named motor targets; mixed-innervation muscle subdivisions are not invented.",
+          "target": "Acromial part of deltoid muscle.r",
+          "color": "#f4c653"
+        }
+      ],
+      "view": "front",
+      "caption": "Trace the colored nerve and compare its relations with the original lecture diagram.",
+      "muscleFocus": [
+        "Acromial part of deltoid muscle.r",
+        "Clavicular part of deltoid muscle.r",
+        "Scapular spinal part of deltoid muscle.r",
+        "Teres minor muscle.r"
+      ],
+      "nerveId": "axillary",
+      "nerveAspect": "motor",
+      "referencePages": [
+        "s13"
+      ]
+    },
+    {
+      "topic": "axillary",
+      "title": "Axillary nerve · sensory / termination",
+      "pages": [
+        5
+      ],
+      "facts": [],
+      "focus": [
+        "Axillary nerve.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Axillary nerve",
+          "text": "Upper lateral cutaneous nerve of arm supplies skin over lower half of deltoid.",
+          "target": "Axillary nerve.r",
+          "color": "#f4c653"
+        }
+      ],
+      "view": "front",
+      "caption": "Trace the colored nerve and compare its relations with the original lecture diagram.",
+      "nerveId": "axillary",
+      "nerveAspect": "sensory",
+      "diagram": {
+        "page": 5,
+        "note": "Original lecture figure — fine branches, skin boundaries and deformities are shown here"
+      },
+      "referencePages": [
+        "s13"
+      ]
+    },
+    {
+      "topic": "axillary",
+      "title": "Axillary nerve injury",
+      "pages": [
+        5
+      ],
+      "facts": [],
+      "focus": [
+        "Axillary nerve.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Quadrangular space / surgical neck",
+          "text": "Motor: Weak arm abduction; deltoid wasting produces a flat shoulder.",
+          "target": "Axillary nerve.r",
+          "color": "#f4c653"
+        },
+        {
+          "name": "Sensory",
+          "text": "Loss over lower half of deltoid.",
+          "target": "Axillary nerve.r",
+          "color": "#f4c653",
+          "at": 0.25
+        },
+        {
+          "name": "Cause / context",
+          "text": "Quadrangular space injury; downward humeral dislocation; surgical-neck fracture.",
+          "target": "Axillary nerve.r",
+          "color": "#f4c653",
+          "at": 0.75
+        }
+      ],
+      "view": "front",
+      "caption": "Lecture comparison: the 3D model stays in its normal pose. Original figures show the injury posture; this is not a deformity simulation.",
+      "lesionId": "axillary",
+      "nerveId": "axillary",
+      "diagram": {
+        "page": 5,
+        "note": "Original lecture figure — fine branches, skin boundaries and deformities are shown here"
+      },
+      "referencePages": [
+        "s19"
+      ]
+    },
+    {
+      "topic": "musculocutaneous",
+      "title": "Musculocutaneous nerve · origin",
+      "pages": [
+        5
+      ],
+      "facts": [],
+      "focus": [
+        "Musculocutaneous nerve.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Musculocutaneous nerve",
+          "text": "Roots: C5, C6, C7. Origin: Lateral cord.",
+          "target": "Musculocutaneous nerve.r",
+          "color": "#78d6a4"
+        }
+      ],
+      "view": "front",
+      "caption": "Trace the colored nerve and compare its relations with the original lecture diagram.",
+      "nerveId": "musculocutaneous",
+      "nerveAspect": "origin",
+      "referencePages": [
+        "s6"
+      ]
+    },
+    {
+      "topic": "musculocutaneous",
+      "title": "Musculocutaneous nerve · course",
+      "pages": [
+        5
+      ],
+      "facts": [],
+      "focus": [
+        "Musculocutaneous nerve.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Musculocutaneous nerve",
+          "text": "Pierces coracobrachialis and passes deep to biceps. Continues as lateral cutaneous nerve of forearm.",
+          "target": "Musculocutaneous nerve.r",
+          "color": "#78d6a4"
+        }
+      ],
+      "view": "front",
+      "caption": "Trace the colored nerve and compare its relations with the original lecture diagram.",
+      "nerveId": "musculocutaneous",
+      "nerveAspect": "course",
+      "diagram": {
+        "page": 5,
+        "note": "Original lecture figure — fine branches, skin boundaries and deformities are shown here"
+      },
+      "referencePages": [
+        "s6"
+      ]
+    },
+    {
+      "topic": "musculocutaneous",
+      "title": "Musculocutaneous nerve · motor links",
+      "pages": [
+        5
+      ],
+      "facts": [],
+      "focus": [
+        "Musculocutaneous nerve.r",
+        "Coracobrachialis muscle.r",
+        "Short head of biceps brachii.r",
+        "Long head of biceps brachii.r",
+        "Brachialis muscle.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Musculocutaneous nerve",
+          "text": "Coracobrachialis, biceps and brachialis.",
+          "target": "Musculocutaneous nerve.r",
+          "color": "#78d6a4"
+        },
+        {
+          "name": "Connected muscles",
+          "text": "These intact muscles illustrate the named motor targets; mixed-innervation muscle subdivisions are not invented.",
+          "target": "Coracobrachialis muscle.r",
+          "color": "#78d6a4"
+        }
+      ],
+      "view": "front",
+      "caption": "Trace the colored nerve and compare its relations with the original lecture diagram.",
+      "muscleFocus": [
+        "Coracobrachialis muscle.r",
+        "Short head of biceps brachii.r",
+        "Long head of biceps brachii.r",
+        "Brachialis muscle.r"
+      ],
+      "nerveId": "musculocutaneous",
+      "nerveAspect": "motor",
+      "referencePages": [
+        "s6"
+      ]
+    },
+    {
+      "topic": "musculocutaneous",
+      "title": "Musculocutaneous nerve · sensory / termination",
+      "pages": [
+        5
+      ],
+      "facts": [],
+      "focus": [
+        "Musculocutaneous nerve.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Musculocutaneous nerve",
+          "text": "Continues as the lateral cutaneous nerve of the forearm.",
+          "target": "Musculocutaneous nerve.r",
+          "color": "#78d6a4"
+        }
+      ],
+      "view": "front",
+      "caption": "Trace the colored nerve and compare its relations with the original lecture diagram.",
+      "nerveId": "musculocutaneous",
+      "nerveAspect": "sensory",
+      "diagram": {
+        "page": 5,
+        "note": "Original lecture figure — fine branches, skin boundaries and deformities are shown here"
+      },
+      "referencePages": [
+        "s6"
+      ]
+    },
+    {
+      "topic": "long",
+      "title": "Long thoracic nerve · origin",
+      "pages": [
+        6
+      ],
+      "facts": [],
+      "focus": [
+        "Long thoracic nerve.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Long nerve",
+          "text": "Roots: Roots stage; individual roots not specified here. Origin: Roots of brachial plexus.",
+          "target": "Long thoracic nerve.r",
+          "color": "#efa46c"
+        }
+      ],
+      "view": "front",
+      "caption": "Trace the colored nerve and compare its relations with the original lecture diagram.",
+      "nerveId": "long",
+      "nerveAspect": "origin",
+      "referencePages": [
+        "s4"
+      ]
+    },
+    {
+      "topic": "long",
+      "title": "Long thoracic nerve · course",
+      "pages": [
+        6
+      ],
+      "facts": [],
+      "focus": [
+        "Long thoracic nerve.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Long nerve",
+          "text": "The lecture discusses injury in posterior triangle and chest wall.",
+          "target": "Long thoracic nerve.r",
+          "color": "#efa46c"
+        }
+      ],
+      "view": "front",
+      "caption": "Trace the colored nerve and compare its relations with the original lecture diagram.",
+      "nerveId": "long",
+      "nerveAspect": "course",
+      "diagram": {
+        "page": 6,
+        "note": "Original lecture figure — fine branches, skin boundaries and deformities are shown here"
+      },
+      "referencePages": [
+        "s18"
+      ]
+    },
+    {
+      "topic": "long",
+      "title": "Long thoracic nerve · motor links",
+      "pages": [
+        6
+      ],
+      "facts": [],
+      "focus": [
+        "Long thoracic nerve.r",
+        "Serratus anterior muscle.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Long nerve",
+          "text": "Serratus anterior.",
+          "target": "Long thoracic nerve.r",
+          "color": "#efa46c"
+        },
+        {
+          "name": "Connected muscles",
+          "text": "These intact muscles illustrate the named motor targets; mixed-innervation muscle subdivisions are not invented.",
+          "target": "Serratus anterior muscle.r",
+          "color": "#efa46c"
+        }
+      ],
+      "view": "front",
+      "caption": "Trace the colored nerve and compare its relations with the original lecture diagram.",
+      "muscleFocus": [
+        "Serratus anterior muscle.r"
+      ],
+      "nerveId": "long",
+      "nerveAspect": "motor",
+      "referencePages": [
+        "s18"
+      ]
+    },
+    {
+      "topic": "long",
+      "title": "Long thoracic nerve · sensory / termination",
+      "pages": [
+        6
+      ],
+      "facts": [],
+      "focus": [
+        "Long thoracic nerve.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Long nerve",
+          "text": "Not specified on the lecture page.",
+          "target": "Long thoracic nerve.r",
+          "color": "#efa46c"
+        }
+      ],
+      "view": "front",
+      "caption": "Trace the colored nerve and compare its relations with the original lecture diagram.",
+      "nerveId": "long",
+      "nerveAspect": "sensory",
+      "diagram": {
+        "page": 6,
+        "note": "Original lecture figure — fine branches, skin boundaries and deformities are shown here"
+      },
+      "referencePages": [
+        "s18"
+      ]
+    },
+    {
+      "topic": "long",
+      "title": "Long thoracic nerve injury",
+      "pages": [
+        6
+      ],
+      "facts": [],
+      "focus": [
+        "Long thoracic nerve.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Neck / chest wall",
+          "text": "Motor: Serratus anterior paralysis; difficulty raising hand above head; medial scapular border and inferior angle move laterally and posteriorly (winged scapula).",
+          "target": "Long thoracic nerve.r",
+          "color": "#efa46c"
+        },
+        {
+          "name": "Sensory",
+          "text": "No sensory effect is specified on this lecture page.",
+          "target": "Long thoracic nerve.r",
+          "color": "#efa46c",
+          "at": 0.25
+        },
+        {
+          "name": "Cause / context",
+          "text": "Posterior triangle injury; chest-wall injury; radical mastectomy.",
+          "target": "Long thoracic nerve.r",
+          "color": "#efa46c",
+          "at": 0.75
+        }
+      ],
+      "view": "front",
+      "caption": "Lecture comparison: the 3D model stays in its normal pose. Original figures show the injury posture; this is not a deformity simulation.",
+      "lesionId": "long",
+      "nerveId": "long",
+      "diagram": {
+        "page": 6,
+        "note": "Original lecture figure — fine branches, skin boundaries and deformities are shown here"
+      },
+      "referencePages": [
+        "s18"
+      ]
+    },
+    {
+      "topic": "sensory",
+      "title": "Hand sensation · palmar",
+      "pages": [
+        7
+      ],
+      "facts": [],
+      "focus": [
+        "Ulnar nerve.r",
+        "Median nerve.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Ulnar nerve",
+          "text": "Medial third of palm and medial 1½ fingers.",
+          "target": "Ulnar nerve.r",
+          "color": "#57d9d1"
+        },
+        {
+          "name": "Median nerve",
+          "text": "Lateral two thirds of palm and palmar lateral 3½ fingers.",
+          "target": "Median nerve.r",
+          "color": "#ff798c"
+        }
+      ],
+      "view": "front",
+      "caption": "Trace the colored nerve and compare its relations with the original lecture diagram.",
+      "sensorySide": "palmar",
+      "diagram": {
+        "page": 7,
+        "note": "Original lecture figure — fine branches, skin boundaries and deformities are shown here"
+      },
+      "region": {
+        "target": "Third metacarpal bone.r",
+        "span": 0.2
+      },
+      "referencePages": [
+        "s14"
+      ]
+    },
+    {
+      "topic": "sensory",
+      "title": "Hand sensation · dorsal",
+      "pages": [
+        7
+      ],
+      "facts": [],
+      "focus": [
+        "Ulnar nerve.r",
+        "Radial nerve.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Ulnar nerve",
+          "text": "Medial third of dorsum and medial 1½ fingers.",
+          "target": "Ulnar nerve.r",
+          "color": "#57d9d1"
+        },
+        {
+          "name": "Radial nerve",
+          "text": "Lateral two thirds of dorsum and lateral 3½ fingers except terminal phalanges, which are median.",
+          "target": "Radial nerve.r",
+          "color": "#79b4ff"
+        }
+      ],
+      "view": "back",
+      "caption": "Trace the colored nerve and compare its relations with the original lecture diagram.",
+      "sensorySide": "dorsal",
+      "diagram": {
+        "page": 7,
+        "note": "Original lecture figure — fine branches, skin boundaries and deformities are shown here"
+      },
+      "region": {
+        "target": "Third metacarpal bone.r",
+        "span": 0.2
+      },
+      "referencePages": [
+        "s14"
+      ]
+    },
+    {
+      "topic": "sensory",
+      "title": "Three motor rules and their exceptions",
+      "pages": [
+        7
+      ],
+      "facts": [],
+      "focus": [
+        "Median nerve.r",
+        "Ulnar nerve.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Median nerve",
+          "text": "Superficial flexors: median except FCU. Deep flexors: anterior interosseous except medial half FDP.",
+          "target": "Median nerve.r",
+          "color": "#ff798c"
+        },
+        {
+          "name": "Ulnar nerve",
+          "text": "Hand: deep ulnar except thenar eminence and first two lumbricals (median); palmaris brevis uses superficial ulnar.",
+          "target": "Ulnar nerve.r",
+          "color": "#57d9d1"
+        }
+      ],
+      "view": "front",
+      "caption": "Trace the colored nerve and compare its relations with the original lecture diagram.",
+      "diagram": {
+        "page": 7,
+        "note": "Original lecture figure — fine branches, skin boundaries and deformities are shown here"
+      },
+      "referencePages": [
+        "s8",
+        "s10"
+      ]
+    },
+    {
+      "topic": "median",
+      "title": "Median nerve · origin",
+      "pages": [
+        8
+      ],
+      "facts": [],
+      "focus": [
+        "Median nerve.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Median nerve",
+          "text": "Roots: C5, C6, C7, C8, T1. Origin: Medial and lateral cords.",
+          "target": "Median nerve.r",
+          "color": "#ff798c"
+        }
+      ],
+      "view": "front",
+      "caption": "Trace the colored nerve and compare its relations with the original lecture diagram.",
+      "nerveId": "median",
+      "nerveAspect": "origin",
+      "referencePages": [
+        "s7"
+      ]
+    },
+    {
+      "topic": "median",
+      "title": "Median nerve · course",
+      "pages": [
+        8
+      ],
+      "facts": [],
+      "focus": [
+        "Median nerve.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Median nerve",
+          "text": "Crosses anterior to brachial artery from lateral to medial at mid-arm; passes between pronator teres heads; enters hand deep to flexor retinaculum.",
+          "target": "Median nerve.r",
+          "color": "#ff798c"
+        }
+      ],
+      "view": "front",
+      "caption": "Trace the colored nerve and compare its relations with the original lecture diagram.",
+      "nerveId": "median",
+      "nerveAspect": "course",
+      "diagram": {
+        "page": 8,
+        "note": "Original lecture figure — fine branches, skin boundaries and deformities are shown here"
+      },
+      "referencePages": [
+        "s7"
+      ]
+    },
+    {
+      "topic": "median",
+      "title": "Median nerve · motor links",
+      "pages": [
+        8
+      ],
+      "facts": [],
+      "focus": [
+        "Median nerve.r",
+        "Superficial head of pronator teres.r",
+        "Deep head of pronator teres.r",
+        "Flexor carpi radialis.r",
+        "Palmaris longus muscle.r",
+        "Flexor pollicis longus.r",
+        "Pronator quadratus.r",
+        "Opponens pollicis muscle.r",
+        "Abductor pollicis brevis.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Median nerve",
+          "text": "Superficial flexors except FCU; anterior interosseous branch to deep flexors except medial half of FDP; thenar eminence and first two lumbricals.",
+          "target": "Median nerve.r",
+          "color": "#ff798c"
+        },
+        {
+          "name": "Connected muscles",
+          "text": "These intact muscles illustrate the named motor targets; mixed-innervation muscle subdivisions are not invented.",
+          "target": "Superficial head of pronator teres.r",
+          "color": "#ff798c"
+        }
+      ],
+      "view": "front",
+      "caption": "Trace the colored nerve and compare its relations with the original lecture diagram.",
+      "muscleFocus": [
+        "Superficial head of pronator teres.r",
+        "Deep head of pronator teres.r",
+        "Flexor carpi radialis.r",
+        "Palmaris longus muscle.r",
+        "Flexor pollicis longus.r",
+        "Pronator quadratus.r",
+        "Opponens pollicis muscle.r",
+        "Abductor pollicis brevis.r"
+      ],
+      "nerveId": "median",
+      "nerveAspect": "motor",
+      "referencePages": [
+        "s8"
+      ]
+    },
+    {
+      "topic": "median",
+      "title": "Median nerve · sensory / termination",
+      "pages": [
+        8
+      ],
+      "facts": [],
+      "focus": [
+        "Median nerve.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Median nerve",
+          "text": "Lateral two thirds of palm; palmar lateral 3½ fingers and dorsal terminal phalanges.",
+          "target": "Median nerve.r",
+          "color": "#ff798c"
+        }
+      ],
+      "view": "front",
+      "caption": "Trace the colored nerve and compare its relations with the original lecture diagram.",
+      "nerveId": "median",
+      "nerveAspect": "sensory",
+      "diagram": {
+        "page": 8,
+        "note": "Original lecture figure — fine branches, skin boundaries and deformities are shown here"
+      },
+      "referencePages": [
+        "s8",
+        "s14"
+      ]
+    },
+    {
+      "topic": "median",
+      "title": "Mid-arm crossing",
+      "pages": [
+        8
+      ],
+      "facts": [],
+      "focus": [
+        "Median nerve.r",
+        "Brachial artery.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Median nerve",
+          "text": "Crosses in front of brachial artery, from lateral to medial.",
+          "target": "Median nerve.r",
+          "color": "#ff798c",
+          "at": 0.6
+        },
+        {
+          "name": "Brachial artery",
+          "text": "Compare the artery with the nerve at mid-arm.",
+          "target": "Brachial artery.r",
+          "color": "#f4c653",
+          "at": 0.5
+        }
+      ],
+      "view": "front",
+      "caption": "Trace the colored nerve and compare its relations with the original lecture diagram.",
+      "region": {
+        "target": "Brachial artery.r",
+        "at": 0.5,
+        "span": 0.24
+      },
+      "nerveId": "median",
+      "nerveAspect": "course",
+      "referencePages": [
+        "s7"
+      ]
+    },
+    {
+      "topic": "median",
+      "title": "Between pronator teres heads",
+      "pages": [
+        8,
+        9
+      ],
+      "facts": [],
+      "focus": [
+        "Median nerve.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Median nerve",
+          "text": "Enters forearm between the two heads of pronator teres.",
+          "target": "Median nerve.r",
+          "color": "#ff798c",
+          "at": 0.38
+        }
+      ],
+      "view": "front",
+      "caption": "Trace the colored nerve and compare its relations with the original lecture diagram.",
+      "muscleFocus": [
+        "Superficial head of pronator teres.r",
+        "Deep head of pronator teres.r"
+      ],
+      "region": {
+        "target": "Superficial head of pronator teres.r",
+        "span": 0.2
+      },
+      "diagram": {
+        "page": 9,
+        "note": "Original lecture figure — fine branches, skin boundaries and deformities are shown here"
+      },
+      "nerveId": "median",
+      "nerveAspect": "course",
+      "referencePages": [
+        "s7"
+      ]
+    },
+    {
+      "topic": "median",
+      "title": "Median nerve · named branches",
+      "pages": [
+        8
+      ],
+      "facts": [],
+      "focus": [
+        "Median nerve.r",
+        "Palmar branch of median nerve.r",
+        "Anterior interosseous nerve of forearm.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Articular branches",
+          "text": "Supply the elbow; small branches are detailed in the source.",
+          "target": "Median nerve.r",
+          "color": "#ff798c",
+          "context": true
+        },
+        {
+          "name": "Palmar cutaneous branch",
+          "text": "Lateral two thirds of palm.",
+          "target": "Palmar branch of median nerve.r",
+          "color": "#ff798c"
+        },
+        {
+          "name": "Anterior interosseous nerve",
+          "text": "Deep flexors except medial half of FDP.",
+          "target": "Anterior interosseous nerve of forearm.r",
+          "color": "#ff798c"
+        }
+      ],
+      "view": "front",
+      "caption": "Trace the colored nerve and compare its relations with the original lecture diagram.",
+      "diagram": {
+        "page": 8,
+        "note": "Original lecture figure — fine branches, skin boundaries and deformities are shown here"
+      },
+      "nerveId": "median",
+      "nerveAspect": "branches",
+      "referencePages": [
+        "s8"
+      ]
+    },
+    {
+      "topic": "median",
+      "title": "Median digital branches",
+      "pages": [
+        8
+      ],
+      "facts": [],
+      "focus": [
+        "Proper palmar digital branches of median nerve.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Digital cutaneous branches",
+          "text": "Palmar lateral 3½ fingers and dorsum of their terminal phalanges.",
+          "target": "Proper palmar digital branches of median nerve.r",
+          "color": "#ff798c"
+        }
+      ],
+      "view": "front",
+      "caption": "Trace the colored nerve and compare its relations with the original lecture diagram.",
+      "nerveId": "median",
+      "nerveAspect": "branches",
+      "diagram": {
+        "page": 9,
+        "note": "Original lecture figure — fine branches, skin boundaries and deformities are shown here"
+      },
+      "referencePages": [
+        "s8"
+      ]
+    },
+    {
+      "topic": "ulnar",
+      "title": "Ulnar nerve · origin",
+      "pages": [
+        8
+      ],
+      "facts": [],
+      "focus": [
+        "Ulnar nerve.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Ulnar nerve",
+          "text": "Roots: C7, C8, T1 (lecture). Origin: Medial cord.",
+          "target": "Ulnar nerve.r",
+          "color": "#57d9d1"
+        }
+      ],
+      "view": "front",
+      "caption": "Trace the colored nerve and compare its relations with the original lecture diagram.",
+      "nerveId": "ulnar",
+      "nerveAspect": "origin",
+      "referencePages": [
+        "s9"
+      ]
+    },
+    {
+      "topic": "ulnar",
+      "title": "Ulnar nerve · course",
+      "pages": [
+        8
+      ],
+      "facts": [],
+      "focus": [
+        "Ulnar nerve.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Ulnar nerve",
+          "text": "Enters posterior compartment at mid-arm; descends behind medial epicondyle; between FCU heads; enters hand superficial to flexor retinaculum.",
+          "target": "Ulnar nerve.r",
+          "color": "#57d9d1"
+        }
+      ],
+      "view": "front",
+      "caption": "Trace the colored nerve and compare its relations with the original lecture diagram.",
+      "nerveId": "ulnar",
+      "nerveAspect": "course",
+      "diagram": {
+        "page": 8,
+        "note": "Original lecture figure — fine branches, skin boundaries and deformities are shown here"
+      },
+      "referencePages": [
+        "s9"
+      ]
+    },
+    {
+      "topic": "ulnar",
+      "title": "Ulnar nerve · motor links",
+      "pages": [
+        8
+      ],
+      "facts": [],
+      "focus": [
+        "Ulnar nerve.r",
+        "Humeral head of flexor carpi ulnaris.r",
+        "Ulnar head of flexor carpi ulnaris.r",
+        "Palmar interossei muscles.r",
+        "Dorsal interossei muscles of hand.r",
+        "Flexor digiti minimi of hand.r",
+        "Abductor digiti minimi of hand.r",
+        "Opponens digiti minimi muscle of hand.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Ulnar nerve",
+          "text": "FCU and medial half FDP. Deep terminal branch to hand muscles except thenar eminence and first two lumbricals. Superficial branch supplies palmaris brevis.",
+          "target": "Ulnar nerve.r",
+          "color": "#57d9d1"
+        },
+        {
+          "name": "Connected muscles",
+          "text": "These intact muscles illustrate the named motor targets; mixed-innervation muscle subdivisions are not invented.",
+          "target": "Humeral head of flexor carpi ulnaris.r",
+          "color": "#57d9d1"
+        }
+      ],
+      "view": "front",
+      "caption": "Trace the colored nerve and compare its relations with the original lecture diagram.",
+      "muscleFocus": [
+        "Humeral head of flexor carpi ulnaris.r",
+        "Ulnar head of flexor carpi ulnaris.r",
+        "Palmar interossei muscles.r",
+        "Dorsal interossei muscles of hand.r",
+        "Flexor digiti minimi of hand.r",
+        "Abductor digiti minimi of hand.r",
+        "Opponens digiti minimi muscle of hand.r"
+      ],
+      "nerveId": "ulnar",
+      "nerveAspect": "motor",
+      "referencePages": [
+        "s10"
+      ]
+    },
+    {
+      "topic": "ulnar",
+      "title": "Ulnar nerve · sensory / termination",
+      "pages": [
+        8
+      ],
+      "facts": [],
+      "focus": [
+        "Ulnar nerve.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Ulnar nerve",
+          "text": "Medial third of palm and dorsum; medial 1½ fingers.",
+          "target": "Ulnar nerve.r",
+          "color": "#57d9d1"
+        }
+      ],
+      "view": "front",
+      "caption": "Trace the colored nerve and compare its relations with the original lecture diagram.",
+      "nerveId": "ulnar",
+      "nerveAspect": "sensory",
+      "diagram": {
+        "page": 8,
+        "note": "Original lecture figure — fine branches, skin boundaries and deformities are shown here"
+      },
+      "referencePages": [
+        "s10",
+        "s14"
+      ]
+    },
+    {
+      "topic": "ulnar",
+      "title": "Behind the medial epicondyle",
+      "pages": [
+        8
+      ],
+      "facts": [],
+      "focus": [
+        "Ulnar nerve.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Ulnar nerve",
+          "text": "Passes to posterior compartment at mid-arm, then descends behind medial epicondyle.",
+          "target": "Ulnar nerve.r",
+          "color": "#57d9d1",
+          "at": 0.6
+        }
+      ],
+      "view": "front",
+      "caption": "Trace the colored nerve and compare its relations with the original lecture diagram.",
+      "region": {
+        "target": "Humerus.r",
+        "at": 0.05,
+        "span": 0.22
+      },
+      "diagram": {
+        "page": 8,
+        "note": "Original lecture figure — fine branches, skin boundaries and deformities are shown here"
+      },
+      "nerveId": "ulnar",
+      "nerveAspect": "course",
+      "referencePages": [
+        "s9"
+      ]
+    },
+    {
+      "topic": "ulnar",
+      "title": "Between FCU heads",
+      "pages": [
+        8
+      ],
+      "facts": [],
+      "focus": [
+        "Ulnar nerve.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Ulnar nerve",
+          "text": "Enters forearm between humeral and ulnar heads of flexor carpi ulnaris.",
+          "target": "Ulnar nerve.r",
+          "color": "#57d9d1",
+          "at": 0.45
+        }
+      ],
+      "view": "front",
+      "caption": "Trace the colored nerve and compare its relations with the original lecture diagram.",
+      "muscleFocus": [
+        "Humeral head of flexor carpi ulnaris.r",
+        "Ulnar head of flexor carpi ulnaris.r"
+      ],
+      "diagram": {
+        "page": 8,
+        "note": "Original lecture figure — fine branches, skin boundaries and deformities are shown here"
+      },
+      "nerveId": "ulnar",
+      "nerveAspect": "course",
+      "referencePages": [
+        "s9"
+      ]
+    },
+    {
+      "topic": "ulnar",
+      "title": "Ulnar nerve · forearm branches",
+      "pages": [
+        8
+      ],
+      "facts": [],
+      "focus": [
+        "Ulnar nerve.r",
+        "Palmar branch of ulnar nerve.r",
+        "Dorsal branch of ulnar nerve.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Ulnar nerve",
+          "text": "Muscular branches to FCU and medial half of FDP; articular branches to elbow.",
+          "target": "Ulnar nerve.r",
+          "color": "#57d9d1"
+        },
+        {
+          "name": "Palmar cutaneous branch",
+          "text": "Medial third of palm.",
+          "target": "Palmar branch of ulnar nerve.r",
+          "color": "#57d9d1"
+        },
+        {
+          "name": "Dorsal cutaneous branch",
+          "text": "Medial third of dorsum and medial 1½ fingers.",
+          "target": "Dorsal branch of ulnar nerve.r",
+          "color": "#57d9d1"
+        }
+      ],
+      "view": "front",
+      "caption": "Trace the colored nerve and compare its relations with the original lecture diagram.",
+      "nerveId": "ulnar",
+      "nerveAspect": "branches",
+      "referencePages": [
+        "s10"
+      ]
+    },
+    {
+      "topic": "ulnar",
+      "title": "Two terminal branches in hand",
+      "pages": [
+        8
+      ],
+      "facts": [],
+      "focus": [
+        "Superficial branch of ulnar nerve.r",
+        "Deep branch of ulnar nerve.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Superficial terminal branch",
+          "text": "Palmaris brevis and medial 1½ fingers.",
+          "target": "Superficial branch of ulnar nerve.r",
+          "color": "#57d9d1"
+        },
+        {
+          "name": "Deep terminal branch",
+          "text": "Hand muscles except thenar eminence and first two lumbricals; palmaris brevis is supplied by the superficial branch.",
+          "target": "Deep branch of ulnar nerve.r",
+          "color": "#57d9d1"
+        }
+      ],
+      "view": "front",
+      "caption": "Trace the colored nerve and compare its relations with the original lecture diagram.",
+      "nerveId": "ulnar",
+      "nerveAspect": "branches",
+      "diagram": {
+        "page": 8,
+        "note": "Original lecture figure — fine branches, skin boundaries and deformities are shown here"
+      },
+      "referencePages": [
+        "s10"
+      ]
+    },
+    {
+      "topic": "median-injury",
+      "title": "Median nerve · wrist",
+      "pages": [
+        10
+      ],
+      "facts": [],
+      "focus": [
+        "Median nerve.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Carpal tunnel",
+          "text": "Motor: Thenar atrophy, loss of thumb opposition and ape’s hand deformity.",
+          "target": "Median nerve.r",
+          "color": "#ff798c"
+        },
+        {
+          "name": "Sensory",
+          "text": "Lateral 3½ fingers; palm is spared.",
+          "target": "Median nerve.r",
+          "color": "#ff798c",
+          "at": 0.25
+        },
+        {
+          "name": "Cause / context",
+          "text": "Median nerve compression by carpal-tunnel contents.",
+          "target": "Median nerve.r",
+          "color": "#ff798c",
+          "at": 0.75
+        }
+      ],
+      "view": "front",
+      "caption": "Lecture comparison: the 3D model stays in its normal pose. Original figures show the injury posture; this is not a deformity simulation.",
+      "lesionId": "median-wrist",
+      "nerveId": "median",
+      "diagram": {
+        "page": 10,
+        "note": "Original lecture figure — fine branches, skin boundaries and deformities are shown here"
+      },
+      "referencePages": [
+        "s22"
+      ]
+    },
+    {
+      "topic": "median-injury",
+      "title": "Median nerve · elbow",
+      "pages": [
+        10
+      ],
+      "facts": [],
+      "focus": [
+        "Median nerve.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Elbow",
+          "text": "Motor: Pointing index: no IP flexion of second and third fingers. Loss of pronation (forearm supine); wrist adduction; thenar atrophy, lost opposition and ape’s hand.",
+          "target": "Median nerve.r",
+          "color": "#ff798c"
+        },
+        {
+          "name": "Sensory",
+          "text": "Lateral two thirds of palm and lateral 3½ fingers.",
+          "target": "Median nerve.r",
+          "color": "#ff798c",
+          "at": 0.25
+        },
+        {
+          "name": "Cause / context",
+          "text": "Supracondylar humeral fracture.",
+          "target": "Median nerve.r",
+          "color": "#ff798c",
+          "at": 0.75
+        }
+      ],
+      "view": "front",
+      "caption": "Lecture comparison: the 3D model stays in its normal pose. Original figures show the injury posture; this is not a deformity simulation.",
+      "lesionId": "median-elbow",
+      "nerveId": "median",
+      "diagram": {
+        "page": 10,
+        "note": "Original lecture figure — fine branches, skin boundaries and deformities are shown here"
+      },
+      "referencePages": [
+        "s21"
+      ]
+    },
+    {
+      "topic": "ulnar-injury",
+      "title": "Ulnar nerve · above wrist",
+      "pages": [
+        11
+      ],
+      "facts": [],
+      "focus": [
+        "Ulnar nerve.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Above wrist",
+          "text": "Motor: Partial claw hand; loss of finger adduction and abduction; hypothenar atrophy.",
+          "target": "Ulnar nerve.r",
+          "color": "#57d9d1"
+        },
+        {
+          "name": "Sensory",
+          "text": "Medial third of palm and medial 1½ fingers.",
+          "target": "Ulnar nerve.r",
+          "color": "#57d9d1",
+          "at": 0.25
+        },
+        {
+          "name": "Cause / context",
+          "text": "Cut wound.",
+          "target": "Ulnar nerve.r",
+          "color": "#57d9d1",
+          "at": 0.75
+        }
+      ],
+      "view": "front",
+      "caption": "Lecture comparison: the 3D model stays in its normal pose. Original figures show the injury posture; this is not a deformity simulation.",
+      "lesionId": "ulnar-wrist",
+      "nerveId": "ulnar",
+      "diagram": {
+        "page": 11,
+        "note": "Original lecture figure — fine branches, skin boundaries and deformities are shown here"
+      },
+      "referencePages": [
+        "s23"
+      ]
+    },
+    {
+      "topic": "ulnar-injury",
+      "title": "Ulnar nerve · above elbow",
+      "pages": [
+        11
+      ],
+      "facts": [],
+      "focus": [
+        "Ulnar nerve.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Above elbow",
+          "text": "Motor: Hand abduction plus partial claw hand, loss of finger adduction/abduction and hypothenar atrophy.",
+          "target": "Ulnar nerve.r",
+          "color": "#57d9d1"
+        },
+        {
+          "name": "Sensory",
+          "text": "Medial third of hand and medial 1½ fingers on both surfaces.",
+          "target": "Ulnar nerve.r",
+          "color": "#57d9d1",
+          "at": 0.25
+        },
+        {
+          "name": "Cause / context",
+          "text": "Medial epicondyle fracture.",
+          "target": "Ulnar nerve.r",
+          "color": "#57d9d1",
+          "at": 0.75
+        }
+      ],
+      "view": "front",
+      "caption": "Lecture comparison: the 3D model stays in its normal pose. Original figures show the injury posture; this is not a deformity simulation.",
+      "lesionId": "ulnar-elbow",
+      "nerveId": "ulnar",
+      "diagram": {
+        "page": 11,
+        "note": "Original lecture figure — fine branches, skin boundaries and deformities are shown here"
+      },
+      "referencePages": [
+        "s23"
+      ]
+    },
+    {
+      "topic": "radial",
+      "title": "Radial nerve · origin",
+      "pages": [
+        12
+      ],
+      "facts": [],
+      "focus": [
+        "Radial nerve.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Radial nerve",
+          "text": "Roots: C5, C6, C7, C8, T1. Origin: Posterior cord.",
+          "target": "Radial nerve.r",
+          "color": "#79b4ff"
+        }
+      ],
+      "view": "front",
+      "caption": "Trace the colored nerve and compare its relations with the original lecture diagram.",
+      "nerveId": "radial",
+      "nerveAspect": "origin",
+      "referencePages": [
+        "s11"
+      ]
+    },
+    {
+      "topic": "radial",
+      "title": "Radial nerve · course",
+      "pages": [
+        12
+      ],
+      "facts": [],
+      "focus": [
+        "Radial nerve.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Radial nerve",
+          "text": "At mid-arm enters spiral groove with profunda brachii; terminates anterior to lateral epicondyle as deep and superficial branches.",
+          "target": "Radial nerve.r",
+          "color": "#79b4ff"
+        }
+      ],
+      "view": "front",
+      "caption": "Trace the colored nerve and compare its relations with the original lecture diagram.",
+      "nerveId": "radial",
+      "nerveAspect": "course",
+      "diagram": {
+        "page": 12,
+        "note": "Original lecture figure — fine branches, skin boundaries and deformities are shown here"
+      },
+      "referencePages": [
+        "s11"
+      ]
+    },
+    {
+      "topic": "radial",
+      "title": "Radial nerve · motor links",
+      "pages": [
+        12
+      ],
+      "facts": [],
+      "focus": [
+        "Radial nerve.r",
+        "Long head of triceps brachii.r",
+        "Lateral head of triceps brachii.r",
+        "Medial head of triceps brachii.r",
+        "Anconeus muscle.r",
+        "Brachioradialis muscle.r",
+        "Extensor carpi radialis longus.r",
+        "Extensor digitorum.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Radial nerve",
+          "text": "Triceps; anconeus; brachioradialis; ECRL. Deep branch supplies forearm extensors in the lecture summary; see detailed branch steps.",
+          "target": "Radial nerve.r",
+          "color": "#79b4ff"
+        },
+        {
+          "name": "Connected muscles",
+          "text": "These intact muscles illustrate the named motor targets; mixed-innervation muscle subdivisions are not invented.",
+          "target": "Long head of triceps brachii.r",
+          "color": "#79b4ff"
+        }
+      ],
+      "view": "front",
+      "caption": "Trace the colored nerve and compare its relations with the original lecture diagram.",
+      "muscleFocus": [
+        "Long head of triceps brachii.r",
+        "Lateral head of triceps brachii.r",
+        "Medial head of triceps brachii.r",
+        "Anconeus muscle.r",
+        "Brachioradialis muscle.r",
+        "Extensor carpi radialis longus.r",
+        "Extensor digitorum.r"
+      ],
+      "nerveId": "radial",
+      "nerveAspect": "motor",
+      "referencePages": [
+        "s12"
+      ]
+    },
+    {
+      "topic": "radial",
+      "title": "Radial nerve · sensory / termination",
+      "pages": [
+        12
+      ],
+      "facts": [],
+      "focus": [
+        "Radial nerve.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Radial nerve",
+          "text": "Posterior arm/forearm; lower lateral arm; superficial branch to lateral dorsum and lateral 3½ fingers except terminal phalanges.",
+          "target": "Radial nerve.r",
+          "color": "#79b4ff"
+        }
+      ],
+      "view": "front",
+      "caption": "Trace the colored nerve and compare its relations with the original lecture diagram.",
+      "nerveId": "radial",
+      "nerveAspect": "sensory",
+      "diagram": {
+        "page": 12,
+        "note": "Original lecture figure — fine branches, skin boundaries and deformities are shown here"
+      },
+      "referencePages": [
+        "s12",
+        "s14"
+      ]
+    },
+    {
+      "topic": "radial",
+      "title": "Spiral groove · nerve and artery",
+      "pages": [
+        12
+      ],
+      "facts": [],
+      "focus": [
+        "Radial nerve.r",
+        "Deep brachial artery.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Radial nerve",
+          "text": "Enters spiral groove at mid-arm.",
+          "target": "Radial nerve.r",
+          "color": "#79b4ff",
+          "at": 0.65
+        },
+        {
+          "name": "Profunda brachii",
+          "text": "Accompanies radial nerve in the groove.",
+          "target": "Deep brachial artery.r",
+          "color": "#ff798c"
+        }
+      ],
+      "view": "back",
+      "caption": "Trace the colored nerve and compare its relations with the original lecture diagram.",
+      "nerveId": "radial",
+      "nerveAspect": "course",
+      "referencePages": [
+        "s11"
+      ]
+    },
+    {
+      "topic": "radial",
+      "title": "Radial branches in axilla",
+      "pages": [
+        12
+      ],
+      "facts": [],
+      "focus": [
+        "Radial nerve.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Radial nerve",
+          "text": "Muscular branch to triceps; posterior cutaneous nerve of arm. Fine branch origin is illustrated on source page.",
+          "target": "Radial nerve.r",
+          "color": "#79b4ff"
+        }
+      ],
+      "view": "front",
+      "caption": "Trace the colored nerve and compare its relations with the original lecture diagram.",
+      "muscleFocus": [
+        "Long head of triceps brachii.r"
+      ],
+      "diagram": {
+        "page": 12,
+        "note": "Original lecture figure — fine branches, skin boundaries and deformities are shown here"
+      },
+      "nerveId": "radial",
+      "nerveAspect": "branches",
+      "referencePages": [
+        "s12"
+      ]
+    },
+    {
+      "topic": "radial",
+      "title": "Radial branches in arm",
+      "pages": [
+        12
+      ],
+      "facts": [],
+      "focus": [
+        "Radial nerve.r",
+        "Inferior lateral brachial cutaneous nerve.r",
+        "Posterior antebrachial cutaneous nerve.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Radial nerve",
+          "text": "Muscular branches to triceps, anconeus, brachioradialis and extensor carpi radialis longus.",
+          "target": "Radial nerve.r",
+          "color": "#79b4ff"
+        },
+        {
+          "name": "Lower lateral cutaneous nerve of arm",
+          "text": "Listed among arm branches.",
+          "target": "Inferior lateral brachial cutaneous nerve.r",
+          "color": "#dca0f1"
+        },
+        {
+          "name": "Posterior cutaneous nerve of forearm",
+          "text": "Listed among arm branches.",
+          "target": "Posterior antebrachial cutaneous nerve.r",
+          "color": "#dca0f1"
+        }
+      ],
+      "view": "front",
+      "caption": "Trace the colored nerve and compare its relations with the original lecture diagram.",
+      "nerveId": "radial",
+      "nerveAspect": "branches",
+      "referencePages": [
+        "s12"
+      ]
+    },
+    {
+      "topic": "radial",
+      "title": "Terminal branches · deep vs superficial",
+      "pages": [
+        12
+      ],
+      "facts": [],
+      "focus": [
+        "Deep branch of radial nerve.r",
+        "Superficial branch of radial nerve.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Deep branch / posterior interosseous",
+          "text": "Lecture summary: forearm extensors except anconeus. The same page lists ECRL under radial nerve branches in the arm; retain that distinction.",
+          "target": "Deep branch of radial nerve.r",
+          "color": "#79b4ff"
+        },
+        {
+          "name": "Superficial branch",
+          "text": "Lateral two thirds of dorsum and lateral 3½ fingers except terminal phalanges (median).",
+          "target": "Superficial branch of radial nerve.r",
+          "color": "#79b4ff"
+        }
+      ],
+      "view": "front",
+      "caption": "Trace the colored nerve and compare its relations with the original lecture diagram.",
+      "nerveId": "radial",
+      "nerveAspect": "branches",
+      "diagram": {
+        "page": 12,
+        "note": "Original lecture figure — fine branches, skin boundaries and deformities are shown here"
+      },
+      "referencePages": [
+        "s12"
+      ]
+    },
+    {
+      "topic": "radial-injury",
+      "title": "Radial nerve · lecture injury summary",
+      "pages": [
+        13
+      ],
+      "facts": [],
+      "focus": [
+        "Radial nerve.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Main nerve — source summary",
+          "text": "Motor: The lecture lists loss of elbow, wrist and finger extension (wrist drop and finger drop). This is a broad summary; deficits depend on injury level.",
+          "target": "Radial nerve.r",
+          "color": "#79b4ff"
+        },
+        {
+          "name": "Sensory",
+          "text": "Lower lateral arm; posterior arm and forearm; lateral two thirds of hand dorsum and lateral 3½ fingers except terminal phalanges.",
+          "target": "Radial nerve.r",
+          "color": "#79b4ff",
+          "at": 0.25
+        },
+        {
+          "name": "Cause / context",
+          "text": "The lecture lists humeral-shaft fracture at spiral groove. Do not infer that every shaft lesion causes every motor deficit above.",
+          "target": "Radial nerve.r",
+          "color": "#79b4ff",
+          "at": 0.75
+        }
+      ],
+      "view": "front",
+      "caption": "Lecture comparison: the 3D model stays in its normal pose. Original figures show the injury posture; this is not a deformity simulation.",
+      "lesionId": "radial-main",
+      "nerveId": "radial",
+      "diagram": {
+        "page": 13,
+        "note": "Original lecture figure — fine branches, skin boundaries and deformities are shown here"
+      },
+      "referencePages": [
+        "s20"
+      ]
+    },
+    {
+      "topic": "radial-injury",
+      "title": "Radial nerve · deep branch injury",
+      "pages": [
+        13
+      ],
+      "facts": [],
+      "focus": [
+        "Deep branch of radial nerve.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Deep branch",
+          "text": "Motor: Finger drop; no wrist drop in the lecture comparison.",
+          "target": "Deep branch of radial nerve.r",
+          "color": "#79b4ff"
+        },
+        {
+          "name": "Sensory",
+          "text": "No sensory effects in the lecture comparison.",
+          "target": "Deep branch of radial nerve.r",
+          "color": "#79b4ff",
+          "at": 0.25
+        },
+        {
+          "name": "Cause / context",
+          "text": "No specific cause is listed for this branch in the lecture.",
+          "target": "Deep branch of radial nerve.r",
+          "color": "#79b4ff",
+          "at": 0.75
+        }
+      ],
+      "view": "front",
+      "caption": "Lecture comparison: the 3D model stays in its normal pose. Original figures show the injury posture; this is not a deformity simulation.",
+      "lesionId": "radial-deep",
+      "nerveId": "radial",
+      "diagram": {
+        "page": 13,
+        "note": "Original lecture figure — fine branches, skin boundaries and deformities are shown here"
+      },
+      "referencePages": [
+        "s20"
+      ]
+    },
+    {
+      "topic": "radial-injury",
+      "title": "Radial nerve · superficial branch injury",
+      "pages": [
+        13
+      ],
+      "facts": [],
+      "focus": [
+        "Superficial branch of radial nerve.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Superficial branch",
+          "text": "Motor: No motor effects.",
+          "target": "Superficial branch of radial nerve.r",
+          "color": "#79b4ff"
+        },
+        {
+          "name": "Sensory",
+          "text": "Lateral two thirds of dorsum and lateral 3½ fingers, except terminal phalanges.",
+          "target": "Superficial branch of radial nerve.r",
+          "color": "#79b4ff",
+          "at": 0.25
+        },
+        {
+          "name": "Cause / context",
+          "text": "No specific cause is listed for this branch in the lecture.",
+          "target": "Superficial branch of radial nerve.r",
+          "color": "#79b4ff",
+          "at": 0.75
+        }
+      ],
+      "view": "front",
+      "caption": "Lecture comparison: the 3D model stays in its normal pose. Original figures show the injury posture; this is not a deformity simulation.",
+      "lesionId": "radial-superficial",
+      "nerveId": "radial",
+      "diagram": {
+        "page": 13,
+        "note": "Original lecture figure — fine branches, skin boundaries and deformities are shown here"
+      },
+      "referencePages": [
+        "s20"
+      ]
+    },
+    {
+      "topic": "compare",
+      "title": "At the wrist · deep vs superficial",
+      "pages": [
+        8
+      ],
+      "facts": [],
+      "focus": [
+        "Median nerve.r",
+        "Ulnar nerve.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Median nerve",
+          "text": "Deep to flexor retinaculum.",
+          "target": "Median nerve.r",
+          "color": "#ff798c",
+          "at": 0.1
+        },
+        {
+          "name": "Ulnar nerve",
+          "text": "Superficial to flexor retinaculum.",
+          "target": "Ulnar nerve.r",
+          "color": "#57d9d1",
+          "at": 0.1
+        }
+      ],
+      "view": "front",
+      "caption": "Trace the colored nerve and compare its relations with the original lecture diagram.",
+      "muscleFocus": [
+        "Flexor retinaculum of wrist.r"
+      ],
+      "region": {
+        "target": "Flexor retinaculum of wrist.r",
+        "span": 0.17
+      },
+      "diagram": {
+        "page": 8,
+        "note": "Original lecture figure — fine branches, skin boundaries and deformities are shown here"
+      },
+      "referencePages": [
+        "s7",
+        "s9"
+      ]
+    },
+    {
+      "topic": "compare",
+      "title": "Palm spared? Compare median injury levels",
+      "pages": [
+        10
+      ],
+      "facts": [],
+      "focus": [
+        "Median nerve.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Median nerve",
+          "text": "Carpal tunnel: lateral 3½ fingers affected, palm spared. Elbow: lateral two thirds of palm plus lateral 3½ fingers affected.",
+          "target": "Median nerve.r",
+          "color": "#ff798c"
+        }
+      ],
+      "view": "front",
+      "caption": "Trace the colored nerve and compare its relations with the original lecture diagram.",
+      "diagram": {
+        "page": 10,
+        "note": "Original lecture figure — fine branches, skin boundaries and deformities are shown here"
+      },
+      "lesionId": "median-wrist",
+      "referencePages": [
+        "s22",
+        "s21"
+      ]
+    },
+    {
+      "topic": "compare",
+      "title": "Motor only vs sensory only · radial branches",
+      "pages": [
+        13
+      ],
+      "facts": [],
+      "focus": [
+        "Deep branch of radial nerve.r",
+        "Superficial branch of radial nerve.r"
+      ],
+      "context": [],
+      "pins": [
+        {
+          "name": "Deep branch",
+          "text": "Finger drop; no wrist drop and no sensory effect in lecture.",
+          "target": "Deep branch of radial nerve.r",
+          "color": "#79b4ff"
+        },
+        {
+          "name": "Superficial branch",
+          "text": "No motor effects; sensory loss over its dorsal hand territory.",
+          "target": "Superficial branch of radial nerve.r",
+          "color": "#79b4ff"
+        }
+      ],
+      "view": "front",
+      "caption": "Trace the colored nerve and compare its relations with the original lecture diagram.",
+      "diagram": {
+        "page": 13,
+        "note": "Original lecture figure — fine branches, skin boundaries and deformities are shown here"
+      },
+      "referencePages": [
+        "s20"
+      ]
+    }
+  ],
+  "nerveProfiles": [
+    {
+      "id": "axillary",
+      "name": "Axillary nerve",
+      "roots": "C5, C6",
+      "origin": "Posterior cord",
+      "course": "Passes backward through quadrangular space, then winds around surgical neck of humerus.",
+      "motor": "Deltoid and teres minor.",
+      "sensory": "Upper lateral cutaneous nerve of arm supplies skin over lower half of deltoid.",
+      "page": 5,
+      "muscles": [
+        "Acromial part of deltoid muscle.r",
+        "Clavicular part of deltoid muscle.r",
+        "Scapular spinal part of deltoid muscle.r",
+        "Teres minor muscle.r"
+      ],
+      "cords": [
+        "posterior"
+      ],
+      "target": "Axillary nerve.r",
+      "color": "#f4c653"
+    },
+    {
+      "id": "musculocutaneous",
+      "name": "Musculocutaneous nerve",
+      "roots": "C5, C6, C7",
+      "origin": "Lateral cord",
+      "course": "Pierces coracobrachialis and passes deep to biceps. Continues as lateral cutaneous nerve of forearm.",
+      "motor": "Coracobrachialis, biceps and brachialis.",
+      "sensory": "Continues as the lateral cutaneous nerve of the forearm.",
+      "page": 5,
+      "muscles": [
+        "Coracobrachialis muscle.r",
+        "Short head of biceps brachii.r",
+        "Long head of biceps brachii.r",
+        "Brachialis muscle.r"
+      ],
+      "cords": [
+        "lateral"
+      ],
+      "target": "Musculocutaneous nerve.r",
+      "color": "#78d6a4"
+    },
+    {
+      "id": "median",
+      "name": "Median nerve",
+      "roots": "C5, C6, C7, C8, T1",
+      "origin": "Medial and lateral cords",
+      "course": "Crosses anterior to brachial artery from lateral to medial at mid-arm; passes between pronator teres heads; enters hand deep to flexor retinaculum.",
+      "motor": "Superficial flexors except FCU; anterior interosseous branch to deep flexors except medial half of FDP; thenar eminence and first two lumbricals.",
+      "sensory": "Lateral two thirds of palm; palmar lateral 3½ fingers and dorsal terminal phalanges.",
+      "page": 8,
+      "muscles": [
+        "Superficial head of pronator teres.r",
+        "Deep head of pronator teres.r",
+        "Flexor carpi radialis.r",
+        "Palmaris longus muscle.r",
+        "Flexor pollicis longus.r",
+        "Pronator quadratus.r",
+        "Opponens pollicis muscle.r",
+        "Abductor pollicis brevis.r"
+      ],
+      "cords": [
+        "lateral",
+        "medial"
+      ],
+      "target": "Median nerve.r",
+      "color": "#ff798c"
+    },
+    {
+      "id": "ulnar",
+      "name": "Ulnar nerve",
+      "roots": "C7, C8, T1 (lecture)",
+      "origin": "Medial cord",
+      "course": "Enters posterior compartment at mid-arm; descends behind medial epicondyle; between FCU heads; enters hand superficial to flexor retinaculum.",
+      "motor": "FCU and medial half FDP. Deep terminal branch to hand muscles except thenar eminence and first two lumbricals. Superficial branch supplies palmaris brevis.",
+      "sensory": "Medial third of palm and dorsum; medial 1½ fingers.",
+      "page": 8,
+      "muscles": [
+        "Humeral head of flexor carpi ulnaris.r",
+        "Ulnar head of flexor carpi ulnaris.r",
+        "Palmar interossei muscles.r",
+        "Dorsal interossei muscles of hand.r",
+        "Flexor digiti minimi of hand.r",
+        "Abductor digiti minimi of hand.r",
+        "Opponens digiti minimi muscle of hand.r"
+      ],
+      "cords": [
+        "medial"
+      ],
+      "target": "Ulnar nerve.r",
+      "color": "#57d9d1"
+    },
+    {
+      "id": "radial",
+      "name": "Radial nerve",
+      "roots": "C5, C6, C7, C8, T1",
+      "origin": "Posterior cord",
+      "course": "At mid-arm enters spiral groove with profunda brachii; terminates anterior to lateral epicondyle as deep and superficial branches.",
+      "motor": "Triceps; anconeus; brachioradialis; ECRL. Deep branch supplies forearm extensors in the lecture summary; see detailed branch steps.",
+      "sensory": "Posterior arm/forearm; lower lateral arm; superficial branch to lateral dorsum and lateral 3½ fingers except terminal phalanges.",
+      "page": 12,
+      "muscles": [
+        "Long head of triceps brachii.r",
+        "Lateral head of triceps brachii.r",
+        "Medial head of triceps brachii.r",
+        "Anconeus muscle.r",
+        "Brachioradialis muscle.r",
+        "Extensor carpi radialis longus.r",
+        "Extensor digitorum.r"
+      ],
+      "cords": [
+        "posterior"
+      ],
+      "target": "Radial nerve.r",
+      "color": "#79b4ff"
+    },
+    {
+      "id": "long",
+      "name": "Long thoracic nerve",
+      "roots": "Roots stage; individual roots not specified here",
+      "origin": "Roots of brachial plexus",
+      "course": "The lecture discusses injury in posterior triangle and chest wall.",
+      "motor": "Serratus anterior.",
+      "sensory": "Not specified on the lecture page.",
+      "page": 6,
+      "muscles": [
+        "Serratus anterior muscle.r"
+      ],
+      "cords": [],
+      "target": "Long thoracic nerve.r",
+      "color": "#efa46c"
+    }
+  ],
+  "nerveColors": {
+    "Superior trunk of brachial plexus.r": "#dca0f1",
+    "Medial antebrachial cutaneous nerve.r": "#dca0f1",
+    "Medial brachial cutaneous nerve.r": "#dca0f1",
+    "Anterior division of inferior trunk of brachial plexus.r": "#dca0f1",
+    "Posterior division of superior trunk of brachial plexus.r": "#dca0f1",
+    "(Communicating branch of median nerve with ulnar nerve).r": "#ff798c",
+    "Palmar branch of ulnar nerve.r": "#57d9d1",
+    "Posterior division of middle trunk of brachial plexus.r": "#dca0f1",
+    "Anterior branch of medial antebrachial cutaneous nerve.r": "#dca0f1",
+    "Lateral antebrachial cutaneous nerve.r": "#78d6a4",
+    "Posterior interosseous nerve of forearm.r": "#79b4ff",
+    "Deep branch of radial nerve.r": "#79b4ff",
+    "Lateral pectoral nerve.r": "#dca0f1",
+    "Muscular branches of radial nerve.r": "#79b4ff",
+    "Subclavian nerve.r": "#dca0f1",
+    "Suprascapular nerve.r": "#dca0f1",
+    "Common palmar digital branches of ulnar nerve.r": "#57d9d1",
+    "Posterior antebrachial cutaneous nerve.r": "#dca0f1",
+    "Roots of brachial plexus.r": "#dca0f1",
+    "Dorsal digital branches of radial nerve.r": "#79b4ff",
+    "Inferior trunk of brachial plexus.r": "#dca0f1",
+    "Ulnar nerve.r": "#57d9d1",
+    "Posterior division of inferior trunk of brachial plexus.r": "#dca0f1",
+    "Dorsal scapular nerve.r": "#dca0f1",
+    "Muscular branches of median nerve.r": "#ff798c",
+    "Superficial branch of ulnar nerve.r": "#57d9d1",
+    "Maxillary nerve.r": "#f4c653",
+    "Anterior interosseous nerve of forearm.r": "#ff798c",
+    "Superior subscapular nerve.r": "#dca0f1",
+    "Posterior cord of brachial plexus.r": "#dca0f1",
+    "Inferior subscapular nerve.r": "#dca0f1",
+    "Proper palmar digital branches of median nerve.r": "#ff798c",
+    "Deep branch of ulnar nerve.r": "#57d9d1",
+    "Anterior division of middle trunk of brachial plexus.r": "#dca0f1",
+    "Inferior lateral brachial cutaneous nerve.r": "#dca0f1",
+    "Median nerve.r": "#ff798c",
+    "Radial nerve.r": "#79b4ff",
+    "Middle trunk of brachial plexus.r": "#dca0f1",
+    "Posterior branch of medial antebrachial cutaneous nerve.r": "#dca0f1",
+    "Anterior division of superior trunk of brachial plexus.r": "#dca0f1",
+    "Medial pectoral nerve.r": "#dca0f1",
+    "Superficial branch of radial nerve.r": "#79b4ff",
+    "Muscular branches of axillary nerve.r": "#f4c653",
+    "Axillary nerve.r": "#f4c653",
+    "Common palmar digital branches of median nerve.r": "#ff798c",
+    "Musculocutaneous nerve.r": "#78d6a4",
+    "Palmar branch of median nerve.r": "#ff798c",
+    "Long thoracic nerve.r": "#efa46c",
+    "Meningeal branch of maxillary nerve.r": "#f4c653",
+    "Dorsal digital branches of ulnar nerve.r": "#57d9d1",
+    "Thoracodorsal nerve.r": "#dca0f1",
+    "Muscular branches of ulnar nerve.r": "#57d9d1",
+    "Superior lateral brachial cutaneous nerve.r": "#dca0f1",
+    "Proper palmar digital branches of ulnar nerve.r": "#57d9d1",
+    "Dorsal branch of ulnar nerve.r": "#57d9d1"
+  },
+  "lesions": [
+    {
+      "id": "erb",
+      "topic": "palsies",
+      "title": "Erb–Duchenne palsy",
+      "nerve": "plexus",
+      "target": "Superior trunk of brachial plexus.r",
+      "level": "Upper roots C5–C6",
+      "page": 4,
+      "motor": "Waiter’s tip: shoulder adducted and medially rotated; arm hangs at side; elbow extended; forearm pronated.",
+      "sensory": "Loss of sensation on lateral side of upper limb.",
+      "cause": "Increased angle between head and shoulder; difficult delivery."
+    },
+    {
+      "id": "klumpke",
+      "topic": "palsies",
+      "title": "Klumpke palsy",
+      "nerve": "plexus",
+      "target": "Inferior trunk of brachial plexus.r",
+      "level": "Lower roots C8–T1",
+      "page": 4,
+      "motor": "Complete claw hand: MCP hyperextension and interphalangeal flexion — opposite of writing position.",
+      "sensory": "Loss of sensation on medial side of upper limb.",
+      "cause": "Excessive arm abduction; cervical rib."
+    },
+    {
+      "id": "axillary",
+      "topic": "axillary",
+      "title": "Axillary nerve injury",
+      "nerve": "axillary",
+      "level": "Quadrangular space / surgical neck",
+      "page": 5,
+      "motor": "Weak arm abduction; deltoid wasting produces a flat shoulder.",
+      "sensory": "Loss over lower half of deltoid.",
+      "cause": "Quadrangular space injury; downward humeral dislocation; surgical-neck fracture.",
+      "target": "Axillary nerve.r"
+    },
+    {
+      "id": "long",
+      "topic": "long",
+      "title": "Long thoracic nerve injury",
+      "nerve": "long",
+      "level": "Neck / chest wall",
+      "page": 6,
+      "motor": "Serratus anterior paralysis; difficulty raising hand above head; medial scapular border and inferior angle move laterally and posteriorly (winged scapula).",
+      "sensory": "No sensory effect is specified on this lecture page.",
+      "cause": "Posterior triangle injury; chest-wall injury; radical mastectomy.",
+      "target": "Long thoracic nerve.r"
+    },
+    {
+      "id": "median-wrist",
+      "topic": "median-injury",
+      "title": "Median nerve · wrist",
+      "nerve": "median",
+      "level": "Carpal tunnel",
+      "page": 10,
+      "motor": "Thenar atrophy, loss of thumb opposition and ape’s hand deformity.",
+      "sensory": "Lateral 3½ fingers; palm is spared.",
+      "cause": "Median nerve compression by carpal-tunnel contents.",
+      "target": "Median nerve.r"
+    },
+    {
+      "id": "median-elbow",
+      "topic": "median-injury",
+      "title": "Median nerve · elbow",
+      "nerve": "median",
+      "level": "Elbow",
+      "page": 10,
+      "motor": "Pointing index: no IP flexion of second and third fingers. Loss of pronation (forearm supine); wrist adduction; thenar atrophy, lost opposition and ape’s hand.",
+      "sensory": "Lateral two thirds of palm and lateral 3½ fingers.",
+      "cause": "Supracondylar humeral fracture.",
+      "target": "Median nerve.r"
+    },
+    {
+      "id": "ulnar-wrist",
+      "topic": "ulnar-injury",
+      "title": "Ulnar nerve · above wrist",
+      "nerve": "ulnar",
+      "level": "Above wrist",
+      "page": 11,
+      "motor": "Partial claw hand; loss of finger adduction and abduction; hypothenar atrophy.",
+      "sensory": "Medial third of palm and medial 1½ fingers.",
+      "cause": "Cut wound.",
+      "target": "Ulnar nerve.r"
+    },
+    {
+      "id": "ulnar-elbow",
+      "topic": "ulnar-injury",
+      "title": "Ulnar nerve · above elbow",
+      "nerve": "ulnar",
+      "level": "Above elbow",
+      "page": 11,
+      "motor": "Hand abduction plus partial claw hand, loss of finger adduction/abduction and hypothenar atrophy.",
+      "sensory": "Medial third of hand and medial 1½ fingers on both surfaces.",
+      "cause": "Medial epicondyle fracture.",
+      "target": "Ulnar nerve.r"
+    },
+    {
+      "id": "radial-main",
+      "topic": "radial-injury",
+      "title": "Radial nerve · lecture injury summary",
+      "nerve": "radial",
+      "level": "Main nerve — source summary",
+      "page": 13,
+      "motor": "The lecture lists loss of elbow, wrist and finger extension (wrist drop and finger drop). This is a broad summary; deficits depend on injury level.",
+      "sensory": "Lower lateral arm; posterior arm and forearm; lateral two thirds of hand dorsum and lateral 3½ fingers except terminal phalanges.",
+      "cause": "The lecture lists humeral-shaft fracture at spiral groove. Do not infer that every shaft lesion causes every motor deficit above.",
+      "target": "Radial nerve.r"
+    },
+    {
+      "id": "radial-deep",
+      "topic": "radial-injury",
+      "title": "Radial nerve · deep branch injury",
+      "nerve": "radial",
+      "target": "Deep branch of radial nerve.r",
+      "level": "Deep branch",
+      "page": 13,
+      "motor": "Finger drop; no wrist drop in the lecture comparison.",
+      "sensory": "No sensory effects in the lecture comparison.",
+      "cause": "No specific cause is listed for this branch in the lecture."
+    },
+    {
+      "id": "radial-superficial",
+      "topic": "radial-injury",
+      "title": "Radial nerve · superficial branch injury",
+      "nerve": "radial",
+      "target": "Superficial branch of radial nerve.r",
+      "level": "Superficial branch",
+      "page": 13,
+      "motor": "No motor effects.",
+      "sensory": "Lateral two thirds of dorsum and lateral 3½ fingers, except terminal phalanges.",
+      "cause": "No specific cause is listed for this branch in the lecture."
+    }
+  ],
+  "functionalQuiz": [
+    {
+      "target": "Axillary nerve.r",
+      "prompt": "Click the nerve that passes through the quadrangular space.",
+      "explanation": "Axillary nerve passes through quadrangular space and winds around surgical neck."
+    },
+    {
+      "target": "Musculocutaneous nerve.r",
+      "prompt": "Click the nerve that pierces coracobrachialis.",
+      "explanation": "Musculocutaneous nerve pierces coracobrachialis, then passes deep to biceps."
+    },
+    {
+      "target": "Median nerve.r",
+      "prompt": "Click the nerve that enters the hand deep to flexor retinaculum.",
+      "explanation": "Median nerve passes deep; ulnar passes superficial."
+    },
+    {
+      "target": "Ulnar nerve.r",
+      "prompt": "Click the nerve that passes behind the medial epicondyle.",
+      "explanation": "Ulnar nerve then enters forearm between FCU heads."
+    },
+    {
+      "target": "Radial nerve.r",
+      "prompt": "Click the nerve accompanied by profunda brachii in the spiral groove.",
+      "explanation": "Radial nerve accompanies profunda brachii."
+    },
+    {
+      "target": "Long thoracic nerve.r",
+      "prompt": "Click the nerve whose injury causes winging from serratus anterior paralysis.",
+      "explanation": "Long thoracic nerve injury produces the winged scapula pattern in the lecture."
+    }
+  ],
+  "quizTargets": [
+    "Axillary nerve.r",
+    "Musculocutaneous nerve.r",
+    "Median nerve.r",
+    "Ulnar nerve.r",
+    "Radial nerve.r",
+    "Long thoracic nerve.r"
+  ],
+  "source": {
+    "file": "Lecture 5.pdf",
+    "pages": 13,
+    "notes": "Printed pages 52–64. Injury tables preserved as source summaries; do not infer all radial motor deficits at every injury level. Fine skin boundaries use source diagrams."
+  },
+  "referenceSlides": {
+    "s1": {
+      "src": "/lectures/l5/references/s1.jpg",
+      "label": "Nerves · slide 1"
+    },
+    "s10": {
+      "src": "/lectures/l5/references/s10.jpg",
+      "label": "Nerves · slide 10"
+    },
+    "s11": {
+      "src": "/lectures/l5/references/s11.jpg",
+      "label": "Nerves · slide 11"
+    },
+    "s12": {
+      "src": "/lectures/l5/references/s12.jpg",
+      "label": "Nerves · slide 12"
+    },
+    "s13": {
+      "src": "/lectures/l5/references/s13.jpg",
+      "label": "Nerves · slide 13"
+    },
+    "s14": {
+      "src": "/lectures/l5/references/s14.jpg",
+      "label": "Nerves · slide 14"
+    },
+    "s15": {
+      "src": "/lectures/l5/references/s15.jpg",
+      "label": "Nerves · slide 15"
+    },
+    "s16": {
+      "src": "/lectures/l5/references/s16.jpg",
+      "label": "Nerves · slide 16"
+    },
+    "s17": {
+      "src": "/lectures/l5/references/s17.jpg",
+      "label": "Nerves · slide 17"
+    },
+    "s18": {
+      "src": "/lectures/l5/references/s18.jpg",
+      "label": "Nerves · slide 18"
+    },
+    "s19": {
+      "src": "/lectures/l5/references/s19.jpg",
+      "label": "Nerves · slide 19"
+    },
+    "s2": {
+      "src": "/lectures/l5/references/s2.jpg",
+      "label": "Nerves · slide 2"
+    },
+    "s20": {
+      "src": "/lectures/l5/references/s20.jpg",
+      "label": "Nerves · slide 20"
+    },
+    "s21": {
+      "src": "/lectures/l5/references/s21.jpg",
+      "label": "Nerves · slide 21"
+    },
+    "s22": {
+      "src": "/lectures/l5/references/s22.jpg",
+      "label": "Nerves · slide 22"
+    },
+    "s23": {
+      "src": "/lectures/l5/references/s23.jpg",
+      "label": "Nerves · slide 23"
+    },
+    "s24": {
+      "src": "/lectures/l5/references/s24.jpg",
+      "label": "Nerves · slide 24"
+    },
+    "s3": {
+      "src": "/lectures/l5/references/s3.jpg",
+      "label": "Nerves · slide 3"
+    },
+    "s4": {
+      "src": "/lectures/l5/references/s4.jpg",
+      "label": "Nerves · slide 4"
+    },
+    "s5": {
+      "src": "/lectures/l5/references/s5.jpg",
+      "label": "Nerves · slide 5"
+    },
+    "s6": {
+      "src": "/lectures/l5/references/s6.jpg",
+      "label": "Nerves · slide 6"
+    },
+    "s7": {
+      "src": "/lectures/l5/references/s7.jpg",
+      "label": "Nerves · slide 7"
+    },
+    "s8": {
+      "src": "/lectures/l5/references/s8.jpg",
+      "label": "Nerves · slide 8"
+    },
+    "s9": {
+      "src": "/lectures/l5/references/s9.jpg",
+      "label": "Nerves · slide 9"
+    }
+  },
+  "referenceSourceNote": "Reference slides: L5-Upper Limb Nerves.pdf. Teaching content retained from the original tour; reference slides illustrate related anatomy."
+}

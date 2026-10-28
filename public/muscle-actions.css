@@ -1,0 +1,43 @@
+.muscle-action-launch {margin:16px 0}
+.muscle-action-launch>button {width:100%;padding:12px;text-align:left;font-weight:700;color:#9be5de;border:1px solid #397780;border-radius:10px;background:#142a3d}
+.muscle-action-launch[hidden] {display:none!important}
+html.muscle-action-open,html.muscle-action-open body {overflow:hidden!important}
+dialog.muscle-action-panel {padding:0;width:min(1040px,94vw);max-width:1040px;height:min(820px,90dvh);max-height:90dvh;box-sizing:border-box;border:1px solid #407c83;border-radius:14px;color:#e8eff5;background:#101d30;overflow:hidden;box-shadow:0 24px 90px #0009}
+dialog.muscle-action-panel[open] {display:flex;flex-direction:column}
+.muscle-action-panel::backdrop {background:#050d1bcc;backdrop-filter:blur(5px)}
+.ma-head {display:flex;justify-content:space-between;align-items:center;gap:16px;padding:10px 18px;background:#142a3e;border-bottom:1px solid #34646e;flex-shrink:0}
+.ma-head h2 {margin:0;font-size:19px;font-weight:600}
+.ma-head button {font-size:24px;min-width:44px;min-height:44px}
+.ma-filters {display:grid;grid-template-columns:160px 1fr;gap:14px;padding:12px 18px;border-bottom:1px solid #304557;flex-shrink:0}
+.ma-toolbar {display:grid;grid-template-columns:1fr 1.25fr 120px;align-items:end;gap:14px;padding:16px 18px;flex-shrink:0}
+.ma-toolbar label,.ma-filters label {display:flex;flex-direction:column;gap:7px;font-size:13px;font-weight:600;min-width:0}
+.ma-toolbar select,.ma-filters select,.ma-filters input {width:100%;box-sizing:border-box;min-height:44px;background:#0b182a;color:#e8f1f5;border:1px solid #527682;border-radius:7px;padding:8px;font:inherit}
+.muscle-action-panel button {min-height:44px;line-height:1.4;cursor:pointer}
+.muscle-action-panel :focus-visible {outline:3px solid #ffd16e;outline-offset:3px}
+.ma-play {background:#b8233b;color:#fff;border:1px solid #ed6077;border-radius:7px;font-weight:600;font-size:15px}
+.ma-3d-slot {position:relative;flex:1;min-height:0;overflow:hidden;margin:0 18px;border:1px solid #3e6778;border-radius:10px;background:radial-gradient(ellipse at center,#213d4c,#091728);isolation:isolate}
+.ma-3d-slot #canvasHost {position:absolute!important;inset:0!important;width:100%!important;height:100%!important;z-index:0!important}
+.ma-3d-slot canvas {display:block;width:100%;height:100%;touch-action:none}
+.ma-navigation {padding:8px 18px 12px;flex-shrink:0}
+.ma-camera {display:flex;flex-wrap:wrap;gap:6px}
+.ma-camera button {font-size:12px;padding:6px 9px;min-height:36px}
+.ma-context {margin:6px 0;color:#a8dcd8;font-size:12px;line-height:1.4;text-align:center}
+.ma-phase {display:flex;align-items:center;gap:12px;font-size:12px;font-weight:600;min-height:32px}
+.ma-phase input {flex:1;width:0;min-width:0;accent-color:#6dcac8}
+.ma-empty {position:absolute;inset:0;display:grid;place-items:center;margin:0;color:#bbceda}
+.muscle-action-panel [hidden] {display:none!important}
+.ma-no-results #canvasHost {visibility:hidden}
+.muscle-action-panel :disabled {opacity:.5;cursor:default}
+@media(max-width:600px) {
+  dialog.muscle-action-panel {width:96vw;height:94dvh;max-height:94dvh}
+  .ma-head {padding:8px 12px}
+  .ma-filters {grid-template-columns:110px 1fr;padding:10px 12px;gap:10px}
+  .ma-toolbar {grid-template-columns:1fr 100px;padding:12px;gap:10px}
+  .ma-toolbar>label:first-child {grid-column:1/-1}
+  .ma-toolbar select {font-size:13px}
+  .ma-3d-slot {margin:0 12px}
+  .ma-navigation {padding:8px 12px}
+  .ma-camera {gap:5px}
+  .ma-camera button {flex:1;padding:5px;font-size:11px;min-height:36px}
+  .ma-phase {gap:8px}
+}

@@ -1,0 +1,31 @@
+.lecture-lower-muscles .anatomy-pin p{white-space:pre-line;direction:ltr;text-align:left;font-size:12px;line-height:1.52}
+.lecture-lower-muscles .anatomy-pin strong{font-size:14px}
+.lecture-lower-muscles .muscle-study{border-color:#317883;background:linear-gradient(145deg,#112b3c,#111f34)}
+.lecture-lower-muscles .muscle-study h2{color:#8ee4e1}
+.lecture-lower-muscles .lower-scene-tools{max-width:50%}
+.l8-lab-entry{margin:17px 0;padding:12px;border:1px solid #3c7380;border-radius:12px;background:linear-gradient(135deg,#102f40,#121e35)}
+.l8-lab-entry h2{font-size:15px;color:#8bdfdf;margin:0 0 9px}
+.l8-lab-entry button{width:100%;font-size:13px}
+.l8-lab-dialog{width:min(940px,96vw);max-width:940px;max-height:90dvh;padding:0;border:1px solid #4b7b87;background:#0c1d30;color:#eef8ff;border-radius:15px}
+.l8-lab-dialog::backdrop{background:#020916cb}
+.l8-tabs{display:flex;gap:6px;overflow-x:auto;padding:10px;background:#0b1b2d;border-bottom:1px solid #315162}
+.l8-tabs button{white-space:nowrap;font-size:12px;flex-shrink:0}
+.l8-tabs button.active{background:#1b6370;color:white;border-color:#8be5e2}
+.l8-lab-body{padding:20px;overflow:auto;max-height:calc(90dvh - 120px)}
+.l8-lab-body h2{margin:0 0 14px;font-size:23px}
+.l8-map-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:11px}
+.l8-map-card{padding:14px;border:1px solid var(--l8-accent);border-top:4px solid var(--l8-accent);border-radius:9px;background:#142a3d;min-height:115px}
+.l8-map-card strong{display:block;color:var(--l8-accent);font-size:14px;line-height:1.4}
+.l8-map-card p{font-size:13px;line-height:1.55;color:#d9e8f2;margin:8px 0 0}
+.l8-note{font-size:13px;line-height:1.7;color:#b9d0df;margin:18px 0}
+.l8-jump{font-size:13px;background:#175460;border-color:#60c3c9}
+.l8-triangle{margin:12px 0 18px;padding:12px;border:1px solid #31586c;border-radius:12px;background:#11263b}
+.l8-triangle svg{width:100%;max-height:270px;display:block}
+.l8-triangle text{font:600 16px Manrope,Arial,sans-serif;fill:#e1f5fa;text-anchor:middle}
+.l8-order-strip{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:7px;margin:10px 0 18px}
+.l8-order-cell{min-width:0;border:1px solid var(--l8-accent);border-top:4px solid var(--l8-accent);border-radius:9px;background:#142a3d;padding:10px;text-align:center}
+.l8-order-cell strong{display:block;color:var(--l8-accent);font-size:22px;line-height:1.2}
+.l8-order-cell span{display:block;margin-top:6px;color:#e1edf4;font-size:12px;line-height:1.35}
+.l8-layer-jump{display:inline-block;margin:0 7px 8px 0}
+@media(max-width:900px){.l8-map-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:650px){.l8-lab-body{padding:13px}.l8-map-grid{grid-template-columns:1fr}.l8-map-card{min-height:0;padding:11px}.l8-map-card strong{font-size:13px}.l8-map-card p{font-size:12px}.l8-triangle text{font-size:13px}.l8-lab-body h2{font-size:19px}.l8-order-strip{grid-template-columns:repeat(3,minmax(0,1fr))}.l8-order-cell{padding:7px}.l8-order-cell span{font-size:11px}body.lecture-lower-muscles .anatomy-pin{top:auto!important;bottom:229px;max-height:190px;overflow:auto;padding:8px 11px}body.lecture-lower-muscles .anatomy-pin p{font-size:11px}body.lecture-lower-muscles .lower-scene-tools{max-width:calc(100% - 24px)}}

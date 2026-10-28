@@ -1,0 +1,15 @@
+3D MODEL ATTRIBUTION
+BodyParts3D - The Database Center for Life Science (DBCLS), Japan (CC BY-SA 2.1 Japan).
+Z-Anatomy, derived from BodyParts3D - Gauthier Kervyn and contributors (CC BY-SA 4.0).
+Anatria3D web-export adaptations (CC BY-SA 4.0).
+Source: https://github.com/Nurkan1/Anatria-3D/tree/main/public/anatomy
+Upstream: https://github.com/Z-Anatomy/Models-of-human-anatomy
+License: https://creativecommons.org/licenses/by-sa/4.0/
+Modifications for Upper Limb Atlas: selected right upper-limb and torso geometry, retained original transforms, repacked GLB buffers; materials adjusted at display time. Model adaptations remain CC BY-SA 4.0.
+Lecture content: Upper Limb Vessels, Dr Ibrahim Amr, printed pages 41-51, user supplied.
+
+Lecture 7 adaptation: selected original lower-limb and pelvic skeletal, muscular, cardiovascular and nerve geometry; original node transforms retained. Regional colors and educational surface anchors added at display time. Lower Limb Bones and Joints, Dr Ibrahim Amr, user-supplied PDF pages 2-19.
+
+Lecture 7 articular subset: 91 meshes repackaged from Anatria-3D public/anatomy/articular_male.glb, same original coordinate transforms and CC BY-SA 4.0 attribution above. Surface normals on the skeletal subset are recomputed for display.
+
+Lecture 8 adaptation: 37 right-side muscle and fascial meshes and 12 nerve meshes selected from the same Anatria-3D source. Existing Lecture 7 skeletal and cardiovascular subsets are reused. Original node transforms are retained; colors and opacity are applied at display time. Lecture facts and reference figures: Lower Limb Muscles, Dr Ibrahim Amr, user-supplied PDF pages 1–17 (printed 19–35).

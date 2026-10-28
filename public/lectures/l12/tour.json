@@ -1,0 +1,3501 @@
+{
+  "lectureId": 12,
+  "title": "Vertebral column · bones & joints",
+  "topics": [
+    {
+      "id": "column",
+      "title": "Column map & regions",
+      "subtitle": "Lecture 12 · Column map & regions"
+    },
+    {
+      "id": "curves",
+      "title": "Curves & development",
+      "subtitle": "Lecture 12 · Curves & development"
+    },
+    {
+      "id": "typical",
+      "title": "Typical vertebra · color the parts",
+      "subtitle": "Lecture 12 · Typical vertebra · color the parts"
+    },
+    {
+      "id": "cervical",
+      "title": "Cervical vertebrae · atlas & axis",
+      "subtitle": "Lecture 12 · Cervical vertebrae · atlas & axis"
+    },
+    {
+      "id": "cranial",
+      "title": "Craniovertebral joints & ligaments",
+      "subtitle": "Lecture 12 · Craniovertebral joints & ligaments"
+    },
+    {
+      "id": "regional",
+      "title": "Thoracic & lumbar shapes",
+      "subtitle": "Lecture 12 · Thoracic & lumbar shapes"
+    },
+    {
+      "id": "discs",
+      "title": "Discs & vertebral body joints",
+      "subtitle": "Lecture 12 · Discs & vertebral body joints"
+    },
+    {
+      "id": "arch-joints",
+      "title": "Facet joints & arch ligaments",
+      "subtitle": "Lecture 12 · Facet joints & arch ligaments"
+    },
+    {
+      "id": "movements",
+      "title": "Lumbar movements & muscles",
+      "subtitle": "Lecture 12 · Lumbar movements & muscles"
+    },
+    {
+      "id": "sacrum",
+      "title": "Sacrum & coccyx",
+      "subtitle": "Lecture 12 · Sacrum & coccyx"
+    },
+    {
+      "id": "levels",
+      "title": "Every vertebra · individual shape",
+      "subtitle": "Lecture 12 · Every vertebra · individual shape"
+    }
+  ],
+  "steps": [
+    {
+      "id": "column-map",
+      "topic": "column",
+      "title": "26 adult bones · 7 + 12 + 5 + 1 + 1",
+      "pages": [
+        1
+      ],
+      "pins": [
+        {
+          "name": "Cervical · 7",
+          "target": "Vertebra C4",
+          "text": "C1–C7. Atlas = C1; axis = C2.",
+          "color": "#59d9d0"
+        },
+        {
+          "name": "Thoracic · 12",
+          "target": "Vertebra T6",
+          "text": "T1–T12 articulate with ribs.",
+          "color": "#ff7d9b"
+        },
+        {
+          "name": "Lumbar · 5",
+          "target": "Vertebra L3",
+          "text": "L1–L5 provide attachment for large back muscles.",
+          "color": "#f1c75b"
+        }
+      ],
+      "focus": [
+        "Atlas (C1)",
+        "Axis (C2)",
+        "Vertebra C3",
+        "Vertebra C4",
+        "Vertebra C5",
+        "Vertebra C6",
+        "Vertebra C7",
+        "Vertebra T1",
+        "Vertebra T2",
+        "Vertebra T3",
+        "Vertebra T4",
+        "Vertebra T5",
+        "Vertebra T6",
+        "Vertebra T7",
+        "Vertebra T8",
+        "Vertebra T9",
+        "Vertebra T10",
+        "Vertebra T11",
+        "Vertebra T12",
+        "Vertebra L1",
+        "Vertebra L2",
+        "Vertebra L3",
+        "Vertebra L4",
+        "Vertebra L5",
+        "Sacrum",
+        "Coccyx"
+      ],
+      "view": "front",
+      "studyView": true,
+      "structureColors": {
+        "Atlas (C1)": "#59d9d0",
+        "Axis (C2)": "#59d9d0",
+        "Vertebra C3": "#59d9d0",
+        "Vertebra C4": "#59d9d0",
+        "Vertebra C5": "#59d9d0",
+        "Vertebra C6": "#59d9d0",
+        "Vertebra C7": "#59d9d0",
+        "Vertebra T1": "#ff7d9b",
+        "Vertebra T2": "#ff7d9b",
+        "Vertebra T3": "#ff7d9b",
+        "Vertebra T4": "#ff7d9b",
+        "Vertebra T5": "#ff7d9b",
+        "Vertebra T6": "#ff7d9b",
+        "Vertebra T7": "#ff7d9b",
+        "Vertebra T8": "#ff7d9b",
+        "Vertebra T9": "#ff7d9b",
+        "Vertebra T10": "#ff7d9b",
+        "Vertebra T11": "#ff7d9b",
+        "Vertebra T12": "#ff7d9b",
+        "Vertebra L1": "#f1c75b",
+        "Vertebra L2": "#f1c75b",
+        "Vertebra L3": "#f1c75b",
+        "Vertebra L4": "#f1c75b",
+        "Vertebra L5": "#f1c75b",
+        "Sacrum": "#aa9df1",
+        "Coccyx": "#76bafb"
+      },
+      "caption": "Sacrum: five fused vertebrae. Coccyx: usually four fused. Select any level in the Vertebra picker to see it alone."
+    },
+    {
+      "id": "column-role",
+      "topic": "column",
+      "title": "Spine, backbone or spinal column",
+      "pages": [
+        1
+      ],
+      "pins": [
+        {
+          "name": "Protection",
+          "target": "Vertebra T6",
+          "text": "Protects spinal cord and spinal nerves.",
+          "color": "#59d9d0"
+        },
+        {
+          "name": "Support",
+          "target": "Atlas (C1)",
+          "text": "Supports the head; forms the body axis.",
+          "color": "#ff7d9b"
+        },
+        {
+          "name": "Attachments",
+          "target": "Sacrum",
+          "text": "Ribs, pelvic girdle and muscles attach to the column; important in posture.",
+          "color": "#f1c75b"
+        }
+      ],
+      "focus": [
+        "Atlas (C1)",
+        "Axis (C2)",
+        "Vertebra C3",
+        "Vertebra C4",
+        "Vertebra C5",
+        "Vertebra C6",
+        "Vertebra C7",
+        "Vertebra T1",
+        "Vertebra T2",
+        "Vertebra T3",
+        "Vertebra T4",
+        "Vertebra T5",
+        "Vertebra T6",
+        "Vertebra T7",
+        "Vertebra T8",
+        "Vertebra T9",
+        "Vertebra T10",
+        "Vertebra T11",
+        "Vertebra T12",
+        "Vertebra L1",
+        "Vertebra L2",
+        "Vertebra L3",
+        "Vertebra L4",
+        "Vertebra L5",
+        "Sacrum",
+        "Coccyx"
+      ],
+      "view": "front",
+      "studyView": true,
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "column-length",
+      "topic": "column",
+      "title": "Vertebrae + intervertebral discs",
+      "pages": [
+        1
+      ],
+      "pins": [
+        {
+          "name": "72–75 cm",
+          "target": "Vertebra L3",
+          "text": "Lecture length of the column; one quarter is intervertebral discs.",
+          "color": "#59d9d0"
+        },
+        {
+          "name": "Discs between bodies",
+          "target": "Intervertebral disc L3-L4",
+          "text": "Vertebrae and IV discs together compose the vertebral column.",
+          "color": "#ff7d9b"
+        }
+      ],
+      "focus": [
+        "Atlas (C1)",
+        "Axis (C2)",
+        "Vertebra C3",
+        "Vertebra C4",
+        "Vertebra C5",
+        "Vertebra C6",
+        "Vertebra C7",
+        "Vertebra T1",
+        "Vertebra T2",
+        "Vertebra T3",
+        "Vertebra T4",
+        "Vertebra T5",
+        "Vertebra T6",
+        "Vertebra T7",
+        "Vertebra T8",
+        "Vertebra T9",
+        "Vertebra T10",
+        "Vertebra T11",
+        "Vertebra T12",
+        "Vertebra L1",
+        "Vertebra L2",
+        "Vertebra L3",
+        "Vertebra L4",
+        "Vertebra L5",
+        "Sacrum",
+        "Coccyx",
+        "Intervertebral disc C2-C3",
+        "Intervertebral disc C3-C4",
+        "Intervertebral disc C4-C5",
+        "Intervertebral disc C5-C6",
+        "Intervertebral disc C6-C7",
+        "Intervertebral disc C7-T1",
+        "Intervertebral disc L1-L2",
+        "Intervertebral disc L2-L3",
+        "Intervertebral disc L3-L4",
+        "Intervertebral disc L4-L5",
+        "Intervertebral disc L5-S1",
+        "Intervertebral disc T1-T2",
+        "Intervertebral disc T2-T3",
+        "Intervertebral disc T3-T4",
+        "Intervertebral disc T4-T5",
+        "Intervertebral disc T5-T6",
+        "Intervertebral disc T6-T7",
+        "Intervertebral disc T7-T8",
+        "Intervertebral disc T8-T9",
+        "Intervertebral disc T9-T10",
+        "Intervertebral disc T10-T11",
+        "Intervertebral disc T11-T12",
+        "Intervertebral disc T12-L1"
+      ],
+      "view": "front",
+      "studyView": true,
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "curves",
+      "topic": "curves",
+      "title": "Four adult curves · inspect the side view",
+      "pages": [
+        2
+      ],
+      "pins": [
+        {
+          "name": "Secondary: cervical",
+          "target": "Vertebra C4",
+          "text": "Convex anteriorly; develops when infant raises head at 4 months.",
+          "color": "#59d9d0"
+        },
+        {
+          "name": "Primary: thoracic",
+          "target": "Vertebra T6",
+          "text": "Concave anteriorly; formed during fetal development.",
+          "color": "#ff7d9b"
+        },
+        {
+          "name": "Secondary: lumbar",
+          "target": "Vertebra L3",
+          "text": "Convex anteriorly; forms with sitting and walking at 1 year.",
+          "color": "#f1c75b"
+        }
+      ],
+      "focus": [
+        "Atlas (C1)",
+        "Axis (C2)",
+        "Vertebra C3",
+        "Vertebra C4",
+        "Vertebra C5",
+        "Vertebra C6",
+        "Vertebra C7",
+        "Vertebra T1",
+        "Vertebra T2",
+        "Vertebra T3",
+        "Vertebra T4",
+        "Vertebra T5",
+        "Vertebra T6",
+        "Vertebra T7",
+        "Vertebra T8",
+        "Vertebra T9",
+        "Vertebra T10",
+        "Vertebra T11",
+        "Vertebra T12",
+        "Vertebra L1",
+        "Vertebra L2",
+        "Vertebra L3",
+        "Vertebra L4",
+        "Vertebra L5",
+        "Sacrum",
+        "Coccyx"
+      ],
+      "view": "lateral",
+      "studyView": true,
+      "structureColors": {
+        "Atlas (C1)": "#59d9d0",
+        "Axis (C2)": "#59d9d0",
+        "Vertebra C3": "#59d9d0",
+        "Vertebra C4": "#59d9d0",
+        "Vertebra C5": "#59d9d0",
+        "Vertebra C6": "#59d9d0",
+        "Vertebra C7": "#59d9d0",
+        "Vertebra T1": "#ff7d9b",
+        "Vertebra T2": "#ff7d9b",
+        "Vertebra T3": "#ff7d9b",
+        "Vertebra T4": "#ff7d9b",
+        "Vertebra T5": "#ff7d9b",
+        "Vertebra T6": "#ff7d9b",
+        "Vertebra T7": "#ff7d9b",
+        "Vertebra T8": "#ff7d9b",
+        "Vertebra T9": "#ff7d9b",
+        "Vertebra T10": "#ff7d9b",
+        "Vertebra T11": "#ff7d9b",
+        "Vertebra T12": "#ff7d9b",
+        "Vertebra L1": "#f1c75b",
+        "Vertebra L2": "#f1c75b",
+        "Vertebra L3": "#f1c75b",
+        "Vertebra L4": "#f1c75b",
+        "Vertebra L5": "#f1c75b",
+        "Sacrum": "#aa9df1",
+        "Coccyx": "#aa9df1"
+      },
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "sacral-curve",
+      "topic": "curves",
+      "title": "Primary sacral curve & newborn curve",
+      "pages": [
+        2
+      ],
+      "pins": [
+        {
+          "name": "Sacral curve",
+          "target": "Sacrum",
+          "text": "Concave anteriorly; a primary curve formed in fetal development.",
+          "color": "#aa9df1"
+        },
+        {
+          "name": "Newborn curve",
+          "target": "Vertebra T6",
+          "text": "A single curve, concave anteriorly. Lumbosacral angle appears during development.",
+          "color": "#59d9d0",
+          "context": true
+        }
+      ],
+      "focus": [
+        "Atlas (C1)",
+        "Axis (C2)",
+        "Vertebra C3",
+        "Vertebra C4",
+        "Vertebra C5",
+        "Vertebra C6",
+        "Vertebra C7",
+        "Vertebra T1",
+        "Vertebra T2",
+        "Vertebra T3",
+        "Vertebra T4",
+        "Vertebra T5",
+        "Vertebra T6",
+        "Vertebra T7",
+        "Vertebra T8",
+        "Vertebra T9",
+        "Vertebra T10",
+        "Vertebra T11",
+        "Vertebra T12",
+        "Vertebra L1",
+        "Vertebra L2",
+        "Vertebra L3",
+        "Vertebra L4",
+        "Vertebra L5",
+        "Sacrum",
+        "Coccyx"
+      ],
+      "view": "lateral",
+      "studyView": true,
+      "figure": "curves",
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "curve-function",
+      "topic": "curves",
+      "title": "Why the curves matter",
+      "pages": [
+        2
+      ],
+      "pins": [
+        {
+          "name": "Strength",
+          "target": "Vertebra T6",
+          "text": "Curves increase column strength.",
+          "color": "#59d9d0"
+        },
+        {
+          "name": "Balance",
+          "target": "Vertebra L3",
+          "text": "Maintain balance in the upright position.",
+          "color": "#ff7d9b"
+        },
+        {
+          "name": "Shock absorption",
+          "target": "Sacrum",
+          "text": "Absorb shocks during walking and protect vertebrae from fracture.",
+          "color": "#f1c75b"
+        }
+      ],
+      "focus": [
+        "Atlas (C1)",
+        "Axis (C2)",
+        "Vertebra C3",
+        "Vertebra C4",
+        "Vertebra C5",
+        "Vertebra C6",
+        "Vertebra C7",
+        "Vertebra T1",
+        "Vertebra T2",
+        "Vertebra T3",
+        "Vertebra T4",
+        "Vertebra T5",
+        "Vertebra T6",
+        "Vertebra T7",
+        "Vertebra T8",
+        "Vertebra T9",
+        "Vertebra T10",
+        "Vertebra T11",
+        "Vertebra T12",
+        "Vertebra L1",
+        "Vertebra L2",
+        "Vertebra L3",
+        "Vertebra L4",
+        "Vertebra L5",
+        "Sacrum",
+        "Coccyx"
+      ],
+      "view": "lateral",
+      "studyView": true,
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "abnormal-curves",
+      "topic": "curves",
+      "title": "Kyphosis · lordosis · scoliosis",
+      "pages": [
+        2
+      ],
+      "pins": [
+        {
+          "name": "Abnormal curves",
+          "target": "Vertebra T6",
+          "text": "The lecture names kyphosis, lordosis and scoliosis. Compare the original illustrations.",
+          "color": "#59d9d0",
+          "context": true
+        }
+      ],
+      "focus": [
+        "Atlas (C1)",
+        "Axis (C2)",
+        "Vertebra C3",
+        "Vertebra C4",
+        "Vertebra C5",
+        "Vertebra C6",
+        "Vertebra C7",
+        "Vertebra T1",
+        "Vertebra T2",
+        "Vertebra T3",
+        "Vertebra T4",
+        "Vertebra T5",
+        "Vertebra T6",
+        "Vertebra T7",
+        "Vertebra T8",
+        "Vertebra T9",
+        "Vertebra T10",
+        "Vertebra T11",
+        "Vertebra T12",
+        "Vertebra L1",
+        "Vertebra L2",
+        "Vertebra L3",
+        "Vertebra L4",
+        "Vertebra L5",
+        "Sacrum",
+        "Coccyx"
+      ],
+      "view": "lateral",
+      "studyView": true,
+      "figure": "abnormal",
+      "caption": "Open the lecture illustration to compare abnormal curves. This 3D model retains its original healthy pose."
+    },
+    {
+      "id": "typical-body",
+      "topic": "typical",
+      "title": "Anterior body · posterior arch",
+      "pages": [
+        3
+      ],
+      "pins": [
+        {
+          "name": "Body",
+          "target": "Vertebra L3",
+          "text": "Anterior, weight-bearing part.",
+          "color": "#59d9d0",
+          "part": "body"
+        },
+        {
+          "name": "Pedicles",
+          "target": "Vertebra L3",
+          "text": "The pedicles form part of the vertebral arch.",
+          "color": "#ff7d9b",
+          "part": "pedicle"
+        },
+        {
+          "name": "Laminae",
+          "target": "Vertebra L3",
+          "text": "The laminae complete the arch posteriorly.",
+          "color": "#f1c75b",
+          "part": "lamina"
+        }
+      ],
+      "focus": [
+        "Vertebra L3"
+      ],
+      "view": "superior",
+      "studyView": true,
+      "parts": true,
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "typical-processes",
+      "topic": "typical",
+      "title": "Seven processes · 2 + 1 + 4",
+      "pages": [
+        3
+      ],
+      "pins": [
+        {
+          "name": "Two transverse processes",
+          "target": "Vertebra L3",
+          "text": "A transverse process projects on each side.",
+          "color": "#aa9df1",
+          "part": "transverse"
+        },
+        {
+          "name": "One spinous process",
+          "target": "Vertebra L3",
+          "text": "Projects posteriorly.",
+          "color": "#ff7d9b",
+          "part": "spinous"
+        },
+        {
+          "name": "Four articular processes",
+          "target": "Vertebra L3",
+          "text": "Two superior and two inferior.",
+          "color": "#76bafb",
+          "part": "superior-facet"
+        }
+      ],
+      "focus": [
+        "Vertebra L3"
+      ],
+      "view": "superior",
+      "studyView": true,
+      "parts": true,
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "typical-canal",
+      "topic": "typical",
+      "title": "Foramen → spinal canal",
+      "pages": [
+        3
+      ],
+      "pins": [
+        {
+          "name": "Vertebral foramen",
+          "target": "Vertebra L3",
+          "text": "Between body and arch. All vertebral foramina form the spinal canal.",
+          "color": "#f1c75b",
+          "part": "foramen"
+        },
+        {
+          "name": "Spinal canal",
+          "target": "Vertebra L3",
+          "text": "Contains the spinal cord and its coverings.",
+          "color": "#59d9d0",
+          "context": true,
+          "part": "foramen"
+        }
+      ],
+      "focus": [
+        "Vertebra L3"
+      ],
+      "view": "superior",
+      "studyView": true,
+      "parts": true,
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "intervertebral-foramen",
+      "topic": "typical",
+      "title": "Two vertebral notches form one intervertebral foramen",
+      "pages": [
+        3
+      ],
+      "pins": [
+        {
+          "name": "Intervertebral foramen",
+          "target": "Vertebra L3",
+          "text": "Two neighboring notches together; transmits spinal nerves and blood vessels.",
+          "color": "#ff7d9b",
+          "part": "notch"
+        },
+        {
+          "name": "Neighboring vertebra",
+          "target": "Vertebra L4",
+          "text": "Compare the paired notches in this lateral view.",
+          "color": "#f1c75b"
+        }
+      ],
+      "focus": [
+        "Vertebra L3",
+        "Vertebra L4",
+        "Intervertebral disc L3-L4"
+      ],
+      "view": "lateral",
+      "studyView": true,
+      "parts": true,
+      "figure": "typical",
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "cervical-shape",
+      "topic": "cervical",
+      "title": "Small body · large triangular foramen",
+      "pages": [
+        4
+      ],
+      "pins": [
+        {
+          "name": "Small body",
+          "target": "Vertebra C5",
+          "text": "Typical cervical vertebrae: smaller body.",
+          "color": "#59d9d0",
+          "part": "body"
+        },
+        {
+          "name": "Triangular vertebral foramen",
+          "target": "Vertebra C5",
+          "text": "Larger, triangular opening.",
+          "color": "#f1c75b",
+          "part": "foramen"
+        },
+        {
+          "name": "Transverse processes",
+          "target": "Vertebra C5",
+          "text": "Short; contain a transverse foramen.",
+          "color": "#aa9df1",
+          "part": "transverse"
+        }
+      ],
+      "focus": [
+        "Vertebra C5"
+      ],
+      "view": "superior",
+      "studyView": true,
+      "parts": true,
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "cervical-transverse",
+      "topic": "cervical",
+      "title": "Foramina, tubercles & attachments",
+      "pages": [
+        4
+      ],
+      "pins": [
+        {
+          "name": "Transverse foramen",
+          "target": "Vertebra C5",
+          "text": "Vertebral artery and veins pass here, except C7 in the lecture.",
+          "color": "#aa9df1",
+          "part": "transverse-foramen"
+        },
+        {
+          "name": "Anterior / posterior tubercles",
+          "target": "Vertebra C5",
+          "text": "Attach levator scapulae and scalene muscles.",
+          "color": "#ff7d9b",
+          "part": "tubercle"
+        },
+        {
+          "name": "Superior articular processes",
+          "target": "Vertebra C5",
+          "text": "Face posterior-superior.",
+          "color": "#76bafb",
+          "part": "superior-facet"
+        }
+      ],
+      "focus": [
+        "Vertebra C5"
+      ],
+      "view": "superior",
+      "studyView": true,
+      "parts": true,
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "cervical-muscle-relation",
+      "topic": "cervical",
+      "title": "Cervical transverse processes beside their muscles",
+      "pages": [
+        4
+      ],
+      "pins": [
+        {
+          "name": "Levator scapulae",
+          "target": "Levator scapulae.r",
+          "text": "Levator scapulae attaches to cervical transverse-process tubercles.",
+          "color": "#59d9d0"
+        },
+        {
+          "name": "Scalene group",
+          "target": "Scalenus anterior muscle.r",
+          "text": "Scalenes also attach to cervical transverse-process tubercles.",
+          "color": "#ff7d9b"
+        },
+        {
+          "name": "Tubercle region",
+          "target": "Vertebra C5",
+          "text": "See the muscle beside the colored transverse process.",
+          "color": "#aa9df1",
+          "part": "tubercle"
+        }
+      ],
+      "focus": [
+        "Levator scapulae.r",
+        "Scalenus anterior muscle.r",
+        "Scalenus medius muscle.r",
+        "Vertebra C5"
+      ],
+      "view": "lateral",
+      "studyView": true,
+      "boneContext": [
+        "Atlas (C1)",
+        "Axis (C2)",
+        "Vertebra C3",
+        "Vertebra C4",
+        "Vertebra C5",
+        "Vertebra C6",
+        "Vertebra C7",
+        "Occipital bone",
+        "Temporal bone.r",
+        "Temporal bone.l",
+        "First rib.r",
+        "First rib.l",
+        "Scapula.r",
+        "Scapula.l",
+        "Clavicle.r",
+        "Clavicle.l"
+      ],
+      "muscleFocus": [
+        "Levator scapulae.r",
+        "Scalenus anterior muscle.r",
+        "Scalenus medius muscle.r"
+      ],
+      "region": {
+        "target": "Vertebra C4",
+        "span": 0.21
+      },
+      "parts": true,
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "carotid-tubercle",
+      "topic": "cervical",
+      "title": "C6 · carotid tubercle",
+      "pages": [
+        4
+      ],
+      "pins": [
+        {
+          "name": "Carotid tubercle",
+          "target": "Vertebra C6",
+          "text": "Anterior tubercle of C6.",
+          "color": "#ff7d9b",
+          "part": "tubercle"
+        }
+      ],
+      "focus": [
+        "Vertebra C6"
+      ],
+      "view": "superior",
+      "studyView": true,
+      "parts": true,
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "cervical-spines",
+      "topic": "cervical",
+      "title": "Bifid C2–C6 · prominent C7",
+      "pages": [
+        4
+      ],
+      "pins": [
+        {
+          "name": "Often bifid",
+          "target": "Vertebra C5",
+          "text": "Spinous processes of C2–C6 are often bifid.",
+          "color": "#ff7d9b",
+          "part": "spinous"
+        },
+        {
+          "name": "Vertebra prominens",
+          "target": "Vertebra C7",
+          "text": "C7 has a long prominent spinous process.",
+          "color": "#f1c75b",
+          "part": "spinous"
+        }
+      ],
+      "focus": [
+        "Vertebra C5",
+        "Vertebra C7"
+      ],
+      "view": "back",
+      "studyView": true,
+      "parts": true,
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "atlas-ring",
+      "topic": "cervical",
+      "title": "Atlas C1 · a ring without body or spine",
+      "pages": [
+        4
+      ],
+      "pins": [
+        {
+          "name": "Anterior arch",
+          "target": "Atlas (C1)",
+          "text": "C1 is ring-shaped; no body and no spinous process.",
+          "color": "#59d9d0",
+          "part": "anterior-arch"
+        },
+        {
+          "name": "Posterior arch",
+          "target": "Atlas (C1)",
+          "text": "Posterior arch carries the vertebral artery groove.",
+          "color": "#ff7d9b",
+          "part": "posterior-arch"
+        },
+        {
+          "name": "Lateral mass",
+          "target": "Atlas (C1)",
+          "text": "Superior facets articulate with occipital condyles.",
+          "color": "#76bafb",
+          "part": "lateral-mass"
+        }
+      ],
+      "focus": [
+        "Atlas (C1)"
+      ],
+      "view": "superior",
+      "studyView": true,
+      "parts": true,
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "atlas-width",
+      "topic": "cervical",
+      "title": "Atlas · the widest cervical vertebra",
+      "pages": [
+        4
+      ],
+      "pins": [
+        {
+          "name": "Transverse process",
+          "target": "Atlas (C1)",
+          "text": "More laterally placed than in the other cervical vertebrae.",
+          "color": "#aa9df1",
+          "part": "transverse"
+        },
+        {
+          "name": "Vertebral artery groove",
+          "target": "Atlas (C1)",
+          "text": "Groove on posterior arch; match the original superior-view figure.",
+          "color": "#ff7d9b",
+          "part": "artery-groove"
+        }
+      ],
+      "focus": [
+        "Atlas (C1)"
+      ],
+      "view": "superior",
+      "studyView": true,
+      "parts": true,
+      "figure": "atlas",
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "axis-dens",
+      "topic": "cervical",
+      "title": "Axis C2 · dens forms the pivot",
+      "pages": [
+        5
+      ],
+      "pins": [
+        {
+          "name": "Dens / odontoid process",
+          "target": "Axis (C2)",
+          "text": "Described by the lecture as the body of the atlas.",
+          "color": "#f1c75b",
+          "part": "dens"
+        },
+        {
+          "name": "Axis",
+          "target": "Axis (C2)",
+          "text": "Pivotal movement at the atlanto-axial joint signifies “no”.",
+          "color": "#59d9d0",
+          "part": "body"
+        }
+      ],
+      "focus": [
+        "Axis (C2)"
+      ],
+      "view": "front",
+      "studyView": true,
+      "parts": true,
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "yes-joint",
+      "topic": "cranial",
+      "title": "Atlanto-occipital · “yes”",
+      "pages": [
+        5
+      ],
+      "pins": [
+        {
+          "name": "Occipital condyles",
+          "target": "Occipital bone",
+          "text": "Articulate with the lateral masses of atlas.",
+          "color": "#ff7d9b"
+        },
+        {
+          "name": "Atlas lateral masses",
+          "target": "Atlas (C1)",
+          "text": "Synovial joint; flexion and extension.",
+          "color": "#59d9d0"
+        }
+      ],
+      "focus": [
+        "Occipital bone",
+        "Atlas (C1)"
+      ],
+      "view": "front",
+      "studyView": true,
+      "region": {
+        "target": "Atlas (C1)",
+        "at": 0.7,
+        "span": 0.13
+      },
+      "figure": "ao",
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "ao-membranes",
+      "topic": "cranial",
+      "title": "Anterior & posterior atlanto-occipital membranes",
+      "pages": [
+        5
+      ],
+      "pins": [
+        {
+          "name": "Anterior membrane",
+          "target": "Atlas (C1)",
+          "text": "Between atlas arch and margin of foramen magnum.",
+          "color": "#59d9d0",
+          "context": true,
+          "part": "anterior-arch"
+        },
+        {
+          "name": "Posterior membrane",
+          "target": "Atlas (C1)",
+          "text": "Between atlas posterior arch and foramen magnum margin.",
+          "color": "#ff7d9b",
+          "context": true,
+          "part": "posterior-arch"
+        }
+      ],
+      "focus": [
+        "Occipital bone",
+        "Atlas (C1)"
+      ],
+      "view": "back",
+      "studyView": true,
+      "region": {
+        "target": "Atlas (C1)",
+        "span": 0.13
+      },
+      "figure": "ao",
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "no-joint",
+      "topic": "cranial",
+      "title": "Atlanto-axial · “no”",
+      "pages": [
+        6
+      ],
+      "pins": [
+        {
+          "name": "Median joint",
+          "target": "Axis (C2)",
+          "text": "Dens and anterior arch of atlas.",
+          "color": "#f1c75b",
+          "part": "dens"
+        },
+        {
+          "name": "Two lateral joints",
+          "target": "Atlas (C1)",
+          "text": "Between lateral masses: three synovial joints in total; rotation.",
+          "color": "#59d9d0",
+          "part": "lateral-mass"
+        }
+      ],
+      "focus": [
+        "Atlas (C1)",
+        "Axis (C2)"
+      ],
+      "view": "superior",
+      "studyView": true,
+      "parts": true,
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "dens-ligaments",
+      "topic": "cranial",
+      "title": "Apical & alar ligaments",
+      "pages": [
+        6
+      ],
+      "pins": [
+        {
+          "name": "Apical ligament",
+          "target": "Axis (C2)",
+          "text": "Apex of dens → margin of foramen magnum.",
+          "color": "#f1c75b",
+          "context": true,
+          "part": "dens"
+        },
+        {
+          "name": "Alar ligaments",
+          "target": "Axis (C2)",
+          "text": "Lateral to apical; dens → occipital condyles.",
+          "color": "#ff7d9b",
+          "context": true,
+          "part": "dens"
+        }
+      ],
+      "focus": [
+        "Atlas (C1)",
+        "Axis (C2)",
+        "Occipital bone"
+      ],
+      "view": "back",
+      "studyView": true,
+      "region": {
+        "target": "Axis (C2)",
+        "span": 0.14
+      },
+      "figure": "aa",
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "cruciate",
+      "topic": "cranial",
+      "title": "Cruciate ligament · transverse + vertical",
+      "pages": [
+        6
+      ],
+      "pins": [
+        {
+          "name": "Transverse band",
+          "target": "Atlas (C1)",
+          "text": "Connects lateral masses of atlas.",
+          "color": "#aa9df1",
+          "context": true,
+          "part": "lateral-mass"
+        },
+        {
+          "name": "Vertical band",
+          "target": "Axis (C2)",
+          "text": "Between posterior body of axis and anterior margin of foramen magnum.",
+          "color": "#59d9d0",
+          "context": true,
+          "part": "dens"
+        }
+      ],
+      "focus": [
+        "Atlas (C1)",
+        "Axis (C2)",
+        "Occipital bone"
+      ],
+      "view": "back",
+      "studyView": true,
+      "region": {
+        "target": "Axis (C2)",
+        "span": 0.14
+      },
+      "figure": "aa",
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "tectoria",
+      "topic": "cranial",
+      "title": "Membrana tectoria",
+      "pages": [
+        6
+      ],
+      "pins": [
+        {
+          "name": "Tectorial membrane",
+          "target": "Axis (C2)",
+          "text": "Continuation of posterior longitudinal ligament; posterior to dens, apical, alar and cruciate ligaments.",
+          "color": "#ff7d9b",
+          "context": true,
+          "part": "dens"
+        },
+        {
+          "name": "Posterior longitudinal ligament",
+          "target": "Posterior longitudinal ligament",
+          "text": "Follow its superior continuation in the original figure.",
+          "color": "#59d9d0"
+        }
+      ],
+      "focus": [
+        "Atlas (C1)",
+        "Axis (C2)",
+        "Occipital bone",
+        "Posterior longitudinal ligament"
+      ],
+      "view": "back",
+      "studyView": true,
+      "region": {
+        "target": "Axis (C2)",
+        "span": 0.14
+      },
+      "figure": "aa",
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "thoracic-shape",
+      "topic": "regional",
+      "title": "Thoracic · heart-shaped body & downward spine",
+      "pages": [
+        7
+      ],
+      "pins": [
+        {
+          "name": "Body",
+          "target": "Vertebra T6",
+          "text": "Larger and stronger; heart-shaped.",
+          "color": "#59d9d0",
+          "part": "body"
+        },
+        {
+          "name": "Spinous process",
+          "target": "Vertebra T6",
+          "text": "Long, directed downward.",
+          "color": "#ff7d9b",
+          "part": "spinous"
+        },
+        {
+          "name": "Transverse processes",
+          "target": "Vertebra T6",
+          "text": "Longer; superior articular processes face posterolateral.",
+          "color": "#aa9df1",
+          "part": "transverse"
+        }
+      ],
+      "focus": [
+        "Vertebra T6"
+      ],
+      "view": "superior",
+      "studyView": true,
+      "parts": true,
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "thoracic-rib",
+      "topic": "regional",
+      "title": "Two rib contacts · head and tubercle",
+      "pages": [
+        7
+      ],
+      "pins": [
+        {
+          "name": "Body facets / demifacets",
+          "target": "Vertebra T6",
+          "text": "Articulate with the rib head.",
+          "color": "#ff7d9b",
+          "part": "costal-body"
+        },
+        {
+          "name": "Transverse costal facet",
+          "target": "Vertebra T6",
+          "text": "T1–T10 articulate with rib tubercle.",
+          "color": "#aa9df1",
+          "part": "transverse"
+        },
+        {
+          "name": "Sixth rib",
+          "target": "Sixth rib.r",
+          "text": "See the rib beside the thoracic vertebra.",
+          "color": "#f1c75b"
+        }
+      ],
+      "focus": [
+        "Vertebra T6",
+        "Sixth rib.r",
+        "Seventh rib.r"
+      ],
+      "view": "back",
+      "studyView": true,
+      "region": {
+        "target": "Vertebra T6",
+        "span": 0.16
+      },
+      "parts": true,
+      "sceneOpacity": {
+        "Sixth rib.r": 0.5,
+        "Seventh rib.r": 0.18
+      },
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "lumbar-shape",
+      "topic": "regional",
+      "title": "Lumbar · kidney-shaped body & thick spine",
+      "pages": [
+        7
+      ],
+      "pins": [
+        {
+          "name": "Body",
+          "target": "Vertebra L3",
+          "text": "Largest, strongest vertebrae; large kidney-shaped body. L5 is largest.",
+          "color": "#59d9d0",
+          "part": "body"
+        },
+        {
+          "name": "Spinous process",
+          "target": "Vertebra L3",
+          "text": "Short, thick, projects backward.",
+          "color": "#ff7d9b",
+          "part": "spinous"
+        },
+        {
+          "name": "Transverse processes",
+          "target": "Vertebra L3",
+          "text": "Long and slender.",
+          "color": "#aa9df1",
+          "part": "transverse"
+        }
+      ],
+      "focus": [
+        "Vertebra L3"
+      ],
+      "view": "superior",
+      "studyView": true,
+      "parts": true,
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "lumbar-facets",
+      "topic": "regional",
+      "title": "Lumbar · triangular foramen, medial facets",
+      "pages": [
+        7
+      ],
+      "pins": [
+        {
+          "name": "Triangular foramen",
+          "target": "Vertebra L3",
+          "text": "Triangular vertebral foramen.",
+          "color": "#f1c75b",
+          "part": "foramen"
+        },
+        {
+          "name": "Superior articular processes",
+          "target": "Vertebra L3",
+          "text": "Face medially.",
+          "color": "#76bafb",
+          "part": "superior-facet"
+        }
+      ],
+      "focus": [
+        "Vertebra L3"
+      ],
+      "view": "superior",
+      "studyView": true,
+      "parts": true,
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "inferior-facet-directions",
+      "topic": "regional",
+      "title": "Inferior articular facets · compare regional directions",
+      "pages": [
+        7
+      ],
+      "pins": [
+        {
+          "name": "Cervical",
+          "target": "Vertebra C5",
+          "text": "Inferior articular facets face anteroinferior in the comparison table.",
+          "color": "#59d9d0",
+          "part": "inferior-facet"
+        },
+        {
+          "name": "Thoracic",
+          "target": "Vertebra T6",
+          "text": "Inferior articular facets face anteromedial.",
+          "color": "#ff7d9b",
+          "part": "inferior-facet"
+        },
+        {
+          "name": "Lumbar",
+          "target": "Vertebra L3",
+          "text": "Inferior articular facets face lateral.",
+          "color": "#f1c75b",
+          "part": "inferior-facet"
+        }
+      ],
+      "focus": [
+        "Vertebra C5",
+        "Vertebra T6",
+        "Vertebra L3"
+      ],
+      "view": "inferior",
+      "studyView": true,
+      "comparison": true,
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "compare-shapes",
+      "topic": "regional",
+      "title": "Cervical · thoracic · lumbar at the same scale",
+      "pages": [
+        7
+      ],
+      "pins": [
+        {
+          "name": "C5",
+          "target": "Vertebra C5",
+          "text": "Small body; transverse foramina.",
+          "color": "#59d9d0",
+          "part": "body"
+        },
+        {
+          "name": "T6",
+          "target": "Vertebra T6",
+          "text": "Heart-shaped body; rib facets.",
+          "color": "#ff7d9b",
+          "part": "body"
+        },
+        {
+          "name": "L3",
+          "target": "Vertebra L3",
+          "text": "Large kidney-shaped body.",
+          "color": "#f1c75b",
+          "part": "body"
+        }
+      ],
+      "focus": [
+        "Vertebra C5",
+        "Vertebra T6",
+        "Vertebra L3"
+      ],
+      "view": "superior",
+      "studyView": true,
+      "comparison": true,
+      "structureColors": {
+        "Vertebra C5": "#59d9d0",
+        "Vertebra T6": "#ff7d9b",
+        "Vertebra L3": "#f1c75b"
+      },
+      "caption": "Separated comparison, preserving the original scale. Return to a vertebra or the column map to restore anatomical positions."
+    },
+    {
+      "id": "disc-location",
+      "topic": "discs",
+      "title": "Discs lie between adjacent bodies",
+      "pages": [
+        3
+      ],
+      "pins": [
+        {
+          "name": "Intervertebral disc",
+          "target": "Intervertebral disc L3-L4",
+          "text": "Forms strong joints, permits movements, absorbs vertical shock.",
+          "color": "#59d9d0"
+        },
+        {
+          "name": "Cervical / lumbar",
+          "target": "Intervertebral disc L3-L4",
+          "text": "Thicker in cervical and lumbar regions where movement is greatest.",
+          "color": "#ff7d9b",
+          "context": true
+        }
+      ],
+      "focus": [
+        "Vertebra L3",
+        "Vertebra L4",
+        "Intervertebral disc L3-L4"
+      ],
+      "view": "lateral",
+      "studyView": true,
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "disc-content",
+      "topic": "discs",
+      "title": "Annulus ring · nucleus center",
+      "pages": [
+        3
+      ],
+      "pins": [
+        {
+          "name": "Annulus fibrosus",
+          "target": "Intervertebral disc L3-L4",
+          "text": "Fibrocartilaginous ring: concentric layers with alternating oblique collagen bundles.",
+          "color": "#59d9d0",
+          "context": true
+        },
+        {
+          "name": "Nucleus pulposus",
+          "target": "Intervertebral disc L3-L4",
+          "text": "Pulpy center composed of gelatinous material.",
+          "color": "#ff7d9b",
+          "context": true
+        }
+      ],
+      "focus": [
+        "Intervertebral disc L3-L4"
+      ],
+      "view": "superior",
+      "studyView": true,
+      "figure": "disc",
+      "caption": "The outer disc is a single mesh. The enlarged original cross-section shows the ring and center separately."
+    },
+    {
+      "id": "body-joints",
+      "topic": "discs",
+      "title": "Body joints · cartilage and longitudinal ligaments",
+      "pages": [
+        8
+      ],
+      "pins": [
+        {
+          "name": "IV joint",
+          "target": "Intervertebral disc L3-L4",
+          "text": "Cartilaginous joint; bodies covered with thin hyaline cartilage plates.",
+          "color": "#f1c75b"
+        },
+        {
+          "name": "Anterior longitudinal ligament",
+          "target": "Anterior longitudinal ligament",
+          "text": "Wider and stronger.",
+          "color": "#59d9d0"
+        },
+        {
+          "name": "Posterior longitudinal ligament",
+          "target": "Posterior longitudinal ligament",
+          "text": "Weak and narrow.",
+          "color": "#ff7d9b"
+        }
+      ],
+      "focus": [
+        "Vertebra L3",
+        "Vertebra L4",
+        "Intervertebral disc L3-L4",
+        "Anterior longitudinal ligament",
+        "Posterior longitudinal ligament"
+      ],
+      "view": "lateral",
+      "studyView": true,
+      "region": {
+        "target": "Vertebra L3",
+        "span": 0.18
+      },
+      "section": true,
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "lumbar-disc",
+      "topic": "discs",
+      "title": "Lumbar discs · thickness and weak posterior ring",
+      "pages": [
+        8
+      ],
+      "pins": [
+        {
+          "name": "Thickness",
+          "target": "Intervertebral disc L4-L5",
+          "text": "Thickest discs. Relative cervical/lumbar disc thickness exceeds thoracic.",
+          "color": "#59d9d0",
+          "context": true
+        },
+        {
+          "name": "Anterior thickness",
+          "target": "Intervertebral disc L4-L5",
+          "text": "Thicker anteriorly to accommodate lumbar curvature.",
+          "color": "#f1c75b",
+          "context": true
+        },
+        {
+          "name": "Posterior weakness",
+          "target": "Intervertebral disc L4-L5",
+          "text": "Nucleus lies posterior to center; posterior annulus is weaker.",
+          "color": "#ff7d9b",
+          "context": true
+        }
+      ],
+      "focus": [
+        "Vertebra L4",
+        "Vertebra L5",
+        "Intervertebral disc L4-L5"
+      ],
+      "view": "lateral",
+      "studyView": true,
+      "figure": "lumbar-disc",
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "herniation",
+      "topic": "discs",
+      "title": "Posterolateral herniation · L4–L5 / L5–S1",
+      "pages": [
+        8
+      ],
+      "pins": [
+        {
+          "name": "L4–L5",
+          "target": "Intervertebral disc L4-L5",
+          "text": "Mostly affected disc level.",
+          "color": "#ff7d9b"
+        },
+        {
+          "name": "L5–S1",
+          "target": "Intervertebral disc L5-S1",
+          "text": "Another commonly affected level.",
+          "color": "#f1c75b"
+        },
+        {
+          "name": "Nerve supply",
+          "target": "Intervertebral disc L4-L5",
+          "text": "Meningeal branches of spinal nerves supply body joints.",
+          "color": "#59d9d0",
+          "context": true
+        }
+      ],
+      "focus": [
+        "Vertebra L4",
+        "Vertebra L5",
+        "Sacrum",
+        "Intervertebral disc L4-L5",
+        "Intervertebral disc L5-S1"
+      ],
+      "view": "lateral",
+      "studyView": true,
+      "figure": "lumbar-disc",
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "facet-joint",
+      "topic": "arch-joints",
+      "title": "Zygapophysial joints · plane synovial",
+      "pages": [
+        9
+      ],
+      "pins": [
+        {
+          "name": "Superior articular process",
+          "target": "Vertebra L4",
+          "text": "Articulates with inferior process of vertebra above.",
+          "color": "#76bafb",
+          "part": "superior-facet"
+        },
+        {
+          "name": "Inferior articular process",
+          "target": "Vertebra L3",
+          "text": "Together form the plane synovial facet joint.",
+          "color": "#ff7d9b",
+          "part": "inferior-facet"
+        },
+        {
+          "name": "Nerve supply",
+          "target": "Vertebra L3",
+          "text": "Articular branches from posterior rami of spinal nerves.",
+          "color": "#59d9d0",
+          "context": true
+        }
+      ],
+      "focus": [
+        "Vertebra L3",
+        "Vertebra L4"
+      ],
+      "view": "back",
+      "studyView": true,
+      "parts": true,
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "supraspinous",
+      "topic": "arch-joints",
+      "title": "Supraspinous ligament · see the actual connection",
+      "pages": [
+        9
+      ],
+      "pins": [
+        {
+          "name": "Supraspinous ligament",
+          "target": "Supraspinous ligament",
+          "text": "Between tips of spines.",
+          "color": "#f1c75b",
+          "at": 0.55
+        }
+      ],
+      "focus": [
+        "Vertebra L2",
+        "Vertebra L3",
+        "Vertebra L4",
+        "Supraspinous ligament"
+      ],
+      "view": "lateral",
+      "studyView": true,
+      "region": {
+        "target": "Vertebra L3",
+        "span": 0.15
+      },
+      "section": false,
+      "figure": "arch-ligaments",
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "interspinous",
+      "topic": "arch-joints",
+      "title": "Interspinous ligaments · see the actual connection",
+      "pages": [
+        9
+      ],
+      "pins": [
+        {
+          "name": "Interspinous ligaments",
+          "target": "Interspinous ligaments",
+          "text": "Between spines.",
+          "color": "#f1c75b",
+          "at": 0.55
+        }
+      ],
+      "focus": [
+        "Vertebra L2",
+        "Vertebra L3",
+        "Vertebra L4",
+        "Interspinous ligaments"
+      ],
+      "view": "lateral",
+      "studyView": true,
+      "region": {
+        "target": "Vertebra L3",
+        "span": 0.15
+      },
+      "section": false,
+      "figure": "arch-ligaments",
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "intertransverse",
+      "topic": "arch-joints",
+      "title": "Intertransverse ligaments · see the actual connection",
+      "pages": [
+        9
+      ],
+      "pins": [
+        {
+          "name": "Intertransverse ligaments",
+          "target": "Intertransverse ligaments.r",
+          "text": "Between transverse processes.",
+          "color": "#f1c75b",
+          "at": 0.55
+        }
+      ],
+      "focus": [
+        "Vertebra L2",
+        "Vertebra L3",
+        "Vertebra L4",
+        "Intertransverse ligaments.r"
+      ],
+      "view": "lateral",
+      "studyView": true,
+      "region": {
+        "target": "Vertebra L3",
+        "span": 0.15
+      },
+      "section": false,
+      "figure": "arch-ligaments",
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "flavum",
+      "topic": "arch-joints",
+      "title": "Ligamentum flavum · see the actual connection",
+      "pages": [
+        9
+      ],
+      "pins": [
+        {
+          "name": "Ligamentum flavum",
+          "target": "Ligamenta flava",
+          "text": "Between laminae.",
+          "color": "#f1c75b",
+          "at": 0.55
+        }
+      ],
+      "focus": [
+        "Vertebra L2",
+        "Vertebra L3",
+        "Vertebra L4",
+        "Ligamenta flava"
+      ],
+      "view": "lateral",
+      "studyView": true,
+      "region": {
+        "target": "Vertebra L3",
+        "span": 0.15
+      },
+      "section": true,
+      "figure": "arch-ligaments",
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "facet-orientation",
+      "topic": "arch-joints",
+      "title": "Lumbar facets · sagittal to coronal",
+      "pages": [
+        9
+      ],
+      "pins": [
+        {
+          "name": "T12–L1",
+          "target": "Vertebra L1",
+          "text": "Sagittally oriented joints.",
+          "color": "#59d9d0",
+          "part": "superior-facet"
+        },
+        {
+          "name": "Successive vertebrae",
+          "target": "Vertebra L3",
+          "text": "Superior processes face medially; orientation changes successively toward posterior.",
+          "color": "#ff7d9b",
+          "part": "superior-facet"
+        },
+        {
+          "name": "L5–S1",
+          "target": "Vertebra L5",
+          "text": "Coronally oriented joints.",
+          "color": "#f1c75b",
+          "part": "inferior-facet"
+        }
+      ],
+      "focus": [
+        "Vertebra T12",
+        "Vertebra L1",
+        "Vertebra L2",
+        "Vertebra L3",
+        "Vertebra L4",
+        "Vertebra L5",
+        "Sacrum"
+      ],
+      "view": "back",
+      "studyView": true,
+      "parts": true,
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "lumbar-flexion",
+      "topic": "movements",
+      "title": "Flexion · match the muscle group",
+      "pages": [
+        9
+      ],
+      "pins": [
+        {
+          "name": "Flexion",
+          "target": "Rectus abdominis muscle.r",
+          "text": "Rectus abdominis and psoas major.",
+          "color": "#59d9d0"
+        }
+      ],
+      "focus": [
+        "Rectus abdominis muscle.r",
+        "Psoas major.r"
+      ],
+      "view": "front",
+      "studyView": true,
+      "boneContext": [
+        "Vertebra L1",
+        "Vertebra L2",
+        "Vertebra L3",
+        "Vertebra L4",
+        "Vertebra L5",
+        "Sacrum",
+        "Hip bone.r",
+        "Hip bone.l"
+      ],
+      "muscleFocus": [
+        "Rectus abdominis muscle.r",
+        "Psoas major.r"
+      ],
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "lumbar-extension",
+      "topic": "movements",
+      "title": "Extension · match the muscle group",
+      "pages": [
+        9
+      ],
+      "pins": [
+        {
+          "name": "Extension",
+          "target": "Longissimus thoracis muscle.l",
+          "text": "Postvertebral muscles.",
+          "color": "#59d9d0"
+        }
+      ],
+      "focus": [
+        "Longissimus thoracis muscle.l",
+        "Longissimus thoracis muscle.r"
+      ],
+      "view": "back",
+      "studyView": true,
+      "boneContext": [
+        "Vertebra L1",
+        "Vertebra L2",
+        "Vertebra L3",
+        "Vertebra L4",
+        "Vertebra L5",
+        "Sacrum",
+        "Hip bone.r",
+        "Hip bone.l"
+      ],
+      "muscleFocus": [
+        "Longissimus thoracis muscle.l",
+        "Longissimus thoracis muscle.r"
+      ],
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "lumbar-rotation",
+      "topic": "movements",
+      "title": "Rotation · match the muscle group",
+      "pages": [
+        9
+      ],
+      "pins": [
+        {
+          "name": "Rotation",
+          "target": "Rotatores.l",
+          "text": "Rotators and oblique abdominal muscles.",
+          "color": "#59d9d0"
+        }
+      ],
+      "focus": [
+        "Rotatores.l",
+        "Rotatores.r",
+        "External abdominal oblique muscle.l",
+        "External abdominal oblique muscle.r"
+      ],
+      "view": "back",
+      "studyView": true,
+      "boneContext": [
+        "Vertebra L1",
+        "Vertebra L2",
+        "Vertebra L3",
+        "Vertebra L4",
+        "Vertebra L5",
+        "Sacrum",
+        "Hip bone.r",
+        "Hip bone.l"
+      ],
+      "muscleFocus": [
+        "Rotatores.l",
+        "Rotatores.r",
+        "External abdominal oblique muscle.l",
+        "External abdominal oblique muscle.r"
+      ],
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "lumbar-lateral-flexion",
+      "topic": "movements",
+      "title": "Lateral flexion · match the muscle group",
+      "pages": [
+        9
+      ],
+      "pins": [
+        {
+          "name": "Lateral flexion",
+          "target": "Quadratus lumborum muscle.l",
+          "text": "Postvertebral muscles, quadratus lumborum and oblique abdominal muscles.",
+          "color": "#59d9d0"
+        }
+      ],
+      "focus": [
+        "Quadratus lumborum muscle.l",
+        "Quadratus lumborum muscle.r",
+        "Internal abdominal oblique muscle.l",
+        "Internal abdominal oblique muscle.r"
+      ],
+      "view": "back",
+      "studyView": true,
+      "boneContext": [
+        "Vertebra L1",
+        "Vertebra L2",
+        "Vertebra L3",
+        "Vertebra L4",
+        "Vertebra L5",
+        "Sacrum",
+        "Hip bone.r",
+        "Hip bone.l"
+      ],
+      "muscleFocus": [
+        "Quadratus lumborum muscle.l",
+        "Quadratus lumborum muscle.r",
+        "Internal abdominal oblique muscle.l",
+        "Internal abdominal oblique muscle.r"
+      ],
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "sacrum-anterior",
+      "topic": "sacrum",
+      "title": "Sacrum · five fused vertebrae",
+      "pages": [
+        10
+      ],
+      "pins": [
+        {
+          "name": "Sacral promontory",
+          "target": "Sacrum",
+          "text": "Anterosuperior margin of first sacral piece.",
+          "color": "#ff7d9b",
+          "part": "promontory"
+        },
+        {
+          "name": "Sacral ala",
+          "target": "Sacrum",
+          "text": "Ala belong to the first sacral piece.",
+          "color": "#59d9d0",
+          "part": "ala"
+        },
+        {
+          "name": "Anterior sacral foramina",
+          "target": "Sacrum",
+          "text": "Passage for ventral rami of spinal nerves.",
+          "color": "#f1c75b",
+          "part": "anterior-foramina"
+        }
+      ],
+      "focus": [
+        "Sacrum"
+      ],
+      "view": "front",
+      "studyView": true,
+      "parts": true,
+      "caption": "S1–S5 unite by age 30 in the lecture. Inspect the anterior surface, then change to Posterior."
+    },
+    {
+      "id": "sacrum-posterior",
+      "topic": "sacrum",
+      "title": "Sacral crest · canal · hiatus",
+      "pages": [
+        10
+      ],
+      "pins": [
+        {
+          "name": "Median sacral crest",
+          "target": "Sacrum",
+          "text": "Derived from spinous processes.",
+          "color": "#ff7d9b",
+          "part": "crest"
+        },
+        {
+          "name": "Sacral hiatus",
+          "target": "Sacrum",
+          "text": "Canal ends here where laminae do not meet.",
+          "color": "#f1c75b",
+          "part": "hiatus"
+        },
+        {
+          "name": "Posterior sacral foramina",
+          "target": "Sacrum",
+          "text": "Passage for dorsal rami of spinal nerves.",
+          "color": "#59d9d0",
+          "part": "posterior-foramina"
+        }
+      ],
+      "focus": [
+        "Sacrum"
+      ],
+      "view": "back",
+      "studyView": true,
+      "parts": true,
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "sacrum-lateral",
+      "topic": "sacrum",
+      "title": "Auricular surface & sacral tuberosity",
+      "pages": [
+        10
+      ],
+      "pins": [
+        {
+          "name": "Auricular surface",
+          "target": "Sacrum",
+          "text": "Lateral surface associated with the sacroiliac joint.",
+          "color": "#59d9d0",
+          "part": "auricular"
+        },
+        {
+          "name": "Sacral tuberosity",
+          "target": "Sacrum",
+          "text": "Shown with the auricular surface on the lateral aspect.",
+          "color": "#ff7d9b",
+          "part": "tuberosity"
+        }
+      ],
+      "focus": [
+        "Sacrum"
+      ],
+      "view": "lateral",
+      "studyView": true,
+      "parts": true,
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "coccyx",
+      "topic": "sacrum",
+      "title": "Coccyx · four fused pieces & cornua",
+      "pages": [
+        10
+      ],
+      "pins": [
+        {
+          "name": "Coccyx",
+          "target": "Coccyx",
+          "text": "Triangular; Co1–Co4 unite by age 30 in the lecture.",
+          "color": "#76bafb"
+        },
+        {
+          "name": "Coccygeal cornua",
+          "target": "Coccyx",
+          "text": "Superior horns: compare with sacral cornua in the reference.",
+          "color": "#f1c75b",
+          "part": "cornua"
+        }
+      ],
+      "focus": [
+        "Coccyx",
+        "Sacrum"
+      ],
+      "view": "back",
+      "studyView": true,
+      "region": {
+        "target": "Coccyx",
+        "span": 0.13
+      },
+      "parts": true,
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "inspect-atlasc1",
+      "topic": "levels",
+      "title": "Atlas (C1) · isolated original bone",
+      "pages": [
+        4
+      ],
+      "pins": [
+        {
+          "name": "Atlas (C1)",
+          "target": "Atlas (C1)",
+          "text": "Ring-shaped; no body or spine.",
+          "color": "#59d9d0",
+          "part": "anterior-arch"
+        }
+      ],
+      "focus": [
+        "Atlas (C1)"
+      ],
+      "view": "superior",
+      "studyView": true,
+      "parts": true,
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "inspect-axisc2",
+      "topic": "levels",
+      "title": "Axis (C2) · isolated original bone",
+      "pages": [
+        4
+      ],
+      "pins": [
+        {
+          "name": "Axis (C2)",
+          "target": "Axis (C2)",
+          "text": "Dens projects superiorly.",
+          "color": "#59d9d0",
+          "part": "dens"
+        }
+      ],
+      "focus": [
+        "Axis (C2)"
+      ],
+      "view": "superior",
+      "studyView": true,
+      "parts": true,
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "inspect-c3",
+      "topic": "levels",
+      "title": "C3 · isolated original bone",
+      "pages": [
+        4
+      ],
+      "pins": [
+        {
+          "name": "C3",
+          "target": "Vertebra C3",
+          "text": "Small body; transverse foramina.",
+          "color": "#59d9d0",
+          "part": "body"
+        }
+      ],
+      "focus": [
+        "Vertebra C3"
+      ],
+      "view": "superior",
+      "studyView": true,
+      "parts": true,
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "inspect-c4",
+      "topic": "levels",
+      "title": "C4 · isolated original bone",
+      "pages": [
+        4
+      ],
+      "pins": [
+        {
+          "name": "C4",
+          "target": "Vertebra C4",
+          "text": "Small body; transverse foramina.",
+          "color": "#59d9d0",
+          "part": "body"
+        }
+      ],
+      "focus": [
+        "Vertebra C4"
+      ],
+      "view": "superior",
+      "studyView": true,
+      "parts": true,
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "inspect-c5",
+      "topic": "levels",
+      "title": "C5 · isolated original bone",
+      "pages": [
+        4
+      ],
+      "pins": [
+        {
+          "name": "C5",
+          "target": "Vertebra C5",
+          "text": "Small body; transverse foramina.",
+          "color": "#59d9d0",
+          "part": "body"
+        }
+      ],
+      "focus": [
+        "Vertebra C5"
+      ],
+      "view": "superior",
+      "studyView": true,
+      "parts": true,
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "inspect-c6",
+      "topic": "levels",
+      "title": "C6 · isolated original bone",
+      "pages": [
+        4
+      ],
+      "pins": [
+        {
+          "name": "C6",
+          "target": "Vertebra C6",
+          "text": "Small body; transverse foramina.",
+          "color": "#59d9d0",
+          "part": "body"
+        }
+      ],
+      "focus": [
+        "Vertebra C6"
+      ],
+      "view": "superior",
+      "studyView": true,
+      "parts": true,
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "inspect-c7",
+      "topic": "levels",
+      "title": "C7 · isolated original bone",
+      "pages": [
+        4
+      ],
+      "pins": [
+        {
+          "name": "C7",
+          "target": "Vertebra C7",
+          "text": "Small body; transverse foramina.",
+          "color": "#59d9d0",
+          "part": "body"
+        }
+      ],
+      "focus": [
+        "Vertebra C7"
+      ],
+      "view": "superior",
+      "studyView": true,
+      "parts": true,
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "inspect-t1",
+      "topic": "levels",
+      "title": "T1 · isolated original bone",
+      "pages": [
+        7
+      ],
+      "pins": [
+        {
+          "name": "T1",
+          "target": "Vertebra T1",
+          "text": "Heart-shaped body; rib-articulating region.",
+          "color": "#59d9d0",
+          "part": "body"
+        }
+      ],
+      "focus": [
+        "Vertebra T1"
+      ],
+      "view": "superior",
+      "studyView": true,
+      "parts": true,
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "inspect-t2",
+      "topic": "levels",
+      "title": "T2 · isolated original bone",
+      "pages": [
+        7
+      ],
+      "pins": [
+        {
+          "name": "T2",
+          "target": "Vertebra T2",
+          "text": "Heart-shaped body; rib-articulating region.",
+          "color": "#59d9d0",
+          "part": "body"
+        }
+      ],
+      "focus": [
+        "Vertebra T2"
+      ],
+      "view": "superior",
+      "studyView": true,
+      "parts": true,
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "inspect-t3",
+      "topic": "levels",
+      "title": "T3 · isolated original bone",
+      "pages": [
+        7
+      ],
+      "pins": [
+        {
+          "name": "T3",
+          "target": "Vertebra T3",
+          "text": "Heart-shaped body; rib-articulating region.",
+          "color": "#59d9d0",
+          "part": "body"
+        }
+      ],
+      "focus": [
+        "Vertebra T3"
+      ],
+      "view": "superior",
+      "studyView": true,
+      "parts": true,
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "inspect-t4",
+      "topic": "levels",
+      "title": "T4 · isolated original bone",
+      "pages": [
+        7
+      ],
+      "pins": [
+        {
+          "name": "T4",
+          "target": "Vertebra T4",
+          "text": "Heart-shaped body; rib-articulating region.",
+          "color": "#59d9d0",
+          "part": "body"
+        }
+      ],
+      "focus": [
+        "Vertebra T4"
+      ],
+      "view": "superior",
+      "studyView": true,
+      "parts": true,
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "inspect-t5",
+      "topic": "levels",
+      "title": "T5 · isolated original bone",
+      "pages": [
+        7
+      ],
+      "pins": [
+        {
+          "name": "T5",
+          "target": "Vertebra T5",
+          "text": "Heart-shaped body; rib-articulating region.",
+          "color": "#59d9d0",
+          "part": "body"
+        }
+      ],
+      "focus": [
+        "Vertebra T5"
+      ],
+      "view": "superior",
+      "studyView": true,
+      "parts": true,
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "inspect-t6",
+      "topic": "levels",
+      "title": "T6 · isolated original bone",
+      "pages": [
+        7
+      ],
+      "pins": [
+        {
+          "name": "T6",
+          "target": "Vertebra T6",
+          "text": "Heart-shaped body; rib-articulating region.",
+          "color": "#59d9d0",
+          "part": "body"
+        }
+      ],
+      "focus": [
+        "Vertebra T6"
+      ],
+      "view": "superior",
+      "studyView": true,
+      "parts": true,
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "inspect-t7",
+      "topic": "levels",
+      "title": "T7 · isolated original bone",
+      "pages": [
+        7
+      ],
+      "pins": [
+        {
+          "name": "T7",
+          "target": "Vertebra T7",
+          "text": "Heart-shaped body; rib-articulating region.",
+          "color": "#59d9d0",
+          "part": "body"
+        }
+      ],
+      "focus": [
+        "Vertebra T7"
+      ],
+      "view": "superior",
+      "studyView": true,
+      "parts": true,
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "inspect-t8",
+      "topic": "levels",
+      "title": "T8 · isolated original bone",
+      "pages": [
+        7
+      ],
+      "pins": [
+        {
+          "name": "T8",
+          "target": "Vertebra T8",
+          "text": "Heart-shaped body; rib-articulating region.",
+          "color": "#59d9d0",
+          "part": "body"
+        }
+      ],
+      "focus": [
+        "Vertebra T8"
+      ],
+      "view": "superior",
+      "studyView": true,
+      "parts": true,
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "inspect-t9",
+      "topic": "levels",
+      "title": "T9 · isolated original bone",
+      "pages": [
+        7
+      ],
+      "pins": [
+        {
+          "name": "T9",
+          "target": "Vertebra T9",
+          "text": "Heart-shaped body; rib-articulating region.",
+          "color": "#59d9d0",
+          "part": "body"
+        }
+      ],
+      "focus": [
+        "Vertebra T9"
+      ],
+      "view": "superior",
+      "studyView": true,
+      "parts": true,
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "inspect-t10",
+      "topic": "levels",
+      "title": "T10 · isolated original bone",
+      "pages": [
+        7
+      ],
+      "pins": [
+        {
+          "name": "T10",
+          "target": "Vertebra T10",
+          "text": "Heart-shaped body; rib-articulating region.",
+          "color": "#59d9d0",
+          "part": "body"
+        }
+      ],
+      "focus": [
+        "Vertebra T10"
+      ],
+      "view": "superior",
+      "studyView": true,
+      "parts": true,
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "inspect-t11",
+      "topic": "levels",
+      "title": "T11 · isolated original bone",
+      "pages": [
+        7
+      ],
+      "pins": [
+        {
+          "name": "T11",
+          "target": "Vertebra T11",
+          "text": "Heart-shaped body; rib-articulating region.",
+          "color": "#59d9d0",
+          "part": "body"
+        }
+      ],
+      "focus": [
+        "Vertebra T11"
+      ],
+      "view": "superior",
+      "studyView": true,
+      "parts": true,
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "inspect-t12",
+      "topic": "levels",
+      "title": "T12 · isolated original bone",
+      "pages": [
+        7
+      ],
+      "pins": [
+        {
+          "name": "T12",
+          "target": "Vertebra T12",
+          "text": "Heart-shaped body; rib-articulating region.",
+          "color": "#59d9d0",
+          "part": "body"
+        }
+      ],
+      "focus": [
+        "Vertebra T12"
+      ],
+      "view": "superior",
+      "studyView": true,
+      "parts": true,
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "inspect-l1",
+      "topic": "levels",
+      "title": "L1 · isolated original bone",
+      "pages": [
+        7
+      ],
+      "pins": [
+        {
+          "name": "L1",
+          "target": "Vertebra L1",
+          "text": "Large kidney-shaped body; strong posterior processes.",
+          "color": "#59d9d0",
+          "part": "body"
+        }
+      ],
+      "focus": [
+        "Vertebra L1"
+      ],
+      "view": "superior",
+      "studyView": true,
+      "parts": true,
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "inspect-l2",
+      "topic": "levels",
+      "title": "L2 · isolated original bone",
+      "pages": [
+        7
+      ],
+      "pins": [
+        {
+          "name": "L2",
+          "target": "Vertebra L2",
+          "text": "Large kidney-shaped body; strong posterior processes.",
+          "color": "#59d9d0",
+          "part": "body"
+        }
+      ],
+      "focus": [
+        "Vertebra L2"
+      ],
+      "view": "superior",
+      "studyView": true,
+      "parts": true,
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "inspect-l3",
+      "topic": "levels",
+      "title": "L3 · isolated original bone",
+      "pages": [
+        7
+      ],
+      "pins": [
+        {
+          "name": "L3",
+          "target": "Vertebra L3",
+          "text": "Large kidney-shaped body; strong posterior processes.",
+          "color": "#59d9d0",
+          "part": "body"
+        }
+      ],
+      "focus": [
+        "Vertebra L3"
+      ],
+      "view": "superior",
+      "studyView": true,
+      "parts": true,
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "inspect-l4",
+      "topic": "levels",
+      "title": "L4 · isolated original bone",
+      "pages": [
+        7
+      ],
+      "pins": [
+        {
+          "name": "L4",
+          "target": "Vertebra L4",
+          "text": "Large kidney-shaped body; strong posterior processes.",
+          "color": "#59d9d0",
+          "part": "body"
+        }
+      ],
+      "focus": [
+        "Vertebra L4"
+      ],
+      "view": "superior",
+      "studyView": true,
+      "parts": true,
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "inspect-l5",
+      "topic": "levels",
+      "title": "L5 · isolated original bone",
+      "pages": [
+        7
+      ],
+      "pins": [
+        {
+          "name": "L5",
+          "target": "Vertebra L5",
+          "text": "Large kidney-shaped body; strong posterior processes.",
+          "color": "#59d9d0",
+          "part": "body"
+        }
+      ],
+      "focus": [
+        "Vertebra L5"
+      ],
+      "view": "superior",
+      "studyView": true,
+      "parts": true,
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "inspect-sacrum",
+      "topic": "levels",
+      "title": "Sacrum · isolated original bone",
+      "pages": [
+        10
+      ],
+      "pins": [
+        {
+          "name": "Sacrum",
+          "target": "Sacrum",
+          "text": "Five fused sacral vertebrae.",
+          "color": "#59d9d0"
+        }
+      ],
+      "focus": [
+        "Sacrum"
+      ],
+      "view": "front",
+      "studyView": true,
+      "parts": true,
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    },
+    {
+      "id": "inspect-coccyx",
+      "topic": "levels",
+      "title": "Coccyx · isolated original bone",
+      "pages": [
+        10
+      ],
+      "pins": [
+        {
+          "name": "Coccyx",
+          "target": "Coccyx",
+          "text": "Usually four fused coccygeal vertebrae.",
+          "color": "#59d9d0"
+        }
+      ],
+      "focus": [
+        "Coccyx"
+      ],
+      "view": "front",
+      "studyView": true,
+      "parts": true,
+      "caption": "Select a colored number to isolate its structure. Rotate to inspect the same anatomy from another angle."
+    }
+  ],
+  "modelPaths": {
+    "skeletal": "/lectures/vertebra/models/skeletal.glb",
+    "articular": "/lectures/vertebra/models/articular.glb",
+    "muscular": "/lectures/vertebra/models/muscular.glb",
+    "nervous": "/lectures/vertebra/models/nervous.glb",
+    "cardiovascular": "/lectures/vertebra/models/cardiovascular.glb"
+  },
+  "systems": [
+    "skeletal",
+    "articular",
+    "muscular",
+    "nervous",
+    "cardiovascular"
+  ],
+  "column": [
+    "Atlas (C1)",
+    "Axis (C2)",
+    "Vertebra C3",
+    "Vertebra C4",
+    "Vertebra C5",
+    "Vertebra C6",
+    "Vertebra C7",
+    "Vertebra T1",
+    "Vertebra T2",
+    "Vertebra T3",
+    "Vertebra T4",
+    "Vertebra T5",
+    "Vertebra T6",
+    "Vertebra T7",
+    "Vertebra T8",
+    "Vertebra T9",
+    "Vertebra T10",
+    "Vertebra T11",
+    "Vertebra T12",
+    "Vertebra L1",
+    "Vertebra L2",
+    "Vertebra L3",
+    "Vertebra L4",
+    "Vertebra L5",
+    "Sacrum",
+    "Coccyx"
+  ],
+  "vertebraCatalog": [
+    {
+      "name": "Atlas (C1)",
+      "target": "Atlas (C1)",
+      "region": "Cervical",
+      "color": "#59d9d0"
+    },
+    {
+      "name": "Axis (C2)",
+      "target": "Axis (C2)",
+      "region": "Cervical",
+      "color": "#59d9d0"
+    },
+    {
+      "name": "C3",
+      "target": "Vertebra C3",
+      "region": "Cervical",
+      "color": "#59d9d0"
+    },
+    {
+      "name": "C4",
+      "target": "Vertebra C4",
+      "region": "Cervical",
+      "color": "#59d9d0"
+    },
+    {
+      "name": "C5",
+      "target": "Vertebra C5",
+      "region": "Cervical",
+      "color": "#59d9d0"
+    },
+    {
+      "name": "C6",
+      "target": "Vertebra C6",
+      "region": "Cervical",
+      "color": "#59d9d0"
+    },
+    {
+      "name": "C7",
+      "target": "Vertebra C7",
+      "region": "Cervical",
+      "color": "#59d9d0"
+    },
+    {
+      "name": "T1",
+      "target": "Vertebra T1",
+      "region": "Thoracic",
+      "color": "#ff7d9b"
+    },
+    {
+      "name": "T2",
+      "target": "Vertebra T2",
+      "region": "Thoracic",
+      "color": "#ff7d9b"
+    },
+    {
+      "name": "T3",
+      "target": "Vertebra T3",
+      "region": "Thoracic",
+      "color": "#ff7d9b"
+    },
+    {
+      "name": "T4",
+      "target": "Vertebra T4",
+      "region": "Thoracic",
+      "color": "#ff7d9b"
+    },
+    {
+      "name": "T5",
+      "target": "Vertebra T5",
+      "region": "Thoracic",
+      "color": "#ff7d9b"
+    },
+    {
+      "name": "T6",
+      "target": "Vertebra T6",
+      "region": "Thoracic",
+      "color": "#ff7d9b"
+    },
+    {
+      "name": "T7",
+      "target": "Vertebra T7",
+      "region": "Thoracic",
+      "color": "#ff7d9b"
+    },
+    {
+      "name": "T8",
+      "target": "Vertebra T8",
+      "region": "Thoracic",
+      "color": "#ff7d9b"
+    },
+    {
+      "name": "T9",
+      "target": "Vertebra T9",
+      "region": "Thoracic",
+      "color": "#ff7d9b"
+    },
+    {
+      "name": "T10",
+      "target": "Vertebra T10",
+      "region": "Thoracic",
+      "color": "#ff7d9b"
+    },
+    {
+      "name": "T11",
+      "target": "Vertebra T11",
+      "region": "Thoracic",
+      "color": "#ff7d9b"
+    },
+    {
+      "name": "T12",
+      "target": "Vertebra T12",
+      "region": "Thoracic",
+      "color": "#ff7d9b"
+    },
+    {
+      "name": "L1",
+      "target": "Vertebra L1",
+      "region": "Lumbar",
+      "color": "#f1c75b"
+    },
+    {
+      "name": "L2",
+      "target": "Vertebra L2",
+      "region": "Lumbar",
+      "color": "#f1c75b"
+    },
+    {
+      "name": "L3",
+      "target": "Vertebra L3",
+      "region": "Lumbar",
+      "color": "#f1c75b"
+    },
+    {
+      "name": "L4",
+      "target": "Vertebra L4",
+      "region": "Lumbar",
+      "color": "#f1c75b"
+    },
+    {
+      "name": "L5",
+      "target": "Vertebra L5",
+      "region": "Lumbar",
+      "color": "#f1c75b"
+    },
+    {
+      "name": "Sacrum",
+      "target": "Sacrum",
+      "region": "Sacral",
+      "color": "#aa9df1"
+    },
+    {
+      "name": "Coccyx",
+      "target": "Coccyx",
+      "region": "Coccygeal",
+      "color": "#76bafb"
+    }
+  ],
+  "quizLayers": [
+    "bones"
+  ],
+  "quizTargets": [
+    "Atlas (C1)",
+    "Axis (C2)",
+    "Vertebra C3",
+    "Vertebra C4",
+    "Vertebra C5",
+    "Vertebra C6",
+    "Vertebra C7",
+    "Vertebra T1",
+    "Vertebra T2",
+    "Vertebra T3",
+    "Vertebra T4",
+    "Vertebra T5",
+    "Vertebra T6",
+    "Vertebra T7",
+    "Vertebra T8",
+    "Vertebra T9",
+    "Vertebra T10",
+    "Vertebra T11",
+    "Vertebra T12",
+    "Vertebra L1",
+    "Vertebra L2",
+    "Vertebra L3",
+    "Vertebra L4",
+    "Vertebra L5",
+    "Sacrum",
+    "Coccyx"
+  ],
+  "functionalQuiz": [
+    {
+      "target": "Atlas (C1)",
+      "prompt": "Click the vertebra with no body or spinous process.",
+      "explanation": "Atlas C1 is a ring formed by anterior and posterior arches."
+    },
+    {
+      "target": "Axis (C2)",
+      "prompt": "Click the vertebra carrying the dens.",
+      "explanation": "Axis C2 provides the pivot for atlanto-axial rotation."
+    },
+    {
+      "target": "Vertebra C7",
+      "prompt": "Click vertebra prominens.",
+      "explanation": "C7 has the long prominent spinous process."
+    },
+    {
+      "target": "Sacrum",
+      "prompt": "Click the bone formed by five fused vertebrae.",
+      "explanation": "Sacrum is S1–S5 fused, a foundation for the pelvic girdle."
+    }
+  ],
+  "targetNames": {
+    "Scalenus posterior muscle.r": "Scalenus posterior muscle · right",
+    "Longissimus capitis muscle.l": "Longissimus capitis muscle · left",
+    "Intervertebral disc T12-L1": "Intervertebral disc T12-L1",
+    "Semispinalis thoracis muscle.r": "Semispinalis thoracis muscle · right",
+    "Vertebra L2": "Vertebra L2",
+    "Scalenus medius muscle.l": "Scalenus medius muscle · left",
+    "Twelfth rib.r": "Twelfth rib · right",
+    "Fifth metacarpal bone.r": "Fifth metacarpal bone · right",
+    "Vertebra L5": "Vertebra L5",
+    "Sixth rib.l": "Sixth rib · left",
+    "Splenius capitis muscle.l": "Splenius capitis muscle · left",
+    "Distal phalanx of fifth finger of foot.r": "Distal phalanx of fifth finger of foot · right",
+    "Intervertebral disc C4-C5": "Intervertebral disc C4-C5",
+    "Rectus abdominis muscle.r": "Rectus abdominis muscle · right",
+    "Rectus posterior minor capitis muscle.r": "Rectus capitis posterior minor · right",
+    "(Abdominal part of pectoralis major muscle).r": "(Abdominal part of pectoralis major muscle) · right",
+    "Latissimus dorsi muscle.r": "Latissimus dorsi muscle · right",
+    "Splenius capitis muscle.r": "Splenius capitis muscle · right",
+    "External abdominal oblique muscle.r": "External abdominal oblique muscle · right",
+    "Middle phalanx of second finger of hand.r": "Middle phalanx of second finger of hand · right",
+    "Temporal bone.r": "Temporal bone · right",
+    "Sternohyoid muscle.l": "Sternohyoid muscle · left",
+    "Third rib.r": "Third rib · right",
+    "Extensor carpi radialis brevis.r": "Extensor carpi radialis brevis · right",
+    "Iliocostalis lumborum muscle.l": "Iliocostalis lumborum muscle · left",
+    "Serratus posterior inferior muscle.l": "Serratus posterior inferior muscle · left",
+    "Anterior longitudinal ligament": "Anterior longitudinal ligament",
+    "Intervertebral disc T3-T4": "Intervertebral disc T3-T4",
+    "Intervertebral disc T10-T11": "Intervertebral disc T10-T11",
+    "Rhomboid major muscle.r": "Rhomboid major muscle · right",
+    "Vertebra T4": "Vertebra T4",
+    "Rhomboid major muscle.l": "Rhomboid major muscle · left",
+    "Fifth rib.r": "Fifth rib · right",
+    "Intervertebral disc T4-T5": "Intervertebral disc T4-T5",
+    "Sternocleidomastoid muscle.r": "Sternocleidomastoid muscle · right",
+    "Supraspinous ligament": "Supraspinous ligament",
+    "Rotatores.l": "Rotatores · left",
+    "Omohyoid muscle.l": "Omohyoid muscle · left",
+    "Sacrum": "Sacrum",
+    "Eleventh rib.l": "Eleventh rib · left",
+    "Distal phalanx of fourth finger of hand.r": "Distal phalanx of fourth finger of hand · right",
+    "Sternocleidomastoid muscle.l": "Sternocleidomastoid muscle · left",
+    "Clavicular head of pectoralis major muscle.r": "Clavicular head of pectoralis major muscle · right",
+    "Eighth rib.r": "Eighth rib · right",
+    "Scalenus medius muscle.r": "Scalenus medius muscle · right",
+    "Transverse part of trapezius muscle.l": "Transverse part of trapezius muscle · left",
+    "Costal cartilage of sixth rib.l": "Costal cartilage of sixth rib · left",
+    "Radius.r": "Radius · right",
+    "Vertebra T5": "Vertebra T5",
+    "Levatores breves costarum.l": "Levatores breves costarum · left",
+    "Vertebra T9": "Vertebra T9",
+    "Costal cartilage of ninth rib.r": "Costal cartilage of ninth rib · right",
+    "Obliquus superior capitis muscle.r": "Obliquus capitis superior · right",
+    "Vertebra T2": "Vertebra T2",
+    "Vertebra T12": "Vertebra T12",
+    "Longus colli muscle.r": "Longus colli muscle · right",
+    "Middle phalanx of fifth finger of foot.r": "Middle phalanx of fifth finger of foot · right",
+    "Proximal phalanx of second finger of foot.r": "Proximal phalanx of second finger of foot · right",
+    "Ulna.r": "Ulna · right",
+    "Short head of biceps brachii.r": "Short head of biceps brachii · right",
+    "Posterior longitudinal ligament": "Posterior longitudinal ligament",
+    "Third metacarpal bone.r": "Third metacarpal bone · right",
+    "Second rib.l": "Second rib · left",
+    "Longus capitis muscle.l": "Longus capitis muscle · left",
+    "Scaphoid bone.r": "Scaphoid bone · right",
+    "Proximal phalanx of third finger of foot.r": "Proximal phalanx of third finger of foot · right",
+    "Second metacarpal bone.r": "Second metacarpal bone · right",
+    "Rectus lateralis capitis muscle.r": "Rectus capitis lateralis · right",
+    "Ventral parts of lateral intertransversarii lumborum muscles.r": "Ventral parts of lateral intertransversarii lumborum muscles · right",
+    "Abductor pollicis longus.r": "Abductor pollicis longus · right",
+    "Ninth rib.l": "Ninth rib · left",
+    "Proximal phalanx of fifth finger of hand.r": "Proximal phalanx of fifth finger of hand · right",
+    "Vertebra T8": "Vertebra T8",
+    "Costal cartilage of third rib.r": "Costal cartilage of third rib · right",
+    "Semispinalis colli muscle.l": "Semispinalis cervicis · left",
+    "Spinalis thoracis muscle.r": "Spinalis thoracis muscle · right",
+    "Levatores longi costarum.l": "Levatores longi costarum · left",
+    "Axis (C2)": "Axis (C2)",
+    "Anterior root of spinal nerve.r": "Ventral spinal roots · right",
+    "Levatores breves costarum.r": "Levatores breves costarum · right",
+    "Multifidus thoracis muscle.r": "Multifidus thoracis muscle · right",
+    "Distal phalanx of first finger of foot.r": "Distal phalanx of first finger of foot · right",
+    "Seventh rib.l": "Seventh rib · left",
+    "Iliocostalis colli muscle.r": "Iliocostalis cervicis · right",
+    "Eleventh rib.r": "Eleventh rib · right",
+    "Interspinales lumborum muscles.l": "Interspinales lumborum muscles · left",
+    "First rib.l": "First rib · left",
+    "Vertebra T1": "Vertebra T1",
+    "Intervertebral disc T7-T8": "Intervertebral disc T7-T8",
+    "Medial head of triceps brachii.r": "Medial head of triceps brachii · right",
+    "Costal cartilage of fifth rib.r": "Costal cartilage of fifth rib · right",
+    "Capitate bone.r": "Capitate bone · right",
+    "Interspinales colli muscles.l": "Interspinales colli muscles · left",
+    "Clavicle.r": "Clavicle · right",
+    "Distal phalanx of fifth finger of hand.r": "Distal phalanx of fifth finger of hand · right",
+    "Scapula.l": "Scapula · left",
+    "Costal cartilage of second rib.l": "Costal cartilage of second rib · left",
+    "Rectus anterior capitis muscle.l": "Rectus capitis anterior · left",
+    "Rectus lateralis capitis muscle.l": "Rectus capitis lateralis · left",
+    "Posterior inferior cerebellar artery.l": "Posterior inferior cerebellar artery · left",
+    "Extensor digitorum.r": "Extensor digitorum · right",
+    "Distal phalanx of third finger of foot.r": "Distal phalanx of third finger of foot · right",
+    "Multifidus thoracis muscle.l": "Multifidus thoracis muscle · left",
+    "Interspinales thoracis muscles.r": "Interspinales thoracis muscles · right",
+    "Costal cartilage of seventh rib.r": "Costal cartilage of seventh rib · right",
+    "Intervertebral disc L4-L5": "Intervertebral disc L4-L5",
+    "Multifidus colli muscle.l": "Multifidus colli muscle · left",
+    "Long head of triceps brachii.r": "Long head of triceps brachii · right",
+    "Anterior horn of spinal cord": "Anterior horn of spinal cord",
+    "Ligamenta flava": "Ligamenta flava",
+    "Ascending part of trapezius muscle.r": "Ascending part of trapezius muscle · right",
+    "Ventral parts of lateral intertransversarii lumborum muscles.l": "Ventral parts of lateral intertransversarii lumborum muscles · left",
+    "Intervertebral disc L2-L3": "Intervertebral disc L2-L3",
+    "Ninth rib.r": "Ninth rib · right",
+    "Proximal phalanx of fourth finger of foot.r": "Proximal phalanx of fourth finger of foot · right",
+    "Costal cartilage of eighth rib.r": "Costal cartilage of eighth rib · right",
+    "Brachialis muscle.r": "Brachialis muscle · right",
+    "Rectus abdominis muscle.l": "Rectus abdominis muscle · left",
+    "Middle phalanx of fourth finger of foot.r": "Middle phalanx of fourth finger of foot · right",
+    "Spinalis thoracis muscle.l": "Spinalis thoracis muscle · left",
+    "Costal cartilage of tenth rib.l": "Costal cartilage of tenth rib · left",
+    "Interspinales lumborum muscles.r": "Interspinales lumborum muscles · right",
+    "Proximal phalanx of third finger of hand.r": "Proximal phalanx of third finger of hand · right",
+    "Multifidus lumborum muscle.r": "Multifidus lumborum muscle · right",
+    "Anterior spinal artery.r": "Anterior spinal artery · right",
+    "Splenius colli muscle.l": "Splenius cervicis · left",
+    "Vertebra C5": "Vertebra C5",
+    "Spinalis capitis muscle.r": "Spinalis capitis muscle · right",
+    "Omohyoid muscle.r": "Omohyoid muscle · right",
+    "Intervertebral disc T2-T3": "Intervertebral disc T2-T3",
+    "Rhomboid minor muscle.l": "Rhomboid minor muscle · left",
+    "Opponens pollicis muscle.r": "Opponens pollicis muscle · right",
+    "Twelfth rib.l": "Twelfth rib · left",
+    "Posterior horn of spinal cord": "Posterior horn of spinal cord",
+    "Costal cartilage of first rib.r": "Costal cartilage of first rib · right",
+    "Spinal ganglion.r": "Dorsal root ganglia · right",
+    "Temporal bone.l": "Temporal bone · left",
+    "Semispinalis colli muscle.r": "Semispinalis cervicis · right",
+    "Intervertebral disc T5-T6": "Intervertebral disc T5-T6",
+    "Longissimus colli muscle.r": "Longissimus cervicis · right",
+    "Internal abdominal oblique muscle.r": "Internal abdominal oblique muscle · right",
+    "Intervertebral disc C3-C4": "Intervertebral disc C3-C4",
+    "Middle phalanx of third finger of hand.r": "Middle phalanx of third finger of hand · right",
+    "Middle phalanx of second finger of foot.r": "Middle phalanx of second finger of foot · right",
+    "Abductor pollicis brevis.r": "Abductor pollicis brevis · right",
+    "Body of sternum": "Body of sternum",
+    "Medulla oblongata.r": "Medulla oblongata · right",
+    "Sternocostal head of pectoralis major muscle.r": "Sternocostal head of pectoralis major muscle · right",
+    "Xiphoid process": "Xiphoid process",
+    "Hamate bone.r": "Hamate bone · right",
+    "Multifidus lumborum muscle.l": "Multifidus lumborum muscle · left",
+    "Costal cartilage of second rib.r": "Costal cartilage of second rib · right",
+    "Palmar interossei muscles.r": "Palmar interossei muscles · right",
+    "Descending part of trapezius muscle.r": "Descending part of trapezius muscle · right",
+    "Posterior root of spinal nerve.r": "Dorsal spinal roots · right",
+    "Clavicular part of deltoid muscle.r": "Clavicular part of deltoid muscle · right",
+    "Hip bone.r": "Hip bone · right",
+    "Intervertebral disc L5-S1": "Intervertebral disc L5-S1",
+    "Dorsal parts of lateral intertransversarii lumborum muscles.r": "Dorsal parts of lateral intertransversarii lumborum muscles · right",
+    "Costal cartilage of first rib.l": "Costal cartilage of first rib · left",
+    "Vertebra C7": "Vertebra C7",
+    "Triquetrum bone.r": "Triquetrum bone · right",
+    "Costal cartilage of eighth rib.l": "Costal cartilage of eighth rib · left",
+    "Radial head of flexor digitorum superficialis.r": "Radial head of flexor digitorum superficialis · right",
+    "Longissimus capitis muscle.r": "Longissimus capitis muscle · right",
+    "Middle phalanx of fifth finger of hand.r": "Middle phalanx of fifth finger of hand · right",
+    "Proximal phalanx of fourth finger of hand.r": "Proximal phalanx of fourth finger of hand · right",
+    "Vertebra L1": "Vertebra L1",
+    "Intervertebral disc T1-T2": "Intervertebral disc T1-T2",
+    "Fourth rib.r": "Fourth rib · right",
+    "Scapula.r": "Scapula · right",
+    "Anterior spinal artery.l": "Anterior spinal artery · left",
+    "Multifidus colli muscle.r": "Multifidus colli muscle · right",
+    "Intervertebral disc T11-T12": "Intervertebral disc T11-T12",
+    "Distal phalanx of second finger of foot.r": "Distal phalanx of second finger of foot · right",
+    "Vertebra T3": "Vertebra T3",
+    "Intra-articular ligament of head of rib.r": "Intra-articular ligament of head of rib · right",
+    "White matter of spinal cord": "Spinal cord",
+    "Dorsal parts of lateral intertransversarii lumborum muscles.l": "Dorsal parts of lateral intertransversarii lumborum muscles · left",
+    "Spinalis colli muscle.l": "Spinalis colli muscle · left",
+    "Ulnar head of extensor carpi ulnaris.r": "Ulnar head of extensor carpi ulnaris · right",
+    "Spinalis colli muscle.r": "Spinalis colli muscle · right",
+    "First rib.r": "First rib · right",
+    "Longissimus thoracis muscle.l": "Longissimus thoracis muscle · left",
+    "Rectus anterior capitis muscle.r": "Rectus capitis anterior · right",
+    "First metacarpal bone.r": "First metacarpal bone · right",
+    "Fourth rib.l": "Fourth rib · left",
+    "Spinal dura": "Dura mater",
+    "Proximal phalanx of first finger of foot.r": "Proximal phalanx of first finger of foot · right",
+    "Medulla oblongata.l": "Medulla oblongata · left",
+    "Vertebra T11": "Vertebra T11",
+    "Scalenus anterior muscle.l": "Scalenus anterior muscle · left",
+    "Psoas major.l": "Psoas major · left",
+    "Vertebra T6": "Vertebra T6",
+    "Intervertebral disc L1-L2": "Intervertebral disc L1-L2",
+    "Proximal phalanx of fifth finger of foot.r": "Proximal phalanx of fifth finger of foot · right",
+    "Vertebral artery.r": "Vertebral artery · right",
+    "Anterior root of spinal nerve.l": "Ventral spinal roots · left",
+    "Spinalis capitis muscle.l": "Spinalis capitis muscle · left",
+    "Rotatores.r": "Rotatores · right",
+    "Dorsal interossei muscles of hand.r": "Dorsal interossei muscles of hand · right",
+    "Costal cartilage of tenth rib.r": "Costal cartilage of tenth rib · right",
+    "Vertebral artery.l": "Vertebral artery · left",
+    "Fifth rib.l": "Fifth rib · left",
+    "Iliocostalis thoracis muscle.l": "Iliocostalis thoracis muscle · left",
+    "Third rib.l": "Third rib · left",
+    "Extensor carpi radialis longus.r": "Extensor carpi radialis longus · right",
+    "Distal phalanx of fourth finger of foot.r": "Distal phalanx of fourth finger of foot · right",
+    "Intertransverse ligaments.l": "Intertransverse ligaments · left",
+    "Radiate ligament of head of rib.l": "Radiate ligament of head of rib · left",
+    "Tenth rib.r": "Tenth rib · right",
+    "Vertebra C4": "Vertebra C4",
+    "Obliquus inferior capitis muscle.l": "Obliquus capitis inferior · left",
+    "Rectus posterior minor capitis muscle.l": "Rectus capitis posterior minor · left",
+    "Vertebra C6": "Vertebra C6",
+    "Second rib.r": "Second rib · right",
+    "Proximal phalanx of first finger of hand.r": "Proximal phalanx of first finger of hand · right",
+    "Costal cartilage of fourth rib.r": "Costal cartilage of fourth rib · right",
+    "Posterior inferior cerebellar artery.r": "Posterior inferior cerebellar artery · right",
+    "Seventh rib.r": "Seventh rib · right",
+    "Clavicle.l": "Clavicle · left",
+    "Radiate ligament of head of rib.r": "Radiate ligament of head of rib · right",
+    "Serratus posterior inferior muscle.r": "Serratus posterior inferior muscle · right",
+    "Distal phalanx of third finger of hand.r": "Distal phalanx of third finger of hand · right",
+    "Iliocostalis colli muscle": "Iliocostalis cervicis",
+    "Vertebra C3": "Vertebra C3",
+    "Iliocostalis lumborum muscle.r": "Iliocostalis lumborum muscle · right",
+    "Quadratus lumborum muscle.l": "Quadratus lumborum muscle · left",
+    "Humero-ulnar head of flexor digitorum superficialis.r": "Humero-ulnar head of flexor digitorum superficialis · right",
+    "Rhomboid minor muscle.r": "Rhomboid minor muscle · right",
+    "Nuchal ligament": "Nuchal ligament",
+    "Hip bone.l": "Hip bone · left",
+    "Intervertebral disc C6-C7": "Intervertebral disc C6-C7",
+    "Humeral head of extensor carpi ulnaris.r": "Humeral head of extensor carpi ulnaris · right",
+    "Abductor digiti minimi of hand.r": "Abductor digiti minimi of hand · right",
+    "Descending part of trapezius muscle.l": "Descending part of trapezius muscle · left",
+    "Semispinalis thoracis muscle.l": "Semispinalis thoracis muscle · left",
+    "Acromial part of deltoid muscle.r": "Acromial part of deltoid muscle · right",
+    "Serratus posterior superior muscle.r": "Serratus posterior superior muscle · right",
+    "Posterior root of spinal nerve.l": "Dorsal spinal roots · left",
+    "Pisiform bone.r": "Pisiform bone · right",
+    "Vertebra T7": "Vertebra T7",
+    "Sternohyoid muscle.r": "Sternohyoid muscle · right",
+    "Tenth rib.l": "Tenth rib · left",
+    "Intervertebral disc C7-T1": "Intervertebral disc C7-T1",
+    "Longus capitis muscle.r": "Longus capitis muscle · right",
+    "Iliocostalis thoracis muscle.r": "Iliocostalis thoracis muscle · right",
+    "Flexor carpi radialis.r": "Flexor carpi radialis · right",
+    "Psoas major.r": "Psoas major · right",
+    "Trapezium bone.r": "Trapezium bone · right",
+    "Intervertebral disc C2-C3": "Intervertebral disc C2-C3",
+    "Rectus posterior major capitis muscle.l": "Rectus capitis posterior major · left",
+    "Interspinales colli muscles.r": "Interspinales colli muscles · right",
+    "Proximal phalanx of second finger of hand.r": "Proximal phalanx of second finger of hand · right",
+    "Manubrium of sternum": "Manubrium of sternum",
+    "Levatores longi costarum.r": "Levatores longi costarum · right",
+    "Eighth rib.l": "Eighth rib · left",
+    "Scalenus posterior muscle.l": "Scalenus posterior muscle · left",
+    "Sternothyroid muscle.l": "Sternothyroid muscle · left",
+    "Trapezoid bone.r": "Trapezoid bone · right",
+    "Longissimus thoracis muscle.r": "Longissimus thoracis muscle · right",
+    "Scalenus anterior muscle.r": "Scalenus anterior muscle · right",
+    "Costal cartilage of ninth rib.l": "Costal cartilage of ninth rib · left",
+    "Costal cartilage of fifth rib.l": "Costal cartilage of fifth rib · left",
+    "Atlas (C1)": "Atlas (C1)",
+    "Interspinales thoracis muscles.l": "Interspinales thoracis muscles · left",
+    "External abdominal oblique muscle.l": "External abdominal oblique muscle · left",
+    "Spinal ganglion.l": "Dorsal root ganglia · left",
+    "Obliquus inferior capitis muscle.r": "Obliquus capitis inferior · right",
+    "Costal cartilage of fourth rib.l": "Costal cartilage of fourth rib · left",
+    "Left subclavian artery": "Left subclavian artery",
+    "Lateral head of triceps brachii.r": "Lateral head of triceps brachii · right",
+    "Levator scapulae.r": "Levator scapulae · right",
+    "Quadratus lumborum muscle.r": "Quadratus lumborum muscle · right",
+    "Flexor digitorum profundus.r": "Flexor digitorum profundus · right",
+    "Middle phalanx of third finger of foot.r": "Middle phalanx of third finger of foot · right",
+    "Vertebra T10": "Vertebra T10",
+    "Scapular spinal part of deltoid muscle.r": "Scapular spinal part of deltoid muscle · right",
+    "Hypoglossal nerve (XII).r": "Hypoglossal nerve (XII) · right",
+    "Right subclavian artery": "Right subclavian artery",
+    "Middle phalanx of fourth finger of hand.r": "Middle phalanx of fourth finger of hand · right",
+    "Costal cartilage of third rib.l": "Costal cartilage of third rib · left",
+    "Humeral head of flexor carpi ulnaris.r": "Humeral head of flexor carpi ulnaris · right",
+    "Costal cartilage of sixth rib.r": "Costal cartilage of sixth rib · right",
+    "Vertebra L3": "Vertebra L3",
+    "Lunate bone.r": "Lunate bone · right",
+    "Levator scapulae.l": "Levator scapulae · left",
+    "Intertransverse ligaments.r": "Intertransverse ligaments · right",
+    "Fourth metacarpal bone.r": "Fourth metacarpal bone · right",
+    "Intervertebral disc T8-T9": "Intervertebral disc T8-T9",
+    "Sixth rib.r": "Sixth rib · right",
+    "Sternothyroid muscle.r": "Sternothyroid muscle · right",
+    "Intervertebral disc C5-C6": "Intervertebral disc C5-C6",
+    "Rectus posterior major capitis muscle.r": "Rectus capitis posterior major · right",
+    "Interspinous ligaments": "Interspinous ligaments",
+    "Humerus.r": "Humerus · right",
+    "Internal abdominal oblique muscle.l": "Internal abdominal oblique muscle · left",
+    "Longus colli muscle.l": "Longus colli muscle · left",
+    "Obliquus superior capitis muscle.l": "Obliquus capitis superior · left",
+    "Long head of biceps brachii.r": "Long head of biceps brachii · right",
+    "Intervertebral disc T6-T7": "Intervertebral disc T6-T7",
+    "Ulnar head of flexor carpi ulnaris.r": "Ulnar head of flexor carpi ulnaris · right",
+    "Latissimus dorsi muscle.l": "Latissimus dorsi muscle · left",
+    "Ascending part of trapezius muscle.l": "Ascending part of trapezius muscle · left",
+    "Intervertebral disc T9-T10": "Intervertebral disc T9-T10",
+    "Intervertebral disc L3-L4": "Intervertebral disc L3-L4",
+    "Coccyx": "Coccyx",
+    "Distal phalanx of second finger of hand.r": "Distal phalanx of second finger of hand · right",
+    "Costal cartilage of seventh rib.l": "Costal cartilage of seventh rib · left",
+    "Occipital bone": "Occipital bone",
+    "Transverse part of trapezius muscle.r": "Transverse part of trapezius muscle · right",
+    "Supraspinatus muscle.r": "Supraspinatus muscle · right",
+    "Vertebra L4": "Vertebra L4",
+    "Distal phalanx of first finger of hand.r": "Distal phalanx of first finger of hand · right",
+    "Splenius colli muscle.r": "Splenius cervicis · right",
+    "Longissimus colli muscle.l": "Longissimus cervicis · left",
+    "Basilar artery": "Basilar artery",
+    "Serratus posterior superior muscle.l": "Serratus posterior superior muscle · left"
+  },
+  "muscleProfiles": [],
+  "studyTables": [],
+  "sourceFigures": {
+    "curves": {
+      "page": 2,
+      "src": "/lectures/l12/figures/curves.jpg",
+      "caption": "Development of the normal spinal curves"
+    },
+    "abnormal": {
+      "page": 2,
+      "src": "/lectures/l12/figures/abnormal.jpg",
+      "caption": "Kyphosis, lordosis and scoliosis"
+    },
+    "typical": {
+      "page": 3,
+      "src": "/lectures/l12/figures/typical.jpg",
+      "caption": "Neighboring vertebral notches and the intervertebral foramen"
+    },
+    "atlas": {
+      "page": 4,
+      "src": "/lectures/l12/figures/atlas.jpg",
+      "caption": "Atlas superior-view landmarks"
+    },
+    "ao": {
+      "page": 5,
+      "src": "/lectures/l12/figures/ao.jpg",
+      "caption": "Atlanto-occipital joint and membranes"
+    },
+    "aa": {
+      "page": 6,
+      "src": "/lectures/l12/figures/aa.jpg",
+      "caption": "Apical, alar, cruciate and tectorial relations"
+    },
+    "disc": {
+      "page": 3,
+      "src": "/lectures/l12/figures/disc.jpg",
+      "caption": "Original disc cross-section: annulus and nucleus"
+    },
+    "lumbar-disc": {
+      "page": 8,
+      "src": "/lectures/l12/figures/lumbar-disc.jpg",
+      "caption": "Lumbar disc section and posterolateral herniation"
+    },
+    "arch-ligaments": {
+      "page": 9,
+      "src": "/lectures/l12/figures/arch-ligaments.jpg",
+      "caption": "Ligaments between the vertebral arches"
+    }
+  },
+  "coverage": [
+    {
+      "page": 1,
+      "scenes": [
+        "column-map",
+        "column-role",
+        "column-length"
+      ]
+    },
+    {
+      "page": 2,
+      "scenes": [
+        "curves",
+        "sacral-curve",
+        "curve-function",
+        "abnormal-curves"
+      ]
+    },
+    {
+      "page": 3,
+      "scenes": [
+        "typical-body",
+        "typical-processes",
+        "typical-canal",
+        "intervertebral-foramen",
+        "disc-location",
+        "disc-content"
+      ]
+    },
+    {
+      "page": 4,
+      "scenes": [
+        "cervical-shape",
+        "cervical-transverse",
+        "cervical-muscle-relation",
+        "carotid-tubercle",
+        "cervical-spines",
+        "atlas-ring",
+        "atlas-width",
+        "inspect-atlasc1",
+        "inspect-axisc2",
+        "inspect-c3",
+        "inspect-c4",
+        "inspect-c5",
+        "inspect-c6",
+        "inspect-c7"
+      ]
+    },
+    {
+      "page": 5,
+      "scenes": [
+        "axis-dens",
+        "yes-joint",
+        "ao-membranes"
+      ]
+    },
+    {
+      "page": 6,
+      "scenes": [
+        "no-joint",
+        "dens-ligaments",
+        "cruciate",
+        "tectoria"
+      ]
+    },
+    {
+      "page": 7,
+      "scenes": [
+        "thoracic-shape",
+        "thoracic-rib",
+        "lumbar-shape",
+        "lumbar-facets",
+        "inferior-facet-directions",
+        "compare-shapes",
+        "inspect-t1",
+        "inspect-t2",
+        "inspect-t3",
+        "inspect-t4",
+        "inspect-t5",
+        "inspect-t6",
+        "inspect-t7",
+        "inspect-t8",
+        "inspect-t9",
+        "inspect-t10",
+        "inspect-t11",
+        "inspect-t12",
+        "inspect-l1",
+        "inspect-l2",
+        "inspect-l3",
+        "inspect-l4",
+        "inspect-l5"
+      ]
+    },
+    {
+      "page": 8,
+      "scenes": [
+        "body-joints",
+        "lumbar-disc",
+        "herniation"
+      ]
+    },
+    {
+      "page": 9,
+      "scenes": [
+        "facet-joint",
+        "supraspinous",
+        "interspinous",
+        "intertransverse",
+        "flavum",
+        "facet-orientation",
+        "lumbar-flexion",
+        "lumbar-extension",
+        "lumbar-rotation",
+        "lumbar-lateral-flexion"
+      ]
+    },
+    {
+      "page": 10,
+      "scenes": [
+        "sacrum-anterior",
+        "sacrum-posterior",
+        "sacrum-lateral",
+        "coccyx",
+        "inspect-sacrum",
+        "inspect-coccyx"
+      ]
+    }
+  ]
+}
